@@ -22,6 +22,5 @@ Please send questions, comments, suggestions or rants to alessandro@tanasi.it (`
 Contents
 ########
 
-.. contents::
-
+.. contents:: Table of Contents
 .. section-numbering::
