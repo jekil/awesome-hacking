@@ -34,4 +34,4 @@ Social Engineering
 Phishing
 --------
 
-* `whatsapp-phishing <https://github.com/Mawalu/whatsapp-phishing>`_: proof of principle code for running a phishing attack against the official Whatsapp Web client.
+* `Whatsapp-phishing <https://github.com/Mawalu/whatsapp-phishing>`_ -  Proof of principle code for running a phishing attack against the official Whatsapp Web client.
