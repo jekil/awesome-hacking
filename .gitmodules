@@ -1,0 +1,3 @@
+[submodule "Social Engineering/Phishing/whatsapp-phishing"]
+	path = Social Engineering/Phishing/whatsapp-phishing
+	url = https://github.com/Mawalu/whatsapp-phishing.git
