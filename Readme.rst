@@ -28,6 +28,17 @@ Please send questions, comments, suggestions or rants to alessandro@tanasi.it (`
 .. contents:: Table of Contents
 .. section-numbering::
 
+Live CD - Distributions
+=======================
+
+* `ArchStrike <https://archstrike.org>`__ - An Arch Linux repository for security professionals and enthusiasts.
+* `BackBox <https://backbox.org>`__ - Ubuntu-based distribution for penetration tests and security assessments.
+* `BlackArch <https://www.blackarch.org>`__ - Arch Linux-based distribution for penetration testers and security researchers.
+* `Kali <https://www.kali.org>`_ - A Linux distribution designed for digital forensics and penetration testing.
+* `NST <http://networksecuritytoolkit.org>`_ - Network Security Toolkit distribution.
+* `Parrot <https://www.parrotsec.org>`__ - Security GNU/Linux distribution designed with cloud pentesting and IoT security in mind.
+* `Pentoo <http://www.pentoo.ch>`__ - Security-focused livecd based on Gentoo.
+
 Social Engineering
 ==================
 
