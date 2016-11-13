@@ -34,10 +34,15 @@ Live CD - Distributions
 * `ArchStrike <https://archstrike.org>`__ - An Arch Linux repository for security professionals and enthusiasts.
 * `BackBox <https://backbox.org>`__ - Ubuntu-based distribution for penetration tests and security assessments.
 * `BlackArch <https://www.blackarch.org>`__ - Arch Linux-based distribution for penetration testers and security researchers.
+* `BOSSLive <https://bosslinux.in>`__ - An Indian GNU/Linux distribution developed by CDAC and is customized to suit Indian's digital environment. It supports most of the Indian languages.
+* `DEFT Linux <http://www.deftlinux.net>`__ - Suite dedicated to incident response and digital forensics.
+* `Fedora Security Lab <https://labs.fedoraproject.org/en/security/>`__ - A safe test environment to work on security auditing, forensics, system rescue and teaching security testing methodologies in universities and other organizations.
 * `Kali <https://www.kali.org>`_ - A Linux distribution designed for digital forensics and penetration testing.
 * `NST <http://networksecuritytoolkit.org>`_ - Network Security Toolkit distribution.
+* `Ophcrack <http://ophcrack.sourceforge.net>`__ - A free Windows password cracker based on rainbow tables. It is a very efficient implementation of rainbow tables done by the inventors of the method. It comes with a Graphical User Interface and runs on multiple platforms.
 * `Parrot <https://www.parrotsec.org>`__ - Security GNU/Linux distribution designed with cloud pentesting and IoT security in mind.
 * `Pentoo <http://www.pentoo.ch>`__ - Security-focused livecd based on Gentoo.
+* `REMnux <https://remnux.org>`__ - Toolkit for assisting malware analysts with reverse-engineering malicious software. 
 
 Social Engineering
 ==================
