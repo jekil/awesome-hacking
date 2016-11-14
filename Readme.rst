@@ -13,6 +13,11 @@ checkout with one command.
 .. contents:: Table of Contents
 .. section-numbering::
 
+CTF Tools
+=========
+
+* `Pwntools <https://github.com/Gallopsled/pwntools>`__ - CTF framework and exploit development library.
+
 Live CD - Distributions
 =======================
 

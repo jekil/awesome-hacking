@@ -1,3 +1,6 @@
 [submodule "Social Engineering/Phishing/whatsapp-phishing"]
 	path = Social Engineering/Phishing/whatsapp-phishing
 	url = https://github.com/Mawalu/whatsapp-phishing.git
+[submodule "CTF Tools/pwntools"]
+	path = CTF Tools/pwntools
+	url = https://github.com/Gallopsled/pwntools.git
