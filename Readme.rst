@@ -34,6 +34,21 @@ Live CD - Distributions
 * `Pentoo <http://www.pentoo.ch>`__ - Security-focused livecd based on Gentoo.
 * `REMnux <https://remnux.org>`__ - Toolkit for assisting malware analysts with reverse-engineering malicious software. 
 
+Reverse Engineering
+===================
+
+* `Edb <http://www.codef00.com/projects#debugger>`__ - A cross platform x86/x86-64 debugger.
+* `IDA Free <https://www.hex-rays.com/products/ida/support/download_freeware.shtml>`_ - The freeware version of IDA.
+* `IDA Pro <https://www.hex-rays.com/products/ida/index.shtml>`_ - A Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger.
+* `Immunity Debugger <http://debugger.immunityinc.com/>`__ - A powerful new way to write exploits and analyze malware.
+* `Medusa <https://github.com/wisk/medusa>`__ - A disassembler designed to be both modular and interactive.
+* `OllyDbg <http://www.ollydbg.de>`_ - An x86 debugger that emphasizes binary code analysis.
+* `PEDA <https://github.com/longld/peda>`__ - Python Exploit Development Assistance for GDB.
+* `Plasma <https://github.com/joelpx/plasma>`__ - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
+* `Radare2 <http://www.radare.org>`__ - Opensource, crossplatform reverse engineering framework.
+* `WinDbg <https://developer.microsoft.com/en-us/windows/hardware/windows-driver-kit>`_ - Windows Driver Kit and WinDbg.
+* `X64_dbg <http://x64dbg.com>`__ - An open-source x64/x32 debugger for windows.
+
 Social Engineering
 ==================
 

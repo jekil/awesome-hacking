@@ -4,3 +4,21 @@
 [submodule "CTF Tools/pwntools"]
 	path = CTF Tools/pwntools
 	url = https://github.com/Gallopsled/pwntools.git
+[submodule "Reverse Engineering/peda"]
+	path = Reverse Engineering/peda
+	url = https://github.com/longld/peda.git
+[submodule "Reverse Engineering/plasma"]
+	path = Reverse Engineering/plasma
+	url = https://github.com/joelpx/plasma.git
+[submodule "Reverse Engineering/medusa"]
+	path = Reverse Engineering/medusa
+	url = https://github.com/wisk/medusa.git
+[submodule "Reverse Engineering/edb-debugger"]
+	path = Reverse Engineering/edb-debugger
+	url = https://github.com/eteran/edb-debugger.git
+[submodule "Reverse Engineering/x64dbg"]
+	path = Reverse Engineering/x64dbg
+	url = https://github.com/x64dbg/x64dbg.git
+[submodule "Reverse Engineering/radare2"]
+	path = Reverse Engineering/radare2
+	url = https://github.com/radare/radare2.git
