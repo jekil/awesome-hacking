@@ -34,6 +34,18 @@ Live CD - Distributions
 * `Pentoo <http://www.pentoo.ch>`__ - Security-focused livecd based on Gentoo.
 * `REMnux <https://remnux.org>`__ - Toolkit for assisting malware analysts with reverse-engineering malicious software. 
 
+Network
+=======
+
+Sniffer
+-------
+
+* `Moloch <https://github.com/aol/moloch>`_ - Moloch is a open source large scale full PCAP capturing, indexing and database system.
+* `OpenFPC <http://www.openfpc.org>`_ - OpenFPC is a set of scripts that combine to provide a lightweight full-packet network traffic record
+er & buffering tool. Its design goal is to allow non-expert users to deploy a distributed network traffic recorder on COTS hardware while in
+tegrating into existing alert and log tools.
+* `PF_RING <http://www.ntop.org/products/packet-capture/pf_ring/>`_ - PF_RING™ is a Linux kernel module and user-space framework that allows you to process packets at high-rates while providing you a consistent API for packet processing applications.
+
 Reverse Engineering
 ===================
 

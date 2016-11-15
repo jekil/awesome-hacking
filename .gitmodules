@@ -22,3 +22,12 @@
 [submodule "Reverse Engineering/radare2"]
 	path = Reverse Engineering/radare2
 	url = https://github.com/radare/radare2.git
+[submodule "Network/Sniffer/moloch"]
+	path = Network/Sniffer/moloch
+	url = https://github.com/aol/moloch
+[submodule "Network/Sniffer/OpenFPC"]
+	path = Network/Sniffer/OpenFPC
+	url = https://github.com/leonward/OpenFPC.git
+[submodule "Network/Sniffer/PF_RING"]
+	path = Network/Sniffer/PF_RING
+	url = https://github.com/ntop/PF_RING.git
