@@ -46,6 +46,14 @@ er & buffering tool. Its design goal is to allow non-expert users to deploy a di
 tegrating into existing alert and log tools.
 * `PF_RING <http://www.ntop.org/products/packet-capture/pf_ring/>`_ - PF_RING™ is a Linux kernel module and user-space framework that allows you to process packets at high-rates while providing you a consistent API for packet processing applications.
 
+Penetration Testing
+===================
+
+Exploits
+--------
+
+* `The Exploit Database <https://github.com/offensive-security/exploit-database>`__ - The official Exploit Database repository.
+
 Reverse Engineering
 ===================
 
