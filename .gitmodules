@@ -31,6 +31,6 @@
 [submodule "Network/Sniffer/PF_RING"]
 	path = Network/Sniffer/PF_RING
 	url = https://github.com/ntop/PF_RING.git
-[submodule "Pentration Testing/exploit-database"]
-	path = Pentration Testing/exploit-database
+[submodule "Pentration Testing/Exploits/exploit-database"]
+	path = Pentration Testing/Exploits/exploit-database
 	url = https://github.com/offensive-security/exploit-database.git
