@@ -34,3 +34,6 @@
 [submodule "Pentration Testing/Exploits/exploit-database"]
 	path = Pentration Testing/Exploits/exploit-database
 	url = https://github.com/offensive-security/exploit-database.git
+[submodule "Pentration Testing/Fuzzing/Zulu"]
+	path = Pentration Testing/Fuzzing/Zulu
+	url = https://github.com/nccgroup/Zulu.git
