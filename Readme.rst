@@ -81,7 +81,7 @@ Reverse Engineering
 Web
 ---
 
-- `SQLMap <http://sqlmap.org>` - Automatic SQL injection and database takeover tool.
+- `SQLMap <http://sqlmap.org>`_ - Automatic SQL injection and database takeover tool.
 - `Zed Attack Proxy (ZAP) <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>`_ - The OWASP ZAP core project.
 
 Social Engineering
