@@ -63,6 +63,12 @@ Password Cracking
 - `HashCat <https://hashcat.net/hashcat/>`_ - World's fastest and most advanced password recovery utility.
 - `Hob0Rules <https://github.com/praetorian-inc/Hob0Rules>`_ - Password cracking rules for Hashcat based on statistics and industry patterns.
 
+Web
+---
+
+- `SQLMap <http://sqlmap.org>`_ - Automatic SQL injection and database takeover tool.
+- `Zed Attack Proxy (ZAP) <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>`_ - The OWASP ZAP core project.
+
 Reverse Engineering
 ===================
 
@@ -77,12 +83,6 @@ Reverse Engineering
 - `Radare2 <http://www.radare.org>`_ - Opensource, crossplatform reverse engineering framework.
 - `WinDbg <https://developer.microsoft.com/en-us/windows/hardware/windows-driver-kit>`_ - Windows Driver Kit and WinDbg.
 - `X64_dbg <http://x64dbg.com>`_ - An open-source x64/x32 debugger for windows.
-
-Web
----
-
-- `SQLMap <http://sqlmap.org>`_ - Automatic SQL injection and database takeover tool.
-- `Zed Attack Proxy (ZAP) <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>`_ - The OWASP ZAP core project.
 
 Social Engineering
 ==================
