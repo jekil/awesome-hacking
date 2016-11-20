@@ -37,3 +37,15 @@
 [submodule "Pentration Testing/Fuzzing/Zulu"]
 	path = Pentration Testing/Fuzzing/Zulu
 	url = https://github.com/nccgroup/Zulu.git
+[submodule "Pentration Testing/Password Cracking/Hob0Rules"]
+	path = Pentration Testing/Password Cracking/Hob0Rules
+	url = https://github.com/praetorian-inc/Hob0Rules.git
+[submodule "Pentration Testing/Web/zaproxy"]
+	path = Pentration Testing/Web/zaproxy
+	url = https://github.com/zaproxy/zaproxy.git
+[submodule "Pentration Testing/Web/sqlmap"]
+	path = Pentration Testing/Web/sqlmap
+	url = https://github.com/sqlmapproject/sqlmap.git
+[submodule "Pentration Testing/Password Cracking/hashcat"]
+	path = Pentration Testing/Password Cracking/hashcat
+	url = https://github.com/hashcat/hashcat.git
