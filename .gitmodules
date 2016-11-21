@@ -49,3 +49,18 @@
 [submodule "Pentration Testing/Password Cracking/hashcat"]
 	path = Pentration Testing/Password Cracking/hashcat
 	url = https://github.com/hashcat/hashcat.git
+[submodule "Pentration Testing/Post Exploitation/mimikatz"]
+	path = Pentration Testing/Post Exploitation/mimikatz
+	url = https://github.com/gentilkiwi/mimikatz.git
+[submodule "Reverse Engineering/dex2jar"]
+	path = Reverse Engineering/dex2jar
+	url = https://github.com/pxb1988/dex2jar.git
+[submodule "Reverse Engineering/jd-gui"]
+	path = Reverse Engineering/jd-gui
+	url = https://github.com/java-decompiler/jd-gui.git
+[submodule "Pentration Testing/Framework/metasploit-framework"]
+	path = Pentration Testing/Framework/metasploit-framework
+	url = https://github.com/rapid7/metasploit-framework.git
+[submodule "Reverse Engineering/upx"]
+	path = Reverse Engineering/upx
+	url = https://github.com/upx/upx.git

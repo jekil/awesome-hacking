@@ -52,6 +52,11 @@ Exploits
 
 - `The Exploit Database <https://github.com/offensive-security/exploit-database>`_ - The official Exploit Database repository.
 
+Framework
+---------
+
+- `Metasploit Framework <http://www.metasploit.com/>`_ - Exploitation framework.
+
 Fuzzing
 -------
 
@@ -63,6 +68,11 @@ Password Cracking
 - `HashCat <https://hashcat.net/hashcat/>`_ - World's fastest and most advanced password recovery utility.
 - `Hob0Rules <https://github.com/praetorian-inc/Hob0Rules>`_ - Password cracking rules for Hashcat based on statistics and industry patterns.
 
+Post Exploitation
+-----------------
+
+- `Mimikatz <http://blog.gentilkiwi.com/mimikatz>`_ - A little tool to play with Windows security.
+
 Web
 ---
 
@@ -73,15 +83,21 @@ Reverse Engineering
 ===================
 
 - `Edb <http://www.codef00.com/projects#debugger>`_ - A cross platform x86/x86-64 debugger.
+- `Dex2jar <https://github.com/pxb1988/dex2jar>`_ - Tools to work with android .dex and java .class files.
+- `DotPeek <https://www.jetbrains.com/decompiler/>`_ - A free-of-charge .NET decompiler from JetBrains.
+- `Hopper <https://www.hopperapp.com>`_ - - A OS X and Linux Disassembler/Decompiler for 32/64 bit Windows/Mac/Linux/iOS executables.
 - `IDA Free <https://www.hex-rays.com/products/ida/support/download_freeware.shtml>`_ - The freeware version of IDA.
 - `IDA Pro <https://www.hex-rays.com/products/ida/index.shtml>`_ - A Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger.
 - `Immunity Debugger <http://debugger.immunityinc.com/>`_ - A powerful new way to write exploits and analyze malware.
+- `JAD <http://varaneckas.com/jad/>`_ - JAD Java Decompiler.
+- `JD-GUI <http://jd.benow.ca>`_ - Aims to develop tools in order to decompile and analyze Java 5 “byte code” and the later versions.
 - `Medusa <https://github.com/wisk/medusa>`_ - A disassembler designed to be both modular and interactive.
 - `OllyDbg <http://www.ollydbg.de>`_ - An x86 debugger that emphasizes binary code analysis.
 - `PEDA <https://github.com/longld/peda>`_ - Python Exploit Development Assistance for GDB.
 - `Plasma <https://github.com/joelpx/plasma>`_ - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
 - `Radare2 <http://www.radare.org>`_ - Opensource, crossplatform reverse engineering framework.
 - `WinDbg <https://developer.microsoft.com/en-us/windows/hardware/windows-driver-kit>`_ - Windows Driver Kit and WinDbg.
+- `UPX <https://upx.github.io>`_ - The Ultimate Packer for eXecutables.
 - `X64_dbg <http://x64dbg.com>`_ - An open-source x64/x32 debugger for windows.
 
 Social Engineering
