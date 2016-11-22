@@ -64,3 +64,6 @@
 [submodule "Reverse Engineering/upx"]
 	path = Reverse Engineering/upx
 	url = https://github.com/upx/upx.git
+[submodule "Network/Packet Manipulation/pig"]
+	path = Network/Packet Manipulation/pig
+	url = https://github.com/rafael-santiago/pig.git

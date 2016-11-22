@@ -37,12 +37,19 @@ Live CD - Distributions
 Network
 =======
 
+Packet Manipulation
+-------------------
+
+- `Pig <https://github.com/rafael-santiago/pig>`_ - A Linux packet crafting tool.
+
 Sniffer
 -------
 
 - `Moloch <https://github.com/aol/moloch>`_ - Moloch is a open source large scale full PCAP capturing, indexing and database system.
+- `NetworkMiner <http://www.netresec.com/?page=NetworkMiner>`_ - A Network Forensic Analysis Tool (NFAT).
 - `OpenFPC <http://www.openfpc.org>`_ - OpenFPC is a set of scripts that combine to provide a lightweight full-packet network traffic recorder and buffering tool. Its design goal is to allow non-expert users to deploy a distributed network traffic recorder on COTS hardware while integrating into existing alert and log tools.
 - `PF_RING <http://www.ntop.org/products/packet-capture/pf_ring/>`_ - PF_RING™ is a Linux kernel module and user-space framework that allows you to process packets at high-rates while providing you a consistent API for packet processing applications.
+- `Wireshark <https://www.wireshark.org>`_ - A free and open-source packet analyzer.
 
 Penetration Testing
 ===================
@@ -76,6 +83,7 @@ Post Exploitation
 Web
 ---
 
+- `Paros <https://sourceforge.net/projects/paros/>` - A Java based HTTP/HTTPS proxy for assessing web application vulnerability.
 - `SQLMap <http://sqlmap.org>`_ - Automatic SQL injection and database takeover tool.
 - `Zed Attack Proxy (ZAP) <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>`_ - The OWASP ZAP core project.
 
@@ -85,7 +93,7 @@ Reverse Engineering
 - `Edb <http://www.codef00.com/projects#debugger>`_ - A cross platform x86/x86-64 debugger.
 - `Dex2jar <https://github.com/pxb1988/dex2jar>`_ - Tools to work with android .dex and java .class files.
 - `DotPeek <https://www.jetbrains.com/decompiler/>`_ - A free-of-charge .NET decompiler from JetBrains.
-- `Hopper <https://www.hopperapp.com>`_ - - A OS X and Linux Disassembler/Decompiler for 32/64 bit Windows/Mac/Linux/iOS executables.
+- `Hopper <https://www.hopperapp.com>`_ - A OS X and Linux Disassembler/Decompiler for 32/64 bit Windows/Mac/Linux/iOS executables.
 - `IDA Free <https://www.hex-rays.com/products/ida/support/download_freeware.shtml>`_ - The freeware version of IDA.
 - `IDA Pro <https://www.hex-rays.com/products/ida/index.shtml>`_ - A Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger.
 - `Immunity Debugger <http://debugger.immunityinc.com/>`_ - A powerful new way to write exploits and analyze malware.
