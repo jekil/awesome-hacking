@@ -69,6 +69,12 @@ Fuzzing
 
 - `Zulu <https://github.com/nccgroup/Zulu.git>`_ - A fuzzer designed for rapid prototyping that normally happens on a client engagement where something needs to be fuzzed within tight timescales.
 
+MITM
+----
+
+- `Mitmproxy <https://mitmproxy.org/>`_ - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface.
+- `Mitmsocks4j <https://github.com/Akdeniz/mitmsocks4j>`_ - Man in the Middle SOCKS Proxy for JAVA.
+
 Password Cracking
 -----------------
 
@@ -83,7 +89,7 @@ Post Exploitation
 Web
 ---
 
-- `Paros <https://sourceforge.net/projects/paros/>` - A Java based HTTP/HTTPS proxy for assessing web application vulnerability.
+- `Paros <https://sourceforge.net/projects/paros/>`_ - A Java based HTTP/HTTPS proxy for assessing web application vulnerability.
 - `SQLMap <http://sqlmap.org>`_ - Automatic SQL injection and database takeover tool.
 - `Zed Attack Proxy (ZAP) <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>`_ - The OWASP ZAP core project.
 

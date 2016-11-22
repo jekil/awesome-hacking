@@ -67,3 +67,9 @@
 [submodule "Network/Packet Manipulation/pig"]
 	path = Network/Packet Manipulation/pig
 	url = https://github.com/rafael-santiago/pig.git
+[submodule "Pentration Testing/MITM/mitmproxy"]
+	path = Pentration Testing/MITM/mitmproxy
+	url = https://github.com/mitmproxy/mitmproxy.git
+[submodule "Pentration Testing/MITM/mitmsocks4j"]
+	path = Pentration Testing/MITM/mitmsocks4j
+	url = https://github.com/Akdeniz/mitmsocks4j.git
