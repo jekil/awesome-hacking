@@ -73,3 +73,6 @@
 [submodule "Pentration Testing/MITM/mitmsocks4j"]
 	path = Pentration Testing/MITM/mitmsocks4j
 	url = https://github.com/Akdeniz/mitmsocks4j.git
+[submodule "Malware/Dynamic Analysis/androguard"]
+	path = Malware/Dynamic Analysis/androguard
+	url = https://github.com/androguard/androguard.git

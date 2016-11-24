@@ -34,6 +34,14 @@ Live CD - Distributions
 - `Pentoo <http://www.pentoo.ch>`_ - Security-focused livecd based on Gentoo.
 - `REMnux <https://remnux.org>`_ - Toolkit for assisting malware analysts with reverse-engineering malicious software. 
 
+Malware
+=======
+
+Dynamic Analysis
+----------------
+
+- `Androguard <https://github.com/androguard/androguard/>`_ - Reverse engineering, Malware and goodware analysis of Android applications.
+
 Network
 =======
 
