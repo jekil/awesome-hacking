@@ -76,3 +76,21 @@
 [submodule "Malware/Dynamic Analysis/androguard"]
 	path = Malware/Dynamic Analysis/androguard
 	url = https://github.com/androguard/androguard.git
+[submodule "Cryptography/xortool"]
+	path = Cryptography/xortool
+	url = https://github.com/hellman/xortool.git
+[submodule "Pentration Testing/Password Cracking/JohnTheRipper"]
+	path = Pentration Testing/Password Cracking/JohnTheRipper
+	url = https://github.com/magnumripper/JohnTheRipper.git
+[submodule "Forensics/File Forensics/autopsy"]
+	path = Forensics/File Forensics/autopsy
+	url = https://github.com/sleuthkit/autopsy.git
+[submodule "Forensics/File Forensics/sleuthkit"]
+	path = Forensics/File Forensics/sleuthkit
+	url = https://github.com/sleuthkit/sleuthkit.git
+[submodule "Forensics/File Forensics/scalpel"]
+	path = Forensics/File Forensics/scalpel
+	url = https://github.com/sleuthkit/scalpel.git
+[submodule "Forensics/File Forensics/hadoop_framework"]
+	path = Forensics/File Forensics/hadoop_framework
+	url = https://github.com/sleuthkit/hadoop_framework.git

@@ -13,10 +13,31 @@ checkout with one command.
 .. contents:: Table of Contents
 .. section-numbering::
 
+Cryptography
+============
+
+- `Xortool <https://github.com/hellman/xortool>`_ - A tool to analyze multi-byte xor cipher.
+
 CTF Tools
 =========
 
 - `Pwntools <https://github.com/Gallopsled/pwntools>`_ - CTF framework and exploit development library.
+
+Forensics
+=========
+
+File Forensics
+--------------
+
+- `Autospy <http://www.sleuthkit.org/autopsy/>`_ - A digital forensics platform and graphical interface to The Sleuth Kit and other digital forensics tools.
+- `Hadoop_framework <https://github.com/sleuthkit/hadoop_framework>`_ - A prototype system that uses Hadoop to process hard drive images.
+- `Scalpel <https://github.com/sleuthkit/scalpel>`_ - An open source data carving tool.
+- `Sleuthkit <https://github.com/sleuthkit/sleuthkit>`_ - A library and collection of command line digital forensics tools.
+
+Misc
+----
+
+- `HxD <https://mh-nexus.de/en/hxd/>`_ - A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size.
 
 Live CD - Distributions
 =======================
@@ -41,6 +62,11 @@ Dynamic Analysis
 ----------------
 
 - `Androguard <https://github.com/androguard/androguard/>`_ - Reverse engineering, Malware and goodware analysis of Android applications.
+
+Static Analysis
+---------------
+
+- `PEview <http://wjradburn.com/software/>`_ - A quick and easy way to view the structure and content of 32-bit Portable Executable (PE) and Component Object File Format (COFF) files.
 
 Network
 =======
@@ -88,6 +114,7 @@ Password Cracking
 
 - `HashCat <https://hashcat.net/hashcat/>`_ - World's fastest and most advanced password recovery utility.
 - `Hob0Rules <https://github.com/praetorian-inc/Hob0Rules>`_ - Password cracking rules for Hashcat based on statistics and industry patterns.
+- `John the Ripper <http://www.openwall.com/john/>`_ - A fast password cracker.
 
 Post Exploitation
 -----------------
@@ -109,6 +136,7 @@ Wireless
 Reverse Engineering
 ===================
 
+- `BinText <http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx>`_ - A small, very fast and powerful text extractor.
 - `Edb <http://www.codef00.com/projects#debugger>`_ - A cross platform x86/x86-64 debugger.
 - `Dex2jar <https://github.com/pxb1988/dex2jar>`_ - Tools to work with android .dex and java .class files.
 - `DotPeek <https://www.jetbrains.com/decompiler/>`_ - A free-of-charge .NET decompiler from JetBrains.
@@ -124,6 +152,7 @@ Reverse Engineering
 - `Plasma <https://github.com/joelpx/plasma>`_ - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
 - `Radare2 <http://www.radare.org>`_ - Opensource, crossplatform reverse engineering framework.
 - `WinDbg <https://developer.microsoft.com/en-us/windows/hardware/windows-driver-kit>`_ - Windows Driver Kit and WinDbg.
+- `WinHex <http://www.winhex.com/winhex/>`_ - A hexadecimal editor, helpful in the realm of computer forensics, data recovery, low-level data processing, and IT security.
 - `UPX <https://upx.github.io>`_ - The Ultimate Packer for eXecutables.
 - `X64_dbg <http://x64dbg.com>`_ - An open-source x64/x32 debugger for windows.
 
