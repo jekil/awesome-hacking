@@ -103,3 +103,45 @@
 [submodule "Reverse Engineering/voltron"]
 	path = Reverse Engineering/voltron
 	url = https://github.com/snare/voltron.git
+[submodule "Pentration Testing/Training/SecurityShepherd"]
+	path = Pentration Testing/Training/SecurityShepherd
+	url = https://github.com/OWASP/SecurityShepherd.git
+[submodule "Pentration Testing/Training/railsgoat"]
+	path = Pentration Testing/Training/railsgoat
+	url = https://github.com/OWASP/railsgoat.git
+[submodule "Pentration Testing/Web/wpscan"]
+	path = Pentration Testing/Web/wpscan
+	url = https://github.com/wpscanteam/wpscan.git
+[submodule "Pentration Testing/Training/DVWA"]
+	path = Pentration Testing/Training/DVWA
+	url = https://github.com/ethicalhack3r/DVWA.git
+[submodule "Docker/vaas-cve-2014-6271"]
+	path = Docker/vaas-cve-2014-6271
+	url = https://github.com/hmlio/vaas-cve-2014-6271.git
+[submodule "Docker/dockerdvwa"]
+	path = Docker/dockerdvwa
+	url = https://github.com/citizen-stig/dockerdvwa.git
+[submodule "Docker/kali-linux-docker"]
+	path = Docker/kali-linux-docker
+	url = https://github.com/offensive-security/kali-linux-docker.git
+[submodule "Docker/vaas-cve-2014-0160"]
+	path = Docker/vaas-cve-2014-0160
+	url = https://github.com/hmlio/vaas-cve-2014-0160.git
+[submodule "Docker/Security_Ninjas_AppSec_Training"]
+	path = Docker/Security_Ninjas_AppSec_Training
+	url = https://github.com/opendns/Security_Ninjas_AppSec_Training.git
+[submodule "Docker/docker-bench-security"]
+	path = Docker/docker-bench-security
+	url = https://github.com/diogomonica/docker-bench-security.git
+[submodule "Pentration Testing/Training/WebGoat"]
+	path = Pentration Testing/Training/WebGoat
+	url = https://github.com/WebGoat/WebGoat.git
+[submodule "Docker/dockermutillidae"]
+	path = Docker/dockermutillidae
+	url = https://github.com/citizen-stig/dockermutillidae.git
+[submodule "Pentration Testing/Web/nikto"]
+	path = Pentration Testing/Web/nikto
+	url = https://github.com/sullo/nikto.git
+[submodule "Pentration Testing/Web/w3af"]
+	path = Pentration Testing/Web/w3af
+	url = https://github.com/andresriancho/w3af.git

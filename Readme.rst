@@ -6,10 +6,6 @@ Awesome hacking is an awesome collection of **hacking tools**. Its goal is to co
 classify and make awesome tools easy to find by humans, creating a **toolset** you can
 checkout with one command.
 
-----------
- Contents
-----------
-
 .. contents:: Table of Contents
 .. section-numbering::
 
@@ -26,13 +22,53 @@ CTF Tools
 Docker
 ======
 
+- `Docker Bench for Security <https://hub.docker.com/r/diogomonica/docker-bench-security/>`_ - The Docker Bench for Security checks for all the automatable tests in the CIS Docker 1.6 Benchmark.
+
+    docker pull diogomonica/docker-bench-security
+
+- `DVWA <https://hub.docker.com/r/citizenstig/dvwa/>`_ - Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.
+
+    docker pull citizenstig/dvwa
+
 - `Kali Linux <https://hub.docker.com/r/kalilinux/kali-linux-docker/>`_ - This Kali Linux Docker image provides a minimal base install of the latest version of the Kali Linux Rolling Distribution.
 
     docker pull kalilinux/kali-linux-docker 
 
+- `OWASP Mutillidae II <https://hub.docker.com/r/citizenstig/nowasp/>`_ - OWASP Mutillidae II Web Pen-Test Practice Application.
+
+    docker pull citizenstig/nowasp
+
+- `OWASP Railsgoat <https://hub.docker.com/r/owasp/railsgoat/>`_ - A vulnerable version of Rails that follows the OWASP Top 10.
+
+    docker pull owasp/railsgoat
+
+- `OWASP Security Shepherd <https://hub.docker.com/r/ismisepaul/securityshepherd/>`_ - A web and mobile application security training platform.
+
+    docker pull ismisepaul/securityshepherd
+
+- `OWASP WebGoat <https://hub.docker.com/r/danmx/docker-owasp-webgoat/>`_ - A deliberately insecure Web Application.
+
+    docker pull danmx/docker-owasp-webgoat
+
 - `OWASP ZAP <https://hub.docker.com/r/owasp/zap2docker-stable/>`_ - Current stable owasp zed attack proxy release in embedded docker container.
 
     docker pull owasp/zap2docker-stable
+
+- `Security Ninjas <https://hub.docker.com/r/opendns/security-ninjas/>`_ - An Open Source Application Security Training Program.
+
+    docker pull opendns/security-ninjas
+
+- `Vulnerability as a service: Heartbleed <https://hub.docker.com/r/hmlio/vaas-cve-2014-0160/>`_ - Vulnerability as a Service: CVE 2014-0160.
+
+    docker pull hmlio/vaas-cve-2014-0160
+
+- `Vulnerability as a service: Shellshock <https://hub.docker.com/r/hmlio/vaas-cve-2014-6271/>`_ - Vulnerability as a Service: CVE 2014-6271.
+
+    docker pull hmlio/vaas-cve-2014-6271
+
+- `WPScan <https://hub.docker.com/r/wpscanteam/wpscan/>`_ - WPScan is a black box WordPress vulnerability scanner.
+
+    docker pull wpscanteam/wpscan
 
 Forensics
 =========
@@ -133,12 +169,24 @@ Post Exploitation
 
 - `Mimikatz <http://blog.gentilkiwi.com/mimikatz>`_ - A little tool to play with Windows security.
 
+Training
+--------
+
+- `DVWA <http://dvwa.co.uk>`_ - Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.
+- `OWASP Railsgoat <http://railsgoat.cktricky.com/>`_ - A vulnerable version of Rails that follows the OWASP Top 10.
+- `OWASP Security Shepherd <https://www.owasp.org/index.php/OWASP_Security_Shepherd>`_ - A web and mobile application security training platform.
+- `OWASP WebGoat <https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project>`_ - A deliberately insecure Web Application.
+
 Web
 ---
 
+- `Nikto2 <https://cirt.net/nikto2>`_ - Web application vulnerability scanner.
 - `Paros <https://sourceforge.net/projects/paros/>`_ - A Java based HTTP/HTTPS proxy for assessing web application vulnerability.
 - `SQLMap <http://sqlmap.org>`_ - Automatic SQL injection and database takeover tool.
 - `TPLMap <https://github.com/epinna/tplmap>`_ - Automatic Server-Side Template Injection Detection and Exploitation Tool.
+- `W3af <http://w3af.org>`_ - Web application attack and audit framework.
+- `Wapiti <http://wapiti.sourceforge.net>`_ - Web application vulnerability scanner.
+- `WPScan <https://wpscan.org>`_ - WPScan is a black box WordPress vulnerability scanner.
 - `Zed Attack Proxy (ZAP) <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>`_ - The OWASP ZAP core project.
 
 Wireless
@@ -177,6 +225,7 @@ Phishing
 --------
 
 - `Whatsapp-phishing <https://github.com/Mawalu/whatsapp-phishing>`_ -  Proof of principle code for running a phishing attack against the official Whatsapp Web client.
+
 
 --------------
  Contributing
