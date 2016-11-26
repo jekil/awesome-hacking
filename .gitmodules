@@ -58,9 +58,6 @@
 [submodule "Reverse Engineering/jd-gui"]
 	path = Reverse Engineering/jd-gui
 	url = https://github.com/java-decompiler/jd-gui.git
-[submodule "Pentration Testing/Framework/metasploit-framework"]
-	path = Pentration Testing/Framework/metasploit-framework
-	url = https://github.com/rapid7/metasploit-framework.git
 [submodule "Reverse Engineering/upx"]
 	path = Reverse Engineering/upx
 	url = https://github.com/upx/upx.git
@@ -94,3 +91,15 @@
 [submodule "Forensics/File Forensics/hadoop_framework"]
 	path = Forensics/File Forensics/hadoop_framework
 	url = https://github.com/sleuthkit/hadoop_framework.git
+[submodule "Pentration Testing/Web/tplmap"]
+	path = Pentration Testing/Web/tplmap
+	url = https://github.com/epinna/tplmap.git
+[submodule "Pentration Testing/Exploiting/metasploit-framework"]
+	path = Pentration Testing/Exploiting/metasploit-framework
+	url = https://github.com/rapid7/metasploit-framework.git
+[submodule "Pentration Testing/Exploiting/shellsploit-framework"]
+	path = Pentration Testing/Exploiting/shellsploit-framework
+	url = https://github.com/b3mb4m/shellsploit-framework.git
+[submodule "Reverse Engineering/voltron"]
+	path = Reverse Engineering/voltron
+	url = https://github.com/snare/voltron.git

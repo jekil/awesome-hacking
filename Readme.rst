@@ -23,6 +23,13 @@ CTF Tools
 
 - `Pwntools <https://github.com/Gallopsled/pwntools>`_ - CTF framework and exploit development library.
 
+Docker
+======
+
+- `Kali Linux <https://hub.docker.com/r/kalilinux/kali-linux-docker/>`_ - This Kali Linux Docker image provides a minimal base install of the latest version of the Kali Linux Rolling Distribution.
+    ::
+    docker pull kalilinux/kali-linux-docker 
+
 Forensics
 =========
 
@@ -88,15 +95,16 @@ Sniffer
 Penetration Testing
 ===================
 
+Exploiting
+----------
+
+- `Metasploit Framework <http://www.metasploit.com/>`_ - Exploitation framework.
+- `Shellsploit <https://github.com/b3mb4m/shellsploit-framework>`_ - Let's you generate customized shellcodes, backdoors, injectors for various operating system. And let's you obfuscation every byte via encoders.
+
 Exploits
 --------
 
 - `The Exploit Database <https://github.com/offensive-security/exploit-database>`_ - The official Exploit Database repository.
-
-Framework
----------
-
-- `Metasploit Framework <http://www.metasploit.com/>`_ - Exploitation framework.
 
 Fuzzing
 -------
@@ -126,6 +134,7 @@ Web
 
 - `Paros <https://sourceforge.net/projects/paros/>`_ - A Java based HTTP/HTTPS proxy for assessing web application vulnerability.
 - `SQLMap <http://sqlmap.org>`_ - Automatic SQL injection and database takeover tool.
+- `TPLMap <https://github.com/epinna/tplmap>`_ - Automatic Server-Side Template Injection Detection and Exploitation Tool.
 - `Zed Attack Proxy (ZAP) <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>`_ - The OWASP ZAP core project.
 
 Wireless
@@ -151,6 +160,7 @@ Reverse Engineering
 - `PEDA <https://github.com/longld/peda>`_ - Python Exploit Development Assistance for GDB.
 - `Plasma <https://github.com/joelpx/plasma>`_ - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
 - `Radare2 <http://www.radare.org>`_ - Opensource, crossplatform reverse engineering framework.
+- `Voltron <https://github.com/snare/voltron>`_ - An extensible debugger UI toolkit written in Python. It aims to improve the user experience of various debuggers (LLDB, GDB, VDB and WinDbg) by enabling the attachment of utility views that can retrieve and display data from the debugger host.
 - `WinDbg <https://developer.microsoft.com/en-us/windows/hardware/windows-driver-kit>`_ - Windows Driver Kit and WinDbg.
 - `WinHex <http://www.winhex.com/winhex/>`_ - A hexadecimal editor, helpful in the realm of computer forensics, data recovery, low-level data processing, and IT security.
 - `UPX <https://upx.github.io>`_ - The Ultimate Packer for eXecutables.
