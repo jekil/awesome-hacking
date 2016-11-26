@@ -26,9 +26,13 @@ CTF Tools
 Docker
 ======
 
-- `Kali Linux <https://hub.docker.com/r/kalilinux/kali-linux-docker/>`_ - This Kali Linux Docker image provides a minimal base install of the latest version of the Kali Linux Rolling Distribution.::
+- `Kali Linux <https://hub.docker.com/r/kalilinux/kali-linux-docker/>`_ - This Kali Linux Docker image provides a minimal base install of the latest version of the Kali Linux Rolling Distribution.
 
     docker pull kalilinux/kali-linux-docker 
+
+- `OWASP ZAP <https://hub.docker.com/r/owasp/zap2docker-stable/>`_ - Current stable owasp zed attack proxy release in embedded docker container.
+
+    docker pull owasp/zap2docker-stable
 
 Forensics
 =========
