@@ -26,8 +26,8 @@ CTF Tools
 Docker
 ======
 
-- `Kali Linux <https://hub.docker.com/r/kalilinux/kali-linux-docker/>`_ - This Kali Linux Docker image provides a minimal base install of the latest version of the Kali Linux Rolling Distribution.
-    ::
+- `Kali Linux <https://hub.docker.com/r/kalilinux/kali-linux-docker/>`_ - This Kali Linux Docker image provides a minimal base install of the latest version of the Kali Linux Rolling Distribution.::
+
     docker pull kalilinux/kali-linux-docker 
 
 Forensics
