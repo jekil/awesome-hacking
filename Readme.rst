@@ -180,6 +180,8 @@ Training
 Web
 ---
 
+- `Arachni <http://www.arachni-scanner.com>`_ - Web Application Security Scanner Framework.
+- `Dvcs-ripper <https://github.com/kost/dvcs-ripper>`_ - Rip web accessible (distributed) version control systems.
 - `Nikto2 <https://cirt.net/nikto2>`_ - Web application vulnerability scanner.
 - `Paros <https://sourceforge.net/projects/paros/>`_ - A Java based HTTP/HTTPS proxy for assessing web application vulnerability.
 - `SQLMap <http://sqlmap.org>`_ - Automatic SQL injection and database takeover tool.

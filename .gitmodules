@@ -145,3 +145,9 @@
 [submodule "Pentration Testing/Web/w3af"]
 	path = Pentration Testing/Web/w3af
 	url = https://github.com/andresriancho/w3af.git
+[submodule "Pentration Testing/Web/dvcs-ripper"]
+	path = Pentration Testing/Web/dvcs-ripper
+	url = https://github.com/kost/dvcs-ripper.git
+[submodule "Pentration Testing/Web/arachni"]
+	path = Pentration Testing/Web/arachni
+	url = https://github.com/Arachni/arachni.git
