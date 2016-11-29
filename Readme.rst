@@ -81,10 +81,23 @@ File Forensics
 - `Scalpel <https://github.com/sleuthkit/scalpel>`_ - An open source data carving tool.
 - `Sleuthkit <https://github.com/sleuthkit/sleuthkit>`_ - A library and collection of command line digital forensics tools.
 
+Network Forensics
+-----------------
+
+- `Dshell <https://github.com/USArmyResearchLab/Dshell>`_ - A network forensic analysis framework.
+
 Misc
 ----
 
 - `HxD <https://mh-nexus.de/en/hxd/>`_ - A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size.
+
+Library
+=======
+
+Python
+------
+
+- `Scapy <http://www.secdev.org/projects/scapy/>`_ - A python-based interactive packet manipulation program & library.
 
 Live CD - Distributions
 =======================
@@ -118,6 +131,11 @@ Static Analysis
 Network
 =======
 
+Fake Services
+-------------
+
+- `DNSChef <http://thesprawl.org/projects/dnschef/>`_ - DNS proxy for Penetration Testers and Malware Analysts.
+
 Packet Manipulation
 -------------------
 
@@ -126,8 +144,10 @@ Packet Manipulation
 Sniffer
 -------
 
+- `Dripcap <https://dripcap.org/>`_ - Caffeinated Packet Analyzer.
 - `Moloch <https://github.com/aol/moloch>`_ - Moloch is a open source large scale full PCAP capturing, indexing and database system.
 - `NetworkMiner <http://www.netresec.com/?page=NetworkMiner>`_ - A Network Forensic Analysis Tool (NFAT).
+- `Netsniff-ng <http://netsniff-ng.org>`_ - A Swiss army knife for your daily Linux network plumbing.
 - `OpenFPC <http://www.openfpc.org>`_ - OpenFPC is a set of scripts that combine to provide a lightweight full-packet network traffic recorder and buffering tool. Its design goal is to allow non-expert users to deploy a distributed network traffic recorder on COTS hardware while integrating into existing alert and log tools.
 - `PF_RING <http://www.ntop.org/products/packet-capture/pf_ring/>`_ - PF_RING™ is a Linux kernel module and user-space framework that allows you to process packets at high-rates while providing you a consistent API for packet processing applications.
 - `Wireshark <https://www.wireshark.org>`_ - A free and open-source packet analyzer.
@@ -140,11 +160,20 @@ Exploiting
 
 - `Metasploit Framework <http://www.metasploit.com/>`_ - Exploitation framework.
 - `Shellsploit <https://github.com/b3mb4m/shellsploit-framework>`_ - Let's you generate customized shellcodes, backdoors, injectors for various operating system. And let's you obfuscation every byte via encoders.
+- `SPARTA <http://sparta.secforce.com>`_ - Network Infrastructure Penetration Testing Tool.
 
 Exploits
 --------
 
 - `The Exploit Database <https://github.com/offensive-security/exploit-database>`_ - The official Exploit Database repository.
+
+Info Gathering
+--------------
+
+- `Dnsenum <https://github.com/fwaeytens/dnsenum/>`_ - A perl script that enumerates DNS information.
+- `Dnsmap <https://github.com/makefu/dnsmap/>`_ - Passive DNS network mapper.
+- `Dnsrecon <https://github.com/darkoperator/dnsrecon/>`_ - DNS Enumeration Script.
+- `SMBMap <https://github.com/ShawnDEvans/smbmap>`_ - A handy SMB enumeration tool.
 
 Fuzzing
 -------

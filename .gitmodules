@@ -151,3 +151,33 @@
 [submodule "Pentration Testing/Web/arachni"]
 	path = Pentration Testing/Web/arachni
 	url = https://github.com/Arachni/arachni.git
+[submodule "Network/Sniffer/netsniff-ng"]
+	path = Network/Sniffer/netsniff-ng
+	url = https://github.com/netsniff-ng/netsniff-ng.git
+[submodule "Pentration Testing/Exploiting/sparta"]
+	path = Pentration Testing/Exploiting/sparta
+	url = https://github.com/SECFORCE/sparta.git
+[submodule "Network/Fake Services/dnschef"]
+	path = Network/Fake Services/dnschef
+	url = https://github.com/iphelix/dnschef.git
+[submodule "Pentration Testing/Info Gathering/dnsenum"]
+	path = Pentration Testing/Info Gathering/dnsenum
+	url = https://github.com/fwaeytens/dnsenum.git
+[submodule "Pentration Testing/Info Gathering/dnsmap"]
+	path = Pentration Testing/Info Gathering/dnsmap
+	url = https://github.com/makefu/dnsmap.git
+[submodule "Pentration Testing/Info Gathering/dnsrecon"]
+	path = Pentration Testing/Info Gathering/dnsrecon
+	url = https://github.com/darkoperator/dnsrecon.git
+[submodule "Network/Sniffer/dripcap"]
+	path = Network/Sniffer/dripcap
+	url = https://github.com/dripcap/dripcap.git
+[submodule "Forensics/Network Forensics/Dshell"]
+	path = Forensics/Network Forensics/Dshell
+	url = https://github.com/USArmyResearchLab/Dshell.git
+[submodule "Library/Python/scapy"]
+	path = Library/Python/scapy
+	url = https://github.com/secdev/scapy.git
+[submodule "Pentration Testing/Info Gathering/smbmap"]
+	path = Pentration Testing/Info Gathering/smbmap
+	url = https://github.com/ShawnDEvans/smbmap.git
