@@ -9,6 +9,14 @@ checkout with one command.
 .. contents:: Table of Contents
 .. section-numbering::
 
+Code Auditing
+=============
+
+Static Analysis
+---------------
+
+- `Brakeman <http://brakemanscanner.org>`_ - A static analysis security vulnerability scanner for Ruby on Rails applications.
+
 Cryptography
 ============
 
@@ -77,6 +85,7 @@ File Forensics
 --------------
 
 - `Autospy <http://www.sleuthkit.org/autopsy/>`_ - A digital forensics platform and graphical interface to The Sleuth Kit and other digital forensics tools.
+- `DFF <http://www.digital-forensic.org>`_ - A Forensics Framework coming with command line and graphical interfaces. DFF can be used to investigate hard drives and volatile memory and create reports about user and system activities.
 - `Hadoop_framework <https://github.com/sleuthkit/hadoop_framework>`_ - A prototype system that uses Hadoop to process hard drive images.
 - `Scalpel <https://github.com/sleuthkit/scalpel>`_ - An open source data carving tool.
 - `Sleuthkit <https://github.com/sleuthkit/sleuthkit>`_ - A library and collection of command line digital forensics tools.
@@ -158,6 +167,8 @@ Penetration Testing
 Exploiting
 ----------
 
+- `BeEF <http://beefproject.com>`_ - The Browser Exploitation Framework Project.
+- `Fathomless <https://github.com/xor-function/fathomless>`_ - A collection of different programs for network red teaming.
 - `Metasploit Framework <http://www.metasploit.com/>`_ - Exploitation framework.
 - `Shellsploit <https://github.com/b3mb4m/shellsploit-framework>`_ - Let's you generate customized shellcodes, backdoors, injectors for various operating system. And let's you obfuscation every byte via encoders.
 - `SPARTA <http://sparta.secforce.com>`_ - Network Infrastructure Penetration Testing Tool.
@@ -178,6 +189,7 @@ Info Gathering
 Fuzzing
 -------
 
+- `Netzob <https://github.com/netzob/netzob>`_ - Netzob is an opensource tool for reverse engineering, traffic generation and fuzzing of communication protocols.
 - `Zulu <https://github.com/nccgroup/Zulu.git>`_ - A fuzzer designed for rapid prototyping that normally happens on a client engagement where something needs to be fuzzed within tight timescales.
 
 MITM
@@ -196,6 +208,7 @@ Password Cracking
 Post Exploitation
 -----------------
 
+- `DET <https://github.com/sensepost/DET>`_ - (extensible) Data Exfiltration Toolkit (DET).
 - `Mimikatz <http://blog.gentilkiwi.com/mimikatz>`_ - A little tool to play with Windows security.
 
 Training
@@ -246,6 +259,7 @@ Reverse Engineering
 - `Voltron <https://github.com/snare/voltron>`_ - An extensible debugger UI toolkit written in Python. It aims to improve the user experience of various debuggers (LLDB, GDB, VDB and WinDbg) by enabling the attachment of utility views that can retrieve and display data from the debugger host.
 - `WinDbg <https://developer.microsoft.com/en-us/windows/hardware/windows-driver-kit>`_ - Windows Driver Kit and WinDbg.
 - `WinHex <http://www.winhex.com/winhex/>`_ - A hexadecimal editor, helpful in the realm of computer forensics, data recovery, low-level data processing, and IT security.
+- `Unlinker <https://github.com/jonwil/unlinker>`_ - Unlinker is a tool that can rip functions out of Visual C++ compiled binaries and produce Visual C++ COFF object files.
 - `UPX <https://upx.github.io>`_ - The Ultimate Packer for eXecutables.
 - `X64_dbg <http://x64dbg.com>`_ - An open-source x64/x32 debugger for windows.
 

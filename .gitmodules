@@ -181,3 +181,24 @@
 [submodule "Pentration Testing/Info Gathering/smbmap"]
 	path = Pentration Testing/Info Gathering/smbmap
 	url = https://github.com/ShawnDEvans/smbmap.git
+[submodule "Pentration Testing/Exploiting/fathomless"]
+	path = Pentration Testing/Exploiting/fathomless
+	url = https://github.com/xor-function/fathomless.git
+[submodule "Reverse Engineering/unlinker"]
+	path = Reverse Engineering/unlinker
+	url = https://github.com/jonwil/unlinker.git
+[submodule "Pentration Testing/Exploiting/beef"]
+	path = Pentration Testing/Exploiting/beef
+	url = https://github.com/beefproject/beef.git
+[submodule "Forensics/File Forensics/dff"]
+	path = Forensics/File Forensics/dff
+	url = https://github.com/arxsys/dff.git
+[submodule "Code Auditing/Static Analysis/brakeman"]
+	path = Code Auditing/Static Analysis/brakeman
+	url = https://github.com/presidentbeef/brakeman.git
+[submodule "Pentration Testing/Post Exploitation/DET"]
+	path = Pentration Testing/Post Exploitation/DET
+	url = https://github.com/sensepost/DET.git
+[submodule "Pentration Testing/Fuzzing/netzob"]
+	path = Pentration Testing/Fuzzing/netzob
+	url = https://github.com/netzob/netzob.git
