@@ -94,6 +94,7 @@ Network Forensics
 -----------------
 
 - `Dshell <https://github.com/USArmyResearchLab/Dshell>`_ - A network forensic analysis framework.
+- `Passivedns <https://github.com/gamelinux/passivedns>`_ - A network sniffer that logs all DNS server replies for use in a passive DNS setup.
 
 Misc
 ----
@@ -154,6 +155,7 @@ Sniffer
 -------
 
 - `Dripcap <https://dripcap.org/>`_ - Caffeinated Packet Analyzer.
+- `Dsniff <https://www.monkey.org/~dugsong/dsniff/>`_ - A collection of tools for network auditing and pentesting.
 - `Moloch <https://github.com/aol/moloch>`_ - Moloch is a open source large scale full PCAP capturing, indexing and database system.
 - `NetworkMiner <http://www.netresec.com/?page=NetworkMiner>`_ - A Network Forensic Analysis Tool (NFAT).
 - `Netsniff-ng <http://netsniff-ng.org>`_ - A Swiss army knife for your daily Linux network plumbing.
@@ -172,6 +174,7 @@ Exploiting
 - `Metasploit Framework <http://www.metasploit.com/>`_ - Exploitation framework.
 - `Shellsploit <https://github.com/b3mb4m/shellsploit-framework>`_ - Let's you generate customized shellcodes, backdoors, injectors for various operating system. And let's you obfuscation every byte via encoders.
 - `SPARTA <http://sparta.secforce.com>`_ - Network Infrastructure Penetration Testing Tool.
+- `Zarp <https://github.com/hatRiot/zarp>`_ - Network Attack Tool.
 
 Exploits
 --------
@@ -205,11 +208,19 @@ Password Cracking
 - `Hob0Rules <https://github.com/praetorian-inc/Hob0Rules>`_ - Password cracking rules for Hashcat based on statistics and industry patterns.
 - `John the Ripper <http://www.openwall.com/john/>`_ - A fast password cracker.
 
+Port Scanning
+-------------
+
+- `Masscan <https://github.com/robertdavidgraham/masscan>`_ - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+
 Post Exploitation
 -----------------
 
 - `DET <https://github.com/sensepost/DET>`_ - (extensible) Data Exfiltration Toolkit (DET).
+- `Mallory <https://github.com/justmao945/mallory>`_ - HTTP/HTTPS proxy over SSH.
 - `Mimikatz <http://blog.gentilkiwi.com/mimikatz>`_ - A little tool to play with Windows security.
+- `Pwnat <https://samy.pl/pwnat/>`_ - Punches holes in firewalls and NATs allowing any numbers of clients behind NATs to directly connect to a server behind a different NAT.
+- `Tgcd <http://tgcd.sourceforge.net>`_ -
 
 Training
 --------

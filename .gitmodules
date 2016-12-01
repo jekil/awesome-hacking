@@ -202,3 +202,18 @@
 [submodule "Pentration Testing/Fuzzing/netzob"]
 	path = Pentration Testing/Fuzzing/netzob
 	url = https://github.com/netzob/netzob.git
+[submodule "Pentration Testing/Post Exploitation/pwnat"]
+	path = Pentration Testing/Post Exploitation/pwnat
+	url = https://github.com/samyk/pwnat.git
+[submodule "Pentration Testing/Post Exploitation/mallory"]
+	path = Pentration Testing/Post Exploitation/mallory
+	url = https://github.com/justmao945/mallory.git
+[submodule "Pentration Testing/Exploiting/zarp"]
+	path = Pentration Testing/Exploiting/zarp
+	url = https://github.com/hatRiot/zarp.git
+[submodule "Pentration Testing/Port Scanning/masscan"]
+	path = Pentration Testing/Port Scanning/masscan
+	url = https://github.com/robertdavidgraham/masscan.git
+[submodule "Forensics/Network Forensics/passivedns"]
+	path = Forensics/Network Forensics/passivedns
+	url = https://github.com/gamelinux/passivedns.git
