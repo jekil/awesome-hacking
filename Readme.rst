@@ -8,6 +8,7 @@ checkout with one command.
 
 .. contents:: Table of Contents
 .. section-numbering::
+    depth: 1
 
 Code Auditing
 =============
@@ -133,6 +134,11 @@ Dynamic Analysis
 
 - `Androguard <https://github.com/androguard/androguard/>`_ - Reverse engineering, Malware and goodware analysis of Android applications.
 
+Intelligence
+------------
+
+- `Passivedns-client <https://github.com/chrislee35/passivedns-client>`_ - Provides a library and a query tool for querying several passive DNS providers.
+
 Static Analysis
 ---------------
 
@@ -248,6 +254,10 @@ Wireless
 --------
 
 - `Aircrack-ng <http://www.aircrack-ng.org>`_ - An 802.11 WEP and WPA-PSK keys cracking program.
+- `Kismet <https://kismetwireless.net/>`_ - Wireless network detector, sniffer, and IDS.
+- `Reaver <https://code.google.com/archive/p/reaver-wps>`_ - Brute force attack against Wifi Protected Setup.
+- `Wifite <https://github.com/derv82/wifite>`_ - Automated wireless attack tool.
+- `Wifiphisher <https://github.com/sophron/wifiphisher>`_ - Automated phishing attacks against Wi-Fi networks.
 
 Reverse Engineering
 ===================

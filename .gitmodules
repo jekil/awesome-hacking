@@ -217,3 +217,15 @@
 [submodule "Forensics/Network Forensics/passivedns"]
 	path = Forensics/Network Forensics/passivedns
 	url = https://github.com/gamelinux/passivedns.git
+[submodule "Malware/Intelligence/passivedns-client"]
+	path = Malware/Intelligence/passivedns-client
+	url = https://github.com/chrislee35/passivedns-client.git
+[submodule "Pentration Testing/Wireless/kismet"]
+	path = Pentration Testing/Wireless/kismet
+	url = https://www.kismetwireless.net/kismet.git
+[submodule "Pentration Testing/Wireless/wifite"]
+	path = Pentration Testing/Wireless/wifite
+	url = https://github.com/derv82/wifite.git
+[submodule "Pentration Testing/Wireless/wifiphisher"]
+	path = Pentration Testing/Wireless/wifiphisher
+	url = https://github.com/sophron/wifiphisher.git
