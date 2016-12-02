@@ -8,7 +8,7 @@ checkout with one command.
 
 .. contents:: Table of Contents
 .. section-numbering::
-    depth: 1
+    :depth: 1
 
 Code Auditing
 =============
@@ -226,7 +226,15 @@ Post Exploitation
 - `Mallory <https://github.com/justmao945/mallory>`_ - HTTP/HTTPS proxy over SSH.
 - `Mimikatz <http://blog.gentilkiwi.com/mimikatz>`_ - A little tool to play with Windows security.
 - `Pwnat <https://samy.pl/pwnat/>`_ - Punches holes in firewalls and NATs allowing any numbers of clients behind NATs to directly connect to a server behind a different NAT.
-- `Tgcd <http://tgcd.sourceforge.net>`_ -
+- `Tgcd <http://tgcd.sourceforge.net>`_ - A simple Unix network utility to extend the accessibility of TCP/IP based network services beyond firewalls.
+
+Services
+--------
+
+- `Sslstrip <https://moxie.org/software/sslstrip/>`_ - A demonstration of the HTTPS stripping attacks.
+- `Sslstrip2 <https://github.com/LeonardoNve/sslstrip2>`_ - SSLStrip version to defeat HSTS.
+- `SSLyze <https://github.com/nabla-c0d3/sslyze>`_ - SSL configuration scanner.
+- `Tls_prober <https://github.com/WestpointLtd/tls_prober.git>`_ - Fingerprint a server's SSL/TLS implementation.
 
 Training
 --------
@@ -247,6 +255,7 @@ Web
 - `TPLMap <https://github.com/epinna/tplmap>`_ - Automatic Server-Side Template Injection Detection and Exploitation Tool.
 - `W3af <http://w3af.org>`_ - Web application attack and audit framework.
 - `Wapiti <http://wapiti.sourceforge.net>`_ - Web application vulnerability scanner.
+- `Weevely3 <https://github.com/epinna/weevely3>`_ - Weaponized web shell.
 - `WPScan <https://wpscan.org>`_ - WPScan is a black box WordPress vulnerability scanner.
 - `Zed Attack Proxy (ZAP) <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>`_ - The OWASP ZAP core project.
 

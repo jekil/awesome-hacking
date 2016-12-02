@@ -229,3 +229,18 @@
 [submodule "Pentration Testing/Wireless/wifiphisher"]
 	path = Pentration Testing/Wireless/wifiphisher
 	url = https://github.com/sophron/wifiphisher.git
+[submodule "Pentration Testing/Services/sslyze"]
+	path = Pentration Testing/Services/sslyze
+	url = https://github.com/nabla-c0d3/sslyze.git
+[submodule "Pentration Testing/Services/sslstrip"]
+	path = Pentration Testing/Services/sslstrip
+	url = https://github.com/moxie0/sslstrip.git
+[submodule "Pentration Testing/Services/sslstrip2"]
+	path = Pentration Testing/Services/sslstrip2
+	url = https://github.com/LeonardoNve/sslstrip2.git
+[submodule "Pentration Testing/Services/tls_prober"]
+	path = Pentration Testing/Services/tls_prober
+	url = https://github.com/WestpointLtd/tls_prober.git
+[submodule "Pentration Testing/Web/weevely3"]
+	path = Pentration Testing/Web/weevely3
+	url = https://github.com/epinna/weevely3.git
