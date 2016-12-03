@@ -244,3 +244,18 @@
 [submodule "Pentration Testing/Web/weevely3"]
 	path = Pentration Testing/Web/weevely3
 	url = https://github.com/epinna/weevely3.git
+[submodule "Pentration Testing/Post Exploitation/Fireaway"]
+	path = Pentration Testing/Post Exploitation/Fireaway
+	url = https://github.com/tcstool/Fireaway.git
+[submodule "Pentration Testing/Web/NoSQLMap"]
+	path = Pentration Testing/Web/NoSQLMap
+	url = https://github.com/tcstool/NoSQLMap.git
+[submodule "Malware/Ops/malboxes"]
+	path = Malware/Ops/malboxes
+	url = https://github.com/GoSecure/malboxes.git
+[submodule "Security/Endpoint Security/duckhunt"]
+	path = Security/Endpoint Security/duckhunt
+	url = https://github.com/pmsosa/duckhunt.git
+[submodule "Pentration Testing/Training/RopeyTasks"]
+	path = Pentration Testing/Training/RopeyTasks
+	url = https://github.com/continuumsecurity/RopeyTasks.git
