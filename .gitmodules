@@ -259,3 +259,9 @@
 [submodule "Pentration Testing/Training/RopeyTasks"]
 	path = Pentration Testing/Training/RopeyTasks
 	url = https://github.com/continuumsecurity/RopeyTasks.git
+[submodule "Pentration Testing/Web/liffy"]
+	path = Pentration Testing/Web/liffy
+	url = https://github.com/hvqzao/liffy.git
+[submodule "Pentration Testing/Web/Kadimus"]
+	path = Pentration Testing/Web/Kadimus
+	url = https://github.com/P0cL4bs/Kadimus.git
