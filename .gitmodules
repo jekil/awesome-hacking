@@ -265,3 +265,39 @@
 [submodule "Pentration Testing/Web/Kadimus"]
 	path = Pentration Testing/Web/Kadimus
 	url = https://github.com/P0cL4bs/Kadimus.git
+[submodule "Pentration Testing/Web/Kadabra"]
+	path = Pentration Testing/Web/Kadabra
+	url = https://github.com/D35m0nd142/Kadabra.git
+[submodule "Pentration Testing/Web/fimap"]
+	path = Pentration Testing/Web/fimap
+	url = https://github.com/kurobeats/fimap.git
+[submodule "Pentration Testing/Web/WhatWeb"]
+	path = Pentration Testing/Web/WhatWeb
+	url = https://github.com/urbanadventurer/WhatWeb.git
+[submodule "Pentration Testing/Web/joomscan"]
+	path = Pentration Testing/Web/joomscan
+	url = https://github.com/rezasp/joomscan.git
+[submodule "Reverse Engineering/coda"]
+	path = Reverse Engineering/coda
+	url = https://github.com/npamnani/coda.git
+[submodule "Pentration Testing/Mobile/idb"]
+	path = Pentration Testing/Mobile/idb
+	url = https://github.com/dmayer/idb.git
+[submodule "Reverse Engineering/idaemu"]
+	path = Reverse Engineering/idaemu
+	url = https://github.com/36hours/idaemu.git
+[submodule "Reverse Engineering/toolbag"]
+	path = Reverse Engineering/toolbag
+	url = https://github.com/aaronportnoy/toolbag.git
+[submodule "Malware/Ops/flare-fakenet-ng"]
+	path = Malware/Ops/flare-fakenet-ng
+	url = https://github.com/fireeye/flare-fakenet-ng.git
+[submodule "Malware/Static Analysis/flare-floss"]
+	path = Malware/Static Analysis/flare-floss
+	url = https://github.com/fireeye/flare-floss.git
+[submodule "Reverse Engineering/flare-ida"]
+	path = Reverse Engineering/flare-ida
+	url = https://github.com/fireeye/flare-ida.git
+[submodule "Reverse Engineering/flare-bytecode_graph"]
+	path = Reverse Engineering/flare-bytecode_graph
+	url = https://github.com/fireeye/flare-bytecode_graph.git
