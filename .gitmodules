@@ -301,3 +301,21 @@
 [submodule "Reverse Engineering/flare-bytecode_graph"]
 	path = Reverse Engineering/flare-bytecode_graph
 	url = https://github.com/fireeye/flare-bytecode_graph.git
+[submodule "Pentration Testing/Mobile/Introspy-iOS"]
+	path = Pentration Testing/Mobile/Introspy-iOS
+	url = https://github.com/iSECPartners/Introspy-iOS.git
+[submodule "Pentration Testing/Fuzzing/fuzzbox"]
+	path = Pentration Testing/Fuzzing/fuzzbox
+	url = https://github.com/iSECPartners/fuzzbox.git
+[submodule "Network/Fake Services/dnsRedir"]
+	path = Network/Fake Services/dnsRedir
+	url = https://github.com/iSECPartners/dnsRedir.git
+[submodule "Reverse Engineering/ida-pomidor"]
+	path = Reverse Engineering/ida-pomidor
+	url = https://github.com/iphelix/ida-pomidor.git
+[submodule "Reverse Engineering/ida-sploiter"]
+	path = Reverse Engineering/ida-sploiter
+	url = https://github.com/iphelix/ida-sploiter.git
+[submodule "Pentration Testing/Info Gathering/sslmap"]
+	path = Pentration Testing/Info Gathering/sslmap
+	url = https://github.com/iphelix/sslmap.git
