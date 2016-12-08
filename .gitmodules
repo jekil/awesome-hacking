@@ -319,3 +319,6 @@
 [submodule "Pentration Testing/Info Gathering/sslmap"]
 	path = Pentration Testing/Info Gathering/sslmap
 	url = https://github.com/iphelix/sslmap.git
+[submodule "Reverse Engineering/ida-patcher"]
+	path = Reverse Engineering/ida-patcher
+	url = https://github.com/iphelix/ida-patcher.git
