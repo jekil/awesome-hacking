@@ -155,6 +155,11 @@ Static Analysis
 Network
 =======
 
+Analysis
+--------
+
+- `Bro <http://www.bro.org>`_ - A powerful network analysis framework that is much different from the typical IDS you may know.
+
 Fake Services
 -------------
 
@@ -187,6 +192,7 @@ Exploiting
 - `BeEF <http://beefproject.com>`_ - The Browser Exploitation Framework Project.
 - `Fathomless <https://github.com/xor-function/fathomless>`_ - A collection of different programs for network red teaming.
 - `Metasploit Framework <http://www.metasploit.com/>`_ - Exploitation framework.
+- `PowerSploit <https://github.com/PowerShellMafia/PowerSploit/>`_ - A PowerShell Post-Exploitation Framework.
 - `Shellsploit <https://github.com/b3mb4m/shellsploit-framework>`_ - Let's you generate customized shellcodes, backdoors, injectors for various operating system. And let's you obfuscation every byte via encoders.
 - `SPARTA <http://sparta.secforce.com>`_ - Network Infrastructure Penetration Testing Tool.
 - `Zarp <https://github.com/hatRiot/zarp>`_ - Network Attack Tool.
@@ -279,7 +285,10 @@ Web
 - `Nikto2 <https://cirt.net/nikto2>`_ - Web application vulnerability scanner.
 - `NoSQLMap <http://www.nosqlmap.net>`_ - Automated Mongo database and NoSQL web application exploitation tool.
 - `Paros <https://sourceforge.net/projects/paros/>`_ - A Java based HTTP/HTTPS proxy for assessing web application vulnerability.
+- ` Ratproxy <https://code.google.com/archive/p/ratproxy/>`_ - A semi-automated, largely passive web application security audit tool, optimized for an accurate and sensitive detection, and automatic annotation, of potential problems.
+- `Skipfish <https://code.google.com/archive/p/skipfish/>`_ - An active web application security reconnaissance tool. It prepares an interactive sitemap for the targeted site by carrying out a recursive crawl and dictionary-based probes.
 - `SQLMap <http://sqlmap.org>`_ - Automatic SQL injection and database takeover tool.
+- `SQLNinja <http://sqlninja.sourceforge.net/>`_ - SQL Server injection & takeover tool.
 - `TPLMap <https://github.com/epinna/tplmap>`_ - Automatic Server-Side Template Injection Detection and Exploitation Tool.
 - `W3af <http://w3af.org>`_ - Web application attack and audit framework.
 - `Wapiti <http://wapiti.sourceforge.net>`_ - Web application vulnerability scanner.

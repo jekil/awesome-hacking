@@ -322,3 +322,9 @@
 [submodule "Reverse Engineering/ida-patcher"]
 	path = Reverse Engineering/ida-patcher
 	url = https://github.com/iphelix/ida-patcher.git
+[submodule "Network/Analysis/bro"]
+	path = Network/Analysis/bro
+	url = https://github.com/bro/bro.git
+[submodule "Pentration Testing/Exploiting/PowerSploit"]
+	path = Pentration Testing/Exploiting/PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit.git
