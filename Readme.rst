@@ -6,24 +6,16 @@ Awesome hacking is an awesome collection of **hacking tools**. Its goal is to co
 classify and make awesome tools easy to find by humans, creating a **toolset** you can
 checkout and update with one command.
 
+You can checkout all the tools with the following command::
 
---------------
- Contributing
---------------
+    git clone --recursive https://github.com/jekil/awesome-hacking.git
 
-Every kind of contribution is really appreciated! Feature requests, suggestions,
-fixes or documentation contributions are welcome.
-Please send a patch with your contribution using Github `pull requests <https://help.github.com/articles/using-pull-requests/#sending-the-pull-request>`_ or just get in touch with me.
+Every kind of **contribution** is really appreciated!
+Please send your contribution using Github `pull requests <https://help.github.com/articles/using-pull-requests/#sending-the-pull-request>`_ or just get in touch with me, at alessandro@tanasi.it.
 
-----------
- Feedback
-----------
+If you enjoy this work, please keep it alive contributing or just sharing it! - `@jekil <https://twitter.com/jekil>`_
 
-Please send questions, comments, suggestions or rants to alessandro@tanasi.it (`@jekil <https://twitter.com/jekil>`_).
-
-.. contents:: Table of Contents
 .. section-numbering::
-    :depth: 0
 
 Code Auditing
 =============
