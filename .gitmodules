@@ -328,3 +328,66 @@
 [submodule "Pentration Testing/Exploiting/PowerSploit"]
 	path = Pentration Testing/Exploiting/PowerSploit
 	url = https://github.com/PowerShellMafia/PowerSploit.git
+[submodule "Malware/Dynamic Analysis/cuckoo"]
+	path = Malware/Dynamic Analysis/cuckoo
+	url = https://github.com/cuckoosandbox/cuckoo.git
+[submodule "Pentration Testing/MITM/ettercap"]
+	path = Pentration Testing/MITM/ettercap
+	url = https://github.com/Ettercap/ettercap.git
+[submodule "Pentration Testing/Password Cracking/thc-hydra"]
+	path = Pentration Testing/Password Cracking/thc-hydra
+	url = https://github.com/vanhauser-thc/thc-hydra.git
+[submodule "Network/Packet Manipulation/yersinia"]
+	path = Network/Packet Manipulation/yersinia
+	url = https://github.com/tomac/yersinia.git
+[submodule "Library/Python/pypcap"]
+	path = Library/Python/pypcap
+	url = https://github.com/dugsong/pypcap.git
+[submodule "Library/Python/pcapy"]
+	path = Library/Python/pcapy
+	url = https://github.com/CoreSecurity/pcapy.git
+[submodule "Library/C/libdnet"]
+	path = Library/C/libdnet
+	url = https://github.com/dugsong/libdnet.git
+[submodule "Library/Python/dpkt"]
+	path = Library/Python/dpkt
+	url = https://github.com/kbandla/dpkt.git
+[submodule "Pentration Testing/Info Gathering/knock"]
+	path = Pentration Testing/Info Gathering/knock
+	url = https://github.com/guelfoweb/knock.git
+[submodule "Pentration Testing/Info Gathering/subbrute"]
+	path = Pentration Testing/Info Gathering/subbrute
+	url = https://github.com/TheRook/subbrute.git
+[submodule "Reverse Engineering/paimei"]
+	path = Reverse Engineering/paimei
+	url = https://github.com/OpenRCE/paimei.git
+[submodule "Reverse Engineering/mona"]
+	path = Reverse Engineering/mona
+	url = https://github.com/corelan/mona.git
+[submodule "Reverse Engineering/idapython"]
+	path = Reverse Engineering/idapython
+	url = https://github.com/idapython/src.git
+[submodule "Malware/Dynamic Analysis/pyemu"]
+	path = Malware/Dynamic Analysis/pyemu
+	url = https://github.com/jtwhite79/pyemu.git
+[submodule "Malware/Static Analysis/pefile"]
+	path = Malware/Static Analysis/pefile
+	url = https://github.com/erocarrera/pefile.git
+[submodule "Malware/Static Analysis/peepdf"]
+	path = Malware/Static Analysis/peepdf
+	url = https://github.com/jesparza/peepdf.git
+[submodule "Malware/Ops/CapTipper"]
+	path = Malware/Ops/CapTipper
+	url = https://github.com/omriher/CapTipper.git
+[submodule "Malware/Honeypot/phoneyc"]
+	path = Malware/Honeypot/phoneyc
+	url = https://github.com/buffer/phoneyc.git
+[submodule "Malware/Static Analysis/yara"]
+	path = Malware/Static Analysis/yara
+	url = https://github.com/VirusTotal/yara.git
+[submodule "Malware/Dynamic Analysis/jsunpack-n"]
+	path = Malware/Dynamic Analysis/jsunpack-n
+	url = https://github.com/urule99/jsunpack-n.git
+[submodule "Reverse Engineering/pyew"]
+	path = Reverse Engineering/pyew
+	url = https://github.com/joxeankoret/pyew.git

@@ -105,9 +105,18 @@ Misc
 Library
 =======
 
+C
+-
+
+- `Libdnet <https://github.com/dugsong/libdnet>`_ - Provides a simplified, portable interface to several low-level networking routines, including network address manipulation, kernel arp cache and route table lookup and manipulation, network firewalling, network interface lookup and manipulation, IP tunnelling, and raw IP packet and Ethernet frame transmission.
+
 Python
 ------
 
+- `Dpkt <https://github.com/kbandla/dpkt>`_ - Fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols.
+- `Pcapy <https://www.coresecurity.com/corelabs-research/open-source-tools/pcapy>`_ - A Python extension module that interfaces with the libpcap packet capture library. Pcapy enables python scripts to capture packets on the network. Pcapy is highly effective when used in conjunction with a packet-handling package such as Impacket, which is a collection of Python classes for constructing and dissecting network packets.
+- `Pynids <https://jon.oberheide.org/pynids/>`_ - A python wrapper for libnids, a Network Intrusion Detection System library offering sniffing, IP defragmentation, TCP stream reassembly and TCP port scan detection. Let your own python routines examine network conversations.
+- `Pypcap <https://github.com/dugsong/pypcap>`_ - This is a simplified object-oriented Python wrapper for libpcap.
 - `Scapy <http://www.secdev.org/projects/scapy/>`_ - A python-based interactive packet manipulation program & library.
 
 Live CD - Distributions
@@ -133,6 +142,14 @@ Dynamic Analysis
 ----------------
 
 - `Androguard <https://github.com/androguard/androguard/>`_ - Reverse engineering, Malware and goodware analysis of Android applications.
+- `Cuckoo Sandbox <http://www.cuckoosandbox.org>`_ - An automated dynamic malware analysis system.
+- `Jsunpack-n <https://github.com/urule99/jsunpack-n>`_ - Emulates browser functionality when visiting a URL.
+- `PyEMU <https://code.google.com/archive/p/pyemu/>`_ - Fully scriptable IA-32 emulator, useful for malware analysis.
+
+Honeypot
+--------
+
+- `Phoneyc <https://github.com/buffer/phoneyc>`_ - Pure Python honeyclient implementation.
 
 Intelligence
 ------------
@@ -142,6 +159,7 @@ Intelligence
 Ops
 ---
 
+- `CapTipper <https://github.com/omriher/CapTipper>`_ - A python tool to analyze, explore and revive HTTP malicious traffic.
 - `FakeNet-NG <https://github.com/fireeye/flare-fakenet-ng>`_ - A next generation dynamic network analysis tool for malware analysts and penetration testers. It is open source and designed for the latest versions of Windows.
 - `Malboxes <https://github.com/GoSecure/malboxes>`_ - Builds malware analysis Windows VMs so that you don't have to.
 
@@ -149,8 +167,11 @@ Static Analysis
 ---------------
 
 - `Floss <https://github.com/fireeye/flare-floss>`_ - FireEye Labs Obfuscated String Solver. Automatically extract obfuscated strings from malware.
+- `Peepdf <http://eternal-todo.com/tools/peepdf-pdf-analysis-tool>`_ - A Python tool to explore PDF files in order to find out if the file can be harmful or not. The aim of this tool is to provide all the necessary components that a security researcher could need in a PDF analysis without using 3 or 4 tools to make all the tasks.
+- `PEfile <https://github.com/erocarrera/pefile>`_ - Read and work with Portable Executable (aka PE) files.
 - `PEview <http://wjradburn.com/software/>`_ - A quick and easy way to view the structure and content of 32-bit Portable Executable (PE) and Component Object File Format (COFF) files.
 - `Sysinternals Suite <https://technet.microsoft.com/en-us/sysinternals/bb842062>`_ - The Sysinternals Troubleshooting Utilities.
+- `Yara <http://virustotal.github.io/yara/>`_ - Identify and classify malware samples.
 
 Network
 =======
@@ -170,6 +191,7 @@ Packet Manipulation
 -------------------
 
 - `Pig <https://github.com/rafael-santiago/pig>`_ - A Linux packet crafting tool.
+- `Yersinia <http://www.yersinia.net>`_ - A network tool designed to take advantage of some weakeness in different network protocols. It pretends to be a solid framework for analyzing and testing the deployed networks and systems.
 
 Sniffer
 -------
@@ -208,8 +230,11 @@ Info Gathering
 - `Dnsenum <https://github.com/fwaeytens/dnsenum/>`_ - A perl script that enumerates DNS information.
 - `Dnsmap <https://github.com/makefu/dnsmap/>`_ - Passive DNS network mapper.
 - `Dnsrecon <https://github.com/darkoperator/dnsrecon/>`_ - DNS Enumeration Script.
+- `Knock <https://github.com/guelfoweb/knock>`_ - A python tool designed to enumerate subdomains on a target domain through a wordlist.
+- `RevHosts <>`_ - Enumerate virtual hosts for a given IP address.
 - `SMBMap <https://github.com/ShawnDEvans/smbmap>`_ - A handy SMB enumeration tool.
 - `SSLMap <http://thesprawl.org/projects/sslmap/>`_ - TLS/SSL cipher suite scanner.
+- `Subbrute <https://github.com/TheRook/subbrute>`_ - A DNS meta-query spider that enumerates DNS records, and subdomains.
 
 Fuzzing
 -------
@@ -227,6 +252,8 @@ Mobile
 MITM
 ----
 
+- `Ettercap <http://www.ettercap-project.org>`_ - A comprehensive suite for man in the middle attacks. It features sniffing of live connections, content filtering on the fly and many other interesting tricks. It supports active and passive dissection of many protocols and includes many features for network and host analysis.
+- `Mallory <https://bitbucket.org/IntrepidusGroup/mallory>`_ - An extensible TCP/UDP man in the middle proxy that is designed to be run as a gateway. Unlike other tools of its kind, Mallory supports modifying non-standard protocols on the fly.
 - `Mitmproxy <https://mitmproxy.org/>`_ - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface.
 - `Mitmsocks4j <https://github.com/Akdeniz/mitmsocks4j>`_ - Man in the Middle SOCKS Proxy for JAVA.
 
@@ -236,6 +263,7 @@ Password Cracking
 - `HashCat <https://hashcat.net/hashcat/>`_ - World's fastest and most advanced password recovery utility.
 - `Hob0Rules <https://github.com/praetorian-inc/Hob0Rules>`_ - Password cracking rules for Hashcat based on statistics and industry patterns.
 - `John the Ripper <http://www.openwall.com/john/>`_ - A fast password cracker.
+- `THC-Hydra <https://www.thc.org/thc-hydra/>`_ - A very fast network logon cracker which support many different services.
 
 Port Scanning
 -------------
@@ -331,13 +359,17 @@ Reverse Engineering
 - `IDA Pomidor <http://thesprawl.org/projects/ida-pomidor/>`_ - IDA Pomidor is a plugin for Hex-Ray's IDA Pro disassembler that will help you retain concentration and productivity during long reversing sessions.
 - `IDA Pro <https://www.hex-rays.com/products/ida/index.shtml>`_ - A Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger.
 - `IDA Sploiter <http://thesprawl.org/projects/ida-sploiter/>`_ - IDA Sploiter is a plugin for Hex-Ray's IDA Pro disassembler designed to enhance IDA's capabilities as an exploit development and vulnerability research tool.
+- `IDAPython <https://github.com/idapython/>`_ - An IDA plugin which makes it possible to write scripts for IDA in the Python programming language. 
 - `Immunity Debugger <http://debugger.immunityinc.com/>`_ - A powerful new way to write exploits and analyze malware.
 - `JAD <http://varaneckas.com/jad/>`_ - JAD Java Decompiler.
 - `JD-GUI <http://jd.benow.ca>`_ - Aims to develop tools in order to decompile and analyze Java 5 “byte code” and the later versions.
+- `Mona.py <https://www.corelan.be/index.php/2011/07/14/mona-py-the-manual/>`_ - PyCommand for Immunity Debugger that replaces and improves on pvefindaddr.
 - `Medusa <https://github.com/wisk/medusa>`_ - A disassembler designed to be both modular and interactive.
 - `OllyDbg <http://www.ollydbg.de>`_ - An x86 debugger that emphasizes binary code analysis.
+- `Paimei <https://github.com/OpenRCE/paimei>`_ - Reverse engineering framework, includes PyDBG, PIDA, pGRAPH.
 - `PEDA <https://github.com/longld/peda>`_ - Python Exploit Development Assistance for GDB.
 - `Plasma <https://github.com/joelpx/plasma>`_ - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
+- `Pyew <https://github.com/joxeankoret/pyew>`_ - Command line hexadecimal editor and disassembler, mainly to analyze malware.
 - `Radare2 <http://www.radare.org>`_ - Opensource, crossplatform reverse engineering framework.
 - `Toolbag <https://github.com/aaronportnoy/toolbag>`_ - The IDA Toolbag is a plugin providing supplemental functionality to Hex-Rays IDA Pro disassembler.
 - `Voltron <https://github.com/snare/voltron>`_ - An extensible debugger UI toolkit written in Python. It aims to improve the user experience of various debuggers (LLDB, GDB, VDB and WinDbg) by enabling the attachment of utility views that can retrieve and display data from the debugger host.
