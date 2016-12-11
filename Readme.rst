@@ -13,7 +13,7 @@ You can checkout all the tools with the following command::
 Every kind of **contribution** is really appreciated!
 Please send your contribution using Github `pull requests <https://help.github.com/articles/using-pull-requests/#sending-the-pull-request>`_ or just get in touch with me, at alessandro@tanasi.it.
 
-*If you enjoy this work, please keep it alive contributing or just sharing it! - `@jekil <https://twitter.com/jekil>`_*
+*If you enjoy this work, please keep it alive contributing or just sharing it!* - `@jekil <https://twitter.com/jekil>`_
 
 .. contents:: Table of Contents
    :depth: 2
