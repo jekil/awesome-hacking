@@ -391,3 +391,9 @@
 [submodule "Reverse Engineering/pyew"]
 	path = Reverse Engineering/pyew
 	url = https://github.com/joxeankoret/pyew.git
+[submodule "Library/Java/libsignal-service-java"]
+	path = Library/Java/libsignal-service-java
+	url = https://github.com/WhisperSystems/libsignal-service-java.git
+[submodule "Security/securedrop"]
+	path = Security/securedrop
+	url = https://github.com/freedomofpress/securedrop.git

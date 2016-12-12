@@ -119,6 +119,11 @@ C
 
 - `Libdnet <https://github.com/dugsong/libdnet>`_ - Provides a simplified, portable interface to several low-level networking routines, including network address manipulation, kernel arp cache and route table lookup and manipulation, network firewalling, network interface lookup and manipulation, IP tunnelling, and raw IP packet and Ethernet frame transmission.
 
+Java
+----
+
+- `Libsignal-service-java <https://github.com/whispersystems/libsignal-service-java/>`_ - A Java/Android library for communicating with the Signal messaging service.
+
 Python
 ------
 
@@ -350,6 +355,11 @@ Endpoint Security
 -----------------
 
 - `Duckhunt <https://github.com/pmsosa/duckhunt>`_ - Prevent RubberDucky (or other keystroke injection) attacks.
+
+Privacy
+-------
+
+- `SecureDrop <https://freedom.press/securedrop>`_ - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
 
 Reverse Engineering
 ===================
