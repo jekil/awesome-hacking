@@ -397,3 +397,6 @@
 [submodule "Security/securedrop"]
 	path = Security/securedrop
 	url = https://github.com/freedomofpress/securedrop.git
+[submodule "Forensics/Live Analysis/OSXAuditor"]
+	path = Forensics/Live Analysis/OSXAuditor
+	url = https://github.com/jipegit/OSXAuditor.git
