@@ -400,3 +400,15 @@
 [submodule "Forensics/Live Analysis/OSXAuditor"]
 	path = Forensics/Live Analysis/OSXAuditor
 	url = https://github.com/jipegit/OSXAuditor.git
+[submodule "Intelligence/VIA4CVE"]
+	path = Intelligence/VIA4CVE
+	url = https://github.com/cve-search/VIA4CVE.git
+[submodule "Intelligence/xiphosresearch-exploits"]
+	path = Intelligence/xiphosresearch-exploits
+	url = https://github.com/XiphosResearch/exploits.git
+[submodule "Pentration Testing/Exploiting/exploitpack"]
+	path = Pentration Testing/Exploiting/exploitpack
+	url = https://github.com/juansacco/exploitpack.git
+[submodule "Pentration Testing/Exploiting/evilgrade"]
+	path = Pentration Testing/Exploiting/evilgrade
+	url = https://github.com/infobyte/evilgrade.git

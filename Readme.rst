@@ -116,6 +116,11 @@ Misc
 
 - `HxD <https://mh-nexus.de/en/hxd/>`_ - A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size.
 
+Intelligence
+============
+
+- `VIA4CVE <https://github.com/cve-search/VIA4CVE>`_ - An aggregator of the known vendor vulnerabilities database to support the expansion of information with CVEs.
+
 Library
 =======
 
@@ -232,6 +237,8 @@ Exploiting
 ----------
 
 - `BeEF <http://beefproject.com>`_ - The Browser Exploitation Framework Project.
+- `ExploitPack <http://exploitpack.com>`_ - Graphical tool for penetration testing with a bunch of exploits.
+- `Evilgrade <https://github.com/infobyte/evilgrade>`_ - The update explotation framework.
 - `Fathomless <https://github.com/xor-function/fathomless>`_ - A collection of different programs for network red teaming.
 - `Metasploit Framework <http://www.metasploit.com/>`_ - Exploitation framework.
 - `PowerSploit <https://github.com/PowerShellMafia/PowerSploit/>`_ - A PowerShell Post-Exploitation Framework.
@@ -243,6 +250,7 @@ Exploits
 --------
 
 - `The Exploit Database <https://github.com/offensive-security/exploit-database>`_ - The official Exploit Database repository.
+- `XiphosResearch Exploits <https://github.com/XiphosResearch/exploits>`_ - Miscellaneous proof of concept exploit code written at Xiphos Research for testing purposes.
 
 Info Gathering
 --------------
@@ -323,6 +331,7 @@ Web
 
 - `Arachni <http://www.arachni-scanner.com>`_ - Web Application Security Scanner Framework.
 - `BlindElephant <http://blindelephant.sourceforge.net>`_ - Web Application Fingerprinter.
+- `Burp Suite <http://portswigger.net/burp/>`_ - An integrated platform for performing security testing of web applications.
 - `Cms-explorer <https://code.google.com/archive/p/cms-explorer/>`_ - CMS Explorer is designed to reveal the the specific modules, plugins, components and themes that various CMS driven web sites are running.
 - `Dvcs-ripper <https://github.com/kost/dvcs-ripper>`_ - Rip web accessible (distributed) version control systems.
 - `Fimap <https://tha-imax.de/git/root/fimap>`_ - Find, prepare, audit, exploit and even google automatically for LFI/RFI bugs.
