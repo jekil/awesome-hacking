@@ -412,3 +412,18 @@
 [submodule "Pentration Testing/Exploiting/evilgrade"]
 	path = Pentration Testing/Exploiting/evilgrade
 	url = https://github.com/infobyte/evilgrade.git
+[submodule "Malware/Source Code/Carberp"]
+	path = Malware/Source Code/Carberp
+	url = https://github.com/hzeroo/Carberp.git
+[submodule "Malware/Source Code/Mirai-Source-Code"]
+	path = Malware/Source Code/Mirai-Source-Code
+	url = https://github.com/jgamblin/Mirai-Source-Code.git
+[submodule "Pentration Testing/Post Exploitation/iodine"]
+	path = Pentration Testing/Post Exploitation/iodine
+	url = https://github.com/yarrick/iodine.git
+[submodule "Pentration Testing/Info Gathering/ivre"]
+	path = Pentration Testing/Info Gathering/ivre
+	url = https://github.com/cea-sec/ivre.git
+[submodule "Network/Sniffer/justniffer"]
+	path = Network/Sniffer/justniffer
+	url = https://github.com/onotelli/justniffer.git
