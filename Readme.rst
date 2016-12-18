@@ -119,6 +119,7 @@ Misc
 Intelligence
 ============
 
+
 - `VIA4CVE <https://github.com/cve-search/VIA4CVE>`_ - An aggregator of the known vendor vulnerabilities database to support the expansion of information with CVEs.
 
 Library
@@ -142,6 +143,11 @@ Python
 - `Pynids <https://jon.oberheide.org/pynids/>`_ - A python wrapper for libnids, a Network Intrusion Detection System library offering sniffing, IP defragmentation, TCP stream reassembly and TCP port scan detection. Let your own python routines examine network conversations.
 - `Pypcap <https://github.com/dugsong/pypcap>`_ - This is a simplified object-oriented Python wrapper for libpcap.
 - `Scapy <http://www.secdev.org/projects/scapy/>`_ - A python-based interactive packet manipulation program & library.
+
+Ruby
+----
+
+- `Secureheaders <https://github.com/twitter/secureheaders>`_ - Security related headers all in one gem.
 
 Live CD - Distributions
 =======================
@@ -180,6 +186,7 @@ Intelligence
 ------------
 
 - `Passivedns-client <https://github.com/chrislee35/passivedns-client>`_ - Provides a library and a query tool for querying several passive DNS providers.
+- `Rt2jira <https://github.com/fireeye/rt2jira>`_ - Convert RT tickets to JIRA tickets.
 
 Ops
 ---
@@ -211,6 +218,7 @@ Analysis
 --------
 
 - `Bro <http://www.bro.org>`_ - A powerful network analysis framework that is much different from the typical IDS you may know.
+- `Pytbull <http://pytbull.sourceforge.net>`_ - A python based flexible IDS/IPS testing framework.
 
 Fake Services
 -------------
@@ -227,6 +235,7 @@ Packet Manipulation
 Sniffer
 -------
 
+- `Cloud-pcap <https://github.com/thepacketgeek/cloud-pcap>`_ - Web PCAP storage and analytics.
 - `Dripcap <https://dripcap.org/>`_ - Caffeinated Packet Analyzer.
 - `Dsniff <https://www.monkey.org/~dugsong/dsniff/>`_ - A collection of tools for network auditing and pentesting.
 - `Justniffer <http://justniffer.sourceforge.net/>`_ - Just A Network TCP Packet Sniffer .Justniffer is a network protocol analyzer that captures network traffic and produces logs in a customized way, can emulate Apache web server log files, track response times and extract all "intercepted" files from the HTTP traffic.
@@ -235,27 +244,41 @@ Sniffer
 - `Netsniff-ng <http://netsniff-ng.org>`_ - A Swiss army knife for your daily Linux network plumbing.
 - `OpenFPC <http://www.openfpc.org>`_ - OpenFPC is a set of scripts that combine to provide a lightweight full-packet network traffic recorder and buffering tool. Its design goal is to allow non-expert users to deploy a distributed network traffic recorder on COTS hardware while integrating into existing alert and log tools.
 - `PF_RING <http://www.ntop.org/products/packet-capture/pf_ring/>`_ - PF_RING™ is a Linux kernel module and user-space framework that allows you to process packets at high-rates while providing you a consistent API for packet processing applications.
+- `WebPcap <https://github.com/sparrowprince/WebPcap>`_ - A web-based packet analyzer (client/server architecture). Useful for analyzing distributed applications or embedded devices.
 - `Wireshark <https://www.wireshark.org>`_ - A free and open-source packet analyzer.
 
 Penetration Testing
 ===================
 
+DoS
+---
+
+- `LOIC <https://github.com/NewEraCracker/LOIC/>`_ - Low Orbit Ion Cannon - An open source network stress tool, written in C#. Based on Praetox's LOIC project.
+- `T50 <http://t50.sf.net/>`_ - The more fast network stress tool.
+
 Exploiting
 ----------
 
 - `BeEF <http://beefproject.com>`_ - The Browser Exploitation Framework Project.
+- `Commix <http://www.commixproject.com>`_ - Automated All-in-One OS Command Injection and Exploitation Tool.
 - `ExploitPack <http://exploitpack.com>`_ - Graphical tool for penetration testing with a bunch of exploits.
 - `Evilgrade <https://github.com/infobyte/evilgrade>`_ - The update explotation framework.
 - `Fathomless <https://github.com/xor-function/fathomless>`_ - A collection of different programs for network red teaming.
+- `Linux Exploit Suggester <https://github.com/PenturaLabs/Linux_Exploit_Suggester>`_ - Linux Exploit Suggester; based on operating system release number.
 - `Metasploit Framework <http://www.metasploit.com/>`_ - Exploitation framework.
+- `Nessus <http://www.tenable.com/products/nessus-vulnerability-scanner>`_ - Vulnerability, configuration, and compliance assessment.
+- `Nexpose <https://www.rapid7.com/products/nexpose/>`_ - Vulnerability Management & Risk Management Software.
+- `OpenVAS <http://www.openvas.org>`_ - Open Source vulnerability scanner and manager.
 - `PowerSploit <https://github.com/PowerShellMafia/PowerSploit/>`_ - A PowerShell Post-Exploitation Framework.
 - `Shellsploit <https://github.com/b3mb4m/shellsploit-framework>`_ - Let's you generate customized shellcodes, backdoors, injectors for various operating system. And let's you obfuscation every byte via encoders.
 - `SPARTA <http://sparta.secforce.com>`_ - Network Infrastructure Penetration Testing Tool.
+- `Windows Exploit Suggester <https://github.com/GDSSecurity/Windows-Exploit-Suggester>`_ - Detects potential missing patches on the target.
 - `Zarp <https://github.com/hatRiot/zarp>`_ - Network Attack Tool.
 
 Exploits
 --------
 
+- `Ruby-advisory-db <https://github.com/rubysec/ruby-advisory-db>`_ - A database of vulnerable Ruby Gems.
 - `The Exploit Database <https://github.com/offensive-security/exploit-database>`_ - The official Exploit Database repository.
 - `XiphosResearch Exploits <https://github.com/XiphosResearch/exploits>`_ - Miscellaneous proof of concept exploit code written at Xiphos Research for testing purposes.
 
@@ -267,7 +290,7 @@ Info Gathering
 - `Dnsrecon <https://github.com/darkoperator/dnsrecon/>`_ - DNS Enumeration Script.
 - `Knock <https://github.com/guelfoweb/knock>`_ - A python tool designed to enumerate subdomains on a target domain through a wordlist.
 - `IVRE <https://ivre.rocks>`_ - An open-source framework for network recon. It relies on open-source well-known tools to gather data (network intelligence), stores it in a database, and provides tools to analyze it.
-- `RevHosts <>`_ - Enumerate virtual hosts for a given IP address.
+- `Recon-ng <https://bitbucket.org/LaNMaSteR53/recon-ng>`_ - A full-featured Web Reconnaissance framework written in Python.
 - `SMBMap <https://github.com/ShawnDEvans/smbmap>`_ - A handy SMB enumeration tool.
 - `SSLMap <http://thesprawl.org/projects/sslmap/>`_ - TLS/SSL cipher suite scanner.
 - `Subbrute <https://github.com/TheRook/subbrute>`_ - A DNS meta-query spider that enumerates DNS records, and subdomains.
@@ -292,6 +315,7 @@ MITM
 - `Mallory <https://bitbucket.org/IntrepidusGroup/mallory>`_ - An extensible TCP/UDP man in the middle proxy that is designed to be run as a gateway. Unlike other tools of its kind, Mallory supports modifying non-standard protocols on the fly.
 - `Mitmproxy <https://mitmproxy.org/>`_ - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface.
 - `Mitmsocks4j <https://github.com/Akdeniz/mitmsocks4j>`_ - Man in the Middle SOCKS Proxy for JAVA.
+- `Responder <https://github.com/SpiderLabs/Responder>`_ - A LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.
 
 Password Cracking
 -----------------
@@ -304,12 +328,15 @@ Password Cracking
 Port Scanning
 -------------
 
+- `Angry IP Scanner <http://angryip.org>`_ - Fast and friendly network scanner.
 - `Masscan <https://github.com/robertdavidgraham/masscan>`_ - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+- `Nmap <https://nmap.org>`_ - Free Security Scanner For Network Exploration & Security Audits.
 
 Post Exploitation
 -----------------
 
 - `DET <https://github.com/sensepost/DET>`_ - (extensible) Data Exfiltration Toolkit (DET).
+- `Empire <http://www.powershellempire.com>`_ - Empire is a pure PowerShell post-exploitation agent.
 - `Fireaway <https://github.com/tcstool/Fireaway>`_ - Next Generation Firewall Audit and Bypass Tool.
 - `Iodine <http://code.kryo.se/iodine>`_ - Lets you tunnel IPv4 data through a DNS server. 
 - `Mallory <https://github.com/justmao945/mallory>`_ - HTTP/HTTPS proxy over SSH.
@@ -317,6 +344,12 @@ Post Exploitation
 - `Pwnat <https://samy.pl/pwnat/>`_ - Punches holes in firewalls and NATs allowing any numbers of clients behind NATs to directly connect to a server behind a different NAT.
 - `Tgcd <http://tgcd.sourceforge.net>`_ - A simple Unix network utility to extend the accessibility of TCP/IP based network services beyond firewalls.
 - `WCE <http://www.ampliasecurity.com/research/windows-credentials-editor/>`_ - Windows Credentials Editor (WCE) is a security tool to list logon sessions and add, change, list and delete associated credentials.
+
+Reporting
+---------
+
+- `Dradis <https://dradisframework.com/ce/>`_ - Colllaboration and reporting for IT Security teams.
+- `Faraday <http://www.faradaysec.com>`_ - Collaborative Penetration Test and Vulnerability Management Platform.
 
 Services
 --------
@@ -348,6 +381,7 @@ Web
 - `Kadabra <https://github.com/D35m0nd142/Kadabra>`_ - Automatic LFI Exploiter and Scanner, written in C++ and a couple extern module in Python.
 - `Kadimus <https://github.com/P0cL4bs/Kadimus>`_ - LFI scan and exploit tool.
 - `Liffy <https://github.com/hvqzao/liffy>`_ - LFI exploitation tool.
+- `Netsparker <https://www.netsparker.com>`_ - Web Application Security Scanner.
 - `Nikto2 <https://cirt.net/nikto2>`_ - Web application vulnerability scanner.
 - `NoSQLMap <http://www.nosqlmap.net>`_ - Automated Mongo database and NoSQL web application exploitation tool.
 - `Paros <https://sourceforge.net/projects/paros/>`_ - A Java based HTTP/HTTPS proxy for assessing web application vulnerability.
@@ -378,12 +412,15 @@ Security
 Endpoint Security
 -----------------
 
+- `AIDE <http://aide.sourceforge.net>`_ - Advanced Intrusion Detection Environment is a file and directory integrity checker.
 - `Duckhunt <https://github.com/pmsosa/duckhunt>`_ - Prevent RubberDucky (or other keystroke injection) attacks.
 
 Privacy
 -------
 
+- `I2P <https://geti2p.net>`_ - The Invisible Internet Project.
 - `SecureDrop <https://freedom.press/securedrop>`_ - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
+- `Tor <https://www.torproject.org>`_ - The free software for enabling onion routing online anonymity.
 
 Reverse Engineering
 ===================
@@ -424,6 +461,19 @@ Reverse Engineering
 
 Social Engineering
 ==================
+
+Framework
+---------
+
+- `SET <https://github.com/trustedsec/social-engineer-toolkit>`_ - The Social-Engineer Toolkit from TrustedSec.
+
+Harvester
+---------
+
+- `Creepy <http://www.geocreepy.com>`_ - A geolocation OSINT tool.
+- `Maltego <https://www.paterva.com>`_ - Proprietary software for open source intelligence and forensics, from Paterva.
+- `Metagoofil <https://github.com/laramies/metagoofil>`_ - Metadata harvester.
+- `TheHarvester <http://www.edge-security.com/theharvester.php>`_ - E-mail, subdomain and people names harvester.
 
 Phishing
 --------

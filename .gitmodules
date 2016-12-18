@@ -427,3 +427,63 @@
 [submodule "Network/Sniffer/justniffer"]
 	path = Network/Sniffer/justniffer
 	url = https://github.com/onotelli/justniffer.git
+[submodule "Network/Sniffer/cloud-pcap"]
+	path = Network/Sniffer/cloud-pcap
+	url = https://github.com/thepacketgeek/cloud-pcap.git
+[submodule "Network/Sniffer/WebPcap"]
+	path = Network/Sniffer/WebPcap
+	url = https://github.com/sparrowprince/WebPcap.git
+[submodule "Pentration Testing/Reporting/faraday"]
+	path = Pentration Testing/Reporting/faraday
+	url = https://github.com/infobyte/faraday.git
+[submodule "Pentration Testing/Exploiting/commix"]
+	path = Pentration Testing/Exploiting/commix
+	url = https://github.com/commixproject/commix.git
+[submodule "Pentration Testing/MITM/Responder"]
+	path = Pentration Testing/MITM/Responder
+	url = https://github.com/SpiderLabs/Responder.git
+[submodule "Pentration Testing/Exploiting/Windows-Exploit-Suggester"]
+	path = Pentration Testing/Exploiting/Windows-Exploit-Suggester
+	url = https://github.com/GDSSecurity/Windows-Exploit-Suggester.git
+[submodule "Pentration Testing/Exploiting/Linux_Exploit_Suggester"]
+	path = Pentration Testing/Exploiting/Linux_Exploit_Suggester
+	url = https://github.com/PenturaLabs/Linux_Exploit_Suggester.git
+[submodule "Pentration Testing/Post Exploitation/Empire"]
+	path = Pentration Testing/Post Exploitation/Empire
+	url = https://github.com/adaptivethreat/Empire.git
+[submodule "Pentration Testing/DoS/LOIC"]
+	path = Pentration Testing/DoS/LOIC
+	url = https://github.com/NewEraCracker/LOIC.git
+[submodule "Pentration Testing/Info Gathering/recon-ng"]
+	path = Pentration Testing/Info Gathering/recon-ng
+	url = https://jekil@bitbucket.org/LaNMaSteR53/recon-ng.git
+[submodule "Social Engineering/Harvester/metagoofil"]
+	path = Social Engineering/Harvester/metagoofil
+	url = https://github.com/laramies/metagoofil.git
+[submodule "Pentration Testing/Port Scanning/nmap"]
+	path = Pentration Testing/Port Scanning/nmap
+	url = https://github.com/nmap/nmap.git
+[submodule "Social Engineering/Harvester/theHarvester"]
+	path = Social Engineering/Harvester/theHarvester
+	url = https://github.com/laramies/theHarvester.git
+[submodule "Social Engineering/Harvester/creepy"]
+	path = Social Engineering/Harvester/creepy
+	url = https://github.com/ilektrojohn/creepy.git
+[submodule "Pentration Testing/Exploits/ruby-advisory-db"]
+	path = Pentration Testing/Exploits/ruby-advisory-db
+	url = https://github.com/rubysec/ruby-advisory-db.git
+[submodule "Library/Ruby/secureheaders"]
+	path = Library/Ruby/secureheaders
+	url = https://github.com/twitter/secureheaders.git
+[submodule "Intelligence/rt2jira"]
+	path = Intelligence/rt2jira
+	url = https://github.com/fireeye/rt2jira.git
+[submodule "Pentration Testing/Reporting/dradis-ce"]
+	path = Pentration Testing/Reporting/dradis-ce
+	url = https://github.com/dradis/dradis-ce.git
+[submodule "Social Engineering/Framework/social-engineer-toolkit"]
+	path = Social Engineering/Framework/social-engineer-toolkit
+	url = https://github.com/trustedsec/social-engineer-toolkit.git
+[submodule "Pentration Testing/Port Scanning/ipscan"]
+	path = Pentration Testing/Port Scanning/ipscan
+	url = https://github.com/angryziber/ipscan.git
