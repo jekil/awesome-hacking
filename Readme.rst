@@ -140,8 +140,10 @@ Python
 
 - `Dpkt <https://github.com/kbandla/dpkt>`_ - Fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols.
 - `Pcapy <https://www.coresecurity.com/corelabs-research/open-source-tools/pcapy>`_ - A Python extension module that interfaces with the libpcap packet capture library. Pcapy enables python scripts to capture packets on the network. Pcapy is highly effective when used in conjunction with a packet-handling package such as Impacket, which is a collection of Python classes for constructing and dissecting network packets.
+- `PyBFD <https://github.com/Groundworkstech/pybfd/>`_ - Python interface to the GNU Binary File Descriptor (BFD) library.
 - `Pynids <https://jon.oberheide.org/pynids/>`_ - A python wrapper for libnids, a Network Intrusion Detection System library offering sniffing, IP defragmentation, TCP stream reassembly and TCP port scan detection. Let your own python routines examine network conversations.
 - `Pypcap <https://github.com/dugsong/pypcap>`_ - This is a simplified object-oriented Python wrapper for libpcap.
+- `Python-ptrace <https://github.com/haypo/python-ptrace>`_ - Python binding of ptrace library.
 - `Scapy <http://www.secdev.org/projects/scapy/>`_ - A python-based interactive packet manipulation program & library.
 
 Ruby
@@ -219,6 +221,7 @@ Analysis
 
 - `Bro <http://www.bro.org>`_ - A powerful network analysis framework that is much different from the typical IDS you may know.
 - `Pytbull <http://pytbull.sourceforge.net>`_ - A python based flexible IDS/IPS testing framework.
+- `Sguil <http://bammv.github.io/sguil/index.html>`_ - Sguil (pronounced sgweel) is built by network security analysts for network security analysts. Sguil's main component is an intuitive GUI that provides access to realtime events, session data, and raw packet captures.
 
 Fake Services
 -------------
@@ -300,6 +303,7 @@ Fuzzing
 
 - `Fuzzbox <https://github.com/iSECPartners/fuzzbox>`_ - A multi-codec media fuzzing tool.
 - `Netzob <https://github.com/netzob/netzob>`_ - Netzob is an opensource tool for reverse engineering, traffic generation and fuzzing of communication protocols.
+- `Sulley <https://github.com/OpenRCE/sulley>`_ - Fuzzer development and fuzz testing framework consisting of multiple extensible components.
 - `Zulu <https://github.com/nccgroup/Zulu.git>`_ - A fuzzer designed for rapid prototyping that normally happens on a client engagement where something needs to be fuzzed within tight timescales.
 
 Mobile
@@ -427,9 +431,11 @@ Reverse Engineering
 
 - `BinText <http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx>`_ - A small, very fast and powerful text extractor.
 - `Bytecode_graph <https://github.com/fireeye/flare-bytecode_graph>`_ - Module designed to modify Python bytecode. Allows instructions to be added or removed from a Python bytecode string.
+- `Capstone <http://www.capstone-engine.org>`_ - Lightweight multi-platform, multi-architecture disassembly framework with Python bindings.
 - `Coda <https://github.com/npamnani/coda>`_ - Coredump analyzer.
 - `Edb <http://www.codef00.com/projects#debugger>`_ - A cross platform x86/x86-64 debugger.
 - `Dex2jar <https://github.com/pxb1988/dex2jar>`_ - Tools to work with android .dex and java .class files.
+- `Distorm <https://github.com/gdabah/distorm>`_ - Powerful Disassembler Library For x86/AMD64.
 - `DotPeek <https://www.jetbrains.com/decompiler/>`_ - A free-of-charge .NET decompiler from JetBrains.
 - `Flare-ida <https://github.com/fireeye/flare-ida>`_ - IDA Pro utilities from FLARE team.
 - `Hopper <https://www.hopperapp.com>`_ - A OS X and Linux Disassembler/Decompiler for 32/64 bit Windows/Mac/Linux/iOS executables.

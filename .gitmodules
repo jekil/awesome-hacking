@@ -487,3 +487,21 @@
 [submodule "Pentration Testing/Port Scanning/ipscan"]
 	path = Pentration Testing/Port Scanning/ipscan
 	url = https://github.com/angryziber/ipscan.git
+[submodule "Network/Analysis/sguil"]
+	path = Network/Analysis/sguil
+	url = https://github.com/bammv/sguil.git
+[submodule "Reverse Engineering/distorm"]
+	path = Reverse Engineering/distorm
+	url = https://github.com/gdabah/distorm.git
+[submodule "Library/Python/python-ptrace"]
+	path = Library/Python/python-ptrace
+	url = https://github.com/haypo/python-ptrace.git
+[submodule "Reverse Engineering/capstone"]
+	path = Reverse Engineering/capstone
+	url = https://github.com/aquynh/capstone.git
+[submodule "Library/Python/pybfd"]
+	path = Library/Python/pybfd
+	url = https://github.com/Groundworkstech/pybfd.git
+[submodule "Pentration Testing/Fuzzing/sulley"]
+	path = Pentration Testing/Fuzzing/sulley
+	url = https://github.com/OpenRCE/sulley.git
