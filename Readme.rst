@@ -304,6 +304,7 @@ Fuzzing
 - `Fuzzbox <https://github.com/iSECPartners/fuzzbox>`_ - A multi-codec media fuzzing tool.
 - `Netzob <https://github.com/netzob/netzob>`_ - Netzob is an opensource tool for reverse engineering, traffic generation and fuzzing of communication protocols.
 - `Sulley <https://github.com/OpenRCE/sulley>`_ - Fuzzer development and fuzz testing framework consisting of multiple extensible components.
+- `TAOF <https://sourceforge.net/projects/taof/>`_ - The Art of Fuzzing, including ProxyFuzz, a man-in-the-middle non-deterministic network fuzzer.
 - `Zulu <https://github.com/nccgroup/Zulu.git>`_ - A fuzzer designed for rapid prototyping that normally happens on a client engagement where something needs to be fuzzed within tight timescales.
 
 Mobile
@@ -340,6 +341,7 @@ Post Exploitation
 -----------------
 
 - `DET <https://github.com/sensepost/DET>`_ - (extensible) Data Exfiltration Toolkit (DET).
+- `Dnsteal <https://github.com/m57/dnsteal>`_ - DNS Exfiltration tool for stealthily sending files over DNS requests.
 - `Empire <http://www.powershellempire.com>`_ - Empire is a pure PowerShell post-exploitation agent.
 - `Fireaway <https://github.com/tcstool/Fireaway>`_ - Next Generation Firewall Audit and Bypass Tool.
 - `Iodine <http://code.kryo.se/iodine>`_ - Lets you tunnel IPv4 data through a DNS server. 

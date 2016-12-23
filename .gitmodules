@@ -505,3 +505,6 @@
 [submodule "Pentration Testing/Fuzzing/sulley"]
 	path = Pentration Testing/Fuzzing/sulley
 	url = https://github.com/OpenRCE/sulley.git
+[submodule "Pentration Testing/Post Exploitation/dnsteal"]
+	path = Pentration Testing/Post Exploitation/dnsteal
+	url = https://github.com/m57/dnsteal.git
