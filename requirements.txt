@@ -1,1 +1,3 @@
-alabaster
+alabaster==0.7.9
+Sphinx==1.5.1
+travis-sphinx==1.4.2
