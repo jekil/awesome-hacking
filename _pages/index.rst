@@ -2,7 +2,7 @@
  Awesome Hacking
 =================
 
-Awesome hacking is an awesome collection of **hacking tools**. Its goal is to collect,
+Awesome hacking is a curated list of **hacking tools**. Its goal is to collect,
 classify and make awesome tools easy to find by humans, creating a **toolset** you can
 checkout and update with one command.
 
@@ -105,6 +105,17 @@ Live Analysis
 
 - `OS X Auditor <OS X Auditor is a free Mac OS X computer forensics tool>`_ - OS X Auditor is a free Mac OS X computer forensics tool.
 
+Memory Forensics
+----------------
+
+- `Rekall <http://www.rekall-forensic.com>`_ - Memory analysis framework developed by Google.
+- `Volatility <http://www.volatilityfoundation.org>`_ - Extract digital artifacts from volatile memory (RAM) samples.
+
+Mobile
+------
+
+- `Android Forensic Toolkit <https://code.google.com/archive/p/aft/>`_ - Allows you to extract SMS records, call history, photos, browsing history, and password from an Android phone.
+
 Network Forensics
 -----------------
 
@@ -143,6 +154,7 @@ Python
 - `PyBFD <https://github.com/Groundworkstech/pybfd/>`_ - Python interface to the GNU Binary File Descriptor (BFD) library.
 - `Pynids <https://jon.oberheide.org/pynids/>`_ - A python wrapper for libnids, a Network Intrusion Detection System library offering sniffing, IP defragmentation, TCP stream reassembly and TCP port scan detection. Let your own python routines examine network conversations.
 - `Pypcap <https://github.com/dugsong/pypcap>`_ - This is a simplified object-oriented Python wrapper for libpcap.
+- `PyPDF2 <http://mstamy2.github.io/PyPDF2>`_ - A utility to read and write PDFs with Python.
 - `Python-ptrace <https://github.com/haypo/python-ptrace>`_ - Python binding of ptrace library.
 - `Scapy <http://www.secdev.org/projects/scapy/>`_ - A python-based interactive packet manipulation program & library.
 
@@ -239,6 +251,7 @@ Sniffer
 -------
 
 - `Cloud-pcap <https://github.com/thepacketgeek/cloud-pcap>`_ - Web PCAP storage and analytics.
+- `Dnscap <https://www.dns-oarc.net/tools/dnscap>`_ - Network capture utility designed specifically for DNS traffic.
 - `Dripcap <https://dripcap.org/>`_ - Caffeinated Packet Analyzer.
 - `Dsniff <https://www.monkey.org/~dugsong/dsniff/>`_ - A collection of tools for network auditing and pentesting.
 - `Justniffer <http://justniffer.sourceforge.net/>`_ - Just A Network TCP Packet Sniffer .Justniffer is a network protocol analyzer that captures network traffic and produces logs in a customized way, can emulate Apache web server log files, track response times and extract all "intercepted" files from the HTTP traffic.
@@ -301,10 +314,13 @@ Info Gathering
 Fuzzing
 -------
 
+- `Construct <http://construct.readthedocs.org>`_ - Declarative data structures for python that allow symmetric parsing and building.
+- `Fusil <http://fusil.readthedocs.io/>`_ - A Python library used to write fuzzing programs. It helps to start process with a prepared environment (limit memory, environment variables, redirect stdout, etc.), start network client or server, and create mangled files. 
 - `Fuzzbox <https://github.com/iSECPartners/fuzzbox>`_ - A multi-codec media fuzzing tool.
 - `Netzob <https://github.com/netzob/netzob>`_ - Netzob is an opensource tool for reverse engineering, traffic generation and fuzzing of communication protocols.
 - `Sulley <https://github.com/OpenRCE/sulley>`_ - Fuzzer development and fuzz testing framework consisting of multiple extensible components.
 - `TAOF <https://sourceforge.net/projects/taof/>`_ - The Art of Fuzzing, including ProxyFuzz, a man-in-the-middle non-deterministic network fuzzer.
+- `Windows IPC Fuzzing Tools <https://www.nccgroup.trust/us/about-us/resources/windows-ipc-fuzzing-tools/>`_ - A collection of tools used to attack applications that use Windows Interprocess Communication mechanisms.
 - `Zulu <https://github.com/nccgroup/Zulu.git>`_ - A fuzzer designed for rapid prototyping that normally happens on a client engagement where something needs to be fuzzed within tight timescales.
 
 Mobile

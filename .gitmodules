@@ -508,3 +508,27 @@
 [submodule "Pentration Testing/Post Exploitation/dnsteal"]
 	path = Pentration Testing/Post Exploitation/dnsteal
 	url = https://github.com/m57/dnsteal.git
+[submodule "Network/Sniffer/dnscap"]
+	path = Network/Sniffer/dnscap
+	url = https://github.com/DNS-OARC/dnscap.git
+[submodule "Pentration Testing/Fuzzing/construct"]
+	path = Pentration Testing/Fuzzing/construct
+	url = https://github.com/construct/construct.git
+[submodule "Forensics/Memory Forensics/volatility"]
+	path = Forensics/Memory Forensics/volatility
+	url = https://github.com/volatilityfoundation/volatility.git
+[submodule "Forensics/Memory Forensics/rekall"]
+	path = Forensics/Memory Forensics/rekall
+	url = https://github.com/google/rekall.git
+[submodule "Library/Python/PyPDF2"]
+	path = Library/Python/PyPDF2
+	url = https://github.com/mstamy2/PyPDF2.git
+[submodule "Malware/Static Analysis/pdfminer"]
+	path = Malware/Static Analysis/pdfminer
+	url = https://github.com/euske/pdfminer.git
+[submodule "Pentration Testing/Password Cracking/BozoCrack"]
+	path = Pentration Testing/Password Cracking/BozoCrack
+	url = https://github.com/juuso/BozoCrack.git
+[submodule "Pentration Testing/Wireless/mass-deauth"]
+	path = Pentration Testing/Wireless/mass-deauth
+	url = https://github.com/Andy-Maclachlan/mass-deauth.git
