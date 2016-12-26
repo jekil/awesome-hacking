@@ -97,13 +97,16 @@ html_theme_options = {
     #'logo_name': True,
     #'logo_text_align': 'center',
     'description': "Hacker's toolset",
+    'github_button': True,
     'github_user': 'jekil',
     'github_repo': 'awesome-hacking',
+    'github_banner': True,
     'travis_button': False,
-    #'gratipay_user': 'jekil',
+    'gratipay_user': 'jekil',
     'analytics_id': 'UA-2317228-22',
     #'link': '#3782BE',
     #'link_hover': '#3782BE',
+    'show_powered_by': False,
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
