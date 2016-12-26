@@ -175,3 +175,11 @@ pseudoxml:
 	$(SPHINXBUILD) -b pseudoxml $(ALLSPHINXOPTS) $(BUILDDIR)/pseudoxml
 	@echo
 	@echo "Build finished. The pseudo-XML files are in $(BUILDDIR)/pseudoxml."
+
+github: publish
+	ghp-import -b gh-pages -m "Travis.ci automated site building" -n _build/html
+	@git push -fq https://${GH_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git $(GITHUB_PAGES_BRANCH)
+
+purge:
+	curl -X DELETE "https://api.cloudflare.com/client/v4/zones/${CF_ZONEID}/purge_cache" -H "X-Auth-Email: ${CF_EMAIL}" -H "X-Auth-Key: ${CF_AUTH}" -H "Content-Type: application/json" --data '{"purge_everything":true}'
+
