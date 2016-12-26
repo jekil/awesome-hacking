@@ -98,10 +98,10 @@ html_theme_options = {
     #'logo_text_align': 'center',
     'description': "Hacker's toolset",
     'github_user': 'jekil',
-    'github_repo': 'hardentheworld',
+    'github_repo': 'awesome-hacking',
     'travis_button': False,
     #'gratipay_user': 'jekil',
-    'analytics_id': 'UA-2317228-21',
+    'analytics_id': 'UA-2317228-22',
     #'link': '#3782BE',
     #'link_hover': '#3782BE',
 }
@@ -179,7 +179,7 @@ html_sidebars = {
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'HardenTheWorld'
+htmlhelp_basename = 'AwesomeHacking'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -198,7 +198,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'HardenTheWorld.tex', u'Awesome Hacking', u'', 'manual'),
+  ('index', 'AwesomeHacking.tex', u'Awesome Hacking', u'', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
