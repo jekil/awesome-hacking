@@ -96,7 +96,7 @@ html_theme_options = {
     #'logo': 'logo.png',
     #'logo_name': True,
     #'logo_text_align': 'center',
-    'description': "Hardening guidelines",
+    'description': "Hacker's toolset",
     'github_user': 'jekil',
     'github_repo': 'hardentheworld',
     'travis_button': False,
