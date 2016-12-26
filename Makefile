@@ -177,7 +177,7 @@ pseudoxml:
 	@echo "Build finished. The pseudo-XML files are in $(BUILDDIR)/pseudoxml."
 
 github:
-	ghp-import -b gh-pages -m "Travis.ci automated site building" -n _build/html
+	ghp-import -b gh-pages -c awesomehacking.org -m "Travis.ci automated site building" -n _build/html
 	@git push -fq https://${GH_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git $(GITHUB_PAGES_BRANCH)
 
 purge:
