@@ -532,3 +532,18 @@
 [submodule "Pentration Testing/Wireless/mass-deauth"]
 	path = Pentration Testing/Wireless/mass-deauth
 	url = https://github.com/Andy-Maclachlan/mass-deauth.git
+[submodule "Malware/Intelligence/misp-modules"]
+	path = Malware/Intelligence/misp-modules
+	url = https://github.com/MISP/misp-modules.git
+[submodule "Malware/Honeypot/mhn"]
+	path = Malware/Honeypot/mhn
+	url = https://github.com/threatstream/mhn.git
+[submodule "Pentration Testing/Training/NodeGoat"]
+	path = Pentration Testing/Training/NodeGoat
+	url = https://github.com/OWASP/NodeGoat.git
+[submodule "Pentration Testing/Training/juice-shop"]
+	path = Pentration Testing/Training/juice-shop
+	url = https://github.com/bkimminich/juice-shop.git
+[submodule "Malware/Honeypot/glutton"]
+	path = Malware/Honeypot/glutton
+	url = https://github.com/mushorg/glutton.git
