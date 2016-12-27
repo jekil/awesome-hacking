@@ -10,8 +10,7 @@ You can checkout all the tools with the following command::
 
     git clone --recursive https://github.com/jekil/awesome-hacking.git
 
-Every kind of **contribution** is really appreciated!
-Please send your contribution using Github `pull requests <https://help.github.com/articles/using-pull-requests/#sending-the-pull-request>`_ or just get in touch with me, at alessandro@tanasi.it.
+Every kind of **contribution** is really appreciated! Follow the :doc:`contribute`.
 
 *If you enjoy this work, please keep it alive contributing or just sharing it!* - `@jekil <https://twitter.com/jekil>`_
 
@@ -52,9 +51,18 @@ Docker
 
     docker pull kalilinux/kali-linux-docker 
 
+- `OWASP Juice Shop <https://hub.docker.com/r/bkimminich/juice-shop/>`_ - An intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
+
+    docker pull bkimminich/juice-shop
+
 - `OWASP Mutillidae II <https://hub.docker.com/r/citizenstig/nowasp/>`_ - OWASP Mutillidae II Web Pen-Test Practice Application.
 
     docker pull citizenstig/nowasp
+
+- `OWASP NodeGoat <https://github.com/owasp/nodegoat#option-3>`_ - An environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
+
+    git clone https://github.com/OWASP/NodeGoat.git
+    docker-compose build && docker-compose up
 
 - `OWASP Railsgoat <https://hub.docker.com/r/owasp/railsgoat/>`_ - A vulnerable version of Rails that follows the OWASP Top 10.
 
@@ -194,11 +202,14 @@ Dynamic Analysis
 Honeypot
 --------
 
+- `Glutton <https://github.com/mushorg/glutton>`_ - All eating honeypot.
+- `MHN <https://github.com/threatstream/mhn>`_ - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management.
 - `Phoneyc <https://github.com/buffer/phoneyc>`_ - Pure Python honeyclient implementation.
 
 Intelligence
 ------------
 
+- `MISP Modules <https://github.com/MISP/misp-modules>`_ - Modules for expansion services, import and export in MISP.
 - `Passivedns-client <https://github.com/chrislee35/passivedns-client>`_ - Provides a library and a query tool for querying several passive DNS providers.
 - `Rt2jira <https://github.com/fireeye/rt2jira>`_ - Convert RT tickets to JIRA tickets.
 
@@ -222,6 +233,7 @@ Static Analysis
 - `Peepdf <http://eternal-todo.com/tools/peepdf-pdf-analysis-tool>`_ - A Python tool to explore PDF files in order to find out if the file can be harmful or not. The aim of this tool is to provide all the necessary components that a security researcher could need in a PDF analysis without using 3 or 4 tools to make all the tasks.
 - `PEfile <https://github.com/erocarrera/pefile>`_ - Read and work with Portable Executable (aka PE) files.
 - `PEview <http://wjradburn.com/software/>`_ - A quick and easy way to view the structure and content of 32-bit Portable Executable (PE) and Component Object File Format (COFF) files.
+- `Pdfminer <https://euske.github.io/pdfminer/>`_ - A tool for extracting information from PDF documents.
 - `Sysinternals Suite <https://technet.microsoft.com/en-us/sysinternals/bb842062>`_ - The Sysinternals Troubleshooting Utilities.
 - `Yara <http://virustotal.github.io/yara/>`_ - Identify and classify malware samples.
 
@@ -341,6 +353,7 @@ MITM
 Password Cracking
 -----------------
 
+- `BozoCrack <https://github.com/juuso/BozoCrack>`_ - A silly & effective MD5 cracker in Ruby.
 - `HashCat <https://hashcat.net/hashcat/>`_ - World's fastest and most advanced password recovery utility.
 - `Hob0Rules <https://github.com/praetorian-inc/Hob0Rules>`_ - Password cracking rules for Hashcat based on statistics and industry patterns.
 - `John the Ripper <http://www.openwall.com/john/>`_ - A fast password cracker.
@@ -385,6 +398,8 @@ Training
 --------
 
 - `DVWA <http://dvwa.co.uk>`_ - Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.
+- `OWASP Juice Shop <https://www.owasp.org/index.php/OWASP_Juice_Shop_Project>`_ - An intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
+- `OWASP NodeGoat <https://www.owasp.org/index.php/Projects/OWASP_Node_js_Goat_Project>`_ - An environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
 - `OWASP Railsgoat <http://railsgoat.cktricky.com/>`_ - A vulnerable version of Rails that follows the OWASP Top 10.
 - `OWASP Security Shepherd <https://www.owasp.org/index.php/OWASP_Security_Shepherd>`_ - A web and mobile application security training platform.
 - `OWASP WebGoat <https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project>`_ - A deliberately insecure Web Application.
@@ -424,6 +439,7 @@ Wireless
 
 - `Aircrack-ng <http://www.aircrack-ng.org>`_ - An 802.11 WEP and WPA-PSK keys cracking program.
 - `Kismet <https://kismetwireless.net/>`_ - Wireless network detector, sniffer, and IDS.
+- `Mass-deauth <http://rfkiller.github.io/mass-deauth/>`_ - A script for 802.11 mass-deauthentication.
 - `Reaver <https://code.google.com/archive/p/reaver-wps>`_ - Brute force attack against Wifi Protected Setup.
 - `Wifite <https://github.com/derv82/wifite>`_ - Automated wireless attack tool.
 - `Wifiphisher <https://github.com/sophron/wifiphisher>`_ - Automated phishing attacks against Wi-Fi networks.
