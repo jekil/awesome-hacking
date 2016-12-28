@@ -547,3 +547,54 @@
 [submodule "Malware/Honeypot/glutton"]
 	path = Malware/Honeypot/glutton
 	url = https://github.com/mushorg/glutton.git
+[submodule "Pentration Testing/Web/Scout2"]
+	path = Pentration Testing/Web/Scout2
+	url = https://github.com/nccgroup/Scout2.git
+[submodule "Pentration Testing/DoS/ufonet"]
+	path = Pentration Testing/DoS/ufonet
+	url = https://github.com/epsylon/ufonet.git
+[submodule "Pentration Testing/Wireless/wifijammer"]
+	path = Pentration Testing/Wireless/wifijammer
+	url = https://github.com/DanMcInerney/wifijammer.git
+[submodule "Pentration Testing/Wireless/wifikill"]
+	path = Pentration Testing/Wireless/wifikill
+	url = https://github.com/roglew/wifikill.git
+[submodule "Pentration Testing/Port Scanning/zmap"]
+	path = Pentration Testing/Port Scanning/zmap
+	url = https://github.com/zmap/zmap.git
+[submodule "Pentration Testing/DoS/torshammer"]
+	path = Pentration Testing/DoS/torshammer
+	url = https://github.com/dotfighter/torshammer.git
+[submodule "Pentration Testing/DoS/sockstress"]
+	path = Pentration Testing/DoS/sockstress
+	url = https://github.com/defuse/sockstress.git
+[submodule "Pentration Testing/MITM/MITMf"]
+	path = Pentration Testing/MITM/MITMf
+	url = https://github.com/byt3bl33d3r/MITMf.git
+[submodule "Pentration Testing/Wireless/LANs.py"]
+	path = Pentration Testing/Wireless/LANs.py
+	url = https://github.com/DanMcInerney/LANs.py.git
+[submodule "Pentration Testing/DoS/DHCPig"]
+	path = Pentration Testing/DoS/DHCPig
+	url = https://github.com/kamorin/DHCPig.git
+[submodule "Network/Sniffer/net-creds"]
+	path = Network/Sniffer/net-creds
+	url = https://github.com/DanMcInerney/net-creds.git
+[submodule "Pentration Testing/MITM/dnsspoof"]
+	path = Pentration Testing/MITM/dnsspoof
+	url = https://github.com/DanMcInerney/dnsspoof.git
+[submodule "Pentration Testing/Web/wpsploit"]
+	path = Pentration Testing/Web/wpsploit
+	url = https://github.com/espreto/wpsploit.git
+[submodule "Pentration Testing/Web/WS-Attacker"]
+	path = Pentration Testing/Web/WS-Attacker
+	url = https://github.com/RUB-NDS/WS-Attacker.git
+[submodule "Pentration Testing/Web/OWASP-Xenotix-XSS-Exploit-Framework"]
+	path = Pentration Testing/Web/OWASP-Xenotix-XSS-Exploit-Framework
+	url = https://github.com/ajinabraham/OWASP-Xenotix-XSS-Exploit-Framework.git
+[submodule "Pentration Testing/Info Gathering/bundler-audit"]
+	path = Pentration Testing/Info Gathering/bundler-audit
+	url = https://github.com/rubysec/bundler-audit.git
+[submodule "Pentration Testing/Web/yasuo"]
+	path = Pentration Testing/Web/yasuo
+	url = https://github.com/0xsauby/yasuo.git

@@ -268,6 +268,7 @@ Sniffer
 - `Dsniff <https://www.monkey.org/~dugsong/dsniff/>`_ - A collection of tools for network auditing and pentesting.
 - `Justniffer <http://justniffer.sourceforge.net/>`_ - Just A Network TCP Packet Sniffer .Justniffer is a network protocol analyzer that captures network traffic and produces logs in a customized way, can emulate Apache web server log files, track response times and extract all "intercepted" files from the HTTP traffic.
 - `Moloch <https://github.com/aol/moloch>`_ - Moloch is a open source large scale full PCAP capturing, indexing and database system.
+- `Net-creds <https://github.com/DanMcInerney/net-creds>`_ - Sniffs sensitive data from interface or pcap.
 - `NetworkMiner <http://www.netresec.com/?page=NetworkMiner>`_ - A Network Forensic Analysis Tool (NFAT).
 - `Netsniff-ng <http://netsniff-ng.org>`_ - A Swiss army knife for your daily Linux network plumbing.
 - `OpenFPC <http://www.openfpc.org>`_ - OpenFPC is a set of scripts that combine to provide a lightweight full-packet network traffic recorder and buffering tool. Its design goal is to allow non-expert users to deploy a distributed network traffic recorder on COTS hardware while integrating into existing alert and log tools.
@@ -281,8 +282,12 @@ Penetration Testing
 DoS
 ---
 
+- `DHCPig <https://github.com/kamorin/DHCPig>`_ - DHCP exhaustion script written in python using scapy network library.
 - `LOIC <https://github.com/NewEraCracker/LOIC/>`_ - Low Orbit Ion Cannon - An open source network stress tool, written in C#. Based on Praetox's LOIC project.
+- `Sockstress <https://github.com/defuse/sockstress>`_ - Sockstress (TCP DoS) implementation.
 - `T50 <http://t50.sf.net/>`_ - The more fast network stress tool.
+- `Torshammer <https://github.com/dotfighter/torshammer>`_ - Tor's hammer. Slow post DDOS tool written in python.
+- `UFONet <http://ufonet.03c8.net>`_ - Abuses OSI Layer 7-HTTP to create/manage 'zombies' and to conduct different attacks using; GET/POST, multithreading, proxies, origin spoofing methods, cache evasion techniques, etc.
 
 Exploiting
 ----------
@@ -313,6 +318,7 @@ Exploits
 Info Gathering
 --------------
 
+- `Bundler-audit <https://github.com/rubysec/bundler-audit>`_ - Patch-level verification for Bundler.
 - `Dnsenum <https://github.com/fwaeytens/dnsenum/>`_ - A perl script that enumerates DNS information.
 - `Dnsmap <https://github.com/makefu/dnsmap/>`_ - Passive DNS network mapper.
 - `Dnsrecon <https://github.com/darkoperator/dnsrecon/>`_ - DNS Enumeration Script.
@@ -344,8 +350,10 @@ Mobile
 MITM
 ----
 
+- `Dnsspoof <https://github.com/DanMcInerney/dnsspoof>`_ - DNS spoofer. Drops DNS responses from the router and replaces it with the spoofed DNS response.
 - `Ettercap <http://www.ettercap-project.org>`_ - A comprehensive suite for man in the middle attacks. It features sniffing of live connections, content filtering on the fly and many other interesting tricks. It supports active and passive dissection of many protocols and includes many features for network and host analysis.
 - `Mallory <https://bitbucket.org/IntrepidusGroup/mallory>`_ - An extensible TCP/UDP man in the middle proxy that is designed to be run as a gateway. Unlike other tools of its kind, Mallory supports modifying non-standard protocols on the fly.
+- `MITMf <https://github.com/byt3bl33d3r/MITMf>`_ - Framework for Man-In-The-Middle attacks.
 - `Mitmproxy <https://mitmproxy.org/>`_ - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface.
 - `Mitmsocks4j <https://github.com/Akdeniz/mitmsocks4j>`_ - Man in the Middle SOCKS Proxy for JAVA.
 - `Responder <https://github.com/SpiderLabs/Responder>`_ - A LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.
@@ -365,6 +373,7 @@ Port Scanning
 - `Angry IP Scanner <http://angryip.org>`_ - Fast and friendly network scanner.
 - `Masscan <https://github.com/robertdavidgraham/masscan>`_ - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - `Nmap <https://nmap.org>`_ - Free Security Scanner For Network Exploration & Security Audits.
+- `Zmap <https://zmap.io>`_ - An open-source network scanner that enables researchers to easily perform Internet-wide network studies. 
 
 Post Exploitation
 -----------------
@@ -421,17 +430,22 @@ Web
 - `Netsparker <https://www.netsparker.com>`_ - Web Application Security Scanner.
 - `Nikto2 <https://cirt.net/nikto2>`_ - Web application vulnerability scanner.
 - `NoSQLMap <http://www.nosqlmap.net>`_ - Automated Mongo database and NoSQL web application exploitation tool.
+- `OWASP Xenotix <https://www.owasp.org/index.php/OWASP_Xenotix_XSS_Exploit_Framework>`_ - XSS Exploit Framework is an advanced Cross Site Scripting (XSS) vulnerability detection and exploitation framework.
 - `Paros <https://sourceforge.net/projects/paros/>`_ - A Java based HTTP/HTTPS proxy for assessing web application vulnerability.
-- ` Ratproxy <https://code.google.com/archive/p/ratproxy/>`_ - A semi-automated, largely passive web application security audit tool, optimized for an accurate and sensitive detection, and automatic annotation, of potential problems.
+- `Ratproxy <https://code.google.com/archive/p/ratproxy/>`_ - A semi-automated, largely passive web application security audit tool, optimized for an accurate and sensitive detection, and automatic annotation, of potential problems.
+- `Scout2 <https://nccgroup.github.io/Scout2/>`_ - Security auditing tool for AWS environments.
 - `Skipfish <https://code.google.com/archive/p/skipfish/>`_ - An active web application security reconnaissance tool. It prepares an interactive sitemap for the targeted site by carrying out a recursive crawl and dictionary-based probes.
 - `SQLMap <http://sqlmap.org>`_ - Automatic SQL injection and database takeover tool.
 - `SQLNinja <http://sqlninja.sourceforge.net/>`_ - SQL Server injection & takeover tool.
 - `TPLMap <https://github.com/epinna/tplmap>`_ - Automatic Server-Side Template Injection Detection and Exploitation Tool.
+- `Yasuo <https://github.com/0xsauby/yasuo>`_ - A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network.
 - `W3af <http://w3af.org>`_ - Web application attack and audit framework.
 - `Wapiti <http://wapiti.sourceforge.net>`_ - Web application vulnerability scanner.
 - `Weevely3 <https://github.com/epinna/weevely3>`_ - Weaponized web shell.
 - `WhatWeb <https://www.morningstarsecurity.com/research/whatweb>`_ - Website Fingerprinter.
 - `WPScan <https://wpscan.org>`_ - WPScan is a black box WordPress vulnerability scanner.
+- `WPSploit <https://github.com/espreto/wpsploit>`_ - Exploiting Wordpress With Metasploit.
+- `WS-Attacker <https://github.com/RUB-NDS/WS-Attacker>`_ - A modular framework for web services penetration testing.
 - `Zed Attack Proxy (ZAP) <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>`_ - The OWASP ZAP core project.
 
 Wireless
@@ -439,8 +453,11 @@ Wireless
 
 - `Aircrack-ng <http://www.aircrack-ng.org>`_ - An 802.11 WEP and WPA-PSK keys cracking program.
 - `Kismet <https://kismetwireless.net/>`_ - Wireless network detector, sniffer, and IDS.
+- `LANs.py <https://github.com/DanMcInerney/LANs.py>`_ - Inject code, jam wifi, and spy on wifi users.
 - `Mass-deauth <http://rfkiller.github.io/mass-deauth/>`_ - A script for 802.11 mass-deauthentication.
 - `Reaver <https://code.google.com/archive/p/reaver-wps>`_ - Brute force attack against Wifi Protected Setup.
+- `Wifikill <https://github.com/roglew/wifikill>`_ - A python program to kick people off of wifi.
+- `Wifijammer <https://github.com/DanMcInerney/wifijammer>`_ - Continuously jam all wifi clients/routers.
 - `Wifite <https://github.com/derv82/wifite>`_ - Automated wireless attack tool.
 - `Wifiphisher <https://github.com/sophron/wifiphisher>`_ - Automated phishing attacks against Wi-Fi networks.
 
