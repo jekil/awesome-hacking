@@ -6,6 +6,8 @@ I would love every kind of **contribution**, we need everyone help to run this p
 
 Please send your contribution using Github `pull requests <https://help.github.com/articles/using-pull-requests/#sending-the-pull-request>`_ or just get in touch with me (`@jekil <https://twitter.com/jekil>`_).
 
+Thank you for your contribuition!
+
 Adding to this list
 -------------------
 
@@ -23,7 +25,14 @@ Please prepare your pull following some suggestions:
 * The pull request and commit should have a descriptive title.
 * Please write descriptive commit messages.
 
-Thank you for your contribuition!
+Edit / Fix the list
+-------------------
+
+Any fix or improvment to the list is welcome, for example:
+
+* If you have found a typo.
+* If you want to improve a description.
+* If you have any issues accessing a linked tool.
 
 ------------------------------------
 Contributor Covenant Code of Conduct
