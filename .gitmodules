@@ -601,3 +601,9 @@
 [submodule "Pentration Testing/Exploiting/vuls"]
 	path = Pentration Testing/Exploiting/vuls
 	url = https://github.com/future-architect/vuls.git
+[submodule "Reverse Engineering/keystone"]
+	path = Reverse Engineering/keystone
+	url = https://github.com/keystone-engine/keystone.git
+[submodule "Reverse Engineering/unicorn"]
+	path = Reverse Engineering/unicorn
+	url = https://github.com/unicorn-engine/unicorn.git
