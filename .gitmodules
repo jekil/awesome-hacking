@@ -598,3 +598,6 @@
 [submodule "Pentration Testing/Web/yasuo"]
 	path = Pentration Testing/Web/yasuo
 	url = https://github.com/0xsauby/yasuo.git
+[submodule "Pentration Testing/Exploiting/vuls"]
+	path = Pentration Testing/Exploiting/vuls
+	url = https://github.com/future-architect/vuls.git

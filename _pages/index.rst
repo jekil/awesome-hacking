@@ -305,6 +305,7 @@ Exploiting
 - `PowerSploit <https://github.com/PowerShellMafia/PowerSploit/>`_ - A PowerShell Post-Exploitation Framework.
 - `Shellsploit <https://github.com/b3mb4m/shellsploit-framework>`_ - Let's you generate customized shellcodes, backdoors, injectors for various operating system. And let's you obfuscation every byte via encoders.
 - `SPARTA <http://sparta.secforce.com>`_ - Network Infrastructure Penetration Testing Tool.
+- `Vuls <https://github.com/future-architect/vuls>`_ - Vulnerability scanner for Linux/FreeBSD, agentless, written in Go.
 - `Windows Exploit Suggester <https://github.com/GDSSecurity/Windows-Exploit-Suggester>`_ - Detects potential missing patches on the target.
 - `Zarp <https://github.com/hatRiot/zarp>`_ - Network Attack Tool.
 
