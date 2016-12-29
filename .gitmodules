@@ -607,3 +607,18 @@
 [submodule "Reverse Engineering/unicorn"]
 	path = Reverse Engineering/unicorn
 	url = https://github.com/unicorn-engine/unicorn.git
+[submodule "Pentration Testing/Exploiting/routersploit"]
+	path = Pentration Testing/Exploiting/routersploit
+	url = https://github.com/reverse-shell/routersploit.git
+[submodule "Reverse Engineering/fibratus"]
+	path = Reverse Engineering/fibratus
+	url = https://github.com/rabbitstack/fibratus.git
+[submodule "Social Engineering/Harvester/github-dorks"]
+	path = Social Engineering/Harvester/github-dorks
+	url = https://github.com/techgaun/github-dorks.git
+[submodule "Pentration Testing/Exploiting/spoodle"]
+	path = Pentration Testing/Exploiting/spoodle
+	url = https://github.com/vjex/spoodle.git
+[submodule "Reverse Engineering/chipsec"]
+	path = Reverse Engineering/chipsec
+	url = https://github.com/chipsec/chipsec.git
