@@ -102,7 +102,7 @@ Forensics
 File Forensics
 --------------
 
-- `Autospy <http://www.sleuthkit.org/autopsy/>`_ - A digital forensics platform and graphical interface to The Sleuth Kit and other digital forensics tools.
+- `Autopsy <http://www.sleuthkit.org/autopsy/>`_ - A digital forensics platform and graphical interface to The Sleuth Kit and other digital forensics tools.
 - `DFF <http://www.digital-forensic.org>`_ - A Forensics Framework coming with command line and graphical interfaces. DFF can be used to investigate hard drives and volatile memory and create reports about user and system activities.
 - `Hadoop_framework <https://github.com/sleuthkit/hadoop_framework>`_ - A prototype system that uses Hadoop to process hard drive images.
 - `Scalpel <https://github.com/sleuthkit/scalpel>`_ - An open source data carving tool.
@@ -266,7 +266,7 @@ Sniffer
 - `Dnscap <https://www.dns-oarc.net/tools/dnscap>`_ - Network capture utility designed specifically for DNS traffic.
 - `Dripcap <https://dripcap.org/>`_ - Caffeinated Packet Analyzer.
 - `Dsniff <https://www.monkey.org/~dugsong/dsniff/>`_ - A collection of tools for network auditing and pentesting.
-- `Justniffer <http://justniffer.sourceforge.net/>`_ - Just A Network TCP Packet Sniffer .Justniffer is a network protocol analyzer that captures network traffic and produces logs in a customized way, can emulate Apache web server log files, track response times and extract all "intercepted" files from the HTTP traffic.
+- `Justniffer <http://justniffer.sourceforge.net/>`_ - Just A Network TCP Packet Sniffer. Justniffer is a network protocol analyzer that captures network traffic and produces logs in a customized way, can emulate Apache web server log files, track response times and extract all "intercepted" files from the HTTP traffic.
 - `Moloch <https://github.com/aol/moloch>`_ - Moloch is a open source large scale full PCAP capturing, indexing and database system.
 - `Net-creds <https://github.com/DanMcInerney/net-creds>`_ - Sniffs sensitive data from interface or pcap.
 - `NetworkMiner <http://www.netresec.com/?page=NetworkMiner>`_ - A Network Forensic Analysis Tool (NFAT).
@@ -355,6 +355,7 @@ MITM
 
 - `Dnsspoof <https://github.com/DanMcInerney/dnsspoof>`_ - DNS spoofer. Drops DNS responses from the router and replaces it with the spoofed DNS response.
 - `Ettercap <http://www.ettercap-project.org>`_ - A comprehensive suite for man in the middle attacks. It features sniffing of live connections, content filtering on the fly and many other interesting tricks. It supports active and passive dissection of many protocols and includes many features for network and host analysis.
+- `Bettercap <https://bettercap.org/>`_ - A powerful, flexible and portable tool created to perform various types of MITM attacks against a network, manipulate HTTP, HTTPS and TCP traffic in realtime, sniff for credentials and much more.
 - `Mallory <https://bitbucket.org/IntrepidusGroup/mallory>`_ - An extensible TCP/UDP man in the middle proxy that is designed to be run as a gateway. Unlike other tools of its kind, Mallory supports modifying non-standard protocols on the fly.
 - `MITMf <https://github.com/byt3bl33d3r/MITMf>`_ - Framework for Man-In-The-Middle attacks.
 - `Mitmproxy <https://mitmproxy.org/>`_ - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface.
