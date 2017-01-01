@@ -622,3 +622,27 @@
 [submodule "Reverse Engineering/chipsec"]
 	path = Reverse Engineering/chipsec
 	url = https://github.com/chipsec/chipsec.git
+[submodule "Pentration Testing/Fuzzing/python-afl"]
+	path = Pentration Testing/Fuzzing/python-afl
+	url = https://github.com/jwilk/python-afl.git
+[submodule "Malware/Static Analysis/androwarn"]
+	path = Malware/Static Analysis/androwarn
+	url = https://github.com/maaaaz/androwarn.git
+[submodule "Malware/Static Analysis/ApkAnalyser"]
+	path = Malware/Static Analysis/ApkAnalyser
+	url = https://github.com/sonyxperiadev/ApkAnalyser.git
+[submodule "Malware/Static Analysis/apkinspector"]
+	path = Malware/Static Analysis/apkinspector
+	url = https://github.com/honeynet/apkinspector.git
+[submodule "Malware/Static Analysis/droidlegacy"]
+	path = Malware/Static Analysis/droidlegacy
+	url = https://bitbucket.org/srl/droidlegacy.git
+[submodule "Malware/Static Analysis/Argus-SAF"]
+	path = Malware/Static Analysis/Argus-SAF
+	url = https://github.com/arguslab/Argus-SAF.git
+[submodule "Malware/Static Analysis/PScout"]
+	path = Malware/Static Analysis/PScout
+	url = https://github.com/zd2100/PScout.git
+[submodule "Malware/Static Analysis/smalisca"]
+	path = Malware/Static Analysis/smalisca
+	url = https://github.com/dorneanu/smalisca.git
