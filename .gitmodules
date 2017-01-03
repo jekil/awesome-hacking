@@ -649,3 +649,9 @@
 [submodule "Security/Privacy/nipe"]
 	path = Security/Privacy/nipe
 	url = https://github.com/GouveaHeitor/nipe.git
+[submodule "Pentration Testing/Training/dont_panic"]
+	path = Pentration Testing/Training/dont_panic
+	url = https://github.com/antire-book/dont_panic.git
+[submodule "Malware/Honeypot/spamscope"]
+	path = Malware/Honeypot/spamscope
+	url = https://github.com/SpamScope/spamscope.git
