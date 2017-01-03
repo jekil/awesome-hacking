@@ -51,6 +51,10 @@ Docker
 
     docker pull kalilinux/kali-linux-docker 
 
+- `Metasploit <https://hub.docker.com/r/remnux/metasploit/>`_ - Metasploit Framework penetration testing software (unofficial docker).
+
+   docker pull remnux/metasploit
+
 - `OWASP Juice Shop <https://hub.docker.com/r/bkimminich/juice-shop/>`_ - An intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
 
     docker pull bkimminich/juice-shop
@@ -83,6 +87,10 @@ Docker
 - `Security Ninjas <https://hub.docker.com/r/opendns/security-ninjas/>`_ - An Open Source Application Security Training Program.
 
     docker pull opendns/security-ninjas
+
+- `Vulnerable WordPress Installation <https://hub.docker.com/r/wpscanteam/vulnerablewordpress/>`_ - Vulnerable WordPress Installation.
+
+    docker pull wpscanteam/vulnerablewordpress
 
 - `Vulnerability as a service: Heartbleed <https://hub.docker.com/r/hmlio/vaas-cve-2014-0160/>`_ - Vulnerability as a Service: CVE 2014-0160.
 
@@ -486,6 +494,7 @@ Privacy
 -------
 
 - `I2P <https://geti2p.net>`_ - The Invisible Internet Project.
+- `Nipe <https://github.com/GouveaHeitor/nipe>`_ - A script to make Tor Network your default gateway.
 - `SecureDrop <https://freedom.press/securedrop>`_ - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
 - `Tor <https://www.torproject.org>`_ - The free software for enabling onion routing online anonymity.
 

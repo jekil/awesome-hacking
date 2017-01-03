@@ -646,3 +646,6 @@
 [submodule "Malware/Static Analysis/smalisca"]
 	path = Malware/Static Analysis/smalisca
 	url = https://github.com/dorneanu/smalisca.git
+[submodule "Security/Privacy/nipe"]
+	path = Security/Privacy/nipe
+	url = https://github.com/GouveaHeitor/nipe.git
