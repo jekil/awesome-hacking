@@ -88,6 +88,10 @@ Docker
 
     docker pull opendns/security-ninjas
 
+- `SpamScope <https://hub.docker.com/r/fmantuano/spamscope-elasticsearch/>`_ - SpamScope (Fast Advanced Spam Analysis Tool) Elasticsearch.
+
+    docker pull fmantuano/spamscope-elasticsearch
+
 - `Vulnerable WordPress Installation <https://hub.docker.com/r/wpscanteam/vulnerablewordpress/>`_ - Vulnerable WordPress Installation.
 
     docker pull wpscanteam/vulnerablewordpress
@@ -213,6 +217,7 @@ Honeypot
 - `Glutton <https://github.com/mushorg/glutton>`_ - All eating honeypot.
 - `MHN <https://github.com/threatstream/mhn>`_ - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management.
 - `Phoneyc <https://github.com/buffer/phoneyc>`_ - Pure Python honeyclient implementation.
+- `SpamScope <https://github.com/SpamScope/spamscope>`_ - Fast Advanced Spam Analysis Tool.
 
 Intelligence
 ------------
@@ -426,6 +431,7 @@ Services
 Training
 --------
 
+- `Don't Panic <https://github.com/antire-book/dont_panic>`_ - Training linux bind shell with anti-reverse engineering techniques.
 - `DVWA <http://dvwa.co.uk>`_ - Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.
 - `OWASP Juice Shop <https://www.owasp.org/index.php/OWASP_Juice_Shop_Project>`_ - An intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
 - `OWASP NodeGoat <https://www.owasp.org/index.php/Projects/OWASP_Node_js_Goat_Project>`_ - An environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
