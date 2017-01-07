@@ -135,6 +135,7 @@ Mobile
 ------
 
 - `Android Forensic Toolkit <https://code.google.com/archive/p/aft/>`_ - Allows you to extract SMS records, call history, photos, browsing history, and password from an Android phone.
+- `Mem <https://github.com/MobileForensicsResearch/mem>`_ - Tool used for dumping memory from Android devices.
 
 Network Forensics
 -----------------
@@ -186,6 +187,7 @@ Ruby
 Live CD - Distributions
 =======================
 
+- `Android Tamer <https://androidtamer.com>`_ - Virtual / Live Platform for Android Security professionals.
 - `ArchStrike <https://archstrike.org>`_ - An Arch Linux repository for security professionals and enthusiasts.
 - `BackBox <https://backbox.org>`_ - Ubuntu-based distribution for penetration tests and security assessments.
 - `BlackArch <https://www.blackarch.org>`__ - Arch Linux-based distribution for penetration testers and security researchers.
@@ -207,8 +209,13 @@ Dynamic Analysis
 
 - `Androguard <https://github.com/androguard/androguard/>`_ - Reverse engineering, Malware and goodware analysis of Android applications.
 - `Cuckoo Sandbox <http://www.cuckoosandbox.org>`_ - An automated dynamic malware analysis system.
+- `CuckooDroid <https://github.com/idanr1986/cuckoo-droid>`_ - Automated Android Malware Analysis with Cuckoo Sandbox.
+- `DECAF <https://github.com/sycurelab/DECAF>`_ - Short for Dynamic Executable Code Analysis Framework, is a binary analysis platform based on QEMU.
+- `DroidBox <https://github.com/pjlantz/droidbox>`_ - Dynamic analysis of Android apps.
+- `Hooker <https://github.com/AndroidHooker/hooker>`_ - An opensource project for dynamic analyses of Android applications.
 - `Jsunpack-n <https://github.com/urule99/jsunpack-n>`_ - Emulates browser functionality when visiting a URL.
 - `Malzilla <http://malzilla.sourceforge.net>`_ - Web pages that contain exploits often use a series of redirects and obfuscated code to make it more difficult for somebody to follow. MalZilla is a useful program for use in exploring malicious pages. It allows you to choose your own user agent and referrer, and has the ability to use proxies. It shows you the full source of webpages and all the HTTP headers. It gives you various decoders to try and deobfuscate javascript aswell.
+- `ProbeDroid <>`_ - A dynamic binary instrumentation kit targeting on Android(Lollipop) 5.0 and above.
 - `PyEMU <https://code.google.com/archive/p/pyemu/>`_ - Fully scriptable IA-32 emulator, useful for malware analysis.
 
 Honeypot
@@ -246,13 +253,18 @@ Static Analysis
 - `ApkAnalyser <https://github.com/sonyxperiadev/ApkAnalyser>`_ - A static, virtual analysis tool for examining and validating the development work of your Android app.
 - `APKinspector <https://github.com/honeynet/apkinspector/>`_ A powerful GUI tool for analysts to analyze the Android applications.
 - `Argus-SAF <http://pag.arguslab.org/argus-saf>`_ - Argus static analysis framework.
+- `CFGScanDroid <https://github.com/douggard/CFGScanDroid>`_ - Control Flow Graph Scanning for Android.
+- `ConDroid <https://github.com/JulianSchuette/ConDroid>`_ - Symbolic/concolic execution of Android apps.
 - `DroidLegacy <https://bitbucket.org/srl/droidlegacy>`_ - Static analysis scripts.
 - `Floss <https://github.com/fireeye/flare-floss>`_ - FireEye Labs Obfuscated String Solver. Automatically extract obfuscated strings from malware.
+- `Inspeckage <https://github.com/ac-pm/Inspeckage>`_ - Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more.
+- `Maldrolyzer <https://github.com/maldroid/maldrolyzer>`_ - Simple framework to extract "actionable" data from Android malware (C&Cs, phone numbers, etc).
 - `Peepdf <http://eternal-todo.com/tools/peepdf-pdf-analysis-tool>`_ - A Python tool to explore PDF files in order to find out if the file can be harmful or not. The aim of this tool is to provide all the necessary components that a security researcher could need in a PDF analysis without using 3 or 4 tools to make all the tasks.
 - `PEfile <https://github.com/erocarrera/pefile>`_ - Read and work with Portable Executable (aka PE) files.
 - `PEview <http://wjradburn.com/software/>`_ - A quick and easy way to view the structure and content of 32-bit Portable Executable (PE) and Component Object File Format (COFF) files.
 - `Pdfminer <https://euske.github.io/pdfminer/>`_ - A tool for extracting information from PDF documents.
 - `PScout <http://pscout.csl.toronto.edu>`_ - Analyzing the Android Permission Specification.
+- `Smali-CFGs <https://github.com/EugenioDelfa/Smali-CFGs>`_ - Smali Control Flow Graph's.
 - `SmaliSCA <https://github.com/dorneanu/smalisca>`_ - Smali Static Code Analysis.
 - `Sysinternals Suite <https://technet.microsoft.com/en-us/sysinternals/bb842062>`_ - The Sysinternals Troubleshooting Utilities.
 - `Yara <http://virustotal.github.io/yara/>`_ - Identify and classify malware samples.
@@ -368,8 +380,14 @@ Fuzzing
 Mobile
 ------
 
+- `AFE <https://github.com/appknox/AFE>`_ - Android Framework for Exploitation, is a framework for exploiting android based devices.
+- `AndroBugs <https://github.com/AndroBugs/AndroBugs_Framework>`_ - An efficient Android vulnerability scanner that helps developers or hackers find potential security vulnerabilities in Android applications.
+- `CobraDroid <https://thecobraden.com/projects/cobradroid/>`_ - A custom build of the Android operating system geared specifically for application security analysts and for individuals dealing with mobile malware.
+- `Drozer <http://mwr.to/drozer>`_ - The Leading Security Assessment Framework for Android.
 - `Idb <http://www.idbtool.com>`_ - A tool to simplify some common tasks for iOS pentesting and research.
 - `Introspy-iOS <http://isecpartners.github.io/Introspy-iOS/>`_ - Security profiling for blackbox iOS.
+- `Mobile Security Framework <http://opensecurity.in>`_ - An intelligent, all-in-one open source mobile application (Android/iOS/Windows) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
+- `QARK <https://github.com/linkedin/qark/>`_ - QARK by LinkedIn is for app developers to scan app for security issues.
 
 MITM
 ----
@@ -381,6 +399,7 @@ MITM
 - `MITMf <https://github.com/byt3bl33d3r/MITMf>`_ - Framework for Man-In-The-Middle attacks.
 - `Mitmproxy <https://mitmproxy.org/>`_ - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface.
 - `Mitmsocks4j <https://github.com/Akdeniz/mitmsocks4j>`_ - Man in the Middle SOCKS Proxy for JAVA.
+- `Nogotofail <https://github.com/google/nogotofail>`_ - An on-path blackbox network traffic security testing tool.
 - `Responder <https://github.com/SpiderLabs/Responder>`_ - A LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.
 
 Password Cracking
@@ -507,6 +526,8 @@ Privacy
 Reverse Engineering
 ===================
 
+- `AndBug <https://github.com/swdunlop/AndBug>`_ - A debugger targeting the Android platform's Dalvik virtual machine intended for reverse engineers and developers.
+- `ApkTool <https://ibotpeaches.github.io/Apktool/>`_ - A tool for reverse engineering Android apk files.
 - `BinText <http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx>`_ - A small, very fast and powerful text extractor.
 - `Bytecode_graph <https://github.com/fireeye/flare-bytecode_graph>`_ - Module designed to modify Python bytecode. Allows instructions to be added or removed from a Python bytecode string.
 - `Capstone <http://www.capstone-engine.org>`_ - Lightweight multi-platform, multi-architecture disassembly framework with Python bindings.
@@ -530,8 +551,9 @@ Reverse Engineering
 - `JAD <http://varaneckas.com/jad/>`_ - JAD Java Decompiler.
 - `JD-GUI <http://jd.benow.ca>`_ - Aims to develop tools in order to decompile and analyze Java 5 “byte code” and the later versions.
 - `Keystone Engine <http://www.keystone-engine.org>`_ - A lightweight multi-platform, multi-architecture assembler framework.
-- `Mona.py <https://www.corelan.be/index.php/2011/07/14/mona-py-the-manual/>`_ - PyCommand for Immunity Debugger that replaces and improves on pvefindaddr.
+- `MARA Framework <https://github.com/xtiankisutsa/MARA_Framework>`_ - A Mobile Application Reverse engineering and Analysis Framework.
 - `Medusa <https://github.com/wisk/medusa>`_ - A disassembler designed to be both modular and interactive.
+- `Mona.py <https://www.corelan.be/index.php/2011/07/14/mona-py-the-manual/>`_ - PyCommand for Immunity Debugger that replaces and improves on pvefindaddr.
 - `OllyDbg <http://www.ollydbg.de>`_ - An x86 debugger that emphasizes binary code analysis.
 - `Paimei <https://github.com/OpenRCE/paimei>`_ - Reverse engineering framework, includes PyDBG, PIDA, pGRAPH.
 - `PEDA <https://github.com/longld/peda>`_ - Python Exploit Development Assistance for GDB.
@@ -539,6 +561,7 @@ Reverse Engineering
 - `Procyon <https://bitbucket.org/mstrobel/procyon>`_ - A modern open-source Java decompiler.
 - `Pyew <https://github.com/joxeankoret/pyew>`_ - Command line hexadecimal editor and disassembler, mainly to analyze malware.
 - `Radare2 <http://www.radare.org>`_ - Opensource, crossplatform reverse engineering framework.
+- `Smali <https://github.com/JesusFreke/smali>`_ - Smali/baksmali is an assembler/disassembler for the dex format used by dalvik, Android's Java VM implementation.
 - `Toolbag <https://github.com/aaronportnoy/toolbag>`_ - The IDA Toolbag is a plugin providing supplemental functionality to Hex-Rays IDA Pro disassembler.
 - `Unicorn Engine <http://www.unicorn-engine.org>`_ - A lightweight, multi-platform, multi-architecture CPU emulator framework based on QEMU.
 - `Voltron <https://github.com/snare/voltron>`_ - An extensible debugger UI toolkit written in Python. It aims to improve the user experience of various debuggers (LLDB, GDB, VDB and WinDbg) by enabling the attachment of utility views that can retrieve and display data from the debugger host.

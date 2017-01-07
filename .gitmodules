@@ -655,3 +655,69 @@
 [submodule "Malware/Honeypot/spamscope"]
 	path = Malware/Honeypot/spamscope
 	url = https://github.com/SpamScope/spamscope.git
+[submodule "Malware/Static Analysis/Smali-CFGs"]
+	path = Malware/Static Analysis/Smali-CFGs
+	url = https://github.com/EugenioDelfa/Smali-CFGs.git
+[submodule "Malware/Static Analysis/CFGScanDroid"]
+	path = Malware/Static Analysis/CFGScanDroid
+	url = https://github.com/douggard/CFGScanDroid.git
+[submodule "Malware/Static Analysis/maldrolyzer"]
+	path = Malware/Static Analysis/maldrolyzer
+	url = https://github.com/maldroid/maldrolyzer.git
+[submodule "Malware/Static Analysis/ConDroid"]
+	path = Malware/Static Analysis/ConDroid
+	url = https://github.com/JulianSchuette/ConDroid.git
+[submodule "Pentration Testing/Mobile/qark"]
+	path = Pentration Testing/Mobile/qark
+	url = https://github.com/linkedin/qark.git
+[submodule "Pentration Testing/Mobile/AndroBugs_Framework"]
+	path = Pentration Testing/Mobile/AndroBugs_Framework
+	url = https://github.com/AndroBugs/AndroBugs_Framework.git
+[submodule "Pentration Testing/Mobile/Mobile-Security-Framework-MobSF"]
+	path = Pentration Testing/Mobile/Mobile-Security-Framework-MobSF
+	url = https://github.com/ajinabraham/Mobile-Security-Framework-MobSF.git
+[submodule "Malware/Dynamic Analysis/droidbox"]
+	path = Malware/Dynamic Analysis/droidbox
+	url = https://github.com/pjlantz/droidbox.git
+[submodule "Pentration Testing/Mobile/CobraDroidBeta"]
+	path = Pentration Testing/Mobile/CobraDroidBeta
+	url = https://github.com/jakev/CobraDroidBeta.git
+[submodule "Malware/Static Analysis/Inspeckage"]
+	path = Malware/Static Analysis/Inspeckage
+	url = https://github.com/ac-pm/Inspeckage.git
+[submodule "Malware/Dynamic Analysis/DECAF"]
+	path = Malware/Dynamic Analysis/DECAF
+	url = https://github.com/sycurelab/DECAF.git
+[submodule "Malware/Dynamic Analysis/cuckoo-droid"]
+	path = Malware/Dynamic Analysis/cuckoo-droid
+	url = https://github.com/idanr1986/cuckoo-droid.git
+[submodule "Malware/Dynamic Analysis/hooker"]
+	path = Malware/Dynamic Analysis/hooker
+	url = https://github.com/AndroidHooker/hooker.git
+[submodule "Malware/Dynamic Analysis/ProbeDroid"]
+	path = Malware/Dynamic Analysis/ProbeDroid
+	url = https://github.com/ZSShen/ProbeDroid.git
+[submodule "Pentration Testing/MITM/nogotofail"]
+	path = Pentration Testing/MITM/nogotofail
+	url = https://github.com/google/nogotofail.git
+[submodule "Forensics/Mobile/mem"]
+	path = Forensics/Mobile/mem
+	url = https://github.com/MobileForensicsResearch/mem.git
+[submodule "Reverse Engineering/MARA_Framework"]
+	path = Reverse Engineering/MARA_Framework
+	url = https://github.com/xtiankisutsa/MARA_Framework.git
+[submodule "Reverse Engineering/smali"]
+	path = Reverse Engineering/smali
+	url = https://github.com/JesusFreke/smali.git
+[submodule "Reverse Engineering/AndBug"]
+	path = Reverse Engineering/AndBug
+	url = https://github.com/swdunlop/AndBug.git
+[submodule "Reverse Engineering/Apktool"]
+	path = Reverse Engineering/Apktool
+	url = https://github.com/iBotPeaches/Apktool.git
+[submodule "Pentration Testing/Mobile/AFE"]
+	path = Pentration Testing/Mobile/AFE
+	url = https://github.com/appknox/AFE.git
+[submodule "Pentration Testing/Mobile/drozer"]
+	path = Pentration Testing/Mobile/drozer
+	url = https://github.com/mwrlabs/drozer.git
