@@ -222,6 +222,7 @@ Honeypot
 --------
 
 - `Glutton <https://github.com/mushorg/glutton>`_ - All eating honeypot.
+- `Maildb <https://github.com/kevthehermit/Maildb>`_ - Python Web App to Parse and Track Email and http Pcap Files.
 - `MHN <https://github.com/threatstream/mhn>`_ - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management.
 - `Phoneyc <https://github.com/buffer/phoneyc>`_ - Pure Python honeyclient implementation.
 - `SpamScope <https://github.com/SpamScope/spamscope>`_ - Fast Advanced Spam Analysis Tool.
@@ -243,6 +244,7 @@ Ops
 Source Code
 -----------
 
+- `Android-malware <https://github.com/ashishb/android-malware>`_ - Collection of android malware samples.
 - `Carberp <https://github.com/hzeroo/Carberp>` - Carberp leaked source code.
 - `Mirai <https://github.com/jgamblin/Mirai-Source-Code>`_ - Leaked Mirai Source Code for Research/IoC Development Purposes.
 
@@ -257,6 +259,7 @@ Static Analysis
 - `ConDroid <https://github.com/JulianSchuette/ConDroid>`_ - Symbolic/concolic execution of Android apps.
 - `DroidLegacy <https://bitbucket.org/srl/droidlegacy>`_ - Static analysis scripts.
 - `Floss <https://github.com/fireeye/flare-floss>`_ - FireEye Labs Obfuscated String Solver. Automatically extract obfuscated strings from malware.
+- `FSquaDRA <https://github.com/zyrikby/FSquaDRA>`_ - Fast detection of repackaged Android applications based on the comparison of resource files included into the package.
 - `Inspeckage <https://github.com/ac-pm/Inspeckage>`_ - Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more.
 - `Maldrolyzer <https://github.com/maldroid/maldrolyzer>`_ - Simple framework to extract "actionable" data from Android malware (C&Cs, phone numbers, etc).
 - `Peepdf <http://eternal-todo.com/tools/peepdf-pdf-analysis-tool>`_ - A Python tool to explore PDF files in order to find out if the file can be harmful or not. The aim of this tool is to provide all the necessary components that a security researcher could need in a PDF analysis without using 3 or 4 tools to make all the tasks.
@@ -367,11 +370,16 @@ Info Gathering
 Fuzzing
 -------
 
+- `AndroFuzz <https://github.com/jonmetz/AndroFuzz>`_ - A fuzzing utility for Android that focuses on reporting and delivery portions of the fuzzing process.
 - `Construct <http://construct.readthedocs.org>`_ - Declarative data structures for python that allow symmetric parsing and building.
 - `Fusil <http://fusil.readthedocs.io/>`_ - A Python library used to write fuzzing programs. It helps to start process with a prepared environment (limit memory, environment variables, redirect stdout, etc.), start network client or server, and create mangled files. 
 - `Fuzzbox <https://github.com/iSECPartners/fuzzbox>`_ - A multi-codec media fuzzing tool.
+- `Honggfuzz <http://google.github.io/honggfuzz/>`_ - Security oriented fuzzer with powerful analysis options. Supports evolutionary, feedback-driven fuzzing based on code coverage (sw and hw).
+- `Melkor-android <https://github.com/anestisb/melkor-android>`_ - An Android port of the melkor ELF fuzzer.
+- `MFFA <https://github.com/fuzzing/MFFA>`_ - Media Fuzzing Framework for Android.
 - `Netzob <https://github.com/netzob/netzob>`_ - Netzob is an opensource tool for reverse engineering, traffic generation and fuzzing of communication protocols.
 - `Python-AFL <http://jwilk.net/software/python-afl>`_ - American fuzzy lop fork server and instrumentation for pure-Python code.
+- `Radamsa-android <https://github.com/anestisb/radamsa-android>`_ - An Android port of radamsa fuzzer.
 - `Sulley <https://github.com/OpenRCE/sulley>`_ - Fuzzer development and fuzz testing framework consisting of multiple extensible components.
 - `TAOF <https://sourceforge.net/projects/taof/>`_ - The Art of Fuzzing, including ProxyFuzz, a man-in-the-middle non-deterministic network fuzzer.
 - `Windows IPC Fuzzing Tools <https://www.nccgroup.trust/us/about-us/resources/windows-ipc-fuzzing-tools/>`_ - A collection of tools used to attack applications that use Windows Interprocess Communication mechanisms.
@@ -529,6 +537,7 @@ Reverse Engineering
 - `AndBug <https://github.com/swdunlop/AndBug>`_ - A debugger targeting the Android platform's Dalvik virtual machine intended for reverse engineers and developers.
 - `ApkTool <https://ibotpeaches.github.io/Apktool/>`_ - A tool for reverse engineering Android apk files.
 - `BinText <http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx>`_ - A small, very fast and powerful text extractor.
+- `Bytecode-viewer <https://bytecodeviewer.com>`_ - A Java 8 Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More).
 - `Bytecode_graph <https://github.com/fireeye/flare-bytecode_graph>`_ - Module designed to modify Python bytecode. Allows instructions to be added or removed from a Python bytecode string.
 - `Capstone <http://www.capstone-engine.org>`_ - Lightweight multi-platform, multi-architecture disassembly framework with Python bindings.
 - `CHIPSEC <https://github.com/chipsec/chipsec>`_ - Platform Security Assessment Framework.
@@ -537,8 +546,11 @@ Reverse Engineering
 - `Dex2jar <https://github.com/pxb1988/dex2jar>`_ - Tools to work with android .dex and java .class files.
 - `Distorm <https://github.com/gdabah/distorm>`_ - Powerful Disassembler Library For x86/AMD64.
 - `DotPeek <https://www.jetbrains.com/decompiler/>`_ - A free-of-charge .NET decompiler from JetBrains.
+- `Enjarify <https://github.com/google/enjarify>`_ - A tool for translating Dalvik bytecode to equivalent Java bytecode. This allows Java analysis tools to analyze Android applications.
 - `Fibratus <https://github.com/rabbitstack/fibratus>`_ - Tool for exploration and tracing of the Windows kernel.
+- `Fino <https://github.com/sysdream/fino>`_ - An Android Dynamic Analysis Tool.
 - `Flare-ida <https://github.com/fireeye/flare-ida>`_ - IDA Pro utilities from FLARE team.
+- `Frida <https://www.frida.re>`_ - Inject JavaScript to explore native apps on Windows, macOS, Linux, iOS, Android, and QNX.
 - `Hopper <https://www.hopperapp.com>`_ - A OS X and Linux Disassembler/Decompiler for 32/64 bit Windows/Mac/Linux/iOS executables.
 - `Idaemu <https://github.com/36hours/idaemu>`_ - Is an IDA Pro Plugin, use for emulating code in IDA Pro.
 - `IDA Free <https://www.hex-rays.com/products/ida/support/download_freeware.shtml>`_ - The freeware version of IDA.
@@ -551,6 +563,7 @@ Reverse Engineering
 - `JAD <http://varaneckas.com/jad/>`_ - JAD Java Decompiler.
 - `JD-GUI <http://jd.benow.ca>`_ - Aims to develop tools in order to decompile and analyze Java 5 “byte code” and the later versions.
 - `Keystone Engine <http://www.keystone-engine.org>`_ - A lightweight multi-platform, multi-architecture assembler framework.
+- `Krakatau <https://github.com/Storyyeller/Krakatau>`_ - Java decompiler, assembler, and disassembler.
 - `MARA Framework <https://github.com/xtiankisutsa/MARA_Framework>`_ - A Mobile Application Reverse engineering and Analysis Framework.
 - `Medusa <https://github.com/wisk/medusa>`_ - A disassembler designed to be both modular and interactive.
 - `Mona.py <https://www.corelan.be/index.php/2011/07/14/mona-py-the-manual/>`_ - PyCommand for Immunity Debugger that replaces and improves on pvefindaddr.
@@ -561,6 +574,8 @@ Reverse Engineering
 - `Procyon <https://bitbucket.org/mstrobel/procyon>`_ - A modern open-source Java decompiler.
 - `Pyew <https://github.com/joxeankoret/pyew>`_ - Command line hexadecimal editor and disassembler, mainly to analyze malware.
 - `Radare2 <http://www.radare.org>`_ - Opensource, crossplatform reverse engineering framework.
+- `Redexer <https://github.com/plum-umd/redexer>`_ - A reengineering tool that manipulates Android app binaries.
+- `Simplify <https://github.com/CalebFenton/simplify>`_ - Generic Android Deobfuscator.
 - `Smali <https://github.com/JesusFreke/smali>`_ - Smali/baksmali is an assembler/disassembler for the dex format used by dalvik, Android's Java VM implementation.
 - `Toolbag <https://github.com/aaronportnoy/toolbag>`_ - The IDA Toolbag is a plugin providing supplemental functionality to Hex-Rays IDA Pro disassembler.
 - `Unicorn Engine <http://www.unicorn-engine.org>`_ - A lightweight, multi-platform, multi-architecture CPU emulator framework based on QEMU.

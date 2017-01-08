@@ -721,3 +721,48 @@
 [submodule "Pentration Testing/Mobile/drozer"]
 	path = Pentration Testing/Mobile/drozer
 	url = https://github.com/mwrlabs/drozer.git
+[submodule "Reverse Engineering/enjarify"]
+	path = Reverse Engineering/enjarify
+	url = https://github.com/google/enjarify.git
+[submodule "Reverse Engineering/fino"]
+	path = Reverse Engineering/fino
+	url = https://github.com/sysdream/fino.git
+[submodule "Reverse Engineering/frida"]
+	path = Reverse Engineering/frida
+	url = https://github.com/frida/frida.git
+[submodule "Reverse Engineering/Krakatau"]
+	path = Reverse Engineering/Krakatau
+	url = https://github.com/Storyyeller/Krakatau.git
+[submodule "Reverse Engineering/redexer"]
+	path = Reverse Engineering/redexer
+	url = https://github.com/plum-umd/redexer.git
+[submodule "Reverse Engineering/simplify"]
+	path = Reverse Engineering/simplify
+	url = https://github.com/CalebFenton/simplify.git
+[submodule "Pentration Testing/Fuzzing/radamsa-android"]
+	path = Pentration Testing/Fuzzing/radamsa-android
+	url = https://github.com/anestisb/radamsa-android.git
+[submodule "Pentration Testing/Fuzzing/melkor-android"]
+	path = Pentration Testing/Fuzzing/melkor-android
+	url = https://github.com/anestisb/melkor-android.git
+[submodule "Pentration Testing/Fuzzing/honggfuzz"]
+	path = Pentration Testing/Fuzzing/honggfuzz
+	url = https://github.com/google/honggfuzz.git
+[submodule "Pentration Testing/Fuzzing/AndroFuzz"]
+	path = Pentration Testing/Fuzzing/AndroFuzz
+	url = https://github.com/jonmetz/AndroFuzz.git
+[submodule "Malware/Static Analysis/FSquaDRA"]
+	path = Malware/Static Analysis/FSquaDRA
+	url = https://github.com/zyrikby/FSquaDRA.git
+[submodule "Pentration Testing/Fuzzing/MFFA"]
+	path = Pentration Testing/Fuzzing/MFFA
+	url = https://github.com/fuzzing/MFFA.git
+[submodule "Malware/Source Code/android-malware"]
+	path = Malware/Source Code/android-malware
+	url = https://github.com/ashishb/android-malware.git
+[submodule "Malware/Honeypot/Maildb"]
+	path = Malware/Honeypot/Maildb
+	url = https://github.com/kevthehermit/Maildb.git
+[submodule "Reverse Engineering/bytecode-viewer"]
+	path = Reverse Engineering/bytecode-viewer
+	url = https://github.com/Konloch/bytecode-viewer.git
