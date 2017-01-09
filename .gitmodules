@@ -766,3 +766,21 @@
 [submodule "Reverse Engineering/bytecode-viewer"]
 	path = Reverse Engineering/bytecode-viewer
 	url = https://github.com/Konloch/bytecode-viewer.git
+[submodule "Malware/Ops/google-play-crawler"]
+	path = Malware/Ops/google-play-crawler
+	url = https://github.com/Akdeniz/google-play-crawler.git
+[submodule "Malware/Ops/googleplay-api"]
+	path = Malware/Ops/googleplay-api
+	url = https://github.com/egirault/googleplay-api.git
+[submodule "Malware/Ops/node-google-play"]
+	path = Malware/Ops/node-google-play
+	url = https://github.com/dweinstein/node-google-play.git
+[submodule "Malware/Ops/node-aptoide"]
+	path = Malware/Ops/node-aptoide
+	url = https://github.com/dweinstein/node-aptoide.git
+[submodule "Malware/Ops/node-appland"]
+	path = Malware/Ops/node-appland
+	url = https://github.com/dweinstein/node-appland.git
+[submodule "Pentration Testing/Mobile/android-vts"]
+	path = Pentration Testing/Mobile/android-vts
+	url = https://github.com/AndroidVTS/android-vts.git
