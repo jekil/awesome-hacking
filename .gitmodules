@@ -784,3 +784,21 @@
 [submodule "Pentration Testing/Mobile/android-vts"]
 	path = Pentration Testing/Mobile/android-vts
 	url = https://github.com/AndroidVTS/android-vts.git
+[submodule "Malware/Source Code/fancybear"]
+	path = Malware/Source Code/fancybear
+	url = https://github.com/rickey-g/fancybear
+[submodule "Code Auditing/Static Analysis/shellcheck"]
+	path = Code Auditing/Static Analysis/shellcheck
+	url = https://github.com/koalaman/shellcheck.git
+[submodule "Pentration Testing/Training/DVWS"]
+	path = Pentration Testing/Training/DVWS
+	url = https://github.com/interference-security/DVWS.git
+[submodule "Pentration Testing/Info Gathering/truffleHog"]
+	path = Pentration Testing/Info Gathering/truffleHog
+	url = https://github.com/dxa4481/truffleHog.git
+[submodule "Pentration Testing/Exploits/chakra-2016-11"]
+	path = Pentration Testing/Exploits/chakra-2016-11
+	url = https://github.com/theori-io/chakra-2016-11.git
+[submodule "Reverse Engineering/gdb-dashboard"]
+	path = Reverse Engineering/gdb-dashboard
+	url = https://github.com/cyrus-and/gdb-dashboard.git

@@ -25,6 +25,7 @@ Static Analysis
 ---------------
 
 - `Brakeman <http://brakemanscanner.org>`_ - A static analysis security vulnerability scanner for Ruby on Rails applications.
+- `ShellCheck <https://github.com/koalaman/shellcheck>`_ - A static analysis tool for shell scripts.
 
 Cryptography
 ============
@@ -250,7 +251,8 @@ Source Code
 -----------
 
 - `Android-malware <https://github.com/ashishb/android-malware>`_ - Collection of android malware samples.
-- `Carberp <https://github.com/hzeroo/Carberp>` - Carberp leaked source code.
+- `Carberp <https://github.com/hzeroo/Carberp>`_ - Carberp leaked source code.
+- `Fancybear <https://github.com/rickey-g/fancybear>`_ - Fancy Bear Source Code.
 - `Mirai <https://github.com/jgamblin/Mirai-Source-Code>`_ - Leaked Mirai Source Code for Research/IoC Development Purposes.
 
 Static Analysis
@@ -354,6 +356,7 @@ Exploiting
 Exploits
 --------
 
+- `Chakra-2016-11 <https://github.com/theori-io/chakra-2016-11>`_ - Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 & CVE-2016-7201).
 - `Ruby-advisory-db <https://github.com/rubysec/ruby-advisory-db>`_ - A database of vulnerable Ruby Gems.
 - `The Exploit Database <https://github.com/offensive-security/exploit-database>`_ - The official Exploit Database repository.
 - `XiphosResearch Exploits <https://github.com/XiphosResearch/exploits>`_ - Miscellaneous proof of concept exploit code written at Xiphos Research for testing purposes.
@@ -371,6 +374,7 @@ Info Gathering
 - `SMBMap <https://github.com/ShawnDEvans/smbmap>`_ - A handy SMB enumeration tool.
 - `SSLMap <http://thesprawl.org/projects/sslmap/>`_ - TLS/SSL cipher suite scanner.
 - `Subbrute <https://github.com/TheRook/subbrute>`_ - A DNS meta-query spider that enumerates DNS records, and subdomains.
+- `TruffleHog <https://github.com/dxa4481/truffleHog>`_ - Searches through git repositories for high entropy strings, digging deep into commit history.
 
 Fuzzing
 -------
@@ -466,6 +470,7 @@ Training
 
 - `Don't Panic <https://github.com/antire-book/dont_panic>`_ - Training linux bind shell with anti-reverse engineering techniques.
 - `DVWA <http://dvwa.co.uk>`_ - Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.
+- `DVWS <https://github.com/interference-security/DVWS>`_ - Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which works on web sockets for client-server communication.
 - `OWASP Juice Shop <https://www.owasp.org/index.php/OWASP_Juice_Shop_Project>`_ - An intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
 - `OWASP NodeGoat <https://www.owasp.org/index.php/Projects/OWASP_Node_js_Goat_Project>`_ - An environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
 - `OWASP Railsgoat <http://railsgoat.cktricky.com/>`_ - A vulnerable version of Rails that follows the OWASP Top 10.
@@ -557,6 +562,7 @@ Reverse Engineering
 - `Fino <https://github.com/sysdream/fino>`_ - An Android Dynamic Analysis Tool.
 - `Flare-ida <https://github.com/fireeye/flare-ida>`_ - IDA Pro utilities from FLARE team.
 - `Frida <https://www.frida.re>`_ - Inject JavaScript to explore native apps on Windows, macOS, Linux, iOS, Android, and QNX.
+- `Gdb-dashboard <https://github.com/cyrus-and/gdb-dashboard>`_ - Modular visual interface for GDB in Python.
 - `Hopper <https://www.hopperapp.com>`_ - A OS X and Linux Disassembler/Decompiler for 32/64 bit Windows/Mac/Linux/iOS executables.
 - `Idaemu <https://github.com/36hours/idaemu>`_ - Is an IDA Pro Plugin, use for emulating code in IDA Pro.
 - `IDA Free <https://www.hex-rays.com/products/ida/support/download_freeware.shtml>`_ - The freeware version of IDA.
