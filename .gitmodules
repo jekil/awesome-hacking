@@ -802,3 +802,9 @@
 [submodule "Reverse Engineering/gdb-dashboard"]
 	path = Reverse Engineering/gdb-dashboard
 	url = https://github.com/cyrus-and/gdb-dashboard.git
+[submodule "Malware/Dynamic Analysis/magento-malware-scanner"]
+	path = Malware/Dynamic Analysis/magento-malware-scanner
+	url = https://github.com/gwillem/magento-malware-scanner.git
+[submodule "Pentration Testing/Exploiting/rupture"]
+	path = Pentration Testing/Exploiting/rupture
+	url = https://github.com/dionyziz/rupture.git
