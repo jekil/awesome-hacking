@@ -808,3 +808,18 @@
 [submodule "Pentration Testing/Exploiting/rupture"]
 	path = Pentration Testing/Exploiting/rupture
 	url = https://github.com/dionyziz/rupture.git
+[submodule "CTF Tools/CTFd"]
+	path = CTF Tools/CTFd
+	url = https://github.com/isislab/CTFd.git
+[submodule "CTF Tools/fbctf"]
+	path = CTF Tools/fbctf
+	url = https://github.com/facebook/fbctf.git
+[submodule "CTF Tools/mellivora"]
+	path = CTF Tools/mellivora
+	url = https://github.com/Nakiami/mellivora.git
+[submodule "CTF Tools/NightShade"]
+	path = CTF Tools/NightShade
+	url = https://github.com/UnrealAkama/NightShade.git
+[submodule "CTF Tools/scorebot"]
+	path = CTF Tools/scorebot
+	url = https://github.com/legitbs/scorebot.git

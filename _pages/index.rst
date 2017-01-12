@@ -35,7 +35,12 @@ Cryptography
 CTF Tools
 =========
 
+- `CTFd <https://ctfd.io>`_ - CTF in a can. Easily modifiable and has everything you need to run a jeopardy style CTF.
+- `FBCTF <https://github.com/facebook/fbctf>`_ - Platform to host Capture the Flag competitions.
+- `Mellivora <https://github.com/Nakiami/mellivora>`_ - A CTF engine written in PHP.
+- `NightShade <https://github.com/UnrealAkama/NightShade>`_ - A simple security CTF framework.
 - `Pwntools <https://github.com/Gallopsled/pwntools>`_ - CTF framework and exploit development library.
+- `Scorebot <https://github.com/legitbs/scorebot>`_ - Platform for CTFs by Legitbs (Defcon).
 
 Docker
 ======
