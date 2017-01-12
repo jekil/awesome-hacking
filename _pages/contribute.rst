@@ -8,6 +8,16 @@ Please send your contribution using Github `pull requests <https://help.github.c
 
 Thank you for your contribuition!
 
+Quality standard
+----------------
+
+This is a curated list, not a comprehensive list, so contents should be cool.
+To stay on the list, tools should adhere to these quality standards:
+
+* Generally useful to the community
+* Functional and cool
+* Maintained
+
 Adding to this list
 -------------------
 
@@ -18,7 +28,8 @@ Please prepare your pull following some suggestions:
 * Make sure the tool is useful before submitting, it should be a maintained or at leats still in use tool. 
 * Make an individual pull request for each suggestion.
 * Use the syntax used in the list.
-* Do not add descriptions too long, few lineas are enough.
+* List items should be sorted alphabetically.
+* Do not add descriptions too long, few lineas are enough. Be clear, concise and non-promotional.
 * New categories or improvements to the existing categorization are welcome, although it is a good idea to discuss toghever big refactoring.
 * Check your spelling and grammar.
 * Make sure your text editor is set to remove trailing whitespace.
