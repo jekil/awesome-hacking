@@ -30,6 +30,8 @@ Static Analysis
 Cryptography
 ============
 
+- `FeatherDuster <https://github.com/nccgroup/featherduster>`_ - An automated, modular cryptanalysis tool.
+- `RSATool <https://github.com/ius/rsatool>`_ - Generate private key with knowledge of p and q.
 - `Xortool <https://github.com/hellman/xortool>`_ - A tool to analyze multi-byte xor cipher.
 
 CTF Tools
@@ -41,6 +43,7 @@ CTF Tools
 - `NightShade <https://github.com/UnrealAkama/NightShade>`_ - A simple security CTF framework.
 - `Pwntools <https://github.com/Gallopsled/pwntools>`_ - CTF framework and exploit development library.
 - `Scorebot <https://github.com/legitbs/scorebot>`_ - Platform for CTFs by Legitbs (Defcon).
+- `V0lt <https://github.com/P1kachu/v0lt>`_ - Security CTF Toolkit.
 
 Docker
 ======
@@ -124,6 +127,7 @@ File Forensics
 - `DFF <http://www.digital-forensic.org>`_ - A Forensics Framework coming with command line and graphical interfaces. DFF can be used to investigate hard drives and volatile memory and create reports about user and system activities.
 - `Hadoop_framework <https://github.com/sleuthkit/hadoop_framework>`_ - A prototype system that uses Hadoop to process hard drive images.
 - `Scalpel <https://github.com/sleuthkit/scalpel>`_ - An open source data carving tool.
+- `Shellbags <https://github.com/williballenthin/shellbags>`_ - Investigate NT_USER.dat files.
 - `Sleuthkit <https://github.com/sleuthkit/sleuthkit>`_ - A library and collection of command line digital forensics tools.
 
 Live Analysis
@@ -342,6 +346,7 @@ Exploiting
 
 - `BeEF <http://beefproject.com>`_ - The Browser Exploitation Framework Project.
 - `Commix <http://www.commixproject.com>`_ - Automated All-in-One OS Command Injection and Exploitation Tool.
+- `DLLInjector <https://github.com/OpenSecurityResearch/dllinjector>`_ - Inject dlls in processes.
 - `ExploitPack <http://exploitpack.com>`_ - Graphical tool for penetration testing with a bunch of exploits.
 - `Evilgrade <https://github.com/infobyte/evilgrade>`_ - The update explotation framework.
 - `Fathomless <https://github.com/xor-function/fathomless>`_ - A collection of different programs for network red teaming.
@@ -351,6 +356,7 @@ Exploiting
 - `Nexpose <https://www.rapid7.com/products/nexpose/>`_ - Vulnerability Management & Risk Management Software.
 - `OpenVAS <http://www.openvas.org>`_ - Open Source vulnerability scanner and manager.
 - `PowerSploit <https://github.com/PowerShellMafia/PowerSploit/>`_ - A PowerShell Post-Exploitation Framework.
+- `ROP Gadget <http://shell-storm.org/project/ROPgadget/>`_ - Framework for ROP exploitation.
 - `Routersploit <https://github.com/reverse-shell/routersploit>`_ - Automated penetration testing software for router.
 - `Rupture <https://github.com/dionyziz/rupture/>`_ - A framework for BREACH and other compression-based crypto attacks.
 - `Shellsploit <https://github.com/b3mb4m/shellsploit-framework>`_ - Let's you generate customized shellcodes, backdoors, injectors for various operating system. And let's you obfuscation every byte via encoders.
@@ -447,6 +453,7 @@ Port Scanning
 Post Exploitation
 -----------------
 
+- `Creddump <https://github.com/moyix/creddump>`_ - Dump windows credentials.
 - `DET <https://github.com/sensepost/DET>`_ - (extensible) Data Exfiltration Toolkit (DET).
 - `Dnsteal <https://github.com/m57/dnsteal>`_ - DNS Exfiltration tool for stealthily sending files over DNS requests.
 - `Empire <http://www.powershellempire.com>`_ - Empire is a pure PowerShell post-exploitation agent.
@@ -592,6 +599,7 @@ Reverse Engineering
 - `Plasma <https://github.com/joelpx/plasma>`_ - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
 - `Procyon <https://bitbucket.org/mstrobel/procyon>`_ - A modern open-source Java decompiler.
 - `Pyew <https://github.com/joxeankoret/pyew>`_ - Command line hexadecimal editor and disassembler, mainly to analyze malware.
+- `Qira <http://qira.me>`_ - QEMU Interactive Runtime Analyser.
 - `Radare2 <http://www.radare.org>`_ - Opensource, crossplatform reverse engineering framework.
 - `Redexer <https://github.com/plum-umd/redexer>`_ - A reengineering tool that manipulates Android app binaries.
 - `Simplify <https://github.com/CalebFenton/simplify>`_ - Generic Android Deobfuscator.

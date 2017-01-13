@@ -823,3 +823,24 @@
 [submodule "CTF Tools/scorebot"]
 	path = CTF Tools/scorebot
 	url = https://github.com/legitbs/scorebot.git
+[submodule "Cryptography/featherduster"]
+	path = Cryptography/featherduster
+	url = https://github.com/nccgroup/featherduster.git
+[submodule "Cryptography/rsatool"]
+	path = Cryptography/rsatool
+	url = https://github.com/ius/rsatool.git
+[submodule "Pentration Testing/Exploiting/dllinjector"]
+	path = Pentration Testing/Exploiting/dllinjector
+	url = https://github.com/OpenSecurityResearch/dllinjector.git
+[submodule "Reverse Engineering/qira"]
+	path = Reverse Engineering/qira
+	url = https://github.com/BinaryAnalysisPlatform/qira.git
+[submodule "Pentration Testing/Exploiting/ROPgadget"]
+	path = Pentration Testing/Exploiting/ROPgadget
+	url = https://github.com/JonathanSalwan/ROPgadget.git
+[submodule "CTF Tools/v0lt"]
+	path = CTF Tools/v0lt
+	url = https://github.com/P1kachu/v0lt.git
+[submodule "Forensics/File Forensics/shellbags"]
+	path = Forensics/File Forensics/shellbags
+	url = https://github.com/williballenthin/shellbags.git
