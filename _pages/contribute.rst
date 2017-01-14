@@ -1,6 +1,6 @@
-=======================
+***********************
 Contribution Guidelines
-=======================
+***********************
 
 I would love every kind of **contribution**, we need everyone help to run this project!
 
