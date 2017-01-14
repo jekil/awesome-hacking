@@ -844,3 +844,27 @@
 [submodule "Forensics/File Forensics/shellbags"]
 	path = Forensics/File Forensics/shellbags
 	url = https://github.com/williballenthin/shellbags.git
+[submodule "Reverse Engineering/apk2gold"]
+	path = Reverse Engineering/apk2gold
+	url = https://github.com/lxdvs/apk2gold.git
+[submodule "Reverse Engineering/barf-project"]
+	path = Reverse Engineering/barf-project
+	url = https://github.com/programa-stic/barf-project.git
+[submodule "Reverse Engineering/binwalk"]
+	path = Reverse Engineering/binwalk
+	url = https://github.com/devttys0/binwalk.git
+[submodule "Reverse Engineering/boomerang"]
+	path = Reverse Engineering/boomerang
+	url = https://github.com/nemerle/boomerang.git
+[submodule "Reverse Engineering/ctf_import"]
+	path = Reverse Engineering/ctf_import
+	url = https://github.com/docileninja/ctf_import.git
+[submodule "Reverse Engineering/gef"]
+	path = Reverse Engineering/gef
+	url = https://github.com/hugsy/gef.git
+[submodule "Reverse Engineering/jadx"]
+	path = Reverse Engineering/jadx
+	url = https://github.com/skylot/jadx.git
+[submodule "Reverse Engineering/uncompyle"]
+	path = Reverse Engineering/uncompyle
+	url = https://github.com/gstarnberger/uncompyle.git
