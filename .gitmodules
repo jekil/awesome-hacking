@@ -868,3 +868,30 @@
 [submodule "Reverse Engineering/uncompyle"]
 	path = Reverse Engineering/uncompyle
 	url = https://github.com/gstarnberger/uncompyle.git
+[submodule "Pentration Testing/Exploiting/PSKernel-Primitives"]
+	path = Pentration Testing/Exploiting/PSKernel-Primitives
+	url = https://github.com/FuzzySecurity/PSKernel-Primitives.git
+[submodule "Pentration Testing/Post Exploitation/p0wnedShell"]
+	path = Pentration Testing/Post Exploitation/p0wnedShell
+	url = https://github.com/Cn33liz/p0wnedShell.git
+[submodule "Malware/Honeypot/MongoDB-HoneyProxy"]
+	path = Malware/Honeypot/MongoDB-HoneyProxy
+	url = https://github.com/Plazmaz/MongoDB-HoneyProxy.git
+[submodule "Pentration Testing/Info Gathering/operative-framework"]
+	path = Pentration Testing/Info Gathering/operative-framework
+	url = https://github.com/graniet/operative-framework.git
+[submodule "Reverse Engineering/ufgraph"]
+	path = Reverse Engineering/ufgraph
+	url = https://github.com/bfosterjr/ufgraph.git
+[submodule "Reverse Engineering/RABCDAsm"]
+	path = Reverse Engineering/RABCDAsm
+	url = https://github.com/CyberShadow/RABCDAsm.git
+[submodule "Reverse Engineering/xxxswf"]
+	path = Reverse Engineering/xxxswf
+	url = https://bitbucket.org/Alexander_Hanel/xxxswf.git
+[submodule "Malware/Honeypot/elastichoney"]
+	path = Malware/Honeypot/elastichoney
+	url = https://github.com/jordan-wright/elastichoney.git
+[submodule "Malware/Honeypot/MysqlPot"]
+	path = Malware/Honeypot/MysqlPot
+	url = https://github.com/schmalle/MysqlPot.git
