@@ -895,3 +895,15 @@
 [submodule "Malware/Honeypot/MysqlPot"]
 	path = Malware/Honeypot/MysqlPot
 	url = https://github.com/schmalle/MysqlPot.git
+[submodule "Malware/Honeypot/nosqlpot"]
+	path = Malware/Honeypot/nosqlpot
+	url = https://github.com/torque59/nosqlpot.git
+[submodule "Malware/Honeypot/ESPot"]
+	path = Malware/Honeypot/ESPot
+	url = https://github.com/mycert/ESPot.git
+[submodule "Malware/Honeypot/delilah"]
+	path = Malware/Honeypot/delilah
+	url = https://github.com/Novetta/delilah.git
+[submodule "Malware/Honeypot/glastopf"]
+	path = Malware/Honeypot/glastopf
+	url = https://github.com/mushorg/glastopf.git
