@@ -907,3 +907,33 @@
 [submodule "Malware/Honeypot/glastopf"]
 	path = Malware/Honeypot/glastopf
 	url = https://github.com/mushorg/glastopf.git
+[submodule "Malware/Honeypot/phpmyadmin_honeypot"]
+	path = Malware/Honeypot/phpmyadmin_honeypot
+	url = https://github.com/gfoss/phpmyadmin_honeypot.git
+[submodule "Malware/Honeypot/Servletpot"]
+	path = Malware/Honeypot/Servletpot
+	url = https://github.com/schmalle/Servletpot.git
+[submodule "Malware/Honeypot/Nodepot"]
+	path = Malware/Honeypot/Nodepot
+	url = https://github.com/schmalle/Nodepot.git
+[submodule "Malware/Honeypot/basic-auth-pot"]
+	path = Malware/Honeypot/basic-auth-pot
+	url = https://github.com/bjeborn/basic-auth-pot.git
+[submodule "Malware/Honeypot/shadowd"]
+	path = Malware/Honeypot/shadowd
+	url = https://github.com/zecure/shadowd.git
+[submodule "Malware/Honeypot/smart-honeypot"]
+	path = Malware/Honeypot/smart-honeypot
+	url = https://github.com/freak3dot/smart-honeypot.git
+[submodule "Malware/Honeypot/HonnyPotter"]
+	path = Malware/Honeypot/HonnyPotter
+	url = https://github.com/MartinIngesen/HonnyPotter.git
+[submodule "Malware/Honeypot/HoneyPress"]
+	path = Malware/Honeypot/HoneyPress
+	url = https://github.com/dustyfresh/HoneyPress.git
+[submodule "Malware/Honeypot/wp-smart-honeypot"]
+	path = Malware/Honeypot/wp-smart-honeypot
+	url = https://github.com/freak3dot/wp-smart-honeypot.git
+[submodule "Malware/Honeypot/wordpot"]
+	path = Malware/Honeypot/wordpot
+	url = https://github.com/gbrindisi/wordpot.git
