@@ -937,3 +937,39 @@
 [submodule "Malware/Honeypot/wordpot"]
 	path = Malware/Honeypot/wordpot
 	url = https://github.com/gbrindisi/wordpot.git
+[submodule "Reverse Engineering/ScratchABit"]
+	path = Reverse Engineering/ScratchABit
+	url = https://github.com/pfalcon/ScratchABit.git
+[submodule "Pentration Testing/Mobile/Androl4b"]
+	path = Pentration Testing/Mobile/Androl4b
+	url = https://github.com/sh4hin/Androl4b.git
+[submodule "Pentration Testing/Mobile/JAADAS"]
+	path = Pentration Testing/Mobile/JAADAS
+	url = https://github.com/flankerhqd/JAADAS.git
+[submodule "Pentration Testing/Web/wordpress-exploit-framework"]
+	path = Pentration Testing/Web/wordpress-exploit-framework
+	url = https://github.com/rastating/wordpress-exploit-framework.git
+[submodule "Library/Python/rdpy"]
+	path = Library/Python/rdpy
+	url = https://github.com/citronneur/rdpy.git
+[submodule "Pentration Testing/Info Gathering/Wmap"]
+	path = Pentration Testing/Info Gathering/Wmap
+	url = https://github.com/MaYaSeVeN/Wmap.git
+[submodule "Pentration Testing/Info Gathering/URLextractor"]
+	path = Pentration Testing/Info Gathering/URLextractor
+	url = https://github.com/eschultze/URLextractor.git
+[submodule "Malware/Honeypot/conpot"]
+	path = Malware/Honeypot/conpot
+	url = https://github.com/mushorg/conpot.git
+[submodule "Malware/Honeypot/cowrie"]
+	path = Malware/Honeypot/cowrie
+	url = https://github.com/micheloosterhof/cowrie.git
+[submodule "Malware/Honeypot/dionaea"]
+	path = Malware/Honeypot/dionaea
+	url = https://github.com/DinoTools/dionaea.git
+[submodule "Malware/Honeypot/mnemosyne"]
+	path = Malware/Honeypot/mnemosyne
+	url = https://github.com/johnnykv/mnemosyne.git
+[submodule "Malware/Honeypot/thug"]
+	path = Malware/Honeypot/thug
+	url = https://github.com/buffer/thug.git

@@ -187,6 +187,7 @@ Python
 - `Pypcap <https://github.com/dugsong/pypcap>`_ - This is a simplified object-oriented Python wrapper for libpcap.
 - `PyPDF2 <http://mstamy2.github.io/PyPDF2>`_ - A utility to read and write PDFs with Python.
 - `Python-ptrace <https://github.com/haypo/python-ptrace>`_ - Python binding of ptrace library.
+- `RDPY <https://github.com/citronneur/rdpy>`_ - RDPY is a pure Python implementation of the Microsoft RDP (Remote Desktop Protocol) protocol (client and server side).
 - `Scapy <http://www.secdev.org/projects/scapy/>`_ - A python-based interactive packet manipulation program & library.
 
 Ruby
@@ -232,16 +233,21 @@ Dynamic Analysis
 Honeypot
 --------
 
-- `Basic-auth-pot <>`_ - HTTP Basic Authentication honeyPot.
+- `Basic-auth-pot <https://github.com/bjeborn/basic-auth-pot>`_ - HTTP Basic Authentication honeyPot.
+- `Conpot <https://github.com/mushorg/conpot>`_ - ICS/SCADA honeypot.
+- `Cowrie <https://github.com/micheloosterhof/cowrie>`_ - SSH honeypot, based on Kippo.
 - `Elastichoney <https://github.com/jordan-wright/elastichoney>`_ - A Simple Elasticsearch Honeypot.
 - `ESPot <https://github.com/mycert/ESPot>`_ - An Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
 - `Delilah <https://github.com/Novetta/delilah>`_ - An Elasticsearch Honeypot written in Python.
+- `Dionaea <https://github.com/DinoTools/dionaea>`_ - Honeypot designed to trap malware.
 - `Glastopf <https://github.com/mushorg/glastopf>`_ - Web Application Honeypot.
 - `Glutton <https://github.com/mushorg/glutton>`_ - All eating honeypot.
+- `Honeyd <http://www.honeyd.org>`_ - Create a virtual honeynet.
 - `HoneyPress <https://github.com/dustyfresh/HoneyPress>`_ - python based WordPress honeypot in a docker container.
 - `HonnyPotter <https://github.com/MartinIngesen/HonnyPotter>`_ - A WordPress login honeypot for collection and analysis of failed login attempts.
 - `Maildb <https://github.com/kevthehermit/Maildb>`_ - Python Web App to Parse and Track Email and http Pcap Files.
 - `MHN <https://github.com/threatstream/mhn>`_ - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management.
+- `Mnemosyne <https://github.com/johnnykv/mnemosyne>`_ - A normalizer for honeypot data; supports Dionaea.
 - `MongoDB-HoneyProxy <https://github.com/Plazmaz/MongoDB-HoneyProxy>`_ - A honeypot proxy for mongodb. When run, this will proxy and log all traffic to a dummy mongodb server.
 - `MysqlPot <https://github.com/schmalle/MysqlPot>`_ - A mysql honeypot, still very very early stage.
 - `Nodepot <https://github.com/schmalle/Nodepot>`_ - A nodejs web application honeypot.
@@ -252,6 +258,7 @@ Honeypot
 - `Shadow Daemon <https://shadowd.zecure.org>`_ - A modular Web Application Firewall / High-Interaction Honeypot for PHP, Perl & Python apps.
 - `Smart-honeypot <https://github.com/freak3dot/smart-honeypot>`_ - PHP Script demonstrating a smart honey pot.
 - `SpamScope <https://github.com/SpamScope/spamscope>`_ - Fast Advanced Spam Analysis Tool.
+- `Thug <https://github.com/buffer/thug>`_ - Low interaction honeyclient, for investigating malicious websites.
 - `Wordpot <https://github.com/gbrindisi/wordpot>`_ - A WordPress Honeypot.
 - `Wp-smart-honeypot <https://github.com/freak3dot/wp-smart-honeypot>`_ - WordPress plugin to reduce comment spam with a smarter honeypot.
 
@@ -407,6 +414,8 @@ Info Gathering
 - `SSLMap <http://thesprawl.org/projects/sslmap/>`_ - TLS/SSL cipher suite scanner.
 - `Subbrute <https://github.com/TheRook/subbrute>`_ - A DNS meta-query spider that enumerates DNS records, and subdomains.
 - `TruffleHog <https://github.com/dxa4481/truffleHog>`_ - Searches through git repositories for high entropy strings, digging deep into commit history.
+- `URLextractor <https://github.com/eschultze/URLextractor>`_ - Information gathering & website reconnaissance.
+- `Wmap <https://github.com/MaYaSeVeN/Wmap>`_ - Information gathering for web hacking.
 
 Fuzzing
 -------
@@ -432,10 +441,12 @@ Mobile
 - `AFE <https://github.com/appknox/AFE>`_ - Android Framework for Exploitation, is a framework for exploiting android based devices.
 - `AndroBugs <https://github.com/AndroBugs/AndroBugs_Framework>`_ - An efficient Android vulnerability scanner that helps developers or hackers find potential security vulnerabilities in Android applications.
 - `Android-vts <https://github.com/AndroidVTS/android-vts>`_ - Android Vulnerability Test Suite - In the spirit of open data collection, and with the help of the community, let's take a pulse on the state of Android security.
+- `Androl4b <https://github.com/sh4hin/Androl4b>`_ - A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis.
 - `CobraDroid <https://thecobraden.com/projects/cobradroid/>`_ - A custom build of the Android operating system geared specifically for application security analysts and for individuals dealing with mobile malware.
 - `Drozer <http://mwr.to/drozer>`_ - The Leading Security Assessment Framework for Android.
 - `Idb <http://www.idbtool.com>`_ - A tool to simplify some common tasks for iOS pentesting and research.
 - `Introspy-iOS <http://isecpartners.github.io/Introspy-iOS/>`_ - Security profiling for blackbox iOS.
+- `JAADAS <https://github.com/flankerhqd/JAADAS>`_ - Joint Advanced Defect assEsment for android applications.
 - `Mobile Security Framework <http://opensecurity.in>`_ - An intelligent, all-in-one open source mobile application (Android/iOS/Windows) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
 - `QARK <https://github.com/linkedin/qark/>`_ - QARK by LinkedIn is for app developers to scan app for security issues.
 
@@ -541,6 +552,7 @@ Web
 - `Wapiti <http://wapiti.sourceforge.net>`_ - Web application vulnerability scanner.
 - `Weevely3 <https://github.com/epinna/weevely3>`_ - Weaponized web shell.
 - `WhatWeb <https://www.morningstarsecurity.com/research/whatweb>`_ - Website Fingerprinter.
+- `Wordpress Exploit Framework <https://github.com/rastating/wordpress-exploit-framework>`_ - A Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
 - `WPScan <https://wpscan.org>`_ - WPScan is a black box WordPress vulnerability scanner.
 - `WPSploit <https://github.com/espreto/wpsploit>`_ - Exploiting Wordpress With Metasploit.
 - `WS-Attacker <https://github.com/RUB-NDS/WS-Attacker>`_ - A modular framework for web services penetration testing.
@@ -631,6 +643,7 @@ Reverse Engineering
 - `RABCDAsm <https://github.com/CyberShadow/RABCDAsm>`_ - Robust ABC (ActionScript Bytecode) [Dis-]Assembler.
 - `Radare2 <http://www.radare.org>`_ - Opensource, crossplatform reverse engineering framework.
 - `Redexer <https://github.com/plum-umd/redexer>`_ - A reengineering tool that manipulates Android app binaries.
+- `ScratchABit <https://github.com/pfalcon/ScratchABit>`_ - Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API.
 - `Simplify <https://github.com/CalebFenton/simplify>`_ - Generic Android Deobfuscator.
 - `Smali <https://github.com/JesusFreke/smali>`_ - Smali/baksmali is an assembler/disassembler for the dex format used by dalvik, Android's Java VM implementation.
 - `Toolbag <https://github.com/aaronportnoy/toolbag>`_ - The IDA Toolbag is a plugin providing supplemental functionality to Hex-Rays IDA Pro disassembler.
