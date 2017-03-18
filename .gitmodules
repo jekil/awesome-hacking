@@ -973,3 +973,9 @@
 [submodule "Malware/Honeypot/thug"]
 	path = Malware/Honeypot/thug
 	url = https://github.com/buffer/thug.git
+[submodule "Malware/Source Code/Zeus"]
+	path = Malware/Source Code/Zeus
+	url = https://github.com/Visgean/Zeus.git
+[submodule "CTF Tools/OpenCTF"]
+	path = CTF Tools/OpenCTF
+	url = https://github.com/EasyCTF/OpenCTF.git

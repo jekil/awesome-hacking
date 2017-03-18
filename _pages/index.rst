@@ -41,6 +41,7 @@ CTF Tools
 - `FBCTF <https://github.com/facebook/fbctf>`_ - Platform to host Capture the Flag competitions.
 - `Mellivora <https://github.com/Nakiami/mellivora>`_ - A CTF engine written in PHP.
 - `NightShade <https://github.com/UnrealAkama/NightShade>`_ - A simple security CTF framework.
+- `OpenCTF <https://github.com/easyctf/openctf>`_ - CTF in a box. Minimal setup required.
 - `Pwntools <https://github.com/Gallopsled/pwntools>`_ - CTF framework and exploit development library.
 - `Scorebot <https://github.com/legitbs/scorebot>`_ - Platform for CTFs by Legitbs (Defcon).
 - `V0lt <https://github.com/P1kachu/v0lt>`_ - Security CTF Toolkit.
@@ -288,6 +289,7 @@ Source Code
 - `Carberp <https://github.com/hzeroo/Carberp>`_ - Carberp leaked source code.
 - `Fancybear <https://github.com/rickey-g/fancybear>`_ - Fancy Bear Source Code.
 - `Mirai <https://github.com/jgamblin/Mirai-Source-Code>`_ - Leaked Mirai Source Code for Research/IoC Development Purposes.
+- `Zeus <https://github.com/Visgean/Zeus>`_ - Zeus version 2.0.8.9, leaked in 2011.
 
 Static Analysis
 ---------------
