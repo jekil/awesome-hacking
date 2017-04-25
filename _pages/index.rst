@@ -289,6 +289,7 @@ Source Code
 - `Carberp <https://github.com/hzeroo/Carberp>`_ - Carberp leaked source code.
 - `Fancybear <https://github.com/rickey-g/fancybear>`_ - Fancy Bear Source Code.
 - `Mirai <https://github.com/jgamblin/Mirai-Source-Code>`_ - Leaked Mirai Source Code for Research/IoC Development Purposes.
+- `TinyNuke <https://github.com/rossja/TinyNuke>`_ - Zeus-style banking trojan.
 - `Zeus <https://github.com/Visgean/Zeus>`_ - Zeus version 2.0.8.9, leaked in 2011.
 
 Static Analysis
@@ -632,6 +633,7 @@ Reverse Engineering
 - `JD-GUI <http://jd.benow.ca>`_ - Aims to develop tools in order to decompile and analyze Java 5 “byte code” and the later versions.
 - `Keystone Engine <http://www.keystone-engine.org>`_ - A lightweight multi-platform, multi-architecture assembler framework.
 - `Krakatau <https://github.com/Storyyeller/Krakatau>`_ - Java decompiler, assembler, and disassembler.
+- `Manticore <https://github.com/trailofbits/manticore>`_ - Prototyping tool for dynamic binary analysis, with support for symbolic execution, taint analysis, and binary instrumentation.
 - `MARA Framework <https://github.com/xtiankisutsa/MARA_Framework>`_ - A Mobile Application Reverse engineering and Analysis Framework.
 - `Medusa <https://github.com/wisk/medusa>`_ - A disassembler designed to be both modular and interactive.
 - `Mona.py <https://www.corelan.be/index.php/2011/07/14/mona-py-the-manual/>`_ - PyCommand for Immunity Debugger that replaces and improves on pvefindaddr.
@@ -642,6 +644,7 @@ Reverse Engineering
 - `Procyon <https://bitbucket.org/mstrobel/procyon>`_ - A modern open-source Java decompiler.
 - `Pyew <https://github.com/joxeankoret/pyew>`_ - Command line hexadecimal editor and disassembler, mainly to analyze malware.
 - `Qira <http://qira.me>`_ - QEMU Interactive Runtime Analyser.
+- `R2MSDN <https://github.com/newlog/r2msdn>`_ - R2 plugin to add MSDN documentation URLs and parameter names to imported function calls.
 - `RABCDAsm <https://github.com/CyberShadow/RABCDAsm>`_ - Robust ABC (ActionScript Bytecode) [Dis-]Assembler.
 - `Radare2 <http://www.radare.org>`_ - Opensource, crossplatform reverse engineering framework.
 - `Redexer <https://github.com/plum-umd/redexer>`_ - A reengineering tool that manipulates Android app binaries.

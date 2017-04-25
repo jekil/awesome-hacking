@@ -979,3 +979,12 @@
 [submodule "CTF Tools/OpenCTF"]
 	path = CTF Tools/OpenCTF
 	url = https://github.com/EasyCTF/OpenCTF.git
+[submodule "Malware/Source Code/TinyNuke"]
+	path = Malware/Source Code/TinyNuke
+	url = https://github.com/aainz/TinyNuke.git
+[submodule "Reverse Engineering/r2msdn"]
+	path = Reverse Engineering/r2msdn
+	url = https://github.com/newlog/r2msdn.git
+[submodule "Reverse Engineering/manticore"]
+	path = Reverse Engineering/manticore
+	url = https://github.com/trailofbits/manticore.git
