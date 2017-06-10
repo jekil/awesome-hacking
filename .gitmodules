@@ -988,3 +988,9 @@
 [submodule "Reverse Engineering/manticore"]
 	path = Reverse Engineering/manticore
 	url = https://github.com/trailofbits/manticore.git
+[submodule "Reverse Engineering/YaCo"]
+	path = Reverse Engineering/YaCo
+	url = https://github.com/DGA-MI-SSI/YaCo.git
+[submodule "Forensics/Misc/libfvde"]
+	path = Forensics/Misc/libfvde
+	url = https://github.com/libyal/libfvde.git

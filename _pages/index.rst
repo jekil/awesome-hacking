@@ -158,6 +158,7 @@ Misc
 ----
 
 - `HxD <https://mh-nexus.de/en/hxd/>`_ - A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size.
+- `Libfvde <https://github.com/libyal/libfvde>` - Library and tools to access FileVault Drive Encryption (FVDE) encrypted volumes.
 
 Intelligence
 ============
@@ -662,6 +663,7 @@ Reverse Engineering
 - `UPX <https://upx.github.io>`_ - The Ultimate Packer for eXecutables.
 - `X64_dbg <http://x64dbg.com>`_ - An open-source x64/x32 debugger for windows.
 - `Xxxswf <https://bitbucket.org/Alexander_Hanel/xxxswf>`_ - A Python script for analyzing Flash files.
+- `YaCo <https://github.com/DGA-MI-SSI/YaCo>`_ - An Hex-Rays IDA plugin. When enabled, multiple users can work simultaneously on the same binary. Any modification done by any user is synchronized through git version control.
 
 Social Engineering
 ==================
