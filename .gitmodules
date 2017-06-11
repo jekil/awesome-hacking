@@ -994,3 +994,6 @@
 [submodule "Forensics/Misc/libfvde"]
 	path = Forensics/Misc/libfvde
 	url = https://github.com/libyal/libfvde.git
+[submodule "CTF Tools/one_gadget"]
+	path = CTF Tools/one_gadget
+	url = https://github.com/david942j/one_gadget.git
