@@ -400,6 +400,7 @@ Exploits
 --------
 
 - `Chakra-2016-11 <https://github.com/theori-io/chakra-2016-11>`_ - Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 & CVE-2016-7201).
+- `MS17-010 <https://github.com/worawit/MS17-010>`_ - Exploits for MS17-010.
 - `Ruby-advisory-db <https://github.com/rubysec/ruby-advisory-db>`_ - A database of vulnerable Ruby Gems.
 - `The Exploit Database <https://github.com/offensive-security/exploit-database>`_ - The official Exploit Database repository.
 - `XiphosResearch Exploits <https://github.com/XiphosResearch/exploits>`_ - Miscellaneous proof of concept exploit code written at Xiphos Research for testing purposes.
@@ -682,6 +683,7 @@ Harvester
 - `Maltego <https://www.paterva.com>`_ - Proprietary software for open source intelligence and forensics, from Paterva.
 - `Metagoofil <https://github.com/laramies/metagoofil>`_ - Metadata harvester.
 - `TheHarvester <http://www.edge-security.com/theharvester.php>`_ - E-mail, subdomain and people names harvester.
+- `TTSL <https://github.com/dchrastil/TTSL>`_ - Tool to scrape LinkedIn.
 
 Phishing
 --------

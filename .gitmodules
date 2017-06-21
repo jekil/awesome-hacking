@@ -997,3 +997,9 @@
 [submodule "CTF Tools/one_gadget"]
 	path = CTF Tools/one_gadget
 	url = https://github.com/david942j/one_gadget.git
+[submodule "Pentration Testing/Exploits/MS17-010"]
+	path = Pentration Testing/Exploits/MS17-010
+	url = https://github.com/worawit/MS17-010.git
+[submodule "Social Engineering/Harvester/TTSL"]
+	path = Social Engineering/Harvester/TTSL
+	url = https://github.com/dchrastil/TTSL.git
