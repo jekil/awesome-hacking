@@ -1003,3 +1003,9 @@
 [submodule "Social Engineering/Harvester/TTSL"]
 	path = Social Engineering/Harvester/TTSL
 	url = https://github.com/dchrastil/TTSL.git
+[submodule "Pentration Testing/Exploiting/Veil"]
+	path = Pentration Testing/Exploiting/Veil
+	url = https://github.com/Veil-Framework/Veil.git
+[submodule "Pentration Testing/Info Gathering/SecLists"]
+	path = Pentration Testing/Info Gathering/SecLists
+	url = https://github.com/danielmiessler/SecLists.git
