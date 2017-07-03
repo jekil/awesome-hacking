@@ -1009,3 +1009,6 @@
 [submodule "Pentration Testing/Info Gathering/SecLists"]
 	path = Pentration Testing/Info Gathering/SecLists
 	url = https://github.com/danielmiessler/SecLists.git
+[submodule "Forensics/File Forensics/osxcollector"]
+	path = Forensics/File Forensics/osxcollector
+	url = https://github.com/Yelp/osxcollector.git
