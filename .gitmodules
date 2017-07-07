@@ -1012,3 +1012,6 @@
 [submodule "Forensics/File Forensics/osxcollector"]
 	path = Forensics/File Forensics/osxcollector
 	url = https://github.com/Yelp/osxcollector.git
+[submodule "Malware/Dynamic Analysis/wscript"]
+	path = Malware/Dynamic Analysis/wscript
+	url = https://github.com/mrpapercut/wscript.git

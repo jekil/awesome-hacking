@@ -233,6 +233,7 @@ Dynamic Analysis
 - `Malzilla <http://malzilla.sourceforge.net>`_ - Web pages that contain exploits often use a series of redirects and obfuscated code to make it more difficult for somebody to follow. MalZilla is a useful program for use in exploring malicious pages. It allows you to choose your own user agent and referrer, and has the ability to use proxies. It shows you the full source of webpages and all the HTTP headers. It gives you various decoders to try and deobfuscate javascript aswell.
 - `ProbeDroid <https://github.com/ZSShen/ProbeDroid>`_ - A dynamic binary instrumentation kit targeting on Android(Lollipop) 5.0 and above.
 - `PyEMU <https://code.google.com/archive/p/pyemu/>`_ - Fully scriptable IA-32 emulator, useful for malware analysis.
+- `WScript Emulator <https://github.com/mrpapercut/wscript/>`_ - Emulator/tracer of the Windows Script Host functionality.
 
 Honeypot
 --------
