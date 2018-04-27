@@ -1021,3 +1021,6 @@
 [submodule "Pentration Testing/Web/xss-payload-list"]
 	path = Pentration Testing/Web/xss-payload-list
 	url = https://github.com/ismailtasdelen/xss-payload-list.git
+[submodule "Security/Cloud Security/azucar"]
+	path = Security/Cloud Security/azucar
+	url = https://github.com/nccgroup/azucar.git

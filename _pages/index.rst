@@ -586,6 +586,11 @@ Wireless
 Security
 ========
 
+Cloud Security
+--------------
+
+- `Azucar <https://github.com/nccgroup/azucar/>`_ - Security auditing tool for Azure environments.
+
 Endpoint Security
 -----------------
 
