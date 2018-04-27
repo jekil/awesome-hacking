@@ -403,6 +403,7 @@ Exploits
 --------
 
 - `Chakra-2016-11 <https://github.com/theori-io/chakra-2016-11>`_ - Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 & CVE-2016-7201).
+- `Jira-Scan <https://github.com/random-robbie/Jira-Scan>`_ - Jira scanner for CVE-2017-9506.
 - `MS17-010 <https://github.com/worawit/MS17-010>`_ - Exploits for MS17-010.
 - `Ruby-advisory-db <https://github.com/rubysec/ruby-advisory-db>`_ - A database of vulnerable Ruby Gems.
 - `The Exploit Database <https://github.com/offensive-security/exploit-database>`_ - The official Exploit Database repository.
@@ -566,6 +567,7 @@ Web
 - `WPScan <https://wpscan.org>`_ - WPScan is a black box WordPress vulnerability scanner.
 - `WPSploit <https://github.com/espreto/wpsploit>`_ - Exploiting Wordpress With Metasploit.
 - `WS-Attacker <https://github.com/RUB-NDS/WS-Attacker>`_ - A modular framework for web services penetration testing.
+- `XSS-payload-list <https://github.com/ismailtasdelen/xss-payload-list>`_- XSS Payload list.
 - `Zed Attack Proxy (ZAP) <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>`_ - The OWASP ZAP core project.
 
 Wireless

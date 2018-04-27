@@ -1015,3 +1015,9 @@
 [submodule "Malware/Dynamic Analysis/wscript"]
 	path = Malware/Dynamic Analysis/wscript
 	url = https://github.com/mrpapercut/wscript.git
+[submodule "Pentration Testing/Exploits/Jira-Scan"]
+	path = Pentration Testing/Exploits/Jira-Scan
+	url = https://github.com/random-robbie/Jira-Scan.git
+[submodule "Pentration Testing/Web/xss-payload-list"]
+	path = Pentration Testing/Web/xss-payload-list
+	url = https://github.com/ismailtasdelen/xss-payload-list.git
