@@ -1024,3 +1024,6 @@
 [submodule "Security/Cloud Security/azucar"]
 	path = Security/Cloud Security/azucar
 	url = https://github.com/nccgroup/azucar.git
+[submodule "Pentration Testing/Exploiting/shellen"]
+	path = Pentration Testing/Exploiting/shellen
+	url = https://github.com/merrychap/shellen.git
