@@ -17,3 +17,10 @@ before_script:
   - git config --global user.name ${NICK}
 after_script:
   - make purge
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GH_TOKEN  # Set in travis-ci.org dashboard, marked secure
+  keep-history: true
+  on:
+    branch: master
