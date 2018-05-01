@@ -178,7 +178,6 @@ pseudoxml:
 
 github:
 	ghp-import -b gh-pages -c awesomehacking.org -m "Travis.ci automated site building" -n _build/html
-	@git push -fq https://${GH_TOKEN}@github.com/$(TRAVIS_REPO_SLUG).git HEAD:$(GITHUB_PAGES_BRANCH)
 
 purge:
 	curl -X DELETE "https://api.cloudflare.com/client/v4/zones/${CF_ZONEID}/purge_cache" -H "X-Auth-Email: ${CF_EMAIL}" -H "X-Auth-Key: ${CF_AUTH}" -H "Content-Type: application/json" --data '{"purge_everything":true}'

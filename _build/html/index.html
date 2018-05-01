@@ -1,0 +1,891 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Awesome Hacking &#8212; Awesome Hacking 0.1 documentation</title>
+    <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <script type="text/javascript" src="_static/documentation_options.js"></script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="awesome-hacking">
+<h1><a class="toc-backref" href="#id13">Awesome Hacking</a><a class="headerlink" href="#awesome-hacking" title="Permalink to this headline">¶</a></h1>
+<p>Awesome hacking is a curated list of <strong>hacking tools</strong> for hackers, pentesters and security researchers.
+Its goal is to collect, classify and make awesome tools easy to find by humans, creating a <strong>toolset</strong> you can
+checkout and update with one command.</p>
+<p>You can checkout all the tools with the following command:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">git</span> <span class="n">clone</span> <span class="o">--</span><span class="n">recursive</span> <span class="n">https</span><span class="p">:</span><span class="o">//</span><span class="n">github</span><span class="o">.</span><span class="n">com</span><span class="o">/</span><span class="n">jekil</span><span class="o">/</span><span class="n">awesome</span><span class="o">-</span><span class="n">hacking</span><span class="o">.</span><span class="n">git</span>
+</pre></div>
+</div>
+<p>Every kind of <strong>contribution</strong> is really appreciated! Follow the <a class="reference internal" href="contribute.html"><span class="doc">Contribution Guidelines</span></a>.</p>
+<p><em>If you enjoy this work, please keep it alive contributing or just sharing it!</em> - <a class="reference external" href="https://twitter.com/jekil">&#64;jekil</a></p>
+<div class="contents topic" id="table-of-contents">
+<p class="topic-title first">Table of Contents</p>
+<ul class="simple">
+<li><a class="reference internal" href="#awesome-hacking" id="id13">Awesome Hacking</a><ul>
+<li><a class="reference internal" href="#code-auditing" id="id14">Code Auditing</a></li>
+<li><a class="reference internal" href="#cryptography" id="id15">Cryptography</a></li>
+<li><a class="reference internal" href="#ctf-tools" id="id16">CTF Tools</a></li>
+<li><a class="reference internal" href="#docker" id="id17">Docker</a></li>
+<li><a class="reference internal" href="#forensics" id="id18">Forensics</a></li>
+<li><a class="reference internal" href="#intelligence" id="id19">Intelligence</a></li>
+<li><a class="reference internal" href="#library" id="id20">Library</a></li>
+<li><a class="reference internal" href="#live-cd-distributions" id="id21">Live CD - Distributions</a></li>
+<li><a class="reference internal" href="#malware" id="id22">Malware</a></li>
+<li><a class="reference internal" href="#network" id="id23">Network</a></li>
+<li><a class="reference internal" href="#penetration-testing" id="id24">Penetration Testing</a></li>
+<li><a class="reference internal" href="#security" id="id25">Security</a></li>
+<li><a class="reference internal" href="#reverse-engineering" id="id26">Reverse Engineering</a></li>
+<li><a class="reference internal" href="#social-engineering" id="id27">Social Engineering</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="code-auditing">
+<h2><a class="toc-backref" href="#id14">Code Auditing</a><a class="headerlink" href="#code-auditing" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="static-analysis">
+<h3>Static Analysis<a class="headerlink" href="#static-analysis" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="http://brakemanscanner.org">Brakeman</a> - A static analysis security vulnerability scanner for Ruby on Rails applications.</li>
+<li><a class="reference external" href="https://github.com/koalaman/shellcheck">ShellCheck</a> - A static analysis tool for shell scripts.</li>
+</ul>
+</div>
+</div>
+<div class="section" id="cryptography">
+<h2><a class="toc-backref" href="#id15">Cryptography</a><a class="headerlink" href="#cryptography" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/nccgroup/featherduster">FeatherDuster</a> - An automated, modular cryptanalysis tool.</li>
+<li><a class="reference external" href="https://github.com/ius/rsatool">RSATool</a> - Generate private key with knowledge of p and q.</li>
+<li><a class="reference external" href="https://github.com/hellman/xortool">Xortool</a> - A tool to analyze multi-byte xor cipher.</li>
+</ul>
+</div>
+<div class="section" id="ctf-tools">
+<h2><a class="toc-backref" href="#id16">CTF Tools</a><a class="headerlink" href="#ctf-tools" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><a class="reference external" href="https://ctfd.io">CTFd</a> - CTF in a can. Easily modifiable and has everything you need to run a jeopardy style CTF.</li>
+<li><a class="reference external" href="https://github.com/facebook/fbctf">FBCTF</a> - Platform to host Capture the Flag competitions.</li>
+<li><a class="reference external" href="https://github.com/Nakiami/mellivora">Mellivora</a> - A CTF engine written in PHP.</li>
+<li><a class="reference external" href="https://github.com/david942j/one_gadget">OneGadget</a> - A tool for you easy to find the one gadget RCE in libc.so.6.</li>
+<li><a class="reference external" href="https://github.com/UnrealAkama/NightShade">NightShade</a> - A simple security CTF framework.</li>
+<li><a class="reference external" href="https://github.com/easyctf/openctf">OpenCTF</a> - CTF in a box. Minimal setup required.</li>
+<li><a class="reference external" href="https://github.com/Gallopsled/pwntools">Pwntools</a> - CTF framework and exploit development library.</li>
+<li><a class="reference external" href="https://github.com/legitbs/scorebot">Scorebot</a> - Platform for CTFs by Legitbs (Defcon).</li>
+<li><a class="reference external" href="https://github.com/P1kachu/v0lt">V0lt</a> - Security CTF Toolkit.</li>
+</ul>
+</div>
+<div class="section" id="docker">
+<h2><a class="toc-backref" href="#id17">Docker</a><a class="headerlink" href="#docker" title="Permalink to this headline">¶</a></h2>
+<ul>
+<li><p class="first"><a class="reference external" href="https://hub.docker.com/r/diogomonica/docker-bench-security/">Docker Bench for Security</a> - The Docker Bench for Security checks for all the automatable tests in the CIS Docker 1.6 Benchmark.</p>
+<blockquote>
+<div><p>docker pull diogomonica/docker-bench-security</p>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference external" href="https://hub.docker.com/r/citizenstig/dvwa/">DVWA</a> - Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.</p>
+<blockquote>
+<div><p>docker pull citizenstig/dvwa</p>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference external" href="https://hub.docker.com/r/kalilinux/kali-linux-docker/">Kali Linux</a> - This Kali Linux Docker image provides a minimal base install of the latest version of the Kali Linux Rolling Distribution.</p>
+<blockquote>
+<div><p>docker pull kalilinux/kali-linux-docker</p>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference external" href="https://hub.docker.com/r/remnux/metasploit/">Metasploit</a> - Metasploit Framework penetration testing software (unofficial docker).</p>
+<blockquote>
+<div><p>docker pull remnux/metasploit</p>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference external" href="https://hub.docker.com/r/bkimminich/juice-shop/">OWASP Juice Shop</a> - An intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.</p>
+<blockquote>
+<div><p>docker pull bkimminich/juice-shop</p>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference external" href="https://hub.docker.com/r/citizenstig/nowasp/">OWASP Mutillidae II</a> - OWASP Mutillidae II Web Pen-Test Practice Application.</p>
+<blockquote>
+<div><p>docker pull citizenstig/nowasp</p>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference external" href="https://github.com/owasp/nodegoat#option-3">OWASP NodeGoat</a> - An environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.</p>
+<blockquote>
+<div><p>git clone <a class="reference external" href="https://github.com/OWASP/NodeGoat.git">https://github.com/OWASP/NodeGoat.git</a>
+docker-compose build &amp;&amp; docker-compose up</p>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference external" href="https://hub.docker.com/r/owasp/railsgoat/">OWASP Railsgoat</a> - A vulnerable version of Rails that follows the OWASP Top 10.</p>
+<blockquote>
+<div><p>docker pull owasp/railsgoat</p>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference external" href="https://hub.docker.com/r/ismisepaul/securityshepherd/">OWASP Security Shepherd</a> - A web and mobile application security training platform.</p>
+<blockquote>
+<div><p>docker pull ismisepaul/securityshepherd</p>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference external" href="https://hub.docker.com/r/danmx/docker-owasp-webgoat/">OWASP WebGoat</a> - A deliberately insecure Web Application.</p>
+<blockquote>
+<div><p>docker pull danmx/docker-owasp-webgoat</p>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference external" href="https://hub.docker.com/r/owasp/zap2docker-stable/">OWASP ZAP</a> - Current stable owasp zed attack proxy release in embedded docker container.</p>
+<blockquote>
+<div><p>docker pull owasp/zap2docker-stable</p>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference external" href="https://hub.docker.com/r/opendns/security-ninjas/">Security Ninjas</a> - An Open Source Application Security Training Program.</p>
+<blockquote>
+<div><p>docker pull opendns/security-ninjas</p>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference external" href="https://hub.docker.com/r/fmantuano/spamscope-elasticsearch/">SpamScope</a> - SpamScope (Fast Advanced Spam Analysis Tool) Elasticsearch.</p>
+<blockquote>
+<div><p>docker pull fmantuano/spamscope-elasticsearch</p>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference external" href="https://hub.docker.com/r/wpscanteam/vulnerablewordpress/">Vulnerable WordPress Installation</a> - Vulnerable WordPress Installation.</p>
+<blockquote>
+<div><p>docker pull wpscanteam/vulnerablewordpress</p>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference external" href="https://hub.docker.com/r/hmlio/vaas-cve-2014-0160/">Vulnerability as a service: Heartbleed</a> - Vulnerability as a Service: CVE 2014-0160.</p>
+<blockquote>
+<div><p>docker pull hmlio/vaas-cve-2014-0160</p>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference external" href="https://hub.docker.com/r/hmlio/vaas-cve-2014-6271/">Vulnerability as a service: Shellshock</a> - Vulnerability as a Service: CVE 2014-6271.</p>
+<blockquote>
+<div><p>docker pull hmlio/vaas-cve-2014-6271</p>
+</div></blockquote>
+</li>
+<li><p class="first"><a class="reference external" href="https://hub.docker.com/r/wpscanteam/wpscan/">WPScan</a> - WPScan is a black box WordPress vulnerability scanner.</p>
+<blockquote>
+<div><p>docker pull wpscanteam/wpscan</p>
+</div></blockquote>
+</li>
+</ul>
+</div>
+<div class="section" id="forensics">
+<h2><a class="toc-backref" href="#id18">Forensics</a><a class="headerlink" href="#forensics" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="file-forensics">
+<h3>File Forensics<a class="headerlink" href="#file-forensics" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="http://www.sleuthkit.org/autopsy/">Autopsy</a> - A digital forensics platform and graphical interface to The Sleuth Kit and other digital forensics tools.</li>
+<li><a class="reference external" href="http://www.digital-forensic.org">DFF</a> - A Forensics Framework coming with command line and graphical interfaces. DFF can be used to investigate hard drives and volatile memory and create reports about user and system activities.</li>
+<li><a class="reference external" href="https://github.com/sleuthkit/hadoop_framework">Hadoop_framework</a> - A prototype system that uses Hadoop to process hard drive images.</li>
+<li><a class="reference external" href="http://yelp.github.io/osxcollector/">OSXCollector</a> - A forensic evidence collection &amp; analysis toolkit for OS X.</li>
+<li><a class="reference external" href="https://github.com/sleuthkit/scalpel">Scalpel</a> - An open source data carving tool.</li>
+<li><a class="reference external" href="https://github.com/williballenthin/shellbags">Shellbags</a> - Investigate NT_USER.dat files.</li>
+<li><a class="reference external" href="https://github.com/sleuthkit/sleuthkit">Sleuthkit</a> - A library and collection of command line digital forensics tools.</li>
+</ul>
+</div>
+<div class="section" id="live-analysis">
+<h3>Live Analysis<a class="headerlink" href="#live-analysis" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="OSXAuditorisafreeMacOSXcomputerforensicstool">OS X Auditor</a> - OS X Auditor is a free Mac OS X computer forensics tool.</li>
+</ul>
+</div>
+<div class="section" id="memory-forensics">
+<h3>Memory Forensics<a class="headerlink" href="#memory-forensics" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="http://www.rekall-forensic.com">Rekall</a> - Memory analysis framework developed by Google.</li>
+<li><a class="reference external" href="http://www.volatilityfoundation.org">Volatility</a> - Extract digital artifacts from volatile memory (RAM) samples.</li>
+</ul>
+</div>
+<div class="section" id="mobile">
+<h3>Mobile<a class="headerlink" href="#mobile" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://code.google.com/archive/p/aft/">Android Forensic Toolkit</a> - Allows you to extract SMS records, call history, photos, browsing history, and password from an Android phone.</li>
+<li><a class="reference external" href="https://github.com/MobileForensicsResearch/mem">Mem</a> - Tool used for dumping memory from Android devices.</li>
+</ul>
+</div>
+<div class="section" id="network-forensics">
+<h3>Network Forensics<a class="headerlink" href="#network-forensics" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/USArmyResearchLab/Dshell">Dshell</a> - A network forensic analysis framework.</li>
+<li><a class="reference external" href="https://github.com/gamelinux/passivedns">Passivedns</a> - A network sniffer that logs all DNS server replies for use in a passive DNS setup.</li>
+</ul>
+</div>
+<div class="section" id="misc">
+<h3>Misc<a class="headerlink" href="#misc" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://mh-nexus.de/en/hxd/">HxD</a> - A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size.</li>
+<li><cite>Libfvde &lt;https://github.com/libyal/libfvde&gt;</cite> - Library and tools to access FileVault Drive Encryption (FVDE) encrypted volumes.</li>
+</ul>
+</div>
+</div>
+<div class="section" id="intelligence">
+<h2><a class="toc-backref" href="#id19">Intelligence</a><a class="headerlink" href="#intelligence" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/cve-search/VIA4CVE">VIA4CVE</a> - An aggregator of the known vendor vulnerabilities database to support the expansion of information with CVEs.</li>
+</ul>
+</div>
+<div class="section" id="library">
+<h2><a class="toc-backref" href="#id20">Library</a><a class="headerlink" href="#library" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="c">
+<h3>C<a class="headerlink" href="#c" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/dugsong/libdnet">Libdnet</a> - Provides a simplified, portable interface to several low-level networking routines, including network address manipulation, kernel arp cache and route table lookup and manipulation, network firewalling, network interface lookup and manipulation, IP tunnelling, and raw IP packet and Ethernet frame transmission.</li>
+</ul>
+</div>
+<div class="section" id="java">
+<h3>Java<a class="headerlink" href="#java" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/whispersystems/libsignal-service-java/">Libsignal-service-java</a> - A Java/Android library for communicating with the Signal messaging service.</li>
+</ul>
+</div>
+<div class="section" id="python">
+<h3>Python<a class="headerlink" href="#python" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/kbandla/dpkt">Dpkt</a> - Fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols.</li>
+<li><a class="reference external" href="https://www.coresecurity.com/corelabs-research/open-source-tools/pcapy">Pcapy</a> - A Python extension module that interfaces with the libpcap packet capture library. Pcapy enables python scripts to capture packets on the network. Pcapy is highly effective when used in conjunction with a packet-handling package such as Impacket, which is a collection of Python classes for constructing and dissecting network packets.</li>
+<li><a class="reference external" href="https://github.com/Groundworkstech/pybfd/">PyBFD</a> - Python interface to the GNU Binary File Descriptor (BFD) library.</li>
+<li><a class="reference external" href="https://jon.oberheide.org/pynids/">Pynids</a> - A python wrapper for libnids, a Network Intrusion Detection System library offering sniffing, IP defragmentation, TCP stream reassembly and TCP port scan detection. Let your own python routines examine network conversations.</li>
+<li><a class="reference external" href="https://github.com/dugsong/pypcap">Pypcap</a> - This is a simplified object-oriented Python wrapper for libpcap.</li>
+<li><a class="reference external" href="http://mstamy2.github.io/PyPDF2">PyPDF2</a> - A utility to read and write PDFs with Python.</li>
+<li><a class="reference external" href="https://github.com/haypo/python-ptrace">Python-ptrace</a> - Python binding of ptrace library.</li>
+<li><a class="reference external" href="https://github.com/citronneur/rdpy">RDPY</a> - RDPY is a pure Python implementation of the Microsoft RDP (Remote Desktop Protocol) protocol (client and server side).</li>
+<li><a class="reference external" href="http://www.secdev.org/projects/scapy/">Scapy</a> - A python-based interactive packet manipulation program &amp; library.</li>
+</ul>
+</div>
+<div class="section" id="ruby">
+<h3>Ruby<a class="headerlink" href="#ruby" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/twitter/secureheaders">Secureheaders</a> - Security related headers all in one gem.</li>
+</ul>
+</div>
+</div>
+<div class="section" id="live-cd-distributions">
+<h2><a class="toc-backref" href="#id21">Live CD - Distributions</a><a class="headerlink" href="#live-cd-distributions" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><a class="reference external" href="https://androidtamer.com">Android Tamer</a> - Virtual / Live Platform for Android Security professionals.</li>
+<li><a class="reference external" href="https://archstrike.org">ArchStrike</a> - An Arch Linux repository for security professionals and enthusiasts.</li>
+<li><a class="reference external" href="https://backbox.org">BackBox</a> - Ubuntu-based distribution for penetration tests and security assessments.</li>
+<li><a class="reference external" href="https://www.blackarch.org">BlackArch</a> - Arch Linux-based distribution for penetration testers and security researchers.</li>
+<li><a class="reference external" href="https://bosslinux.in">BOSSLive</a> - An Indian GNU/Linux distribution developed by CDAC and is customized to suit Indian’s digital environment. It supports most of the Indian languages.</li>
+<li><a class="reference external" href="http://www.deftlinux.net">DEFT Linux</a> - Suite dedicated to incident response and digital forensics.</li>
+<li><a class="reference external" href="https://labs.fedoraproject.org/en/security/">Fedora Security Lab</a> - A safe test environment to work on security auditing, forensics, system rescue and teaching security testing methodologies in universities and other organizations.</li>
+<li><a class="reference external" href="https://www.kali.org">Kali</a> - A Linux distribution designed for digital forensics and penetration testing.</li>
+<li><a class="reference external" href="http://networksecuritytoolkit.org">NST</a> - Network Security Toolkit distribution.</li>
+<li><a class="reference external" href="http://ophcrack.sourceforge.net">Ophcrack</a> - A free Windows password cracker based on rainbow tables. It is a very efficient implementation of rainbow tables done by the inventors of the method. It comes with a Graphical User Interface and runs on multiple platforms.</li>
+<li><a class="reference external" href="https://www.parrotsec.org">Parrot</a> - Security GNU/Linux distribution designed with cloud pentesting and IoT security in mind.</li>
+<li><a class="reference external" href="http://www.pentoo.ch">Pentoo</a> - Security-focused livecd based on Gentoo.</li>
+<li><a class="reference external" href="https://remnux.org">REMnux</a> - Toolkit for assisting malware analysts with reverse-engineering malicious software.</li>
+</ul>
+</div>
+<div class="section" id="malware">
+<h2><a class="toc-backref" href="#id22">Malware</a><a class="headerlink" href="#malware" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="dynamic-analysis">
+<h3>Dynamic Analysis<a class="headerlink" href="#dynamic-analysis" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/androguard/androguard/">Androguard</a> - Reverse engineering, Malware and goodware analysis of Android applications.</li>
+<li><a class="reference external" href="http://www.cuckoosandbox.org">Cuckoo Sandbox</a> - An automated dynamic malware analysis system.</li>
+<li><a class="reference external" href="https://github.com/idanr1986/cuckoo-droid">CuckooDroid</a> - Automated Android Malware Analysis with Cuckoo Sandbox.</li>
+<li><a class="reference external" href="https://github.com/sycurelab/DECAF">DECAF</a> - Short for Dynamic Executable Code Analysis Framework, is a binary analysis platform based on QEMU.</li>
+<li><a class="reference external" href="https://github.com/pjlantz/droidbox">DroidBox</a> - Dynamic analysis of Android apps.</li>
+<li><a class="reference external" href="https://github.com/AndroidHooker/hooker">Hooker</a> - An opensource project for dynamic analyses of Android applications.</li>
+<li><a class="reference external" href="https://github.com/urule99/jsunpack-n">Jsunpack-n</a> - Emulates browser functionality when visiting a URL.</li>
+<li><a class="reference external" href="https://github.com/gwillem/magento-malware-scanner">Magento-malware-scanner</a> - A collection of rules and samples to detect Magento malware.</li>
+<li><a class="reference external" href="http://malzilla.sourceforge.net">Malzilla</a> - Web pages that contain exploits often use a series of redirects and obfuscated code to make it more difficult for somebody to follow. MalZilla is a useful program for use in exploring malicious pages. It allows you to choose your own user agent and referrer, and has the ability to use proxies. It shows you the full source of webpages and all the HTTP headers. It gives you various decoders to try and deobfuscate javascript aswell.</li>
+<li><a class="reference external" href="https://github.com/ZSShen/ProbeDroid">ProbeDroid</a> - A dynamic binary instrumentation kit targeting on Android(Lollipop) 5.0 and above.</li>
+<li><a class="reference external" href="https://code.google.com/archive/p/pyemu/">PyEMU</a> - Fully scriptable IA-32 emulator, useful for malware analysis.</li>
+<li><a class="reference external" href="https://github.com/mrpapercut/wscript/">WScript Emulator</a> - Emulator/tracer of the Windows Script Host functionality.</li>
+</ul>
+</div>
+<div class="section" id="honeypot">
+<h3>Honeypot<a class="headerlink" href="#honeypot" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/bjeborn/basic-auth-pot">Basic-auth-pot</a> - HTTP Basic Authentication honeyPot.</li>
+<li><a class="reference external" href="https://github.com/mushorg/conpot">Conpot</a> - ICS/SCADA honeypot.</li>
+<li><a class="reference external" href="https://github.com/micheloosterhof/cowrie">Cowrie</a> - SSH honeypot, based on Kippo.</li>
+<li><a class="reference external" href="https://github.com/jordan-wright/elastichoney">Elastichoney</a> - A Simple Elasticsearch Honeypot.</li>
+<li><a class="reference external" href="https://github.com/mycert/ESPot">ESPot</a> - An Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.</li>
+<li><a class="reference external" href="https://github.com/Novetta/delilah">Delilah</a> - An Elasticsearch Honeypot written in Python.</li>
+<li><a class="reference external" href="https://github.com/DinoTools/dionaea">Dionaea</a> - Honeypot designed to trap malware.</li>
+<li><a class="reference external" href="https://github.com/mushorg/glastopf">Glastopf</a> - Web Application Honeypot.</li>
+<li><a class="reference external" href="https://github.com/mushorg/glutton">Glutton</a> - All eating honeypot.</li>
+<li><a class="reference external" href="http://www.honeyd.org">Honeyd</a> - Create a virtual honeynet.</li>
+<li><a class="reference external" href="https://github.com/dustyfresh/HoneyPress">HoneyPress</a> - python based WordPress honeypot in a docker container.</li>
+<li><a class="reference external" href="https://github.com/MartinIngesen/HonnyPotter">HonnyPotter</a> - A WordPress login honeypot for collection and analysis of failed login attempts.</li>
+<li><a class="reference external" href="https://github.com/kevthehermit/Maildb">Maildb</a> - Python Web App to Parse and Track Email and http Pcap Files.</li>
+<li><a class="reference external" href="https://github.com/threatstream/mhn">MHN</a> - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management.</li>
+<li><a class="reference external" href="https://github.com/johnnykv/mnemosyne">Mnemosyne</a> - A normalizer for honeypot data; supports Dionaea.</li>
+<li><a class="reference external" href="https://github.com/Plazmaz/MongoDB-HoneyProxy">MongoDB-HoneyProxy</a> - A honeypot proxy for mongodb. When run, this will proxy and log all traffic to a dummy mongodb server.</li>
+<li><a class="reference external" href="https://github.com/schmalle/MysqlPot">MysqlPot</a> - A mysql honeypot, still very very early stage.</li>
+<li><a class="reference external" href="https://github.com/schmalle/Nodepot">Nodepot</a> - A nodejs web application honeypot.</li>
+<li><a class="reference external" href="https://github.com/torque59/nosqlpot">NoSQLPot</a> - The NoSQL Honeypot Framework.</li>
+<li><a class="reference external" href="https://github.com/buffer/phoneyc">Phoneyc</a> - Pure Python honeyclient implementation.</li>
+<li><a class="reference external" href="https://github.com/gfoss/phpmyadmin_honeypot">Phpmyadmin_honeypot</a> - A simple and effective phpMyAdmin honeypot.</li>
+<li><a class="reference external" href="https://github.com/schmalle/servletpot">Servletpot</a> - Web application Honeypot.</li>
+<li><a class="reference external" href="https://shadowd.zecure.org">Shadow Daemon</a> - A modular Web Application Firewall / High-Interaction Honeypot for PHP, Perl &amp; Python apps.</li>
+<li><a class="reference external" href="https://github.com/freak3dot/smart-honeypot">Smart-honeypot</a> - PHP Script demonstrating a smart honey pot.</li>
+<li><a class="reference external" href="https://github.com/SpamScope/spamscope">SpamScope</a> - Fast Advanced Spam Analysis Tool.</li>
+<li><a class="reference external" href="https://github.com/buffer/thug">Thug</a> - Low interaction honeyclient, for investigating malicious websites.</li>
+<li><a class="reference external" href="https://github.com/gbrindisi/wordpot">Wordpot</a> - A WordPress Honeypot.</li>
+<li><a class="reference external" href="https://github.com/freak3dot/wp-smart-honeypot">Wp-smart-honeypot</a> - WordPress plugin to reduce comment spam with a smarter honeypot.</li>
+</ul>
+</div>
+<div class="section" id="id2">
+<h3>Intelligence<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/MISP/misp-modules">MISP Modules</a> - Modules for expansion services, import and export in MISP.</li>
+<li><a class="reference external" href="https://github.com/chrislee35/passivedns-client">Passivedns-client</a> - Provides a library and a query tool for querying several passive DNS providers.</li>
+<li><a class="reference external" href="https://github.com/fireeye/rt2jira">Rt2jira</a> - Convert RT tickets to JIRA tickets.</li>
+</ul>
+</div>
+<div class="section" id="ops">
+<h3>Ops<a class="headerlink" href="#ops" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/omriher/CapTipper">CapTipper</a> - A python tool to analyze, explore and revive HTTP malicious traffic.</li>
+<li><a class="reference external" href="https://github.com/Akdeniz/google-play-crawler">Google-play-crawler</a> - Google-play-crawler is simply Java tool for searching android applications on GooglePlay, and also downloading them.</li>
+<li><a class="reference external" href="https://github.com/egirault/googleplay-api">Googleplay-api</a> - An unofficial Python API that let you search, browse and download Android apps from Google Play (formerly Android Market).</li>
+<li><a class="reference external" href="https://github.com/fireeye/flare-fakenet-ng">FakeNet-NG</a> - A next generation dynamic network analysis tool for malware analysts and penetration testers. It is open source and designed for the latest versions of Windows.</li>
+<li><a class="reference external" href="https://github.com/GoSecure/malboxes">Malboxes</a> - Builds malware analysis Windows VMs so that you don’t have to.</li>
+<li><a class="reference external" href="https://github.com/dweinstein/node-appland">Node-appland</a> - NodeJS tool to download APKs from appland.</li>
+<li><a class="reference external" href="https://github.com/dweinstein/node-aptoide">Node-aptoide</a> - NodeJS to download APKs from aptoide.</li>
+<li><a class="reference external" href="https://github.com/dweinstein/node-google-play">Node-google-play</a> - Call Google Play APIs from Node.</li>
+</ul>
+</div>
+<div class="section" id="source-code">
+<h3>Source Code<a class="headerlink" href="#source-code" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/ashishb/android-malware">Android-malware</a> - Collection of android malware samples.</li>
+<li><a class="reference external" href="https://github.com/hzeroo/Carberp">Carberp</a> - Carberp leaked source code.</li>
+<li><a class="reference external" href="https://github.com/rickey-g/fancybear">Fancybear</a> - Fancy Bear Source Code.</li>
+<li><a class="reference external" href="https://github.com/jgamblin/Mirai-Source-Code">Mirai</a> - Leaked Mirai Source Code for Research/IoC Development Purposes.</li>
+<li><a class="reference external" href="https://github.com/rossja/TinyNuke">TinyNuke</a> - Zeus-style banking trojan.</li>
+<li><a class="reference external" href="https://github.com/Visgean/Zeus">Zeus</a> - Zeus version 2.0.8.9, leaked in 2011.</li>
+</ul>
+</div>
+<div class="section" id="id3">
+<h3>Static Analysis<a class="headerlink" href="#id3" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/maaaaz/androwarn/">Androwarn</a> - Detect and warn the user about potential malicious behaviours developped by an Android application.</li>
+<li><a class="reference external" href="https://github.com/sonyxperiadev/ApkAnalyser">ApkAnalyser</a> - A static, virtual analysis tool for examining and validating the development work of your Android app.</li>
+<li><a class="reference external" href="https://github.com/honeynet/apkinspector/">APKinspector</a> A powerful GUI tool for analysts to analyze the Android applications.</li>
+<li><a class="reference external" href="http://pag.arguslab.org/argus-saf">Argus-SAF</a> - Argus static analysis framework.</li>
+<li><a class="reference external" href="https://github.com/douggard/CFGScanDroid">CFGScanDroid</a> - Control Flow Graph Scanning for Android.</li>
+<li><a class="reference external" href="https://github.com/JulianSchuette/ConDroid">ConDroid</a> - Symbolic/concolic execution of Android apps.</li>
+<li><a class="reference external" href="https://bitbucket.org/srl/droidlegacy">DroidLegacy</a> - Static analysis scripts.</li>
+<li><a class="reference external" href="https://github.com/fireeye/flare-floss">Floss</a> - FireEye Labs Obfuscated String Solver. Automatically extract obfuscated strings from malware.</li>
+<li><a class="reference external" href="https://github.com/zyrikby/FSquaDRA">FSquaDRA</a> - Fast detection of repackaged Android applications based on the comparison of resource files included into the package.</li>
+<li><a class="reference external" href="https://github.com/ac-pm/Inspeckage">Inspeckage</a> - Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more.</li>
+<li><a class="reference external" href="https://github.com/maldroid/maldrolyzer">Maldrolyzer</a> - Simple framework to extract “actionable” data from Android malware (C&amp;Cs, phone numbers, etc).</li>
+<li><a class="reference external" href="http://eternal-todo.com/tools/peepdf-pdf-analysis-tool">Peepdf</a> - A Python tool to explore PDF files in order to find out if the file can be harmful or not. The aim of this tool is to provide all the necessary components that a security researcher could need in a PDF analysis without using 3 or 4 tools to make all the tasks.</li>
+<li><a class="reference external" href="https://github.com/erocarrera/pefile">PEfile</a> - Read and work with Portable Executable (aka PE) files.</li>
+<li><a class="reference external" href="http://wjradburn.com/software/">PEview</a> - A quick and easy way to view the structure and content of 32-bit Portable Executable (PE) and Component Object File Format (COFF) files.</li>
+<li><a class="reference external" href="https://euske.github.io/pdfminer/">Pdfminer</a> - A tool for extracting information from PDF documents.</li>
+<li><a class="reference external" href="http://pscout.csl.toronto.edu">PScout</a> - Analyzing the Android Permission Specification.</li>
+<li><a class="reference external" href="https://github.com/EugenioDelfa/Smali-CFGs">Smali-CFGs</a> - Smali Control Flow Graph’s.</li>
+<li><a class="reference external" href="https://github.com/dorneanu/smalisca">SmaliSCA</a> - Smali Static Code Analysis.</li>
+<li><a class="reference external" href="https://technet.microsoft.com/en-us/sysinternals/bb842062">Sysinternals Suite</a> - The Sysinternals Troubleshooting Utilities.</li>
+<li><a class="reference external" href="http://virustotal.github.io/yara/">Yara</a> - Identify and classify malware samples.</li>
+</ul>
+</div>
+</div>
+<div class="section" id="network">
+<h2><a class="toc-backref" href="#id23">Network</a><a class="headerlink" href="#network" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="analysis">
+<h3>Analysis<a class="headerlink" href="#analysis" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="http://www.bro.org">Bro</a> - A powerful network analysis framework that is much different from the typical IDS you may know.</li>
+<li><a class="reference external" href="http://pytbull.sourceforge.net">Pytbull</a> - A python based flexible IDS/IPS testing framework.</li>
+<li><a class="reference external" href="http://bammv.github.io/sguil/index.html">Sguil</a> - Sguil (pronounced sgweel) is built by network security analysts for network security analysts. Sguil’s main component is an intuitive GUI that provides access to realtime events, session data, and raw packet captures.</li>
+</ul>
+</div>
+<div class="section" id="fake-services">
+<h3>Fake Services<a class="headerlink" href="#fake-services" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="http://thesprawl.org/projects/dnschef/">DNSChef</a> - DNS proxy for Penetration Testers and Malware Analysts.</li>
+<li><a class="reference external" href="https://github.com/iSECPartners/dnsRedir">DnsRedir</a> - A small DNS server that will respond to certain queries with addresses provided on the command line.</li>
+</ul>
+</div>
+<div class="section" id="packet-manipulation">
+<h3>Packet Manipulation<a class="headerlink" href="#packet-manipulation" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/rafael-santiago/pig">Pig</a> - A Linux packet crafting tool.</li>
+<li><a class="reference external" href="http://www.yersinia.net">Yersinia</a> - A network tool designed to take advantage of some weakeness in different network protocols. It pretends to be a solid framework for analyzing and testing the deployed networks and systems.</li>
+</ul>
+</div>
+<div class="section" id="sniffer">
+<h3>Sniffer<a class="headerlink" href="#sniffer" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/thepacketgeek/cloud-pcap">Cloud-pcap</a> - Web PCAP storage and analytics.</li>
+<li><a class="reference external" href="https://www.dns-oarc.net/tools/dnscap">Dnscap</a> - Network capture utility designed specifically for DNS traffic.</li>
+<li><a class="reference external" href="https://dripcap.org/">Dripcap</a> - Caffeinated Packet Analyzer.</li>
+<li><a class="reference external" href="https://www.monkey.org/~dugsong/dsniff/">Dsniff</a> - A collection of tools for network auditing and pentesting.</li>
+<li><a class="reference external" href="http://justniffer.sourceforge.net/">Justniffer</a> - Just A Network TCP Packet Sniffer. Justniffer is a network protocol analyzer that captures network traffic and produces logs in a customized way, can emulate Apache web server log files, track response times and extract all “intercepted” files from the HTTP traffic.</li>
+<li><a class="reference external" href="https://github.com/aol/moloch">Moloch</a> - Moloch is a open source large scale full PCAP capturing, indexing and database system.</li>
+<li><a class="reference external" href="https://github.com/DanMcInerney/net-creds">Net-creds</a> - Sniffs sensitive data from interface or pcap.</li>
+<li><a class="reference external" href="http://www.netresec.com/?page=NetworkMiner">NetworkMiner</a> - A Network Forensic Analysis Tool (NFAT).</li>
+<li><a class="reference external" href="http://netsniff-ng.org">Netsniff-ng</a> - A Swiss army knife for your daily Linux network plumbing.</li>
+<li><a class="reference external" href="http://www.openfpc.org">OpenFPC</a> - OpenFPC is a set of scripts that combine to provide a lightweight full-packet network traffic recorder and buffering tool. Its design goal is to allow non-expert users to deploy a distributed network traffic recorder on COTS hardware while integrating into existing alert and log tools.</li>
+<li><a class="reference external" href="http://www.ntop.org/products/packet-capture/pf_ring/">PF_RING</a> - PF_RING™ is a Linux kernel module and user-space framework that allows you to process packets at high-rates while providing you a consistent API for packet processing applications.</li>
+<li><a class="reference external" href="https://github.com/sparrowprince/WebPcap">WebPcap</a> - A web-based packet analyzer (client/server architecture). Useful for analyzing distributed applications or embedded devices.</li>
+<li><a class="reference external" href="https://www.wireshark.org">Wireshark</a> - A free and open-source packet analyzer.</li>
+</ul>
+</div>
+</div>
+<div class="section" id="penetration-testing">
+<h2><a class="toc-backref" href="#id24">Penetration Testing</a><a class="headerlink" href="#penetration-testing" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="dos">
+<h3>DoS<a class="headerlink" href="#dos" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/kamorin/DHCPig">DHCPig</a> - DHCP exhaustion script written in python using scapy network library.</li>
+<li><a class="reference external" href="https://github.com/NewEraCracker/LOIC/">LOIC</a> - Low Orbit Ion Cannon - An open source network stress tool, written in C#. Based on Praetox’s LOIC project.</li>
+<li><a class="reference external" href="https://github.com/defuse/sockstress">Sockstress</a> - Sockstress (TCP DoS) implementation.</li>
+<li><a class="reference external" href="http://t50.sf.net/">T50</a> - The more fast network stress tool.</li>
+<li><a class="reference external" href="https://github.com/dotfighter/torshammer">Torshammer</a> - Tor’s hammer. Slow post DDOS tool written in python.</li>
+<li><a class="reference external" href="http://ufonet.03c8.net">UFONet</a> - Abuses OSI Layer 7-HTTP to create/manage ‘zombies’ and to conduct different attacks using; GET/POST, multithreading, proxies, origin spoofing methods, cache evasion techniques, etc.</li>
+</ul>
+</div>
+<div class="section" id="exploiting">
+<h3>Exploiting<a class="headerlink" href="#exploiting" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="http://beefproject.com">BeEF</a> - The Browser Exploitation Framework Project.</li>
+<li><a class="reference external" href="http://www.commixproject.com">Commix</a> - Automated All-in-One OS Command Injection and Exploitation Tool.</li>
+<li><a class="reference external" href="https://github.com/OpenSecurityResearch/dllinjector">DLLInjector</a> - Inject dlls in processes.</li>
+<li><a class="reference external" href="http://exploitpack.com">ExploitPack</a> - Graphical tool for penetration testing with a bunch of exploits.</li>
+<li><a class="reference external" href="https://github.com/infobyte/evilgrade">Evilgrade</a> - The update explotation framework.</li>
+<li><a class="reference external" href="https://github.com/xor-function/fathomless">Fathomless</a> - A collection of different programs for network red teaming.</li>
+<li><a class="reference external" href="https://github.com/PenturaLabs/Linux_Exploit_Suggester">Linux Exploit Suggester</a> - Linux Exploit Suggester; based on operating system release number.</li>
+<li><a class="reference external" href="http://www.metasploit.com/">Metasploit Framework</a> - Exploitation framework.</li>
+<li><a class="reference external" href="http://www.tenable.com/products/nessus-vulnerability-scanner">Nessus</a> - Vulnerability, configuration, and compliance assessment.</li>
+<li><a class="reference external" href="https://www.rapid7.com/products/nexpose/">Nexpose</a> - Vulnerability Management &amp; Risk Management Software.</li>
+<li><a class="reference external" href="http://www.openvas.org">OpenVAS</a> - Open Source vulnerability scanner and manager.</li>
+<li><a class="reference external" href="https://github.com/PowerShellMafia/PowerSploit/">PowerSploit</a> - A PowerShell Post-Exploitation Framework.</li>
+<li><a class="reference external" href="https://github.com/FuzzySecurity/PSKernel-Primitives">PSKernel-Primitives</a> - Exploit primitives for PowerShell.</li>
+<li><a class="reference external" href="http://shell-storm.org/project/ROPgadget/">ROP Gadget</a> - Framework for ROP exploitation.</li>
+<li><a class="reference external" href="https://github.com/reverse-shell/routersploit">Routersploit</a> - Automated penetration testing software for router.</li>
+<li><a class="reference external" href="https://github.com/dionyziz/rupture/">Rupture</a> - A framework for BREACH and other compression-based crypto attacks.</li>
+<li><a class="reference external" href="https://github.com/merrychap/shellen">Shellen</a> - Interactive shellcoding environment to easily craft shellcodes.</li>
+<li><a class="reference external" href="https://github.com/b3mb4m/shellsploit-framework">Shellsploit</a> - Let’s you generate customized shellcodes, backdoors, injectors for various operating system. And let’s you obfuscation every byte via encoders.</li>
+<li><a class="reference external" href="http://sparta.secforce.com">SPARTA</a> - Network Infrastructure Penetration Testing Tool.</li>
+<li><a class="reference external" href="https://github.com/vjex/spoodle">Spoodle</a> - A mass subdomain + poodle vulnerability scanner.</li>
+<li><a class="reference external" href="https://www.veil-framework.com">Veil Framework</a> - A tool designed to generate metasploit payloads that bypass common anti-virus solutions.</li>
+<li><a class="reference external" href="https://github.com/future-architect/vuls">Vuls</a> - Vulnerability scanner for Linux/FreeBSD, agentless, written in Go.</li>
+<li><a class="reference external" href="https://github.com/GDSSecurity/Windows-Exploit-Suggester">Windows Exploit Suggester</a> - Detects potential missing patches on the target.</li>
+<li><a class="reference external" href="https://github.com/hatRiot/zarp">Zarp</a> - Network Attack Tool.</li>
+</ul>
+</div>
+<div class="section" id="exploits">
+<h3>Exploits<a class="headerlink" href="#exploits" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/theori-io/chakra-2016-11">Chakra-2016-11</a> - Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 &amp; CVE-2016-7201).</li>
+<li><a class="reference external" href="https://github.com/random-robbie/Jira-Scan">Jira-Scan</a> - Jira scanner for CVE-2017-9506.</li>
+<li><a class="reference external" href="https://github.com/worawit/MS17-010">MS17-010</a> - Exploits for MS17-010.</li>
+<li><a class="reference external" href="https://github.com/rubysec/ruby-advisory-db">Ruby-advisory-db</a> - A database of vulnerable Ruby Gems.</li>
+<li><a class="reference external" href="https://github.com/offensive-security/exploit-database">The Exploit Database</a> - The official Exploit Database repository.</li>
+<li><a class="reference external" href="https://github.com/XiphosResearch/exploits">XiphosResearch Exploits</a> - Miscellaneous proof of concept exploit code written at Xiphos Research for testing purposes.</li>
+</ul>
+</div>
+<div class="section" id="info-gathering">
+<h3>Info Gathering<a class="headerlink" href="#info-gathering" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/rubysec/bundler-audit">Bundler-audit</a> - Patch-level verification for Bundler.</li>
+<li><a class="reference external" href="https://github.com/fwaeytens/dnsenum/">Dnsenum</a> - A perl script that enumerates DNS information.</li>
+<li><a class="reference external" href="https://github.com/makefu/dnsmap/">Dnsmap</a> - Passive DNS network mapper.</li>
+<li><a class="reference external" href="https://github.com/darkoperator/dnsrecon/">Dnsrecon</a> - DNS Enumeration Script.</li>
+<li><a class="reference external" href="https://github.com/guelfoweb/knock">Knock</a> - A python tool designed to enumerate subdomains on a target domain through a wordlist.</li>
+<li><a class="reference external" href="https://ivre.rocks">IVRE</a> - An open-source framework for network recon. It relies on open-source well-known tools to gather data (network intelligence), stores it in a database, and provides tools to analyze it.</li>
+<li><a class="reference external" href="https://github.com/graniet/operative-framework">Operative-framework</a> - This is a framework based on fingerprint action, this tool is used for get information on a website or a enterprise target with multiple modules (Viadeo search,Linkedin search, Reverse email whois, Reverse ip whois, SQL file forensics …).</li>
+<li><a class="reference external" href="https://bitbucket.org/LaNMaSteR53/recon-ng">Recon-ng</a> - A full-featured Web Reconnaissance framework written in Python.</li>
+<li><a class="reference external" href="https://github.com/ShawnDEvans/smbmap">SMBMap</a> - A handy SMB enumeration tool.</li>
+<li><a class="reference external" href="http://thesprawl.org/projects/sslmap/">SSLMap</a> - TLS/SSL cipher suite scanner.</li>
+<li><a class="reference external" href="https://github.com/TheRook/subbrute">Subbrute</a> - A DNS meta-query spider that enumerates DNS records, and subdomains.</li>
+<li><a class="reference external" href="https://github.com/dxa4481/truffleHog">TruffleHog</a> - Searches through git repositories for high entropy strings, digging deep into commit history.</li>
+<li><a class="reference external" href="https://github.com/eschultze/URLextractor">URLextractor</a> - Information gathering &amp; website reconnaissance.</li>
+<li><a class="reference external" href="https://github.com/MaYaSeVeN/Wmap">Wmap</a> - Information gathering for web hacking.</li>
+</ul>
+</div>
+<div class="section" id="fuzzing">
+<h3>Fuzzing<a class="headerlink" href="#fuzzing" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/jonmetz/AndroFuzz">AndroFuzz</a> - A fuzzing utility for Android that focuses on reporting and delivery portions of the fuzzing process.</li>
+<li><a class="reference external" href="http://construct.readthedocs.org">Construct</a> - Declarative data structures for python that allow symmetric parsing and building.</li>
+<li><a class="reference external" href="http://fusil.readthedocs.io/">Fusil</a> - A Python library used to write fuzzing programs. It helps to start process with a prepared environment (limit memory, environment variables, redirect stdout, etc.), start network client or server, and create mangled files.</li>
+<li><a class="reference external" href="https://github.com/iSECPartners/fuzzbox">Fuzzbox</a> - A multi-codec media fuzzing tool.</li>
+<li><a class="reference external" href="http://google.github.io/honggfuzz/">Honggfuzz</a> - Security oriented fuzzer with powerful analysis options. Supports evolutionary, feedback-driven fuzzing based on code coverage (sw and hw).</li>
+<li><a class="reference external" href="https://github.com/anestisb/melkor-android">Melkor-android</a> - An Android port of the melkor ELF fuzzer.</li>
+<li><a class="reference external" href="https://github.com/fuzzing/MFFA">MFFA</a> - Media Fuzzing Framework for Android.</li>
+<li><a class="reference external" href="https://github.com/netzob/netzob">Netzob</a> - Netzob is an opensource tool for reverse engineering, traffic generation and fuzzing of communication protocols.</li>
+<li><a class="reference external" href="http://jwilk.net/software/python-afl">Python-AFL</a> - American fuzzy lop fork server and instrumentation for pure-Python code.</li>
+<li><a class="reference external" href="https://github.com/anestisb/radamsa-android">Radamsa-android</a> - An Android port of radamsa fuzzer.</li>
+<li><a class="reference external" href="https://github.com/danielmiessler/SecLists">SecLists</a> - A collection of multiple types of lists used during security assessments.</li>
+<li><a class="reference external" href="https://github.com/OpenRCE/sulley">Sulley</a> - Fuzzer development and fuzz testing framework consisting of multiple extensible components.</li>
+<li><a class="reference external" href="https://sourceforge.net/projects/taof/">TAOF</a> - The Art of Fuzzing, including ProxyFuzz, a man-in-the-middle non-deterministic network fuzzer.</li>
+<li><a class="reference external" href="https://www.nccgroup.trust/us/about-us/resources/windows-ipc-fuzzing-tools/">Windows IPC Fuzzing Tools</a> - A collection of tools used to attack applications that use Windows Interprocess Communication mechanisms.</li>
+<li><a class="reference external" href="https://github.com/nccgroup/Zulu.git">Zulu</a> - A fuzzer designed for rapid prototyping that normally happens on a client engagement where something needs to be fuzzed within tight timescales.</li>
+</ul>
+</div>
+<div class="section" id="id4">
+<h3>Mobile<a class="headerlink" href="#id4" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/appknox/AFE">AFE</a> - Android Framework for Exploitation, is a framework for exploiting android based devices.</li>
+<li><a class="reference external" href="https://github.com/AndroBugs/AndroBugs_Framework">AndroBugs</a> - An efficient Android vulnerability scanner that helps developers or hackers find potential security vulnerabilities in Android applications.</li>
+<li><a class="reference external" href="https://github.com/AndroidVTS/android-vts">Android-vts</a> - Android Vulnerability Test Suite - In the spirit of open data collection, and with the help of the community, let’s take a pulse on the state of Android security.</li>
+<li><a class="reference external" href="https://github.com/sh4hin/Androl4b">Androl4b</a> - A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis.</li>
+<li><a class="reference external" href="https://thecobraden.com/projects/cobradroid/">CobraDroid</a> - A custom build of the Android operating system geared specifically for application security analysts and for individuals dealing with mobile malware.</li>
+<li><a class="reference external" href="http://mwr.to/drozer">Drozer</a> - The Leading Security Assessment Framework for Android.</li>
+<li><a class="reference external" href="http://www.idbtool.com">Idb</a> - A tool to simplify some common tasks for iOS pentesting and research.</li>
+<li><a class="reference external" href="http://isecpartners.github.io/Introspy-iOS/">Introspy-iOS</a> - Security profiling for blackbox iOS.</li>
+<li><a class="reference external" href="https://github.com/flankerhqd/JAADAS">JAADAS</a> - Joint Advanced Defect assEsment for android applications.</li>
+<li><a class="reference external" href="http://opensecurity.in">Mobile Security Framework</a> - An intelligent, all-in-one open source mobile application (Android/iOS/Windows) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.</li>
+<li><a class="reference external" href="https://github.com/linkedin/qark/">QARK</a> - QARK by LinkedIn is for app developers to scan app for security issues.</li>
+</ul>
+</div>
+<div class="section" id="mitm">
+<h3>MITM<a class="headerlink" href="#mitm" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/DanMcInerney/dnsspoof">Dnsspoof</a> - DNS spoofer. Drops DNS responses from the router and replaces it with the spoofed DNS response.</li>
+<li><a class="reference external" href="http://www.ettercap-project.org">Ettercap</a> - A comprehensive suite for man in the middle attacks. It features sniffing of live connections, content filtering on the fly and many other interesting tricks. It supports active and passive dissection of many protocols and includes many features for network and host analysis.</li>
+<li><a class="reference external" href="https://bettercap.org/">Bettercap</a> - A powerful, flexible and portable tool created to perform various types of MITM attacks against a network, manipulate HTTP, HTTPS and TCP traffic in realtime, sniff for credentials and much more.</li>
+<li><a class="reference external" href="https://bitbucket.org/IntrepidusGroup/mallory">Mallory</a> - An extensible TCP/UDP man in the middle proxy that is designed to be run as a gateway. Unlike other tools of its kind, Mallory supports modifying non-standard protocols on the fly.</li>
+<li><a class="reference external" href="https://github.com/byt3bl33d3r/MITMf">MITMf</a> - Framework for Man-In-The-Middle attacks.</li>
+<li><a class="reference external" href="https://mitmproxy.org/">Mitmproxy</a> - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface.</li>
+<li><a class="reference external" href="https://github.com/Akdeniz/mitmsocks4j">Mitmsocks4j</a> - Man in the Middle SOCKS Proxy for JAVA.</li>
+<li><a class="reference external" href="https://github.com/google/nogotofail">Nogotofail</a> - An on-path blackbox network traffic security testing tool.</li>
+<li><a class="reference external" href="https://github.com/SpiderLabs/Responder">Responder</a> - A LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.</li>
+</ul>
+</div>
+<div class="section" id="password-cracking">
+<h3>Password Cracking<a class="headerlink" href="#password-cracking" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/juuso/BozoCrack">BozoCrack</a> - A silly &amp; effective MD5 cracker in Ruby.</li>
+<li><a class="reference external" href="https://hashcat.net/hashcat/">HashCat</a> - World’s fastest and most advanced password recovery utility.</li>
+<li><a class="reference external" href="https://github.com/praetorian-inc/Hob0Rules">Hob0Rules</a> - Password cracking rules for Hashcat based on statistics and industry patterns.</li>
+<li><a class="reference external" href="http://www.openwall.com/john/">John the Ripper</a> - A fast password cracker.</li>
+<li><a class="reference external" href="https://www.thc.org/thc-hydra/">THC-Hydra</a> - A very fast network logon cracker which support many different services.</li>
+</ul>
+</div>
+<div class="section" id="port-scanning">
+<h3>Port Scanning<a class="headerlink" href="#port-scanning" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="http://angryip.org">Angry IP Scanner</a> - Fast and friendly network scanner.</li>
+<li><a class="reference external" href="https://github.com/robertdavidgraham/masscan">Masscan</a> - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.</li>
+<li><a class="reference external" href="https://nmap.org">Nmap</a> - Free Security Scanner For Network Exploration &amp; Security Audits.</li>
+<li><a class="reference external" href="https://zmap.io">Zmap</a> - An open-source network scanner that enables researchers to easily perform Internet-wide network studies.</li>
+</ul>
+</div>
+<div class="section" id="post-exploitation">
+<h3>Post Exploitation<a class="headerlink" href="#post-exploitation" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/moyix/creddump">Creddump</a> - Dump windows credentials.</li>
+<li><a class="reference external" href="https://github.com/sensepost/DET">DET</a> - (extensible) Data Exfiltration Toolkit (DET).</li>
+<li><a class="reference external" href="https://github.com/m57/dnsteal">Dnsteal</a> - DNS Exfiltration tool for stealthily sending files over DNS requests.</li>
+<li><a class="reference external" href="http://www.powershellempire.com">Empire</a> - Empire is a pure PowerShell post-exploitation agent.</li>
+<li><a class="reference external" href="https://github.com/tcstool/Fireaway">Fireaway</a> - Next Generation Firewall Audit and Bypass Tool.</li>
+<li><a class="reference external" href="http://code.kryo.se/iodine">Iodine</a> - Lets you tunnel IPv4 data through a DNS server.</li>
+<li><a class="reference external" href="https://github.com/justmao945/mallory">Mallory</a> - HTTP/HTTPS proxy over SSH.</li>
+<li><a class="reference external" href="http://blog.gentilkiwi.com/mimikatz">Mimikatz</a> - A little tool to play with Windows security.</li>
+<li><a class="reference external" href="https://github.com/Cn33liz/p0wnedShell">P0wnedShell</a> - PowerShell Runspace Post Exploitation Toolkit.</li>
+<li><a class="reference external" href="https://samy.pl/pwnat/">Pwnat</a> - Punches holes in firewalls and NATs allowing any numbers of clients behind NATs to directly connect to a server behind a different NAT.</li>
+<li><a class="reference external" href="http://tgcd.sourceforge.net">Tgcd</a> - A simple Unix network utility to extend the accessibility of TCP/IP based network services beyond firewalls.</li>
+<li><a class="reference external" href="http://www.ampliasecurity.com/research/windows-credentials-editor/">WCE</a> - Windows Credentials Editor (WCE) is a security tool to list logon sessions and add, change, list and delete associated credentials.</li>
+</ul>
+</div>
+<div class="section" id="reporting">
+<h3>Reporting<a class="headerlink" href="#reporting" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://dradisframework.com/ce/">Dradis</a> - Colllaboration and reporting for IT Security teams.</li>
+<li><a class="reference external" href="http://www.faradaysec.com">Faraday</a> - Collaborative Penetration Test and Vulnerability Management Platform.</li>
+</ul>
+</div>
+<div class="section" id="services">
+<h3>Services<a class="headerlink" href="#services" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://moxie.org/software/sslstrip/">Sslstrip</a> - A demonstration of the HTTPS stripping attacks.</li>
+<li><a class="reference external" href="https://github.com/LeonardoNve/sslstrip2">Sslstrip2</a> - SSLStrip version to defeat HSTS.</li>
+<li><a class="reference external" href="https://github.com/nabla-c0d3/sslyze">SSLyze</a> - SSL configuration scanner.</li>
+<li><a class="reference external" href="https://github.com/WestpointLtd/tls_prober.git">Tls_prober</a> - Fingerprint a server’s SSL/TLS implementation.</li>
+</ul>
+</div>
+<div class="section" id="training">
+<h3>Training<a class="headerlink" href="#training" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/antire-book/dont_panic">Don’t Panic</a> - Training linux bind shell with anti-reverse engineering techniques.</li>
+<li><a class="reference external" href="http://dvwa.co.uk">DVWA</a> - Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.</li>
+<li><a class="reference external" href="https://github.com/interference-security/DVWS">DVWS</a> - Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which works on web sockets for client-server communication.</li>
+<li><a class="reference external" href="https://www.owasp.org/index.php/OWASP_Juice_Shop_Project">OWASP Juice Shop</a> - An intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.</li>
+<li><a class="reference external" href="https://www.owasp.org/index.php/Projects/OWASP_Node_js_Goat_Project">OWASP NodeGoat</a> - An environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.</li>
+<li><a class="reference external" href="http://railsgoat.cktricky.com/">OWASP Railsgoat</a> - A vulnerable version of Rails that follows the OWASP Top 10.</li>
+<li><a class="reference external" href="https://www.owasp.org/index.php/OWASP_Security_Shepherd">OWASP Security Shepherd</a> - A web and mobile application security training platform.</li>
+<li><a class="reference external" href="https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project">OWASP WebGoat</a> - A deliberately insecure Web Application.</li>
+<li><a class="reference external" href="https://github.com/continuumsecurity/RopeyTasks">RopeyTasks</a> - Deliberately vulnerable web application.</li>
+</ul>
+</div>
+<div class="section" id="web">
+<h3>Web<a class="headerlink" href="#web" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="http://www.arachni-scanner.com">Arachni</a> - Web Application Security Scanner Framework.</li>
+<li><a class="reference external" href="http://blindelephant.sourceforge.net">BlindElephant</a> - Web Application Fingerprinter.</li>
+<li><a class="reference external" href="http://portswigger.net/burp/">Burp Suite</a> - An integrated platform for performing security testing of web applications.</li>
+<li><a class="reference external" href="https://code.google.com/archive/p/cms-explorer/">Cms-explorer</a> - CMS Explorer is designed to reveal the the specific modules, plugins, components and themes that various CMS driven web sites are running.</li>
+<li><a class="reference external" href="https://github.com/kost/dvcs-ripper">Dvcs-ripper</a> - Rip web accessible (distributed) version control systems.</li>
+<li><a class="reference external" href="https://tha-imax.de/git/root/fimap">Fimap</a> - Find, prepare, audit, exploit and even google automatically for LFI/RFI bugs.</li>
+<li><a class="reference external" href="https://www.owasp.org/index.php/Category:OWASP_Joomla_Vulnerability_Scanner_Project">Joomscan</a> - Joomla CMS scanner.</li>
+<li><a class="reference external" href="https://github.com/D35m0nd142/Kadabra">Kadabra</a> - Automatic LFI Exploiter and Scanner, written in C++ and a couple extern module in Python.</li>
+<li><a class="reference external" href="https://github.com/P0cL4bs/Kadimus">Kadimus</a> - LFI scan and exploit tool.</li>
+<li><a class="reference external" href="https://github.com/hvqzao/liffy">Liffy</a> - LFI exploitation tool.</li>
+<li><a class="reference external" href="https://www.netsparker.com">Netsparker</a> - Web Application Security Scanner.</li>
+<li><a class="reference external" href="https://cirt.net/nikto2">Nikto2</a> - Web application vulnerability scanner.</li>
+<li><a class="reference external" href="http://www.nosqlmap.net">NoSQLMap</a> - Automated Mongo database and NoSQL web application exploitation tool.</li>
+<li><a class="reference external" href="https://www.owasp.org/index.php/OWASP_Xenotix_XSS_Exploit_Framework">OWASP Xenotix</a> - XSS Exploit Framework is an advanced Cross Site Scripting (XSS) vulnerability detection and exploitation framework.</li>
+<li><a class="reference external" href="https://sourceforge.net/projects/paros/">Paros</a> - A Java based HTTP/HTTPS proxy for assessing web application vulnerability.</li>
+<li><a class="reference external" href="https://code.google.com/archive/p/ratproxy/">Ratproxy</a> - A semi-automated, largely passive web application security audit tool, optimized for an accurate and sensitive detection, and automatic annotation, of potential problems.</li>
+<li><a class="reference external" href="https://nccgroup.github.io/Scout2/">Scout2</a> - Security auditing tool for AWS environments.</li>
+<li><a class="reference external" href="https://code.google.com/archive/p/skipfish/">Skipfish</a> - An active web application security reconnaissance tool. It prepares an interactive sitemap for the targeted site by carrying out a recursive crawl and dictionary-based probes.</li>
+<li><a class="reference external" href="http://sqlmap.org">SQLMap</a> - Automatic SQL injection and database takeover tool.</li>
+<li><a class="reference external" href="http://sqlninja.sourceforge.net/">SQLNinja</a> - SQL Server injection &amp; takeover tool.</li>
+<li><a class="reference external" href="https://github.com/epinna/tplmap">TPLMap</a> - Automatic Server-Side Template Injection Detection and Exploitation Tool.</li>
+<li><a class="reference external" href="https://github.com/0xsauby/yasuo">Yasuo</a> - A ruby script that scans for vulnerable &amp; exploitable 3rd-party web applications on a network.</li>
+<li><a class="reference external" href="http://w3af.org">W3af</a> - Web application attack and audit framework.</li>
+<li><a class="reference external" href="http://wapiti.sourceforge.net">Wapiti</a> - Web application vulnerability scanner.</li>
+<li><a class="reference external" href="https://github.com/epinna/weevely3">Weevely3</a> - Weaponized web shell.</li>
+<li><a class="reference external" href="https://www.morningstarsecurity.com/research/whatweb">WhatWeb</a> - Website Fingerprinter.</li>
+<li><a class="reference external" href="https://github.com/rastating/wordpress-exploit-framework">Wordpress Exploit Framework</a> - A Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.</li>
+<li><a class="reference external" href="https://wpscan.org">WPScan</a> - WPScan is a black box WordPress vulnerability scanner.</li>
+<li><a class="reference external" href="https://github.com/espreto/wpsploit">WPSploit</a> - Exploiting Wordpress With Metasploit.</li>
+<li><a class="reference external" href="https://github.com/RUB-NDS/WS-Attacker">WS-Attacker</a> - A modular framework for web services penetration testing.</li>
+<li><a class="reference external" href="https://github.com/ismailtasdelen/xss-payload-list">XSS-payload-list</a>- XSS Payload list.</li>
+<li><a class="reference external" href="https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project">Zed Attack Proxy (ZAP)</a> - The OWASP ZAP core project.</li>
+</ul>
+</div>
+<div class="section" id="wireless">
+<h3>Wireless<a class="headerlink" href="#wireless" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="http://www.aircrack-ng.org">Aircrack-ng</a> - An 802.11 WEP and WPA-PSK keys cracking program.</li>
+<li><a class="reference external" href="https://kismetwireless.net/">Kismet</a> - Wireless network detector, sniffer, and IDS.</li>
+<li><a class="reference external" href="https://github.com/DanMcInerney/LANs.py">LANs.py</a> - Inject code, jam wifi, and spy on wifi users.</li>
+<li><a class="reference external" href="http://rfkiller.github.io/mass-deauth/">Mass-deauth</a> - A script for 802.11 mass-deauthentication.</li>
+<li><a class="reference external" href="https://code.google.com/archive/p/reaver-wps">Reaver</a> - Brute force attack against Wifi Protected Setup.</li>
+<li><a class="reference external" href="https://github.com/roglew/wifikill">Wifikill</a> - A python program to kick people off of wifi.</li>
+<li><a class="reference external" href="https://github.com/DanMcInerney/wifijammer">Wifijammer</a> - Continuously jam all wifi clients/routers.</li>
+<li><a class="reference external" href="https://github.com/derv82/wifite">Wifite</a> - Automated wireless attack tool.</li>
+<li><a class="reference external" href="https://github.com/sophron/wifiphisher">Wifiphisher</a> - Automated phishing attacks against Wi-Fi networks.</li>
+</ul>
+</div>
+</div>
+<div class="section" id="security">
+<h2><a class="toc-backref" href="#id25">Security</a><a class="headerlink" href="#security" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="cloud-security">
+<h3>Cloud Security<a class="headerlink" href="#cloud-security" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/nccgroup/azucar/">Azucar</a> - Security auditing tool for Azure environments.</li>
+</ul>
+</div>
+<div class="section" id="endpoint-security">
+<h3>Endpoint Security<a class="headerlink" href="#endpoint-security" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="http://aide.sourceforge.net">AIDE</a> - Advanced Intrusion Detection Environment is a file and directory integrity checker.</li>
+<li><a class="reference external" href="https://github.com/pmsosa/duckhunt">Duckhunt</a> - Prevent RubberDucky (or other keystroke injection) attacks.</li>
+</ul>
+</div>
+<div class="section" id="privacy">
+<h3>Privacy<a class="headerlink" href="#privacy" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://geti2p.net">I2P</a> - The Invisible Internet Project.</li>
+<li><a class="reference external" href="https://github.com/GouveaHeitor/nipe">Nipe</a> - A script to make Tor Network your default gateway.</li>
+<li><a class="reference external" href="https://freedom.press/securedrop">SecureDrop</a> - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.</li>
+<li><a class="reference external" href="https://www.torproject.org">Tor</a> - The free software for enabling onion routing online anonymity.</li>
+</ul>
+</div>
+</div>
+<div class="section" id="reverse-engineering">
+<h2><a class="toc-backref" href="#id26">Reverse Engineering</a><a class="headerlink" href="#reverse-engineering" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/swdunlop/AndBug">AndBug</a> - A debugger targeting the Android platform’s Dalvik virtual machine intended for reverse engineers and developers.</li>
+<li><a class="reference external" href="https://github.com/angr/angr">Angr</a> - A platform-agnostic binary analysis framework developed by the Computer Security Lab at UC Santa Barbara and their associated CTF team, Shellphish.</li>
+<li><a class="reference external" href="https://github.com/lxdvs/apk2gold">Apk2Gold</a> - Yet another Android decompiler.</li>
+<li><a class="reference external" href="https://ibotpeaches.github.io/Apktool/">ApkTool</a> - A tool for reverse engineering Android apk files.</li>
+<li><a class="reference external" href="https://github.com/programa-stic/barf-project">Barf</a> - Binary Analysis and Reverse engineering Framework.</li>
+<li><a class="reference external" href="http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx">BinText</a> - A small, very fast and powerful text extractor.</li>
+<li><a class="reference external" href="https://github.com/devttys0/binwalk">BinWalk</a> - Analyze, reverse engineer, and extract firmware images.</li>
+<li><a class="reference external" href="https://github.com/nemerle/boomerang">Boomerang</a> - Decompile x86 binaries to C.</li>
+<li><a class="reference external" href="https://bytecodeviewer.com">Bytecode-viewer</a> - A Java 8 Jar &amp; Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger &amp; More).</li>
+<li><a class="reference external" href="https://github.com/fireeye/flare-bytecode_graph">Bytecode_graph</a> - Module designed to modify Python bytecode. Allows instructions to be added or removed from a Python bytecode string.</li>
+<li><a class="reference external" href="http://www.capstone-engine.org">Capstone</a> - Lightweight multi-platform, multi-architecture disassembly framework with Python bindings.</li>
+<li><a class="reference external" href="https://github.com/chipsec/chipsec">CHIPSEC</a> - Platform Security Assessment Framework.</li>
+<li><a class="reference external" href="https://github.com/npamnani/coda">Coda</a> - Coredump analyzer.</li>
+<li><a class="reference external" href="https://github.com/docileninja/ctf_import">Ctf_import</a> – Run basic functions from stripped binaries cross platform.</li>
+<li><a class="reference external" href="http://www.codef00.com/projects#debugger">Edb</a> - A cross platform x86/x86-64 debugger.</li>
+<li><a class="reference external" href="https://github.com/pxb1988/dex2jar">Dex2jar</a> - Tools to work with android .dex and java .class files.</li>
+<li><a class="reference external" href="https://github.com/gdabah/distorm">Distorm</a> - Powerful Disassembler Library For x86/AMD64.</li>
+<li><a class="reference external" href="https://www.jetbrains.com/decompiler/">DotPeek</a> - A free-of-charge .NET decompiler from JetBrains.</li>
+<li><a class="reference external" href="https://github.com/google/enjarify">Enjarify</a> - A tool for translating Dalvik bytecode to equivalent Java bytecode. This allows Java analysis tools to analyze Android applications.</li>
+<li><a class="reference external" href="https://github.com/rabbitstack/fibratus">Fibratus</a> - Tool for exploration and tracing of the Windows kernel.</li>
+<li><a class="reference external" href="https://github.com/sysdream/fino">Fino</a> - An Android Dynamic Analysis Tool.</li>
+<li><a class="reference external" href="https://github.com/fireeye/flare-ida">Flare-ida</a> - IDA Pro utilities from FLARE team.</li>
+<li><a class="reference external" href="https://www.frida.re">Frida</a> - Inject JavaScript to explore native apps on Windows, macOS, Linux, iOS, Android, and QNX.</li>
+<li><a class="reference external" href="https://github.com/cyrus-and/gdb-dashboard">Gdb-dashboard</a> - Modular visual interface for GDB in Python.</li>
+<li><a class="reference external" href="https://gef.readthedocs.io/en/latest/">GEF</a> - Multi-Architecture GDB Enhanced Features for Exploiters &amp; Reverse-Engineers.</li>
+<li><a class="reference external" href="https://www.hopperapp.com">Hopper</a> - A OS X and Linux Disassembler/Decompiler for 32/64 bit Windows/Mac/Linux/iOS executables.</li>
+<li><a class="reference external" href="https://github.com/36hours/idaemu">Idaemu</a> - Is an IDA Pro Plugin, use for emulating code in IDA Pro.</li>
+<li><a class="reference external" href="https://www.hex-rays.com/products/ida/support/download_freeware.shtml">IDA Free</a> - The freeware version of IDA.</li>
+<li><a class="reference external" href="https://github.com/iphelix/ida-patcher">IDA Patcher</a> - IDA Patcher is a plugin for Hex-Ray’s IDA Pro disassembler designed to enhance IDA’s ability to patch binary files and memory.</li>
+<li><a class="reference external" href="http://thesprawl.org/projects/ida-pomidor/">IDA Pomidor</a> - IDA Pomidor is a plugin for Hex-Ray’s IDA Pro disassembler that will help you retain concentration and productivity during long reversing sessions.</li>
+<li><a class="reference external" href="https://www.hex-rays.com/products/ida/index.shtml">IDA Pro</a> - A Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger.</li>
+<li><a class="reference external" href="http://thesprawl.org/projects/ida-sploiter/">IDA Sploiter</a> - IDA Sploiter is a plugin for Hex-Ray’s IDA Pro disassembler designed to enhance IDA’s capabilities as an exploit development and vulnerability research tool.</li>
+<li><a class="reference external" href="https://github.com/idapython/">IDAPython</a> - An IDA plugin which makes it possible to write scripts for IDA in the Python programming language.</li>
+<li><a class="reference external" href="http://debugger.immunityinc.com/">Immunity Debugger</a> - A powerful new way to write exploits and analyze malware.</li>
+<li><a class="reference external" href="http://varaneckas.com/jad/">JAD</a> - JAD Java Decompiler.</li>
+<li><a class="reference external" href="https://github.com/skylot/jadx">Jadx</a> - Decompile Android files.</li>
+<li><a class="reference external" href="http://jd.benow.ca">JD-GUI</a> - Aims to develop tools in order to decompile and analyze Java 5 “byte code” and the later versions.</li>
+<li><a class="reference external" href="http://www.keystone-engine.org">Keystone Engine</a> - A lightweight multi-platform, multi-architecture assembler framework.</li>
+<li><a class="reference external" href="https://github.com/Storyyeller/Krakatau">Krakatau</a> - Java decompiler, assembler, and disassembler.</li>
+<li><a class="reference external" href="https://github.com/trailofbits/manticore">Manticore</a> - Prototyping tool for dynamic binary analysis, with support for symbolic execution, taint analysis, and binary instrumentation.</li>
+<li><a class="reference external" href="https://github.com/xtiankisutsa/MARA_Framework">MARA Framework</a> - A Mobile Application Reverse engineering and Analysis Framework.</li>
+<li><a class="reference external" href="https://github.com/wisk/medusa">Medusa</a> - A disassembler designed to be both modular and interactive.</li>
+<li><a class="reference external" href="https://www.corelan.be/index.php/2011/07/14/mona-py-the-manual/">Mona.py</a> - PyCommand for Immunity Debugger that replaces and improves on pvefindaddr.</li>
+<li><a class="reference external" href="http://www.ollydbg.de">OllyDbg</a> - An x86 debugger that emphasizes binary code analysis.</li>
+<li><a class="reference external" href="https://github.com/OpenRCE/paimei">Paimei</a> - Reverse engineering framework, includes PyDBG, PIDA, pGRAPH.</li>
+<li><a class="reference external" href="https://github.com/longld/peda">PEDA</a> - Python Exploit Development Assistance for GDB.</li>
+<li><a class="reference external" href="https://github.com/joelpx/plasma">Plasma</a> - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.</li>
+<li><a class="reference external" href="https://bitbucket.org/mstrobel/procyon">Procyon</a> - A modern open-source Java decompiler.</li>
+<li><a class="reference external" href="https://github.com/joxeankoret/pyew">Pyew</a> - Command line hexadecimal editor and disassembler, mainly to analyze malware.</li>
+<li><a class="reference external" href="http://qira.me">Qira</a> - QEMU Interactive Runtime Analyser.</li>
+<li><a class="reference external" href="https://github.com/newlog/r2msdn">R2MSDN</a> - R2 plugin to add MSDN documentation URLs and parameter names to imported function calls.</li>
+<li><a class="reference external" href="https://github.com/CyberShadow/RABCDAsm">RABCDAsm</a> - Robust ABC (ActionScript Bytecode) [Dis-]Assembler.</li>
+<li><a class="reference external" href="http://www.radare.org">Radare2</a> - Opensource, crossplatform reverse engineering framework.</li>
+<li><a class="reference external" href="https://github.com/plum-umd/redexer">Redexer</a> - A reengineering tool that manipulates Android app binaries.</li>
+<li><a class="reference external" href="https://github.com/pfalcon/ScratchABit">ScratchABit</a> - Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API.</li>
+<li><a class="reference external" href="https://github.com/CalebFenton/simplify">Simplify</a> - Generic Android Deobfuscator.</li>
+<li><a class="reference external" href="https://github.com/JesusFreke/smali">Smali</a> - Smali/baksmali is an assembler/disassembler for the dex format used by dalvik, Android’s Java VM implementation.</li>
+<li><a class="reference external" href="https://github.com/aaronportnoy/toolbag">Toolbag</a> - The IDA Toolbag is a plugin providing supplemental functionality to Hex-Rays IDA Pro disassembler.</li>
+<li><a class="reference external" href="https://github.com/bfosterjr/ufgraph">Ufgraph</a> - A simple script which parses the output of the uf (un-assemble function) command in windbg and uses graphviz to generate a control flow graph as a PNG/SVG/PDF/GIF (see -of option) and displays it.</li>
+<li><a class="reference external" href="https://github.com/gstarnberger/uncompyle">Uncompyle</a> - Decompile Python 2.7 binaries (.pyc).</li>
+<li><a class="reference external" href="http://www.unicorn-engine.org">Unicorn Engine</a> - A lightweight, multi-platform, multi-architecture CPU emulator framework based on QEMU.</li>
+<li><a class="reference external" href="https://github.com/snare/voltron">Voltron</a> - An extensible debugger UI toolkit written in Python. It aims to improve the user experience of various debuggers (LLDB, GDB, VDB and WinDbg) by enabling the attachment of utility views that can retrieve and display data from the debugger host.</li>
+<li><a class="reference external" href="https://developer.microsoft.com/en-us/windows/hardware/windows-driver-kit">WinDbg</a> - Windows Driver Kit and WinDbg.</li>
+<li><a class="reference external" href="http://www.winhex.com/winhex/">WinHex</a> - A hexadecimal editor, helpful in the realm of computer forensics, data recovery, low-level data processing, and IT security.</li>
+<li><a class="reference external" href="https://github.com/jonwil/unlinker">Unlinker</a> - Unlinker is a tool that can rip functions out of Visual C++ compiled binaries and produce Visual C++ COFF object files.</li>
+<li><a class="reference external" href="https://upx.github.io">UPX</a> - The Ultimate Packer for eXecutables.</li>
+<li><a class="reference external" href="http://x64dbg.com">X64_dbg</a> - An open-source x64/x32 debugger for windows.</li>
+<li><a class="reference external" href="https://bitbucket.org/Alexander_Hanel/xxxswf">Xxxswf</a> - A Python script for analyzing Flash files.</li>
+<li><a class="reference external" href="https://github.com/DGA-MI-SSI/YaCo">YaCo</a> - An Hex-Rays IDA plugin. When enabled, multiple users can work simultaneously on the same binary. Any modification done by any user is synchronized through git version control.</li>
+</ul>
+</div>
+<div class="section" id="social-engineering">
+<h2><a class="toc-backref" href="#id27">Social Engineering</a><a class="headerlink" href="#social-engineering" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="framework">
+<h3>Framework<a class="headerlink" href="#framework" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/trustedsec/social-engineer-toolkit">SET</a> - The Social-Engineer Toolkit from TrustedSec.</li>
+</ul>
+</div>
+<div class="section" id="harvester">
+<h3>Harvester<a class="headerlink" href="#harvester" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="http://www.geocreepy.com">Creepy</a> - A geolocation OSINT tool.</li>
+<li><a class="reference external" href="https://github.com/techgaun/github-dorks">Github-dorks</a> - CLI tool to scan github repos/organizations for potential sensitive information leak.</li>
+<li><a class="reference external" href="https://www.paterva.com">Maltego</a> - Proprietary software for open source intelligence and forensics, from Paterva.</li>
+<li><a class="reference external" href="https://github.com/laramies/metagoofil">Metagoofil</a> - Metadata harvester.</li>
+<li><a class="reference external" href="http://www.edge-security.com/theharvester.php">TheHarvester</a> - E-mail, subdomain and people names harvester.</li>
+<li><a class="reference external" href="https://github.com/dchrastil/TTSL">TTSL</a> - Tool to scrape LinkedIn.</li>
+</ul>
+</div>
+<div class="section" id="phishing">
+<h3>Phishing<a class="headerlink" href="#phishing" title="Permalink to this headline">¶</a></h3>
+<ul class="simple">
+<li><a class="reference external" href="https://github.com/Mawalu/whatsapp-phishing">Whatsapp-phishing</a> -  Proof of principle code for running a phishing attack against the official Whatsapp Web client.</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="#">Awesome Hacking</a></h1>
+
+
+
+<p class="blurb">Hacker's toolset</p>
+
+
+
+
+<p>
+<iframe src="https://ghbtns.com/github-btn.html?user=jekil&repo=awesome-hacking&type=watch&count=true&size=large&v=2"
+  allowtransparency="true" frameborder="0" scrolling="0" width="200px" height="35px"></iframe>
+</p>
+
+
+
+
+
+<h3>Navigation</h3>
+
+
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    </div>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &copy;2018, Alessandro Tanasi (@jekil).
+      
+      |
+      <a href="_sources/index.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+    <a href="https://github.com/jekil/awesome-hacking" class="github">
+        <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"  class="github"/>
+    </a>
+    
+
+    
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-2317228-22']);
+      _gaq.push(['_setDomainName', 'none']);
+      _gaq.push(['_setAllowLinker', true]);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+    
+  </body>
+</html>
