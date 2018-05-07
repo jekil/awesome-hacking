@@ -177,7 +177,7 @@ pseudoxml:
 	@echo "Build finished. The pseudo-XML files are in $(BUILDDIR)/pseudoxml."
 
 github:
-	touch $(BUILDDIR)/.nojekyll
+	touch $(BUILDDIR)/html/.nojekyll
 	ghp-import -b gh-pages -c awesomehacking.org -m "Travis.ci automated site building" -n _build/html
 
 purge:
