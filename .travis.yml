@@ -17,6 +17,8 @@ before_script:
   - git config --global user.name ${NICK}
 after_script:
   - make purge
+before_deploy:
+  - cd _build/html
 deploy:
   provider: pages
   skip-cleanup: true
