@@ -50,7 +50,7 @@ clean:
 	rm -rf $(BUILDDIR)/*
 
 html:
-    $(SPHINXBUILD) -n -b html -d _build/doctrees _pages $(BUILDDIR)/html
+	$(SPHINXBUILD) -n -b html -d _build/doctrees _pages $(BUILDDIR)/html
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 
