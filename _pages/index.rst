@@ -636,6 +636,7 @@ Reverse Engineering
 - `Frida <https://www.frida.re>`_ - Inject JavaScript to explore native apps on Windows, macOS, Linux, iOS, Android, and QNX.
 - `Gdb-dashboard <https://github.com/cyrus-and/gdb-dashboard>`_ - Modular visual interface for GDB in Python.
 - `GEF <https://gef.readthedocs.io/en/latest/>`_ - Multi-Architecture GDB Enhanced Features for Exploiters & Reverse-Engineers.
+- `Heap-viewer <https://github.com/danigargu/heap-viewer>`_ - An IDA Pro plugin to examine the glibc heap, focused on exploit development.
 - `Hopper <https://www.hopperapp.com>`_ - A OS X and Linux Disassembler/Decompiler for 32/64 bit Windows/Mac/Linux/iOS executables.
 - `Idaemu <https://github.com/36hours/idaemu>`_ - Is an IDA Pro Plugin, use for emulating code in IDA Pro.
 - `IDA Free <https://www.hex-rays.com/products/ida/support/download_freeware.shtml>`_ - The freeware version of IDA.
