@@ -655,6 +655,7 @@ Reverse Engineering
 - `Manticore <https://github.com/trailofbits/manticore>`_ - Prototyping tool for dynamic binary analysis, with support for symbolic execution, taint analysis, and binary instrumentation.
 - `MARA Framework <https://github.com/xtiankisutsa/MARA_Framework>`_ - A Mobile Application Reverse engineering and Analysis Framework.
 - `Medusa <https://github.com/wisk/medusa>`_ - A disassembler designed to be both modular and interactive.
+- `MegaDumper <https://github.com/CodeCracker-Tools/MegaDumper>`_ - Dump native and .NET assemblies.
 - `Mona.py <https://www.corelan.be/index.php/2011/07/14/mona-py-the-manual/>`_ - PyCommand for Immunity Debugger that replaces and improves on pvefindaddr.
 - `OllyDbg <http://www.ollydbg.de>`_ - An x86 debugger that emphasizes binary code analysis.
 - `Paimei <https://github.com/OpenRCE/paimei>`_ - Reverse engineering framework, includes PyDBG, PIDA, pGRAPH.
@@ -668,6 +669,7 @@ Reverse Engineering
 - `Radare2 <http://www.radare.org>`_ - Opensource, crossplatform reverse engineering framework.
 - `Redexer <https://github.com/plum-umd/redexer>`_ - A reengineering tool that manipulates Android app binaries.
 - `ScratchABit <https://github.com/pfalcon/ScratchABit>`_ - Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API.
+- `Shed <https://github.com/enkomio/shed>`_ - .NET runtime inspector.
 - `Simplify <https://github.com/CalebFenton/simplify>`_ - Generic Android Deobfuscator.
 - `Smali <https://github.com/JesusFreke/smali>`_ - Smali/baksmali is an assembler/disassembler for the dex format used by dalvik, Android's Java VM implementation.
 - `Toolbag <https://github.com/aaronportnoy/toolbag>`_ - The IDA Toolbag is a plugin providing supplemental functionality to Hex-Rays IDA Pro disassembler.
