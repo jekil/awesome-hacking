@@ -295,6 +295,7 @@ Source Code
 - `Carberp <https://github.com/hzeroo/Carberp>`_ - Carberp leaked source code.
 - `Fancybear <https://github.com/rickey-g/fancybear>`_ - Fancy Bear Source Code.
 - `Mirai <https://github.com/jgamblin/Mirai-Source-Code>`_ - Leaked Mirai Source Code for Research/IoC Development Purposes.
+- `Morris Worm <https://github.com/arialdomartini/morris-worm>`_ - The original Morris Worm source code.
 - `TinyNuke <https://github.com/rossja/TinyNuke>`_ - Zeus-style banking trojan.
 - `Zeus <https://github.com/Visgean/Zeus>`_ - Zeus version 2.0.8.9, leaked in 2011.
 
