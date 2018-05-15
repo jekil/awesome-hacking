@@ -483,6 +483,7 @@ Password Cracking
 -----------------
 
 - `BozoCrack <https://github.com/juuso/BozoCrack>`_ - A silly & effective MD5 cracker in Ruby.
+- `Common-substr <https://github.com/SensePost/common-substr>`_ - Simple awk script to extract the most common substrings from an input text. Built for password cracking.
 - `HashCat <https://hashcat.net/hashcat/>`_ - World's fastest and most advanced password recovery utility.
 - `Hob0Rules <https://github.com/praetorian-inc/Hob0Rules>`_ - Password cracking rules for Hashcat based on statistics and industry patterns.
 - `John the Ripper <http://www.openwall.com/john/>`_ - A fast password cracker.
@@ -504,6 +505,7 @@ Post Exploitation
 - `Dnsteal <https://github.com/m57/dnsteal>`_ - DNS Exfiltration tool for stealthily sending files over DNS requests.
 - `Empire <http://www.powershellempire.com>`_ - Empire is a pure PowerShell post-exploitation agent.
 - `Fireaway <https://github.com/tcstool/Fireaway>`_ - Next Generation Firewall Audit and Bypass Tool.
+- `GetVulnerableGPO <https://github.com/gpoguy/GetVulnerableGPO.git>`_ - PowerShell script to find 'vulnerable' security-related GPOs that should be hardended.
 - `Iodine <http://code.kryo.se/iodine>`_ - Lets you tunnel IPv4 data through a DNS server. 
 - `Mallory <https://github.com/justmao945/mallory>`_ - HTTP/HTTPS proxy over SSH.
 - `Mimikatz <http://blog.gentilkiwi.com/mimikatz>`_ - A little tool to play with Windows security.

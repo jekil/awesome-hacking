@@ -1048,3 +1048,9 @@
 [submodule "Malware/Source Code/morris-worm"]
 	path = Malware/Source Code/morris-worm
 	url = https://github.com/arialdomartini/morris-worm.git
+[submodule "Pentration Testing/Password Cracking/common-substr"]
+	path = Pentration Testing/Password Cracking/common-substr
+	url = https://github.com/sensepost/common-substr.git
+[submodule "Pentration Testing/Post Exploitation/GetVulnerableGPO"]
+	path = Pentration Testing/Post Exploitation/GetVulnerableGPO
+	url = https://github.com/gpoguy/GetVulnerableGPO.git
