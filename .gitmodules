@@ -1027,3 +1027,24 @@
 [submodule "Pentration Testing/Exploiting/shellen"]
 	path = Pentration Testing/Exploiting/shellen
 	url = https://github.com/merrychap/shellen.git
+[submodule "Malware/Dynamic Analysis/uitkyk"]
+	path = Malware/Dynamic Analysis/uitkyk
+	url = https://github.com/brompwnie/uitkyk.git
+[submodule "Malware/Ops/CSCGuard"]
+	path = Malware/Ops/CSCGuard
+	url = https://github.com/glinares/CSCGuard.git
+[submodule "Reverse Engineering/heap-viewer"]
+	path = Reverse Engineering/heap-viewer
+	url = https://github.com/danigargu/heap-viewer.git
+[submodule "Pentration Testing/Exploits/CVE-2018-8897"]
+	path = Pentration Testing/Exploits/CVE-2018-8897
+	url = https://github.com/nmulasmajic/CVE-2018-8897.git
+[submodule "Reverse Engineering/shed"]
+	path = Reverse Engineering/shed
+	url = https://github.com/enkomio/shed.git
+[submodule "Reverse Engineering/MegaDumper"]
+	path = Reverse Engineering/MegaDumper
+	url = https://github.com/CodeCracker-Tools/MegaDumper.git
+[submodule "Malware/Source Code/morris-worm"]
+	path = Malware/Source Code/morris-worm
+	url = https://github.com/arialdomartini/morris-worm.git
