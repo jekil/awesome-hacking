@@ -1054,3 +1054,24 @@
 [submodule "Pentration Testing/Post Exploitation/GetVulnerableGPO"]
 	path = Pentration Testing/Post Exploitation/GetVulnerableGPO
 	url = https://github.com/gpoguy/GetVulnerableGPO.git
+[submodule "Malware/Ops/al-khaser"]
+	path = Malware/Ops/al-khaser
+	url = https://github.com/LordNoteworthy/al-khaser.git
+[submodule "Pentration Testing/Port Scanning/watchdog"]
+	path = Pentration Testing/Port Scanning/watchdog
+	url = https://github.com/flipkart-incubator/watchdog.git
+[submodule "Pentration Testing/Exploits/cve-2018-8120"]
+	path = Pentration Testing/Exploits/cve-2018-8120
+	url = https://github.com/bigric3/cve-2018-8120
+[submodule "Pentration Testing/Exploits/HolicPOC"]
+	path = Pentration Testing/Exploits/HolicPOC
+	url = https://github.com/leeqwind/HolicPOC.git
+[submodule "Pentration Testing/Exploiting/drupwn"]
+	path = Pentration Testing/Exploiting/drupwn
+	url = https://github.com/immunIT/drupwn.git
+[submodule "Forensics/File Forensics/docker-explorer"]
+	path = Forensics/File Forensics/docker-explorer
+	url = https://github.com/google/docker-explorer.git
+[submodule "Security/Endpoint Security/lynis"]
+	path = Security/Endpoint Security/lynis
+	url = https://github.com/CISOfy/lynis.git

@@ -127,6 +127,7 @@ File Forensics
 
 - `Autopsy <http://www.sleuthkit.org/autopsy/>`_ - A digital forensics platform and graphical interface to The Sleuth Kit and other digital forensics tools.
 - `DFF <http://www.digital-forensic.org>`_ - A Forensics Framework coming with command line and graphical interfaces. DFF can be used to investigate hard drives and volatile memory and create reports about user and system activities.
+- `Docker Explorer <https://github.com/google/docker-explorer>`_ - A tool to help forensicate offline docker acquisitions.
 - `Hadoop_framework <https://github.com/sleuthkit/hadoop_framework>`_ - A prototype system that uses Hadoop to process hard drive images.
 - `OSXCollector <http://yelp.github.io/osxcollector/>`_ - A forensic evidence collection & analysis toolkit for OS X.
 - `Scalpel <https://github.com/sleuthkit/scalpel>`_ - An open source data carving tool.
@@ -278,6 +279,7 @@ Intelligence
 Ops
 ---
 
+- `Al-khaser <https://github.com/LordNoteworthy/al-khaser>`_ - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
 - `CapTipper <https://github.com/omriher/CapTipper>`_ - A python tool to analyze, explore and revive HTTP malicious traffic.
 - `CSCGuard <https://github.com/glinares/CSCGuard>`_ - Protects and logs suspicious and malicious usage of .NET CSC.exe and Runtime C# Compilation.
 - `Google-play-crawler <https://github.com/Akdeniz/google-play-crawler>`_ - Google-play-crawler is simply Java tool for searching android applications on GooglePlay, and also downloading them.
@@ -381,6 +383,7 @@ Exploiting
 - `BeEF <http://beefproject.com>`_ - The Browser Exploitation Framework Project.
 - `Commix <http://www.commixproject.com>`_ - Automated All-in-One OS Command Injection and Exploitation Tool.
 - `DLLInjector <https://github.com/OpenSecurityResearch/dllinjector>`_ - Inject dlls in processes.
+- `Drupwn <https://github.com/immunIT/drupwn>`_ - Drupal enumeration & exploitation tool.
 - `ExploitPack <http://exploitpack.com>`_ - Graphical tool for penetration testing with a bunch of exploits.
 - `Evilgrade <https://github.com/infobyte/evilgrade>`_ - The update explotation framework.
 - `Fathomless <https://github.com/xor-function/fathomless>`_ - A collection of different programs for network red teaming.
@@ -407,7 +410,9 @@ Exploits
 --------
 
 - `Chakra-2016-11 <https://github.com/theori-io/chakra-2016-11>`_ - Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 & CVE-2016-7201).
+- `CVE-2018-8120 <https://github.com/bigric3/cve-2018-8120>`_ - CVE-2018-8120.
 - `CVE-2018-8897 <https://github.com/nmulasmajic/CVE-2018-8897>`_ - Implements the POP/MOV SS (CVE-2018-8897) vulnerability by bugchecking the machine (local DoS).
+- `HolicPOC <https://github.com/leeqwind/HolicPOC>`_ - CVE-2015-2546, CVE-2016-0165, CVE-2016-0167, CVE-2017-0101, CVE-2017-0263, CVE-2018-8120.
 - `Jira-Scan <https://github.com/random-robbie/Jira-Scan>`_ - Jira scanner for CVE-2017-9506.
 - `MS17-010 <https://github.com/worawit/MS17-010>`_ - Exploits for MS17-010.
 - `Ruby-advisory-db <https://github.com/rubysec/ruby-advisory-db>`_ - A database of vulnerable Ruby Gems.
@@ -495,6 +500,7 @@ Port Scanning
 - `Angry IP Scanner <http://angryip.org>`_ - Fast and friendly network scanner.
 - `Masscan <https://github.com/robertdavidgraham/masscan>`_ - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - `Nmap <https://nmap.org>`_ - Free Security Scanner For Network Exploration & Security Audits.
+- `Watchdog <https://github.com/flipkart-incubator/watchdog>`_ - A Comprehensive Security Scanning and a Vulnerability Management Tool.
 - `Zmap <https://zmap.io>`_ - An open-source network scanner that enables researchers to easily perform Internet-wide network studies. 
 
 Post Exploitation
@@ -603,6 +609,7 @@ Endpoint Security
 
 - `AIDE <http://aide.sourceforge.net>`_ - Advanced Intrusion Detection Environment is a file and directory integrity checker.
 - `Duckhunt <https://github.com/pmsosa/duckhunt>`_ - Prevent RubberDucky (or other keystroke injection) attacks.
+- `Lynis <https://github.com/CISOfy/lynis>`_ - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 
 Privacy
 -------
