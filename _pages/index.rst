@@ -616,6 +616,7 @@ Privacy
 
 - `I2P <https://geti2p.net>`_ - The Invisible Internet Project.
 - `Nipe <https://github.com/GouveaHeitor/nipe>`_ - A script to make Tor Network your default gateway.
+- `toriptables2 <https://github.com/ruped24/toriptables2>`_ - A python script alternative to Nipe. Makes Tor Network your default gateway.
 - `SecureDrop <https://freedom.press/securedrop>`_ - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
 - `Tor <https://www.torproject.org>`_ - The free software for enabling onion routing online anonymity.
 
