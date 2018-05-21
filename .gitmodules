@@ -1075,3 +1075,15 @@
 [submodule "Security/Endpoint Security/lynis"]
 	path = Security/Endpoint Security/lynis
 	url = https://github.com/CISOfy/lynis.git
+[submodule "Pentration Testing/Post Exploitation/TheFatRat"]
+	path = Pentration Testing/Post Exploitation/TheFatRat
+	url = https://github.com/Exploit-install/TheFatRat.git
+[submodule "Pentration Testing/Post Exploitation/poet"]
+	path = Pentration Testing/Post Exploitation/poet
+	url = https://github.com/mossberg/poet.git
+[submodule "Pentration Testing/Post Exploitation/mimikittenz"]
+	path = Pentration Testing/Post Exploitation/mimikittenz
+	url = https://github.com/putterpanda/mimikittenz.git
+[submodule "Pentration Testing/Post Exploitation/spYDyishai"]
+	path = Pentration Testing/Post Exploitation/spYDyishai
+	url = https://github.com/Night46/spYDyishai.git
