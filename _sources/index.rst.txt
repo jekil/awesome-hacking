@@ -506,20 +506,27 @@ Port Scanning
 Post Exploitation
 -----------------
 
+- `CrackMapExec <https://github.com/byt3bl33d3r/CrackMapExec>`_ - A post-exploitation tool that helps automate assessing the security of large Active Directory networks.
 - `CredCrack <https://github.com/gojhonny/CredCrack>`_ - A fast and stealthy credential harvester.
 - `Creddump <https://github.com/moyix/creddump>`_ - Dump windows credentials.
 - `DET <https://github.com/sensepost/DET>`_ - (extensible) Data Exfiltration Toolkit (DET).
 - `Dnsteal <https://github.com/m57/dnsteal>`_ - DNS Exfiltration tool for stealthily sending files over DNS requests.
 - `Empire <http://www.powershellempire.com>`_ - Empire is a pure PowerShell post-exploitation agent.
+- `Enumdb <https://github.com/m8r0wn/enumdb>`_ - MySQL and MSSQL brute force and post exploitation tool to search through databases and extract sensitive information.
+- `EvilOSX <https://github.com/Marten4n6/EvilOSX>`_ - A pure python, post-exploitation, RAT (Remote Administration Tool) for macOS / OSX.
 - `Fireaway <https://github.com/tcstool/Fireaway>`_ - Next Generation Firewall Audit and Bypass Tool.
 - `GetVulnerableGPO <https://github.com/gpoguy/GetVulnerableGPO.git>`_ - PowerShell script to find 'vulnerable' security-related GPOs that should be hardended.
-- `Iodine <http://code.kryo.se/iodine>`_ - Lets you tunnel IPv4 data through a DNS server. 
+- `Iodine <http://code.kryo.se/iodine>`_ - Lets you tunnel IPv4 data through a DNS server.
+- `Koadic <https://github.com/zerosum0x0/koadic>`_ - Koadic C3 COM Command & Control - JScript RAT.
 - `Mallory <https://github.com/justmao945/mallory>`_ - HTTP/HTTPS proxy over SSH.
 - `Mimikatz <http://blog.gentilkiwi.com/mimikatz>`_ - A little tool to play with Windows security.
 - `Mimikittenz <https://github.com/putterpanda/mimikittenz>`_ - A post-exploitation powershell tool for extracting juicy info from memory.
 - `P0wnedShell <https://github.com/Cn33liz/p0wnedShell>`_ - PowerShell Runspace Post Exploitation Toolkit.
+- `ProcessHider <https://github.com/M00nRise/ProcessHider>`_ - Post-exploitation tool for hiding processes from monitoring applications.
+- `PowerOPS <https://github.com/fdiskyou/PowerOPS>`_ - PowerShell Runspace Portable Post Exploitation Tool aimed at making Penetration Testing with PowerShell "easier".
 - `Poet <https://github.com/mossberg/poet>`_ - Post-exploitation tool.
 - `Pwnat <https://samy.pl/pwnat/>`_ - Punches holes in firewalls and NATs allowing any numbers of clients behind NATs to directly connect to a server behind a different NAT.
+- `RemoteRecon <https://github.com/xorrior/RemoteRecon>`_ - Remote Recon and Collection.
 - `SpYDyishai <https://github.com/Night46/spYDyishai>`_ - A Gmail credential harvester.
 - `Tgcd <http://tgcd.sourceforge.net>`_ - A simple Unix network utility to extend the accessibility of TCP/IP based network services beyond firewalls.
 - `TheFatRat <https://github.com/Exploit-install/TheFatRat>`_ - An easy tool to generate backdoor with msfvenom (a part from metasploit framework). This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection.
