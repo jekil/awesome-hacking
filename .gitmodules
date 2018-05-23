@@ -1108,3 +1108,9 @@
 [submodule "Pentration Testing/Post Exploitation/ProcessHider"]
 	path = Pentration Testing/Post Exploitation/ProcessHider
 	url = https://github.com/M00nRise/ProcessHider.git
+[submodule "Malware/Ops/mquery"]
+	path = Malware/Ops/mquery
+	url = https://github.com/CERT-Polska/mquery.git
+[submodule "Pentration Testing/Post Exploitation/pupy"]
+	path = Pentration Testing/Post Exploitation/pupy
+	url = https://github.com/n1nj4sec/pupy.git
