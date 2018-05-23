@@ -286,6 +286,7 @@ Ops
 - `Googleplay-api <https://github.com/egirault/googleplay-api>`_ - An unofficial Python API that let you search, browse and download Android apps from Google Play (formerly Android Market).
 - `FakeNet-NG <https://github.com/fireeye/flare-fakenet-ng>`_ - A next generation dynamic network analysis tool for malware analysts and penetration testers. It is open source and designed for the latest versions of Windows.
 - `Malboxes <https://github.com/GoSecure/malboxes>`_ - Builds malware analysis Windows VMs so that you don't have to.
+- `Mquery <https://github.com/CERT-Polska/mquery>`_ - YARA malware query accelerator (web frontend).
 - `Node-appland <https://github.com/dweinstein/node-appland>`_ - NodeJS tool to download APKs from appland.
 - `Node-aptoide <https://github.com/dweinstein/node-aptoide>`_ - NodeJS to download APKs from aptoide.
 - `Node-google-play <https://github.com/dweinstein/node-google-play>`_ - Call Google Play APIs from Node.
@@ -525,6 +526,7 @@ Post Exploitation
 - `ProcessHider <https://github.com/M00nRise/ProcessHider>`_ - Post-exploitation tool for hiding processes from monitoring applications.
 - `PowerOPS <https://github.com/fdiskyou/PowerOPS>`_ - PowerShell Runspace Portable Post Exploitation Tool aimed at making Penetration Testing with PowerShell "easier".
 - `Poet <https://github.com/mossberg/poet>`_ - Post-exploitation tool.
+- `Pupy <https://github.com/n1nj4sec/pupy>`_ - An opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python.
 - `Pwnat <https://samy.pl/pwnat/>`_ - Punches holes in firewalls and NATs allowing any numbers of clients behind NATs to directly connect to a server behind a different NAT.
 - `RemoteRecon <https://github.com/xorrior/RemoteRecon>`_ - Remote Recon and Collection.
 - `SpYDyishai <https://github.com/Night46/spYDyishai>`_ - A Gmail credential harvester.
