@@ -1114,3 +1114,9 @@
 [submodule "Pentration Testing/Post Exploitation/pupy"]
 	path = Pentration Testing/Post Exploitation/pupy
 	url = https://github.com/n1nj4sec/pupy.git
+[submodule "Pentration Testing/Post Exploitation/FruityC2"]
+	path = Pentration Testing/Post Exploitation/FruityC2
+	url = https://github.com/xtr4nge/FruityC2.git
+[submodule "Pentration Testing/Post Exploitation/DBC2"]
+	path = Pentration Testing/Post Exploitation/DBC2
+	url = https://github.com/Arno0x/DBC2.git
