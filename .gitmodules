@@ -1120,3 +1120,6 @@
 [submodule "Pentration Testing/Post Exploitation/DBC2"]
 	path = Pentration Testing/Post Exploitation/DBC2
 	url = https://github.com/Arno0x/DBC2.git
+[submodule "Security/Endpoint Security/hardentools"]
+	path = Security/Endpoint Security/hardentools
+	url = https://github.com/securitywithoutborders/hardentools.git
