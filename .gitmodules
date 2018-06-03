@@ -1135,3 +1135,6 @@
 [submodule "Forensics/Misc/diffy"]
 	path = Forensics/Misc/diffy
 	url = https://github.com/Netflix-Skunkworks/diffy.git
+[submodule "Social Engineering/Phishing/CredSniper"]
+	path = Social Engineering/Phishing/CredSniper
+	url = https://github.com/ustayready/CredSniper.git
