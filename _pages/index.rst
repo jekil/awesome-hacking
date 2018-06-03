@@ -437,6 +437,7 @@ Info Gathering
 - `TruffleHog <https://github.com/dxa4481/truffleHog>`_ - Searches through git repositories for high entropy strings, digging deep into commit history.
 - `URLextractor <https://github.com/eschultze/URLextractor>`_ - Information gathering & website reconnaissance.
 - `Wmap <https://github.com/MaYaSeVeN/Wmap>`_ - Information gathering for web hacking.
+- `XRay <https://github.com/evilsocket/xray>`_ - A tool for recon, mapping and OSINT gathering from public networks.
 
 Fuzzing
 -------
@@ -627,10 +628,12 @@ Endpoint Security
 - `Duckhunt <https://github.com/pmsosa/duckhunt>`_ - Prevent RubberDucky (or other keystroke injection) attacks.
 - `Hardentools <https://github.com/securitywithoutborders/hardentools>`_ - A utility that disables a number of risky Windows features.
 - `Lynis <https://github.com/CISOfy/lynis>`_ - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
+- `Osx-config-check <https://github.com/kristovatlas/osx-config-check>`_ - Verify the configuration of your OS X machine.
 
 Privacy
 -------
 
+- `GoSecure <https://iadgov.github.io/goSecure/>`_ - An easy to use and portable Virtual Private Network (VPN) system built with Linux and a Raspberry Pi.
 - `I2P <https://geti2p.net>`_ - The Invisible Internet Project.
 - `Nipe <https://github.com/GouveaHeitor/nipe>`_ - A script to make Tor Network your default gateway.
 - `SecureDrop <https://freedom.press/securedrop>`_ - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.

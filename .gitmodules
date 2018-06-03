@@ -1123,3 +1123,12 @@
 [submodule "Security/Endpoint Security/hardentools"]
 	path = Security/Endpoint Security/hardentools
 	url = https://github.com/securitywithoutborders/hardentools.git
+[submodule "Security/Privacy/goSecure"]
+	path = Security/Privacy/goSecure
+	url = https://github.com/iadgov/goSecure.git
+[submodule "Security/Endpoint Security/osx-config-check"]
+	path = Security/Endpoint Security/osx-config-check
+	url = https://github.com/kristovatlas/osx-config-check.git
+[submodule "Pentration Testing/Info Gathering/xray"]
+	path = Pentration Testing/Info Gathering/xray
+	url = https://github.com/evilsocket/xray.git
