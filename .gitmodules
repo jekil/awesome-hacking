@@ -1132,3 +1132,6 @@
 [submodule "Pentration Testing/Info Gathering/xray"]
 	path = Pentration Testing/Info Gathering/xray
 	url = https://github.com/evilsocket/xray.git
+[submodule "Forensics/Misc/diffy"]
+	path = Forensics/Misc/diffy
+	url = https://github.com/Netflix-Skunkworks/diffy.git

@@ -160,6 +160,7 @@ Network Forensics
 Misc
 ----
 
+- `Diffy <https://github.com/Netflix-Skunkworks/diffy>`_ - A digital forensics and incident response (DFIR) tool developed by Netflix's Security Intelligence and Response Team (SIRT). Allows a forensic investigator to quickly scope a compromise across cloud instances during an incident, and triage those instances for followup actions.
 - `HxD <https://mh-nexus.de/en/hxd/>`_ - A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size.
 - `Libfvde <https://github.com/libyal/libfvde>` - Library and tools to access FileVault Drive Encryption (FVDE) encrypted volumes.
 
