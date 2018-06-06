@@ -1138,3 +1138,6 @@
 [submodule "Social Engineering/Phishing/CredSniper"]
 	path = Social Engineering/Phishing/CredSniper
 	url = https://github.com/ustayready/CredSniper.git
+[submodule "Forensics/Live Analysis/windows-event-forwarding"]
+	path = Forensics/Live Analysis/windows-event-forwarding
+	url = https://github.com/palantir/windows-event-forwarding.git

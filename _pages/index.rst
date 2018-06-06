@@ -138,6 +138,7 @@ Live Analysis
 -------------
 
 - `OS X Auditor <OS X Auditor is a free Mac OS X computer forensics tool>`_ - OS X Auditor is a free Mac OS X computer forensics tool.
+- `Windows-event-forwarding <https://github.com/palantir/windows-event-forwarding>`_ - A repository for using windows event forwarding for incident detection and response.
 
 Memory Forensics
 ----------------
