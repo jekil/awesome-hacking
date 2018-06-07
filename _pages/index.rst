@@ -412,6 +412,7 @@ Exploiting
 Exploits
 --------
 
+- `Bluedroid <https://github.com/JiounDai/Bluedroid>`_ - PoCs of Vulnerabilities on Bluedroid.
 - `Chakra-2016-11 <https://github.com/theori-io/chakra-2016-11>`_ - Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 & CVE-2016-7201).
 - `CVE-2018-8120 <https://github.com/bigric3/cve-2018-8120>`_ - CVE-2018-8120.
 - `CVE-2018-8897 <https://github.com/nmulasmajic/CVE-2018-8897>`_ - Implements the POP/MOV SS (CVE-2018-8897) vulnerability by bugchecking the machine (local DoS).
@@ -446,8 +447,9 @@ Fuzzing
 
 - `AndroFuzz <https://github.com/jonmetz/AndroFuzz>`_ - A fuzzing utility for Android that focuses on reporting and delivery portions of the fuzzing process.
 - `Construct <http://construct.readthedocs.org>`_ - Declarative data structures for python that allow symmetric parsing and building.
-- `Fusil <http://fusil.readthedocs.io/>`_ - A Python library used to write fuzzing programs. It helps to start process with a prepared environment (limit memory, environment variables, redirect stdout, etc.), start network client or server, and create mangled files. 
+- `Fusil <http://fusil.readthedocs.io/>`_ - A Python library used to write fuzzing programs. It helps to start process with a prepared environment (limit memory, environment variables, redirect stdout, etc.), start network client or server, and create mangled files.
 - `Fuzzbox <https://github.com/iSECPartners/fuzzbox>`_ - A multi-codec media fuzzing tool.
+- `Fuzzlyn <https://github.com/jakobbotsch/Fuzzlyn>`_ - Fuzzer for the .NET toolchains, utilizes Roslyn to generate random C# programs.
 - `Honggfuzz <http://google.github.io/honggfuzz/>`_ - Security oriented fuzzer with powerful analysis options. Supports evolutionary, feedback-driven fuzzing based on code coverage (sw and hw).
 - `Melkor-android <https://github.com/anestisb/melkor-android>`_ - An Android port of the melkor ELF fuzzer.
 - `MFFA <https://github.com/fuzzing/MFFA>`_ - Media Fuzzing Framework for Android.
