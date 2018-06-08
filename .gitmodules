@@ -1147,3 +1147,9 @@
 [submodule "Pentration Testing/Fuzzing/Fuzzlyn"]
 	path = Pentration Testing/Fuzzing/Fuzzlyn
 	url = https://github.com/jakobbotsch/Fuzzlyn.git
+[submodule "Forensics/Incident Respones/hunter"]
+	path = Forensics/Incident Respones/hunter
+	url = https://github.com/ThreatHuntingProject/hunter.git
+[submodule "Intelligence/attackintel"]
+	path = Intelligence/attackintel
+	url = https://github.com/gr4ym4ntx/attackintel.git

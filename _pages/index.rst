@@ -134,6 +134,11 @@ File Forensics
 - `Shellbags <https://github.com/williballenthin/shellbags>`_ - Investigate NT_USER.dat files.
 - `Sleuthkit <https://github.com/sleuthkit/sleuthkit>`_ - A library and collection of command line digital forensics tools.
 
+Incident Response
+-----------------
+
+- `Hunter <https://github.com/ThreatHuntingProject/hunter>`_ - A threat hunting / data analysis environment based on Python, Pandas, PySpark and Jupyter Notebook.
+
 Live Analysis
 -------------
 
