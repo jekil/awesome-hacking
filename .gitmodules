@@ -1153,3 +1153,6 @@
 [submodule "Intelligence/attackintel"]
 	path = Intelligence/attackintel
 	url = https://github.com/gr4ym4ntx/attackintel.git
+[submodule "Security/Endpoint Security/xnumon"]
+	path = Security/Endpoint Security/xnumon
+	url = https://github.com/droe/xnumon.git
