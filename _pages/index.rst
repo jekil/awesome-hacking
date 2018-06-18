@@ -173,7 +173,7 @@ Misc
 Intelligence
 ============
 
-
+- `Attackintel <https://github.com/gr4ym4ntx/attackintel>`_ - A python script to query the MITRE ATT&CK API for tactics, techniques, mitigations, & detection methods for specific threat groups.
 - `VIA4CVE <https://github.com/cve-search/VIA4CVE>`_ - An aggregator of the known vendor vulnerabilities database to support the expansion of information with CVEs.
 
 Library
@@ -192,6 +192,7 @@ Java
 Python
 ------
 
+- `Amodem <https://github.com/romanz/amodem>`_ - Audio MODEM Communication Library in Python.
 - `Dpkt <https://github.com/kbandla/dpkt>`_ - Fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols.
 - `Pcapy <https://www.coresecurity.com/corelabs-research/open-source-tools/pcapy>`_ - A Python extension module that interfaces with the libpcap packet capture library. Pcapy enables python scripts to capture packets on the network. Pcapy is highly effective when used in conjunction with a packet-handling package such as Impacket, which is a collection of Python classes for constructing and dissecting network packets.
 - `PyBFD <https://github.com/Groundworkstech/pybfd/>`_ - Python interface to the GNU Binary File Descriptor (BFD) library.
@@ -638,6 +639,7 @@ Endpoint Security
 - `Hardentools <https://github.com/securitywithoutborders/hardentools>`_ - A utility that disables a number of risky Windows features.
 - `Lynis <https://github.com/CISOfy/lynis>`_ - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - `Osx-config-check <https://github.com/kristovatlas/osx-config-check>`_ - Verify the configuration of your OS X machine.
+- `Xnumon <https://github.com/droe/xnumon>`_ - Monitor macOS for malicious activity.
 
 Privacy
 -------

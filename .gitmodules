@@ -1156,3 +1156,6 @@
 [submodule "Security/Endpoint Security/xnumon"]
 	path = Security/Endpoint Security/xnumon
 	url = https://github.com/droe/xnumon.git
+[submodule "Library/Python/amodem"]
+	path = Library/Python/amodem
+	url = https://github.com/romanz/amodem.git
