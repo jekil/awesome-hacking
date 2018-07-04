@@ -443,8 +443,10 @@ Info Gathering
 - `SMBMap <https://github.com/ShawnDEvans/smbmap>`_ - A handy SMB enumeration tool.
 - `SSLMap <http://thesprawl.org/projects/sslmap/>`_ - TLS/SSL cipher suite scanner.
 - `Subbrute <https://github.com/TheRook/subbrute>`_ - A DNS meta-query spider that enumerates DNS records, and subdomains.
+- `SubFinder <https://github.com/subfinder/subfinder>`_ - A subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - `TruffleHog <https://github.com/dxa4481/truffleHog>`_ - Searches through git repositories for high entropy strings, digging deep into commit history.
 - `URLextractor <https://github.com/eschultze/URLextractor>`_ - Information gathering & website reconnaissance.
+- `VHostScan <https://github.com/codingo/VHostScan>`_ - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
 - `Wmap <https://github.com/MaYaSeVeN/Wmap>`_ - Information gathering for web hacking.
 - `XRay <https://github.com/evilsocket/xray>`_ - A tool for recon, mapping and OSINT gathering from public networks.
 
@@ -495,6 +497,7 @@ MITM
 - `Mitmsocks4j <https://github.com/Akdeniz/mitmsocks4j>`_ - Man in the Middle SOCKS Proxy for JAVA.
 - `Nogotofail <https://github.com/google/nogotofail>`_ - An on-path blackbox network traffic security testing tool.
 - `Responder <https://github.com/SpiderLabs/Responder>`_ - A LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.
+- `Ssh-mitm <https://github.com/jtesta/ssh-mitm>`_ - An SSH/SFTP man-in-the-middle tool that logs interactive sessions and passwords.
 
 Password Cracking
 -----------------

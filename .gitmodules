@@ -1159,3 +1159,12 @@
 [submodule "Library/Python/amodem"]
 	path = Library/Python/amodem
 	url = https://github.com/romanz/amodem.git
+[submodule "Pentration Testing/Info Gathering/subfinder"]
+	path = Pentration Testing/Info Gathering/subfinder
+	url = https://github.com/subfinder/subfinder.git
+[submodule "Pentration Testing/Info Gathering/VHostScan"]
+	path = Pentration Testing/Info Gathering/VHostScan
+	url = https://github.com/codingo/VHostScan.git
+[submodule "Pentration Testing/MITM/ssh-mitm"]
+	path = Pentration Testing/MITM/ssh-mitm
+	url = https://github.com/jtesta/ssh-mitm.git
