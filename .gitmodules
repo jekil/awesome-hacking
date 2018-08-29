@@ -1168,3 +1168,6 @@
 [submodule "Pentration Testing/MITM/ssh-mitm"]
 	path = Pentration Testing/MITM/ssh-mitm
 	url = https://github.com/jtesta/ssh-mitm.git
+[submodule "Malware/Ops/imaginaryC2"]
+	path = Malware/Ops/imaginaryC2
+	url = https://github.com/felixweyne/imaginaryC2.git
