@@ -1171,3 +1171,6 @@
 [submodule "Malware/Ops/imaginaryC2"]
 	path = Malware/Ops/imaginaryC2
 	url = https://github.com/felixweyne/imaginaryC2.git
+[submodule "Pentration Testing/Wireless/krackattacks-scripts"]
+	path = Pentration Testing/Wireless/krackattacks-scripts
+	url = https://github.com/vanhoefm/krackattacks-scripts.git

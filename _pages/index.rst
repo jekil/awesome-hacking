@@ -619,6 +619,7 @@ Wireless
 
 - `Aircrack-ng <http://www.aircrack-ng.org>`_ - An 802.11 WEP and WPA-PSK keys cracking program.
 - `Kismet <https://kismetwireless.net/>`_ - Wireless network detector, sniffer, and IDS.
+- `Krackattacks-scripts <https://github.com/vanhoefm/krackattacks-scripts>`_ - Scripts to test if clients or access points (APs) are affected by the KRACK attack against WPA2.
 - `LANs.py <https://github.com/DanMcInerney/LANs.py>`_ - Inject code, jam wifi, and spy on wifi users.
 - `Mass-deauth <http://rfkiller.github.io/mass-deauth/>`_ - A script for 802.11 mass-deauthentication.
 - `Reaver <https://code.google.com/archive/p/reaver-wps>`_ - Brute force attack against Wifi Protected Setup.
@@ -751,4 +752,5 @@ Harvester
 Phishing
 --------
 
+- `CredSniper <https://github.com/ustayready/CredSniper>`_ - A phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.
 - `Whatsapp-phishing <https://github.com/Mawalu/whatsapp-phishing>`_ -  Proof of principle code for running a phishing attack against the official Whatsapp Web client.
