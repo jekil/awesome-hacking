@@ -161,6 +161,7 @@ Network Forensics
 -----------------
 
 - `Dshell <https://github.com/USArmyResearchLab/Dshell>`_ - A network forensic analysis framework.
+- `Dnslog <https://github.com/stamparm/dnslog>`_ - Minimalistic DNS logging tool.
 - `Passivedns <https://github.com/gamelinux/passivedns>`_ - A network sniffer that logs all DNS server replies for use in a passive DNS setup.
 
 Misc
@@ -602,6 +603,7 @@ Web
 - `SQLMap <http://sqlmap.org>`_ - Automatic SQL injection and database takeover tool.
 - `SQLNinja <http://sqlninja.sourceforge.net/>`_ - SQL Server injection & takeover tool.
 - `TPLMap <https://github.com/epinna/tplmap>`_ - Automatic Server-Side Template Injection Detection and Exploitation Tool.
+- `Tracy <https://github.com/nccgroup/tracy>`_ - A tool designed to assist with finding all sinks and sources of a web application and display these results in a digestible manner.
 - `Yasuo <https://github.com/0xsauby/yasuo>`_ - A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network.
 - `W3af <http://w3af.org>`_ - Web application attack and audit framework.
 - `Wapiti <http://wapiti.sourceforge.net>`_ - Web application vulnerability scanner.
