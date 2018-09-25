@@ -1174,3 +1174,9 @@
 [submodule "Pentration Testing/Wireless/krackattacks-scripts"]
 	path = Pentration Testing/Wireless/krackattacks-scripts
 	url = https://github.com/vanhoefm/krackattacks-scripts.git
+[submodule "Forensics/Network Forensics/dnslog"]
+	path = Forensics/Network Forensics/dnslog
+	url = https://github.com/stamparm/dnslog.git
+[submodule "Pentration Testing/Web/tracy"]
+	path = Pentration Testing/Web/tracy
+	url = https://github.com/nccgroup/tracy
