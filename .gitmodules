@@ -1180,3 +1180,6 @@
 [submodule "Pentration Testing/Web/tracy"]
 	path = Pentration Testing/Web/tracy
 	url = https://github.com/nccgroup/tracy
+[submodule "Pentration Testing/MITM/caplets"]
+	path = Pentration Testing/MITM/caplets
+	url = https://github.com/bettercap/caplets.git
