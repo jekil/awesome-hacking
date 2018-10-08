@@ -1186,3 +1186,6 @@
 [submodule "Pentration Testing/Web/PayloadsAllTheThings"]
 	path = Pentration Testing/Web/PayloadsAllTheThings
 	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
+[submodule "Malware/Ops/BASS"]
+	path = Malware/Ops/BASS
+	url = https://github.com/Cisco-Talos/BASS.git

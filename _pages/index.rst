@@ -289,6 +289,7 @@ Ops
 ---
 
 - `Al-khaser <https://github.com/LordNoteworthy/al-khaser>`_ - Public malware techniques used in the wild: Virtual Machine, Emulation, Debuggers, Sandbox detection.
+- `BASS <https://github.com/Cisco-Talos/BASS>`_ - BASS Automated Signature Synthesizer.
 - `CapTipper <https://github.com/omriher/CapTipper>`_ - A python tool to analyze, explore and revive HTTP malicious traffic.
 - `CSCGuard <https://github.com/glinares/CSCGuard>`_ - Protects and logs suspicious and malicious usage of .NET CSC.exe and Runtime C# Compilation.
 - `Google-play-crawler <https://github.com/Akdeniz/google-play-crawler>`_ - Google-play-crawler is simply Java tool for searching android applications on GooglePlay, and also downloading them.
