@@ -1189,3 +1189,6 @@
 [submodule "Malware/Ops/BASS"]
 	path = Malware/Ops/BASS
 	url = https://github.com/Cisco-Talos/BASS.git
+[submodule "Network/Analysis/Nidan"]
+	path = Network/Analysis/Nidan
+	url = https://github.com/michelep/Nidan.git
