@@ -1192,3 +1192,6 @@
 [submodule "Network/Analysis/Nidan"]
 	path = Network/Analysis/Nidan
 	url = https://github.com/michelep/Nidan.git
+[submodule "Pentration Testing/Post Exploitation/pypykatz"]
+	path = Pentration Testing/Post Exploitation/pypykatz
+	url = https://github.com/skelsec/pypykatz.git
