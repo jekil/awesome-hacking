@@ -1195,3 +1195,6 @@
 [submodule "Pentration Testing/Post Exploitation/pypykatz"]
 	path = Pentration Testing/Post Exploitation/pypykatz
 	url = https://github.com/skelsec/pypykatz.git
+[submodule "Reverse Engineering/idawasm"]
+	path = Reverse Engineering/idawasm
+	url = https://github.com/fireeye/idawasm.git

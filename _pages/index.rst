@@ -699,6 +699,7 @@ Reverse Engineering
 - `IDA Pro <https://www.hex-rays.com/products/ida/index.shtml>`_ - A Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger.
 - `IDA Sploiter <http://thesprawl.org/projects/ida-sploiter/>`_ - IDA Sploiter is a plugin for Hex-Ray's IDA Pro disassembler designed to enhance IDA's capabilities as an exploit development and vulnerability research tool.
 - `IDAPython <https://github.com/idapython/>`_ - An IDA plugin which makes it possible to write scripts for IDA in the Python programming language. 
+- `IDAwasm <https://github.com/fireeye/idawasm>`_ - IDA Pro loader and processor modules for WebAssembly.
 - `Immunity Debugger <http://debugger.immunityinc.com/>`_ - A powerful new way to write exploits and analyze malware.
 - `JAD <http://varaneckas.com/jad/>`_ - JAD Java Decompiler.
 - `Jadx <https://github.com/skylot/jadx>`_ - Decompile Android files.
