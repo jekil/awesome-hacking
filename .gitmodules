@@ -1198,3 +1198,6 @@
 [submodule "Reverse Engineering/idawasm"]
 	path = Reverse Engineering/idawasm
 	url = https://github.com/fireeye/idawasm.git
+[submodule "Pentration Testing/Password Cracking/hashcrack"]
+	path = Pentration Testing/Password Cracking/hashcrack
+	url = https://github.com/nccgroup/hashcrack.git
