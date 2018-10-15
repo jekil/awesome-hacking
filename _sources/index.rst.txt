@@ -510,6 +510,7 @@ Password Cracking
 - `BozoCrack <https://github.com/juuso/BozoCrack>`_ - A silly & effective MD5 cracker in Ruby.
 - `Common-substr <https://github.com/SensePost/common-substr>`_ - Simple awk script to extract the most common substrings from an input text. Built for password cracking.
 - `HashCat <https://hashcat.net/hashcat/>`_ - World's fastest and most advanced password recovery utility.
+- `Hashcrack <https://github.com/nccgroup/hashcrack>`_ - Guesses hash types, picks some sensible dictionaries and rules for hashcat.
 - `Hob0Rules <https://github.com/praetorian-inc/Hob0Rules>`_ - Password cracking rules for Hashcat based on statistics and industry patterns.
 - `John the Ripper <http://www.openwall.com/john/>`_ - A fast password cracker.
 - `THC-Hydra <https://www.thc.org/thc-hydra/>`_ - A very fast network logon cracker which support many different services.
