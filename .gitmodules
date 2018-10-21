@@ -1201,3 +1201,6 @@
 [submodule "Pentration Testing/Password Cracking/hashcrack"]
 	path = Pentration Testing/Password Cracking/hashcrack
 	url = https://github.com/nccgroup/hashcrack.git
+[submodule "Security/Phishing/streamingphish"]
+	path = Security/Phishing/streamingphish
+	url = https://github.com/wesleyraptor/streamingphish.git
