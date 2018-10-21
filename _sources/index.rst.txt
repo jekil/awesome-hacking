@@ -654,6 +654,11 @@ Endpoint Security
 - `Osx-config-check <https://github.com/kristovatlas/osx-config-check>`_ - Verify the configuration of your OS X machine.
 - `Xnumon <https://github.com/droe/xnumon>`_ - Monitor macOS for malicious activity.
 
+Phishing
+--------
+
+- `StreamingPhish <https://github.com/wesleyraptor/streamingphish>`_ - Python-based utility that uses supervised machine learning to detect phishing domains from the Certificate Transparency log network.
+
 Privacy
 -------
 
