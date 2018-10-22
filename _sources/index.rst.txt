@@ -513,6 +513,7 @@ Password Cracking
 - `Hashcrack <https://github.com/nccgroup/hashcrack>`_ - Guesses hash types, picks some sensible dictionaries and rules for hashcat.
 - `Hob0Rules <https://github.com/praetorian-inc/Hob0Rules>`_ - Password cracking rules for Hashcat based on statistics and industry patterns.
 - `John the Ripper <http://www.openwall.com/john/>`_ - A fast password cracker.
+- `Patator <https://github.com/lanjelot/patator>`_ - Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
 - `THC-Hydra <https://www.thc.org/thc-hydra/>`_ - A very fast network logon cracker which support many different services.
 
 Port Scanning
