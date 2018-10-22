@@ -1204,3 +1204,6 @@
 [submodule "Security/Phishing/streamingphish"]
 	path = Security/Phishing/streamingphish
 	url = https://github.com/wesleyraptor/streamingphish.git
+[submodule "Pentration Testing/Password Cracking/patator"]
+	path = Pentration Testing/Password Cracking/patator
+	url = https://github.com/lanjelot/patator.git
