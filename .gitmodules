@@ -1210,3 +1210,6 @@
 [submodule "Pentration Testing/Password Cracking/patator"]
 	path = Pentration Testing/Password Cracking/patator
 	url = https://github.com/lanjelot/patator.git
+[submodule "Malware/Honeypot/hassh"]
+	path = Malware/Honeypot/hassh
+	url = https://github.com/salesforce/hassh.git
