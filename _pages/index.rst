@@ -513,6 +513,7 @@ Password Cracking
 - `Hashcrack <https://github.com/nccgroup/hashcrack>`_ - Guesses hash types, picks some sensible dictionaries and rules for hashcat.
 - `Hob0Rules <https://github.com/praetorian-inc/Hob0Rules>`_ - Password cracking rules for Hashcat based on statistics and industry patterns.
 - `John the Ripper <http://www.openwall.com/john/>`_ - A fast password cracker.
+- `Patator <https://github.com/lanjelot/patator>`_ - Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
 - `THC-Hydra <https://www.thc.org/thc-hydra/>`_ - A very fast network logon cracker which support many different services.
 
 Port Scanning
@@ -654,6 +655,11 @@ Endpoint Security
 - `Lynis <https://github.com/CISOfy/lynis>`_ - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - `Osx-config-check <https://github.com/kristovatlas/osx-config-check>`_ - Verify the configuration of your OS X machine.
 - `Xnumon <https://github.com/droe/xnumon>`_ - Monitor macOS for malicious activity.
+
+Phishing
+--------
+
+- `StreamingPhish <https://github.com/wesleyraptor/streamingphish>`_ - Python-based utility that uses supervised machine learning to detect phishing domains from the Certificate Transparency log network.
 
 Privacy
 -------

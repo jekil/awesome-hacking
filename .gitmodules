@@ -1204,3 +1204,9 @@
 [submodule "Pentration Testing/Post Exploitation/SafetyKatz"]
 	path = Pentration Testing/Post Exploitation/SafetyKatz
 	url = https://github.com/GhostPack/SafetyKatz.git
+[submodule "Security/Phishing/streamingphish"]
+	path = Security/Phishing/streamingphish
+	url = https://github.com/wesleyraptor/streamingphish.git
+[submodule "Pentration Testing/Password Cracking/patator"]
+	path = Pentration Testing/Password Cracking/patator
+	url = https://github.com/lanjelot/patator.git
