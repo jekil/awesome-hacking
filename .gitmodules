@@ -1201,3 +1201,6 @@
 [submodule "Pentration Testing/Password Cracking/hashcrack"]
 	path = Pentration Testing/Password Cracking/hashcrack
 	url = https://github.com/nccgroup/hashcrack.git
+[submodule "Pentration Testing/Post Exploitation/SafetyKatz"]
+	path = Pentration Testing/Post Exploitation/SafetyKatz
+	url = https://github.com/GhostPack/SafetyKatz.git

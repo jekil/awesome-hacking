@@ -552,6 +552,7 @@ Post Exploitation
 - `Pwnat <https://samy.pl/pwnat/>`_ - Punches holes in firewalls and NATs allowing any numbers of clients behind NATs to directly connect to a server behind a different NAT.
 - `Pypykatz <https://github.com/skelsec/pypykatz>`_ - Mimikatz implementation in pure Python.
 - `RemoteRecon <https://github.com/xorrior/RemoteRecon>`_ - Remote Recon and Collection.
+- `SafetyKatz <https://github.com/GhostPack/SafetyKatz>`_ - SafetyKatz is a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subTee's .NET PE Load.
 - `SpYDyishai <https://github.com/Night46/spYDyishai>`_ - A Gmail credential harvester.
 - `Tgcd <http://tgcd.sourceforge.net>`_ - A simple Unix network utility to extend the accessibility of TCP/IP based network services beyond firewalls.
 - `TheFatRat <https://github.com/Exploit-install/TheFatRat>`_ - An easy tool to generate backdoor with msfvenom (a part from metasploit framework). This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection.
