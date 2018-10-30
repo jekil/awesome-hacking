@@ -1213,3 +1213,6 @@
 [submodule "Malware/Honeypot/hassh"]
 	path = Malware/Honeypot/hassh
 	url = https://github.com/salesforce/hassh.git
+[submodule "Malware/Ops/flare-vm"]
+	path = Malware/Ops/flare-vm
+	url = https://github.com/fireeye/flare-vm.git

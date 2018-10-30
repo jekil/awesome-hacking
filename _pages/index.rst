@@ -292,6 +292,7 @@ Ops
 - `BASS <https://github.com/Cisco-Talos/BASS>`_ - BASS Automated Signature Synthesizer.
 - `CapTipper <https://github.com/omriher/CapTipper>`_ - A python tool to analyze, explore and revive HTTP malicious traffic.
 - `CSCGuard <https://github.com/glinares/CSCGuard>`_ - Protects and logs suspicious and malicious usage of .NET CSC.exe and Runtime C# Compilation.
+- `FLARE <https://github.com/fireeye/flare-vm>`_ - A fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing, etc.
 - `Google-play-crawler <https://github.com/Akdeniz/google-play-crawler>`_ - Google-play-crawler is simply Java tool for searching android applications on GooglePlay, and also downloading them.
 - `Googleplay-api <https://github.com/egirault/googleplay-api>`_ - An unofficial Python API that let you search, browse and download Android apps from Google Play (formerly Android Market).
 - `ImaginaryC2 <https://github.com/felixweyne/imaginaryC2>`_ - A python tool which aims to help in the behavioral (network) analysis of malware. Imaginary C2 hosts a HTTP server which captures HTTP requests towards selectively chosen domains/IPs. Additionally, the tool aims to make it easy to replay captured Command-and-Control responses/served payloads.
