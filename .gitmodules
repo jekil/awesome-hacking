@@ -1216,3 +1216,9 @@
 [submodule "Malware/Ops/flare-vm"]
 	path = Malware/Ops/flare-vm
 	url = https://github.com/fireeye/flare-vm.git
+[submodule "Malware/Source Code/BlackHole"]
+	path = Malware/Source Code/BlackHole
+	url = https://github.com/hussein-aitlahcen/BlackHole.git
+[submodule "Security/Cloud Security/security_monkey"]
+	path = Security/Cloud Security/security_monkey
+	url = https://github.com/Netflix/security_monkey.git
