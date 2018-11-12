@@ -1222,3 +1222,9 @@
 [submodule "Security/Cloud Security/security_monkey"]
 	path = Security/Cloud Security/security_monkey
 	url = https://github.com/Netflix/security_monkey.git
+[submodule "Malware/Ops/klara"]
+	path = Malware/Ops/klara
+	url = https://github.com/KasperskyLab/klara.git
+[submodule "Malware/Ops/kraken"]
+	path = Malware/Ops/kraken
+	url = https://github.com/botherder/kraken.git
