@@ -1228,3 +1228,6 @@
 [submodule "Malware/Ops/kraken"]
 	path = Malware/Ops/kraken
 	url = https://github.com/botherder/kraken.git
+[submodule "Social Engineering/Phishing/gophish"]
+	path = Social Engineering/Phishing/gophish
+	url = https://github.com/gophish/gophish.git
