@@ -449,6 +449,7 @@ Info Gathering
 - `Operative-framework <https://github.com/graniet/operative-framework>`_ - This is a framework based on fingerprint action, this tool is used for get information on a website or a enterprise target with multiple modules (Viadeo search,Linkedin search, Reverse email whois, Reverse ip whois, SQL file forensics ...).
 - `Recon-ng <https://bitbucket.org/LaNMaSteR53/recon-ng>`_ - A full-featured Web Reconnaissance framework written in Python.
 - `SPartan <https://github.com/sensepost/SPartan>`_ - Frontpage and Sharepoint fingerprinting and attack tool.
+- `Sparty <https://github.com/0xdevalias/sparty>`_ - MS Sharepoint and Frontpage Auditing Tool.
 - `SMBMap <https://github.com/ShawnDEvans/smbmap>`_ - A handy SMB enumeration tool.
 - `SSLMap <http://thesprawl.org/projects/sslmap/>`_ - TLS/SSL cipher suite scanner.
 - `Subbrute <https://github.com/TheRook/subbrute>`_ - A DNS meta-query spider that enumerates DNS records, and subdomains.
@@ -697,6 +698,7 @@ Reverse Engineering
 - `Dex2jar <https://github.com/pxb1988/dex2jar>`_ - Tools to work with android .dex and java .class files.
 - `Distorm <https://github.com/gdabah/distorm>`_ - Powerful Disassembler Library For x86/AMD64.
 - `DotPeek <https://www.jetbrains.com/decompiler/>`_ - A free-of-charge .NET decompiler from JetBrains.
+- `Dwarf <https://github.com/iGio90/Dwarf>`_ - A gui for mobile reverse engineers, crackers and security analyst. Or damn, what a reversed fluffy or yet, duck warrios are rich as fuck. Whatever you like! Built on top of pyqt5, frida and some terrible code.
 - `Enjarify <https://github.com/google/enjarify>`_ - A tool for translating Dalvik bytecode to equivalent Java bytecode. This allows Java analysis tools to analyze Android applications.
 - `Fibratus <https://github.com/rabbitstack/fibratus>`_ - Tool for exploration and tracing of the Windows kernel.
 - `Fino <https://github.com/sysdream/fino>`_ - An Android Dynamic Analysis Tool.

@@ -1240,3 +1240,9 @@
 [submodule "Pentration Testing/Info Gathering/SPartan"]
 	path = Pentration Testing/Info Gathering/SPartan
 	url = https://github.com/sensepost/SPartan.git
+[submodule "Pentration Testing/Info Gathering/sparty"]
+	path = Pentration Testing/Info Gathering/sparty
+	url = https://github.com/0xdevalias/sparty.git
+[submodule "Reverse Engineering/Dwarf"]
+	path = Reverse Engineering/Dwarf
+	url = https://github.com/iGio90/Dwarf.git
