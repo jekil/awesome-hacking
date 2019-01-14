@@ -1246,3 +1246,6 @@
 [submodule "Reverse Engineering/Dwarf"]
 	path = Reverse Engineering/Dwarf
 	url = https://github.com/iGio90/Dwarf.git
+[submodule "Social Engineering/Phishing/Modlishka"]
+	path = Social Engineering/Phishing/Modlishka
+	url = https://github.com/drk1wi/Modlishka.git
