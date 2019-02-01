@@ -539,6 +539,7 @@ Post Exploitation
 - `Creddump <https://github.com/moyix/creddump>`_ - Dump windows credentials.
 - `DBC2 <https://github.com/Arno0x/DBC2>`_ - DropboxC2 is a modular post-exploitation tool, composed of an agent running on the victim's machine, a controler, running on any machine, powershell modules, and Dropbox servers as a means of communication.
 - `DET <https://github.com/sensepost/DET>`_ - (extensible) Data Exfiltration Toolkit (DET).
+- `DNSlivery <https://github.com/no0be/DNSlivery>`_ - Easy files and payloads delivery over DNS.
 - `Dnsteal <https://github.com/m57/dnsteal>`_ - DNS Exfiltration tool for stealthily sending files over DNS requests.
 - `Empire <http://www.powershellempire.com>`_ - Empire is a pure PowerShell post-exploitation agent.
 - `Enumdb <https://github.com/m8r0wn/enumdb>`_ - MySQL and MSSQL brute force and post exploitation tool to search through databases and extract sensitive information.
@@ -642,7 +643,7 @@ Wireless
 - `Wifikill <https://github.com/roglew/wifikill>`_ - A python program to kick people off of wifi.
 - `Wifijammer <https://github.com/DanMcInerney/wifijammer>`_ - Continuously jam all wifi clients/routers.
 - `Wifite <https://github.com/derv82/wifite>`_ - Automated wireless attack tool.
-- `Wifiphisher <https://github.com/sophron/wifiphisher>`_ - Automated phishing attacks against Wi-Fi networks.
+- `Wifiphisher <https://github.com/wifiphisher/wifiphisher>`_ - Automated phishing attacks against Wi-Fi networks.
 
 Security
 ========
