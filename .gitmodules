@@ -1252,3 +1252,6 @@
 [submodule "Pentration Testing/Wireless/wifiphisher"]
 	path = Pentration Testing/Wireless/wifiphisher
 	url = https://github.com/wifiphisher/wifiphisher.git
+[submodule "Pentration Testing/Post Exploitation/DNSlivery"]
+	path = Pentration Testing/Post Exploitation/DNSlivery
+	url = https://github.com/no0be/DNSlivery.git
