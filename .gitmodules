@@ -226,9 +226,6 @@
 [submodule "Pentration Testing/Wireless/wifite"]
 	path = Pentration Testing/Wireless/wifite
 	url = https://github.com/derv82/wifite.git
-[submodule "Pentration Testing/Wireless/wifiphisher"]
-	path = Pentration Testing/Wireless/wifiphisher
-	url = https://github.com/sophron/wifiphisher.git
 [submodule "Pentration Testing/Services/sslyze"]
 	path = Pentration Testing/Services/sslyze
 	url = https://github.com/nabla-c0d3/sslyze.git
@@ -1252,3 +1249,6 @@
 [submodule "Social Engineering/Phishing/pompa"]
 	path = Social Engineering/Phishing/pompa
 	url = https://github.com/m1nl/pompa.git
+[submodule "Pentration Testing/Wireless/wifiphisher"]
+	path = Pentration Testing/Wireless/wifiphisher
+	url = https://github.com/wifiphisher/wifiphisher.git

@@ -642,7 +642,7 @@ Wireless
 - `Wifikill <https://github.com/roglew/wifikill>`_ - A python program to kick people off of wifi.
 - `Wifijammer <https://github.com/DanMcInerney/wifijammer>`_ - Continuously jam all wifi clients/routers.
 - `Wifite <https://github.com/derv82/wifite>`_ - Automated wireless attack tool.
-- `Wifiphisher <https://github.com/sophron/wifiphisher>`_ - Automated phishing attacks against Wi-Fi networks.
+- `Wifiphisher <https://github.com/wifiphisher/wifiphisher>`_ - Automated phishing attacks against Wi-Fi networks.
 
 Security
 ========
