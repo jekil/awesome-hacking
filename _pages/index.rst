@@ -427,6 +427,7 @@ Exploits
 --------
 
 - `Bluedroid <https://github.com/JiounDai/Bluedroid>`_ - PoCs of Vulnerabilities on Bluedroid.
+- `Broadpwn <https://github.com/mailinneberg/Broadpwn>`_ - Broadpwn bug (CVE-2017-9417).
 - `Chakra-2016-11 <https://github.com/theori-io/chakra-2016-11>`_ - Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 & CVE-2016-7201).
 - `CVE-2018-8120 <https://github.com/bigric3/cve-2018-8120>`_ - CVE-2018-8120.
 - `CVE-2018-8897 <https://github.com/nmulasmajic/CVE-2018-8897>`_ - Implements the POP/MOV SS (CVE-2018-8897) vulnerability by bugchecking the machine (local DoS).
@@ -477,6 +478,7 @@ Fuzzing
 - `SecLists <https://github.com/danielmiessler/SecLists>`_ - A collection of multiple types of lists used during security assessments.
 - `Sulley <https://github.com/OpenRCE/sulley>`_ - Fuzzer development and fuzz testing framework consisting of multiple extensible components.
 - `TAOF <https://sourceforge.net/projects/taof/>`_ - The Art of Fuzzing, including ProxyFuzz, a man-in-the-middle non-deterministic network fuzzer.
+- `Winafl <https://github.com/googleprojectzero/winafl>`_ - A fork of AFL for fuzzing Windows binaries.
 - `Windows IPC Fuzzing Tools <https://www.nccgroup.trust/us/about-us/resources/windows-ipc-fuzzing-tools/>`_ - A collection of tools used to attack applications that use Windows Interprocess Communication mechanisms.
 - `Zulu <https://github.com/nccgroup/Zulu.git>`_ - A fuzzer designed for rapid prototyping that normally happens on a client engagement where something needs to be fuzzed within tight timescales.
 

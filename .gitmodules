@@ -1255,3 +1255,9 @@
 [submodule "Pentration Testing/Post Exploitation/DNSlivery"]
 	path = Pentration Testing/Post Exploitation/DNSlivery
 	url = https://github.com/no0be/DNSlivery.git
+[submodule "Pentration Testing/Fuzzing/winafl"]
+	path = Pentration Testing/Fuzzing/winafl
+	url = https://github.com/googleprojectzero/winafl.git
+[submodule "Pentration Testing/Exploits/Broadpwn"]
+	path = Pentration Testing/Exploits/Broadpwn
+	url = https://github.com/mailinneberg/Broadpwn.git
