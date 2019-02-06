@@ -1261,3 +1261,9 @@
 [submodule "Pentration Testing/Exploits/Broadpwn"]
 	path = Pentration Testing/Exploits/Broadpwn
 	url = https://github.com/mailinneberg/Broadpwn.git
+[submodule "Security/Cloud Security/aws-nuke"]
+	path = Security/Cloud Security/aws-nuke
+	url = https://github.com/rebuy-de/aws-nuke.git
+[submodule "Forensics/File Forensics/SlackPirate"]
+	path = Forensics/File Forensics/SlackPirate
+	url = https://github.com/emtunc/SlackPirate.git

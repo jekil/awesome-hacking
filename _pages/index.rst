@@ -132,6 +132,7 @@ File Forensics
 - `OSXCollector <http://yelp.github.io/osxcollector/>`_ - A forensic evidence collection & analysis toolkit for OS X.
 - `Scalpel <https://github.com/sleuthkit/scalpel>`_ - An open source data carving tool.
 - `Shellbags <https://github.com/williballenthin/shellbags>`_ - Investigate NT_USER.dat files.
+- `SlackPirate <https://github.com/emtunc/SlackPirate>`_ - Slack Enumeration and Extraction Tool - extract sensitive information from a Slack Workspace.
 - `Sleuthkit <https://github.com/sleuthkit/sleuthkit>`_ - A library and collection of command line digital forensics tools.
 
 Incident Response
@@ -653,6 +654,7 @@ Security
 Cloud Security
 --------------
 
+- `Aws-nuke <https://github.com/rebuy-de/aws-nuke>`_ - Nuke a whole AWS account and delete all its resources.
 - `Azucar <https://github.com/nccgroup/azucar/>`_ - Security auditing tool for Azure environments.
 - `Security Monkey <https://github.com/Netflix/security_monkey>`_ - Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 
