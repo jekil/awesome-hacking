@@ -1267,3 +1267,15 @@
 [submodule "Forensics/File Forensics/SlackPirate"]
 	path = Forensics/File Forensics/SlackPirate
 	url = https://github.com/emtunc/SlackPirate.git
+[submodule "Pentration Testing/Exploits/apache-uaf"]
+	path = Pentration Testing/Exploits/apache-uaf
+	url = https://github.com/hannob/apache-uaf.git
+[submodule "Pentration Testing/Post Exploitation/RottenPotatoNG"]
+	path = Pentration Testing/Post Exploitation/RottenPotatoNG
+	url = https://github.com/breenmachine/RottenPotatoNG.git
+[submodule "Pentration Testing/Post Exploitation/Covenant"]
+	path = Pentration Testing/Post Exploitation/Covenant
+	url = https://github.com/cobbr/Covenant.git
+[submodule "Forensics/File Forensics/telegram-extractor"]
+	path = Forensics/File Forensics/telegram-extractor
+	url = https://github.com/tsusanka/telegram-extractor.git
