@@ -134,6 +134,7 @@ File Forensics
 - `Shellbags <https://github.com/williballenthin/shellbags>`_ - Investigate NT_USER.dat files.
 - `SlackPirate <https://github.com/emtunc/SlackPirate>`_ - Slack Enumeration and Extraction Tool - extract sensitive information from a Slack Workspace.
 - `Sleuthkit <https://github.com/sleuthkit/sleuthkit>`_ - A library and collection of command line digital forensics tools.
+- `Telegram-extractor <https://github.com/tsusanka/telegram-extractor>`_ - Python3 scripts to analyse the data stored in Telegram.
 
 Incident Response
 -----------------
@@ -427,6 +428,7 @@ Exploiting
 Exploits
 --------
 
+- `Apache-uaf <https://github.com/hannob/apache-uaf>`_ - Apache use after free bug infos / ASAN stack traces.
 - `Bluedroid <https://github.com/JiounDai/Bluedroid>`_ - PoCs of Vulnerabilities on Bluedroid.
 - `Broadpwn <https://github.com/mailinneberg/Broadpwn>`_ - Broadpwn bug (CVE-2017-9417).
 - `Chakra-2016-11 <https://github.com/theori-io/chakra-2016-11>`_ - Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 & CVE-2016-7201).
@@ -537,6 +539,7 @@ Port Scanning
 Post Exploitation
 -----------------
 
+- `Covenant <https://github.com/cobbr/Covenant>`_ - Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.
 - `CrackMapExec <https://github.com/byt3bl33d3r/CrackMapExec>`_ - A post-exploitation tool that helps automate assessing the security of large Active Directory networks.
 - `CredCrack <https://github.com/gojhonny/CredCrack>`_ - A fast and stealthy credential harvester.
 - `Creddump <https://github.com/moyix/creddump>`_ - Dump windows credentials.
@@ -563,6 +566,7 @@ Post Exploitation
 - `Pwnat <https://samy.pl/pwnat/>`_ - Punches holes in firewalls and NATs allowing any numbers of clients behind NATs to directly connect to a server behind a different NAT.
 - `Pypykatz <https://github.com/skelsec/pypykatz>`_ - Mimikatz implementation in pure Python.
 - `RemoteRecon <https://github.com/xorrior/RemoteRecon>`_ - Remote Recon and Collection.
+- `RottenPotatoNG <https://github.com/breenmachine/RottenPotatoNG>`_ - New version of RottenPotato as a C++ DLL and standalone C++ binary - no need for meterpreter or other tools.
 - `SafetyKatz <https://github.com/GhostPack/SafetyKatz>`_ - SafetyKatz is a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subTee's .NET PE Load.
 - `SpYDyishai <https://github.com/Night46/spYDyishai>`_ - A Gmail credential harvester.
 - `Tgcd <http://tgcd.sourceforge.net>`_ - A simple Unix network utility to extend the accessibility of TCP/IP based network services beyond firewalls.
