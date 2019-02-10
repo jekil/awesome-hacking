@@ -1279,3 +1279,6 @@
 [submodule "Forensics/File Forensics/telegram-extractor"]
 	path = Forensics/File Forensics/telegram-extractor
 	url = https://github.com/tsusanka/telegram-extractor.git
+[submodule "Pentration Testing/Exploiting/Gorsair"]
+	path = Pentration Testing/Exploiting/Gorsair
+	url = https://github.com/Ullaakut/Gorsair.git
