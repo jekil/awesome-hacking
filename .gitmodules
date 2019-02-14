@@ -1282,3 +1282,9 @@
 [submodule "Pentration Testing/Exploiting/Gorsair"]
 	path = Pentration Testing/Exploiting/Gorsair
 	url = https://github.com/Ullaakut/Gorsair.git
+[submodule "Malware/Dynamic Analysis/pyrebox"]
+	path = Malware/Dynamic Analysis/pyrebox
+	url = https://github.com/Cisco-Talos/pyrebox.git
+[submodule "Malware/Dynamic Analysis/panda"]
+	path = Malware/Dynamic Analysis/panda
+	url = https://github.com/panda-re/panda.git
