@@ -1291,3 +1291,6 @@
 [submodule "Social Engineering/Phishing/phishing-frenzy"]
 	path = Social Engineering/Phishing/phishing-frenzy
 	url = https://github.com/pentestgeek/phishing-frenzy.git
+[submodule "Pentration Testing/Exploits/cve-2019-6453-poc"]
+	path = Pentration Testing/Exploits/cve-2019-6453-poc
+	url = https://github.com/proofofcalc/cve-2019-6453-poc.git
