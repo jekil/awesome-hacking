@@ -1294,3 +1294,6 @@
 [submodule "Pentration Testing/Exploits/cve-2019-6453-poc"]
 	path = Pentration Testing/Exploits/cve-2019-6453-poc
 	url = https://github.com/proofofcalc/cve-2019-6453-poc.git
+[submodule "Security/Cloud Security/cloudmapper"]
+	path = Security/Cloud Security/cloudmapper
+	url = https://github.com/duo-labs/cloudmapper.git

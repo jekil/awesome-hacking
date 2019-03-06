@@ -664,6 +664,7 @@ Cloud Security
 
 - `Aws-nuke <https://github.com/rebuy-de/aws-nuke>`_ - Nuke a whole AWS account and delete all its resources.
 - `Azucar <https://github.com/nccgroup/azucar/>`_ - Security auditing tool for Azure environments.
+- `CloudMapper <https://github.com/duo-labs/cloudmapper>`_ - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - `Security Monkey <https://github.com/Netflix/security_monkey>`_ - Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 
 Endpoint Security
