@@ -1297,3 +1297,18 @@
 [submodule "Security/Cloud Security/cloudmapper"]
 	path = Security/Cloud Security/cloudmapper
 	url = https://github.com/duo-labs/cloudmapper.git
+[submodule "Pentration Testing/Web/Wappalyzer"]
+	path = Pentration Testing/Web/Wappalyzer
+	url = https://github.com/AliasIO/Wappalyzer.git
+[submodule "Reverse Engineering/B2R2"]
+	path = Reverse Engineering/B2R2
+	url = https://github.com/B2R2-org/B2R2.git
+[submodule "Pentration Testing/Password Cracking/npk"]
+	path = Pentration Testing/Password Cracking/npk
+	url = https://github.com/Coalfire-Research/npk.git
+[submodule "Social Engineering/Harvester/email-enum"]
+	path = Social Engineering/Harvester/email-enum
+	url = https://github.com/Frint0/email-enum.git
+[submodule "Reverse Engineering/ghidra"]
+	path = Reverse Engineering/ghidra
+	url = https://github.com/NationalSecurityAgency/ghidra.git
