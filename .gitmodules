@@ -1318,3 +1318,9 @@
 [submodule "Pentration Testing/Web/gobuster"]
 	path = Pentration Testing/Web/gobuster
 	url = https://github.com/OJ/gobuster.git
+[submodule "Pentration Testing/Exploiting/SharpShooter"]
+	path = Pentration Testing/Exploiting/SharpShooter
+	url = https://github.com/mdsecactivebreach/SharpShooter.git
+[submodule "Pentration Testing/Post Exploitation/nopowershell"]
+	path = Pentration Testing/Post Exploitation/nopowershell
+	url = https://github.com/bitsadmin/nopowershell.git
