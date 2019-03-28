@@ -1324,3 +1324,6 @@
 [submodule "Pentration Testing/Post Exploitation/nopowershell"]
 	path = Pentration Testing/Post Exploitation/nopowershell
 	url = https://github.com/bitsadmin/nopowershell.git
+[submodule "Pentration Testing/Reporting/django-DefectDojo"]
+	path = Pentration Testing/Reporting/django-DefectDojo
+	url = https://github.com/DefectDojo/django-DefectDojo.git
