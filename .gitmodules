@@ -1327,3 +1327,6 @@
 [submodule "Pentration Testing/Reporting/django-DefectDojo"]
 	path = Pentration Testing/Reporting/django-DefectDojo
 	url = https://github.com/DefectDojo/django-DefectDojo.git
+[submodule "Malware/Source Code/zerokit"]
+	path = Malware/Source Code/zerokit
+	url = https://github.com/Darkabode/zerokit.git

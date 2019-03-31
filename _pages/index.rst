@@ -320,6 +320,7 @@ Source Code
 - `Mirai <https://github.com/jgamblin/Mirai-Source-Code>`_ - Leaked Mirai Source Code for Research/IoC Development Purposes.
 - `Morris Worm <https://github.com/arialdomartini/morris-worm>`_ - The original Morris Worm source code.
 - `TinyNuke <https://github.com/rossja/TinyNuke>`_ - Zeus-style banking trojan.
+- `Zerokit <https://github.com/Darkabode/zerokit>`_ - Zerokit/GAPZ rootkit (non buildable and only for researching).
 - `Zeus <https://github.com/Visgean/Zeus>`_ - Zeus version 2.0.8.9, leaked in 2011.
 
 Static Analysis
