@@ -173,6 +173,14 @@ Misc
 - `HxD <https://mh-nexus.de/en/hxd/>`_ - A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size.
 - `Libfvde <https://github.com/libyal/libfvde>` - Library and tools to access FileVault Drive Encryption (FVDE) encrypted volumes.
 
+Hardware Hacking
+================
+
+Computer
+--------
+
+- `NSA-B-GONE <https://github.com/zakqwy/NSA-B-GONE>`_ - Thinkpad X220 board that disconnects the webcam and microphone data lines.
+
 Intelligence
 ============
 
