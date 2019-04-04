@@ -135,6 +135,7 @@ File Forensics
 - `SlackPirate <https://github.com/emtunc/SlackPirate>`_ - Slack Enumeration and Extraction Tool - extract sensitive information from a Slack Workspace.
 - `Sleuthkit <https://github.com/sleuthkit/sleuthkit>`_ - A library and collection of command line digital forensics tools.
 - `Telegram-extractor <https://github.com/tsusanka/telegram-extractor>`_ - Python3 scripts to analyse the data stored in Telegram.
+- `Truehunter <https://github.com/adoreste/truehunter>`_ - The goal of Truehunter is to detect encrypted containers using a fast and memory efficient approach without any external dependencies for ease of portability.
 
 Incident Response
 -----------------
