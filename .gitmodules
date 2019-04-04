@@ -1336,3 +1336,6 @@
 [submodule "Pentration Testing/Web/jok3r"]
 	path = Pentration Testing/Web/jok3r
 	url = https://github.com/koutto/jok3r.git
+[submodule "Forensics/File Forensics/truehunter"]
+	path = Forensics/File Forensics/truehunter
+	url = https://github.com/adoreste/truehunter.git
