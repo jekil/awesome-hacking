@@ -1333,3 +1333,6 @@
 [submodule "Hardware Hacking/Computer/NSA-B-GONE"]
 	path = Hardware Hacking/Computer/NSA-B-GONE
 	url = https://github.com/zakqwy/NSA-B-GONE.git
+[submodule "Pentration Testing/Web/jok3r"]
+	path = Pentration Testing/Web/jok3r
+	url = https://github.com/koutto/jok3r.git
