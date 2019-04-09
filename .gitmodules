@@ -1339,3 +1339,15 @@
 [submodule "Forensics/File Forensics/truehunter"]
 	path = Forensics/File Forensics/truehunter
 	url = https://github.com/adoreste/truehunter.git
+[submodule "Pentration Testing/Fuzzing/sienna-locomotive"]
+	path = Pentration Testing/Fuzzing/sienna-locomotive
+	url = https://github.com/trailofbits/sienna-locomotive.git
+[submodule "Reverse Engineering/pigaios"]
+	path = Reverse Engineering/pigaios
+	url = https://github.com/joxeankoret/pigaios.git
+[submodule "Pentration Testing/Fuzzing/RPCForge"]
+	path = Pentration Testing/Fuzzing/RPCForge
+	url = https://github.com/sogeti-esec-lab/RPCForge.git
+[submodule "Reverse Engineering/swift-frida"]
+	path = Reverse Engineering/swift-frida
+	url = https://github.com/maltek/swift-frida.git
