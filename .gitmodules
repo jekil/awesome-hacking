@@ -1351,3 +1351,12 @@
 [submodule "Reverse Engineering/swift-frida"]
 	path = Reverse Engineering/swift-frida
 	url = https://github.com/maltek/swift-frida.git
+[submodule "Pentration Testing/Web/wfuzz"]
+	path = Pentration Testing/Web/wfuzz
+	url = https://github.com/xmendez/wfuzz.git
+[submodule "Pentration Testing/Port Scanning/evilscan"]
+	path = Pentration Testing/Port Scanning/evilscan
+	url = https://github.com/eviltik/evilscan.git
+[submodule "Pentration Testing/Web/Brosec"]
+	path = Pentration Testing/Web/Brosec
+	url = https://github.com/gabemarshall/Brosec.git

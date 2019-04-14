@@ -550,6 +550,7 @@ Port Scanning
 -------------
 
 - `Angry IP Scanner <http://angryip.org>`_ - Fast and friendly network scanner.
+- `Evilscan <https://github.com/eviltik/evilscan>`_ - NodeJS Simple Network Scanner.
 - `Masscan <https://github.com/robertdavidgraham/masscan>`_ - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - `Nmap <https://nmap.org>`_ - Free Security Scanner For Network Exploration & Security Audits.
 - `Watchdog <https://github.com/flipkart-incubator/watchdog>`_ - A Comprehensive Security Scanning and a Vulnerability Management Tool.
@@ -626,6 +627,7 @@ Web
 
 - `Arachni <http://www.arachni-scanner.com>`_ - Web Application Security Scanner Framework.
 - `BlindElephant <http://blindelephant.sourceforge.net>`_ - Web Application Fingerprinter.
+- `Brosec <https://github.com/gabemarshall/Brosec>`_ - An interactive reference tool to help security professionals utilize useful payloads and commands.
 - `Burp Suite <http://portswigger.net/burp/>`_ - An integrated platform for performing security testing of web applications.
 - `Cms-explorer <https://code.google.com/archive/p/cms-explorer/>`_ - CMS Explorer is designed to reveal the the specific modules, plugins, components and themes that various CMS driven web sites are running.
 - `Dvcs-ripper <https://github.com/kost/dvcs-ripper>`_ - Rip web accessible (distributed) version control systems.
@@ -654,6 +656,7 @@ Web
 - `Wapiti <http://wapiti.sourceforge.net>`_ - Web application vulnerability scanner.
 - `Wappalyzer <https://github.com/AliasIO/Wappalyzer>`_ - Cross-platform utility that uncovers the technologies used on websites.
 - `Weevely3 <https://github.com/epinna/weevely3>`_ - Weaponized web shell.
+- `Wfuzz <https://github.com/xmendez/wfuzz>`_ - Web application fuzzer.
 - `WhatWeb <https://www.morningstarsecurity.com/research/whatweb>`_ - Website Fingerprinter.
 - `Wordpress Exploit Framework <https://github.com/rastating/wordpress-exploit-framework>`_ - A Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
 - `WPScan <https://wpscan.org>`_ - WPScan is a black box WordPress vulnerability scanner.
