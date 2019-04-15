@@ -1360,3 +1360,9 @@
 [submodule "Pentration Testing/Web/Brosec"]
 	path = Pentration Testing/Web/Brosec
 	url = https://github.com/gabemarshall/Brosec.git
+[submodule "Pentration Testing/Post Exploitation/Orc"]
+	path = Pentration Testing/Post Exploitation/Orc
+	url = https://github.com/zMarch/Orc.git
+[submodule "Pentration Testing/Exploits/ESFileExplorerOpenPortVuln"]
+	path = Pentration Testing/Exploits/ESFileExplorerOpenPortVuln
+	url = https://github.com/fs0c131y/ESFileExplorerOpenPortVuln.git
