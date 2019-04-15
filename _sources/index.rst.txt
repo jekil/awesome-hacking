@@ -450,6 +450,7 @@ Exploits
 - `CVE-2018-8120 <https://github.com/bigric3/cve-2018-8120>`_ - CVE-2018-8120.
 - `CVE-2018-8897 <https://github.com/nmulasmajic/CVE-2018-8897>`_ - Implements the POP/MOV SS (CVE-2018-8897) vulnerability by bugchecking the machine (local DoS).
 - `CVE-2019-6453 <https://github.com/proofofcalc/cve-2019-6453-poc>`_ - Proof of calc for CVE-2019-6453 (Mirc exploit).
+- `ES File Explorer Open Port Vulnerability <https://github.com/fs0c131y/ESFileExplorerOpenPortVuln>`_ - ES File Explorer Open Port Vulnerability - CVE-2019-6447.
 - `HolicPOC <https://github.com/leeqwind/HolicPOC>`_ - CVE-2015-2546, CVE-2016-0165, CVE-2016-0167, CVE-2017-0101, CVE-2017-0263, CVE-2018-8120.
 - `Jira-Scan <https://github.com/random-robbie/Jira-Scan>`_ - Jira scanner for CVE-2017-9506.
 - `MS17-010 <https://github.com/worawit/MS17-010>`_ - Exploits for MS17-010.
@@ -550,6 +551,7 @@ Port Scanning
 -------------
 
 - `Angry IP Scanner <http://angryip.org>`_ - Fast and friendly network scanner.
+- `Evilscan <https://github.com/eviltik/evilscan>`_ - NodeJS Simple Network Scanner.
 - `Masscan <https://github.com/robertdavidgraham/masscan>`_ - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - `Nmap <https://nmap.org>`_ - Free Security Scanner For Network Exploration & Security Audits.
 - `Watchdog <https://github.com/flipkart-incubator/watchdog>`_ - A Comprehensive Security Scanning and a Vulnerability Management Tool.
@@ -578,6 +580,7 @@ Post Exploitation
 - `Mimikatz <http://blog.gentilkiwi.com/mimikatz>`_ - A little tool to play with Windows security.
 - `Mimikittenz <https://github.com/putterpanda/mimikittenz>`_ - A post-exploitation powershell tool for extracting juicy info from memory.
 - `NoPowerShell <https://github.com/bitsadmin/nopowershell>`_ - PowerShell rebuilt in C# for Red Teaming purposes.
+- `Orc <https://github.com/zMarch/Orc>`_ - A post-exploitation framework for Linux written in Bash.
 - `P0wnedShell <https://github.com/Cn33liz/p0wnedShell>`_ - PowerShell Runspace Post Exploitation Toolkit.
 - `ProcessHider <https://github.com/M00nRise/ProcessHider>`_ - Post-exploitation tool for hiding processes from monitoring applications.
 - `PowerOPS <https://github.com/fdiskyou/PowerOPS>`_ - PowerShell Runspace Portable Post Exploitation Tool aimed at making Penetration Testing with PowerShell "easier".
@@ -626,6 +629,7 @@ Web
 
 - `Arachni <http://www.arachni-scanner.com>`_ - Web Application Security Scanner Framework.
 - `BlindElephant <http://blindelephant.sourceforge.net>`_ - Web Application Fingerprinter.
+- `Brosec <https://github.com/gabemarshall/Brosec>`_ - An interactive reference tool to help security professionals utilize useful payloads and commands.
 - `Burp Suite <http://portswigger.net/burp/>`_ - An integrated platform for performing security testing of web applications.
 - `Cms-explorer <https://code.google.com/archive/p/cms-explorer/>`_ - CMS Explorer is designed to reveal the the specific modules, plugins, components and themes that various CMS driven web sites are running.
 - `Dvcs-ripper <https://github.com/kost/dvcs-ripper>`_ - Rip web accessible (distributed) version control systems.
@@ -654,6 +658,7 @@ Web
 - `Wapiti <http://wapiti.sourceforge.net>`_ - Web application vulnerability scanner.
 - `Wappalyzer <https://github.com/AliasIO/Wappalyzer>`_ - Cross-platform utility that uncovers the technologies used on websites.
 - `Weevely3 <https://github.com/epinna/weevely3>`_ - Weaponized web shell.
+- `Wfuzz <https://github.com/xmendez/wfuzz>`_ - Web application fuzzer.
 - `WhatWeb <https://www.morningstarsecurity.com/research/whatweb>`_ - Website Fingerprinter.
 - `Wordpress Exploit Framework <https://github.com/rastating/wordpress-exploit-framework>`_ - A Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
 - `WPScan <https://wpscan.org>`_ - WPScan is a black box WordPress vulnerability scanner.
