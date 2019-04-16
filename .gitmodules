@@ -1366,3 +1366,12 @@
 [submodule "Pentration Testing/Exploits/ESFileExplorerOpenPortVuln"]
 	path = Pentration Testing/Exploits/ESFileExplorerOpenPortVuln
 	url = https://github.com/fs0c131y/ESFileExplorerOpenPortVuln.git
+[submodule "Pentration Testing/Info Gathering/subquest"]
+	path = Pentration Testing/Info Gathering/subquest
+	url = https://github.com/skepticfx/subquest.git
+[submodule "Pentration Testing/Web/LinkFinder"]
+	path = Pentration Testing/Web/LinkFinder
+	url = https://github.com/GerbenJavado/LinkFinder.git
+[submodule "Pentration Testing/Web/CloudScraper"]
+	path = Pentration Testing/Web/CloudScraper
+	url = https://github.com/jordanpotti/CloudScraper.git
