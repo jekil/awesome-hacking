@@ -1375,3 +1375,6 @@
 [submodule "Pentration Testing/Web/CloudScraper"]
 	path = Pentration Testing/Web/CloudScraper
 	url = https://github.com/jordanpotti/CloudScraper.git
+[submodule "Malware/Source Code/LOLBAS"]
+	path = Malware/Source Code/LOLBAS
+	url = https://github.com/LOLBAS-Project/LOLBAS.git
