@@ -326,6 +326,7 @@ Source Code
 - `BlackHole <https://github.com/hussein-aitlahcen/BlackHole>`_ - C# RAT (Remote Administration Tool).
 - `Carberp <https://github.com/hzeroo/Carberp>`_ - Carberp leaked source code.
 - `Fancybear <https://github.com/rickey-g/fancybear>`_ - Fancy Bear Source Code.
+- `LOLBAS <https://github.com/LOLBAS-Project/LOLBAS>`_ - Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts).
 - `Mirai <https://github.com/jgamblin/Mirai-Source-Code>`_ - Leaked Mirai Source Code for Research/IoC Development Purposes.
 - `Morris Worm <https://github.com/arialdomartini/morris-worm>`_ - The original Morris Worm source code.
 - `TinyNuke <https://github.com/rossja/TinyNuke>`_ - Zeus-style banking trojan.
