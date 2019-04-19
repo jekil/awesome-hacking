@@ -625,6 +625,7 @@ Training
 - `OWASP Security Shepherd <https://www.owasp.org/index.php/OWASP_Security_Shepherd>`_ - A web and mobile application security training platform.
 - `OWASP WebGoat <https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project>`_ - A deliberately insecure Web Application.
 - `RopeyTasks <https://github.com/continuumsecurity/RopeyTasks>`_ - Deliberately vulnerable web application.
+- `WackoPicko <https://github.com/adamdoupe/WackoPicko>`_ - A vulnerable web application used to test web application vulnerability scanners.
 
 Web
 ---

@@ -1378,3 +1378,6 @@
 [submodule "Malware/Source Code/LOLBAS"]
 	path = Malware/Source Code/LOLBAS
 	url = https://github.com/LOLBAS-Project/LOLBAS.git
+[submodule "Pentration Testing/Training/WackoPicko"]
+	path = Pentration Testing/Training/WackoPicko
+	url = https://github.com/adamdoupe/WackoPicko.git
