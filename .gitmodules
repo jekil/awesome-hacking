@@ -1381,3 +1381,9 @@
 [submodule "Pentration Testing/Training/WackoPicko"]
 	path = Pentration Testing/Training/WackoPicko
 	url = https://github.com/adamdoupe/WackoPicko.git
+[submodule "Pentration Testing/DoS/Memcrashed-DDoS-Exploit"]
+	path = Pentration Testing/DoS/Memcrashed-DDoS-Exploit
+	url = https://github.com/649/Memcrashed-DDoS-Exploit.git
+[submodule "Security/Privacy/toriptables2"]
+	path = Security/Privacy/toriptables2
+	url = https://github.com/ruped24/toriptables2.git
