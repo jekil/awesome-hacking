@@ -852,7 +852,7 @@
 	url = https://github.com/devttys0/binwalk.git
 [submodule "Reverse Engineering/boomerang"]
 	path = Reverse Engineering/boomerang
-	url = https://github.com/nemerle/boomerang.git
+	url = https://github.com/BoomerangDecompiler/boomerang.git
 [submodule "Reverse Engineering/ctf_import"]
 	path = Reverse Engineering/ctf_import
 	url = https://github.com/docileninja/ctf_import.git
