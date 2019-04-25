@@ -1387,3 +1387,6 @@
 [submodule "Security/Privacy/toriptables2"]
 	path = Security/Privacy/toriptables2
 	url = https://github.com/ruped24/toriptables2.git
+[submodule "Malware/Dynamic Analysis/LiSa"]
+	path = Malware/Dynamic Analysis/LiSa
+	url = https://github.com/danieluhricek/LiSa.git
