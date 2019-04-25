@@ -250,6 +250,7 @@ Dynamic Analysis
 - `DroidBox <https://github.com/pjlantz/droidbox>`_ - Dynamic analysis of Android apps.
 - `Hooker <https://github.com/AndroidHooker/hooker>`_ - An opensource project for dynamic analyses of Android applications.
 - `Jsunpack-n <https://github.com/urule99/jsunpack-n>`_ - Emulates browser functionality when visiting a URL.
+- `LiSa <https://github.com/danieluhricek/LiSa>`_ - Sandbox for automated Linux malware analysis.
 - `Magento-malware-scanner <https://github.com/gwillem/magento-malware-scanner>`_ - A collection of rules and samples to detect Magento malware.
 - `Malzilla <http://malzilla.sourceforge.net>`_ - Web pages that contain exploits often use a series of redirects and obfuscated code to make it more difficult for somebody to follow. MalZilla is a useful program for use in exploring malicious pages. It allows you to choose your own user agent and referrer, and has the ability to use proxies. It shows you the full source of webpages and all the HTTP headers. It gives you various decoders to try and deobfuscate javascript aswell.
 - `Panda <https://github.com/panda-re/panda>`_ - Platform for Architecture-Neutral Dynamic Analysis.
