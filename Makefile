@@ -178,6 +178,7 @@ pseudoxml:
 
 github:
 	touch $(BUILDDIR)/html/.nojekyll
+	cat "awesomehacking.org" > $(BUILDDIR)/html/CNAME
 	ghp-import -b gh-pages -c awesomehacking.org -m "Travis.ci automated site building" -n _build/html
 
 purge:
