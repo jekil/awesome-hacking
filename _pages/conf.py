@@ -100,6 +100,7 @@ html_theme_options = {
     'github_button': True,
     'github_user': 'jekil',
     'github_repo': 'awesome-hacking',
+    'github_count': True,
     'github_banner': True,
     'travis_button': False,
     'gratipay_user': 'jekil',
