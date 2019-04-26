@@ -47,8 +47,8 @@ CTF Tools
 - `FBCTF <https://github.com/facebook/fbctf>`_ - Platform to host Capture the Flag competitions.
 - `LibreCTF <https://github.com/easyctf/librectf>`_ - CTF in a box. Minimal setup required.
 - `Mellivora <https://github.com/Nakiami/mellivora>`_ - A CTF engine written in PHP.
-- `OneGadget <https://github.com/david942j/one_gadget>`_ - A tool for you easy to find the one gadget RCE in libc.so.6.
 - `NightShade <https://github.com/UnrealAkama/NightShade>`_ - A simple security CTF framework.
+- `OneGadget <https://github.com/david942j/one_gadget>`_ - A tool for you easy to find the one gadget RCE in libc.so.6.
 - `Pwntools <https://github.com/Gallopsled/pwntools>`_ - CTF framework and exploit development library.
 - `Scorebot <https://github.com/legitbs/scorebot>`_ - Platform for CTFs by Legitbs (Defcon).
 - `V0lt <https://github.com/P1kachu/v0lt>`_ - Security CTF Toolkit.
