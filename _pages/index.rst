@@ -6,9 +6,15 @@ Awesome hacking is a curated list of **hacking tools** for hackers, pentesters a
 Its goal is to collect, classify and make awesome tools easy to find by humans, creating a **toolset** you can
 checkout and update with one command.
 
-You can checkout all the tools with the following command::
+This is not only a curated list, it is also a complete and updated toolset you can download with one-click! 
+
+You can download all the tools with the following command::
 
     git clone --recursive https://github.com/jekil/awesome-hacking.git
+
+To update it run the following command::
+
+    git pull
 
 Every kind of **contribution** is really appreciated! Follow the :doc:`contribute`.
 
