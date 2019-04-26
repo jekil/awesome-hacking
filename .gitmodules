@@ -973,9 +973,6 @@
 [submodule "Malware/Source Code/Zeus"]
 	path = Malware/Source Code/Zeus
 	url = https://github.com/Visgean/Zeus.git
-[submodule "CTF Tools/OpenCTF"]
-	path = CTF Tools/OpenCTF
-	url = https://github.com/EasyCTF/OpenCTF.git
 [submodule "Malware/Source Code/TinyNuke"]
 	path = Malware/Source Code/TinyNuke
 	url = https://github.com/aainz/TinyNuke.git
@@ -1390,3 +1387,6 @@
 [submodule "Malware/Dynamic Analysis/LiSa"]
 	path = Malware/Dynamic Analysis/LiSa
 	url = https://github.com/danieluhricek/LiSa.git
+[submodule "CTF Tools/librectf"]
+	path = CTF Tools/librectf
+	url = https://github.com/easyctf/librectf.git
