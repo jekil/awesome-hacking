@@ -108,7 +108,7 @@ html_theme_options = {
     'analytics_id': 'UA-2317228-22',
     #'link': '#3782BE',
     #'link_hover': '#3782BE',
-    'show_powered_by': false,
+    'show_powered_by': 'false',
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
