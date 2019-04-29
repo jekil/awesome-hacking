@@ -1390,3 +1390,6 @@
 [submodule "CTF Tools/librectf"]
 	path = CTF Tools/librectf
 	url = https://github.com/easyctf/librectf.git
+[submodule "Penetration Testing/Fuzzing/deepstate"]
+	path = Penetration Testing/Fuzzing/deepstate
+	url = https://github.com/trailofbits/deepstate.git
