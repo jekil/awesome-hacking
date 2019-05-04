@@ -1393,3 +1393,6 @@
 [submodule "Penetration Testing/Fuzzing/deepstate"]
 	path = Penetration Testing/Fuzzing/deepstate
 	url = https://github.com/trailofbits/deepstate.git
+[submodule "Reverse Engineering/levitate"]
+	path = Reverse Engineering/levitate
+	url = https://github.com/levitateplatform/levitate.git

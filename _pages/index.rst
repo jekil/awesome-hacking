@@ -779,6 +779,7 @@ Reverse Engineering
 - `Keystone Engine <http://www.keystone-engine.org>`_ - A lightweight multi-platform, multi-architecture assembler framework.
 - `Krakatau <https://github.com/Storyyeller/Krakatau>`_ - Java decompiler, assembler, and disassembler.
 - `Manticore <https://github.com/trailofbits/manticore>`_ - Prototyping tool for dynamic binary analysis, with support for symbolic execution, taint analysis, and binary instrumentation.
+- `Levitate <https://github.com/levitateplatform/levitate>`_ - Reverse Engineering and Static Malware Analysis Platform.
 - `MARA Framework <https://github.com/xtiankisutsa/MARA_Framework>`_ - A Mobile Application Reverse engineering and Analysis Framework.
 - `Medusa <https://github.com/wisk/medusa>`_ - A disassembler designed to be both modular and interactive.
 - `MegaDumper <https://github.com/CodeCracker-Tools/MegaDumper>`_ - Dump native and .NET assemblies.
