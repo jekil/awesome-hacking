@@ -325,6 +325,7 @@ Ops
 - `Node-appland <https://github.com/dweinstein/node-appland>`_ - NodeJS tool to download APKs from appland.
 - `Node-aptoide <https://github.com/dweinstein/node-aptoide>`_ - NodeJS to download APKs from aptoide.
 - `Node-google-play <https://github.com/dweinstein/node-google-play>`_ - Call Google Play APIs from Node.
+- `Pafish <https://github.com/a0rtega/pafish>`_ - A demonstration tool that employs several techniques to detect sandboxes and analysis environments in the same way as malware families do.
 
 Source Code
 -----------
