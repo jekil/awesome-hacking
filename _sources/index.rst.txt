@@ -431,6 +431,7 @@ Exploiting
 - `Fathomless <https://github.com/xor-function/fathomless>`_ - A collection of different programs for network red teaming.
 - `Gorsair <https://github.com/Ullaakut/Gorsair>`_ - Gorsair hacks its way into remote docker containers that expose their APIs.
 - `Linux Exploit Suggester <https://github.com/PenturaLabs/Linux_Exploit_Suggester>`_ - Linux Exploit Suggester; based on operating system release number.
+- `Linux-exploit-suggester <https://github.com/mzet-/linux-exploit-suggester>`_ - Linux privilege escalation auditing tool.
 - `Metasploit Framework <http://www.metasploit.com/>`_ - Exploitation framework.
 - `Nessus <http://www.tenable.com/products/nessus-vulnerability-scanner>`_ - Vulnerability, configuration, and compliance assessment.
 - `Nexpose <https://www.rapid7.com/products/nexpose/>`_ - Vulnerability Management & Risk Management Software.
