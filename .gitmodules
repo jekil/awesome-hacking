@@ -1399,3 +1399,6 @@
 [submodule "Malware/Ops/pafish"]
 	path = Malware/Ops/pafish
 	url = https://github.com/a0rtega/pafish.git
+[submodule "Penetration Testing/Exploiting/linux-exploit-suggester"]
+	path = Penetration Testing/Exploiting/linux-exploit-suggester
+	url = https://github.com/mzet-/linux-exploit-suggester.git
