@@ -1402,3 +1402,6 @@
 [submodule "Penetration Testing/Exploiting/linux-exploit-suggester"]
 	path = Penetration Testing/Exploiting/linux-exploit-suggester
 	url = https://github.com/mzet-/linux-exploit-suggester.git
+[submodule "Penetration Testing/Web/argumentinjectionhammer"]
+	path = Penetration Testing/Web/argumentinjectionhammer
+	url = https://github.com/nccgroup/argumentinjectionhammer.git
