@@ -1405,3 +1405,6 @@
 [submodule "Penetration Testing/Web/argumentinjectionhammer"]
 	path = Penetration Testing/Web/argumentinjectionhammer
 	url = https://github.com/nccgroup/argumentinjectionhammer.git
+[submodule "Penetration Testing/Post Exploitation/backdoorme"]
+	path = Penetration Testing/Post Exploitation/backdoorme
+	url = https://github.com/Kkevsterrr/backdoorme.git
