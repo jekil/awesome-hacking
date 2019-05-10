@@ -165,6 +165,7 @@ Mobile
 
 - `Android Forensic Toolkit <https://code.google.com/archive/p/aft/>`_ - Allows you to extract SMS records, call history, photos, browsing history, and password from an Android phone.
 - `Mem <https://github.com/MobileForensicsResearch/mem>`_ - Tool used for dumping memory from Android devices.
+- `Snoopdroid <https://github.com/botherder/snoopdroid>`_ - Extract packages from an Android device.
 
 Network Forensics
 -----------------
