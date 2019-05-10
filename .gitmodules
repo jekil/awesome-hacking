@@ -1408,3 +1408,6 @@
 [submodule "Penetration Testing/Post Exploitation/backdoorme"]
 	path = Penetration Testing/Post Exploitation/backdoorme
 	url = https://github.com/Kkevsterrr/backdoorme.git
+[submodule "Forensics/Mobile/snoopdroid"]
+	path = Forensics/Mobile/snoopdroid
+	url = https://github.com/botherder/snoopdroid.git
