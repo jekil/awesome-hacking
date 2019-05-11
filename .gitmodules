@@ -1411,3 +1411,6 @@
 [submodule "Forensics/Mobile/snoopdroid"]
 	path = Forensics/Mobile/snoopdroid
 	url = https://github.com/botherder/snoopdroid.git
+[submodule "Penetration Testing/Fuzzing/Eclipser"]
+	path = Penetration Testing/Fuzzing/Eclipser
+	url = https://github.com/SoftSec-KAIST/Eclipser.git
