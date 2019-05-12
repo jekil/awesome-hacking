@@ -1414,3 +1414,6 @@
 [submodule "Penetration Testing/Fuzzing/Eclipser"]
 	path = Penetration Testing/Fuzzing/Eclipser
 	url = https://github.com/SoftSec-KAIST/Eclipser.git
+[submodule "Penetration Testing/Info Gathering/commando-vm"]
+	path = Penetration Testing/Info Gathering/commando-vm
+	url = https://github.com/fireeye/commando-vm.git
