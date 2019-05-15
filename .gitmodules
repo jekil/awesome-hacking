@@ -1417,3 +1417,6 @@
 [submodule "Penetration Testing/Info Gathering/commando-vm"]
 	path = Penetration Testing/Info Gathering/commando-vm
 	url = https://github.com/fireeye/commando-vm.git
+[submodule "Penetration Testing/Training/hackazon"]
+	path = Penetration Testing/Training/hackazon
+	url = https://github.com/rapid7/hackazon.git
