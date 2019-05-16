@@ -1420,3 +1420,6 @@
 [submodule "Penetration Testing/Training/hackazon"]
 	path = Penetration Testing/Training/hackazon
 	url = https://github.com/rapid7/hackazon.git
+[submodule "Penetration Testing/Training/xvwa"]
+	path = Penetration Testing/Training/xvwa
+	url = https://github.com/s4n7h0/xvwa.git
