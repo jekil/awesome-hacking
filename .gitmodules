@@ -1423,3 +1423,6 @@
 [submodule "Penetration Testing/Training/xvwa"]
 	path = Penetration Testing/Training/xvwa
 	url = https://github.com/s4n7h0/xvwa.git
+[submodule "Penetration Testing/Reporting/cartography"]
+	path = Penetration Testing/Reporting/cartography
+	url = https://github.com/lyft/cartography.git
