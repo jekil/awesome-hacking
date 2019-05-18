@@ -851,5 +851,5 @@ Phishing
 - `GoPhish <https://github.com/gophish/gophish>`_ - Gophish is an open-source phishing toolkit designed for businesses and penetration testers. It provides the ability to quickly and easily setup and execute phishing engagements and security awareness training.
 - `Modlishka <https://github.com/drk1wi/Modlishka>`_ - Reverse Proxy. Phishing NG.
 - `Phishing-frenzy <https://github.com/pentestgeek/phishing-frenzy>`_ - Ruby on Rails Phishing Framework.
-- `Pompa <https://github.com/m1nl/pompa>`_ - Fully-featured spear-phishing toolkit - web front-end.
+- `Pompa <https://github.com/m1nl/pompa-docker>`_ - Fully-featured spear-phishing toolkit.
 - `Whatsapp-phishing <https://github.com/Mawalu/whatsapp-phishing>`_ -  Proof of principle code for running a phishing attack against the official Whatsapp Web client.

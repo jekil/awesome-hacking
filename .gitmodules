@@ -1245,7 +1245,7 @@
 	url = https://github.com/drk1wi/Modlishka.git
 [submodule "Social Engineering/Phishing/pompa"]
 	path = Social Engineering/Phishing/pompa
-	url = https://github.com/m1nl/pompa.git
+	url = https://github.com/m1nl/pompa-docker.git
 [submodule "Pentration Testing/Wireless/wifiphisher"]
 	path = Penetration Testing/Wireless/wifiphisher
 	url = https://github.com/wifiphisher/wifiphisher.git
