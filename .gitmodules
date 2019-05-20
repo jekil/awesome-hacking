@@ -1426,3 +1426,6 @@
 [submodule "Penetration Testing/Reporting/cartography"]
 	path = Penetration Testing/Reporting/cartography
 	url = https://github.com/lyft/cartography.git
+[submodule "Penetration Testing/Web/relative-url-extractor"]
+	path = Penetration Testing/Web/relative-url-extractor
+	url = https://github.com/jobertabma/relative-url-extractor.git
