@@ -807,6 +807,7 @@ Reverse Engineering
 - `R2MSDN <https://github.com/newlog/r2msdn>`_ - R2 plugin to add MSDN documentation URLs and parameter names to imported function calls.
 - `RABCDAsm <https://github.com/CyberShadow/RABCDAsm>`_ - Robust ABC (ActionScript Bytecode) [Dis-]Assembler.
 - `Radare2 <http://www.radare.org>`_ - Opensource, crossplatform reverse engineering framework.
+- `Radare2-bindings <https://github.com/radare/radare2-bindings>`_ - Bindings of the r2 api for Valabind and friends.
 - `Redexer <https://github.com/plum-umd/redexer>`_ - A reengineering tool that manipulates Android app binaries.
 - `ScratchABit <https://github.com/pfalcon/ScratchABit>`_ - Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API.
 - `Shed <https://github.com/enkomio/shed>`_ - .NET runtime inspector.
