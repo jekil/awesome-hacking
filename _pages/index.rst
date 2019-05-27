@@ -512,6 +512,7 @@ Fuzzing
 - `Netzob <https://github.com/netzob/netzob>`_ - Netzob is an opensource tool for reverse engineering, traffic generation and fuzzing of communication protocols.
 - `Python-AFL <http://jwilk.net/software/python-afl>`_ - American fuzzy lop fork server and instrumentation for pure-Python code.
 - `Radamsa-android <https://github.com/anestisb/radamsa-android>`_ - An Android port of radamsa fuzzer.
+- `Razzer <https://github.com/compsec-snu/razzer>`_ - A Kernel fuzzer focusing on race bugs.
 - `RPCForge <https://github.com/sogeti-esec-lab/RPCForge>`_ - Windows RPC Python fuzzer.
 - `SecLists <https://github.com/danielmiessler/SecLists>`_ - A collection of multiple types of lists used during security assessments.
 - `Sienna-locomotive <https://github.com/trailofbits/sienna-locomotive>`_ - A user-friendly fuzzing and crash triage tool for Windows.

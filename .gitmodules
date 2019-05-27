@@ -1435,3 +1435,6 @@
 [submodule "Reverse Engineering/radare2-bindings"]
 	path = Reverse Engineering/radare2-bindings
 	url = https://github.com/radare/radare2-bindings.git
+[submodule "Penetration Testing/Fuzzing/razzer"]
+	path = Penetration Testing/Fuzzing/razzer
+	url = https://github.com/compsec-snu/razzer.git
