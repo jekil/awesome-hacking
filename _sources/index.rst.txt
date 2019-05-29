@@ -427,6 +427,7 @@ Exploiting
 - `Commix <http://www.commixproject.com>`_ - Automated All-in-One OS Command Injection and Exploitation Tool.
 - `DLLInjector <https://github.com/OpenSecurityResearch/dllinjector>`_ - Inject dlls in processes.
 - `Drupwn <https://github.com/immunIT/drupwn>`_ - Drupal enumeration & exploitation tool.
+- `EfiGuard <https://github.com/Mattiwatti/EfiGuard>`_ - Disable PatchGuard and DSE at boot time.
 - `ExploitPack <http://exploitpack.com>`_ - Graphical tool for penetration testing with a bunch of exploits.
 - `Evilgrade <https://github.com/infobyte/evilgrade>`_ - The update explotation framework.
 - `Fathomless <https://github.com/xor-function/fathomless>`_ - A collection of different programs for network red teaming.
