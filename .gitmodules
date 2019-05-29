@@ -1438,3 +1438,6 @@
 [submodule "Penetration Testing/Fuzzing/razzer"]
 	path = Penetration Testing/Fuzzing/razzer
 	url = https://github.com/compsec-snu/razzer.git
+[submodule "Penetration Testing/Exploiting/EfiGuard"]
+	path = Penetration Testing/Exploiting/EfiGuard
+	url = https://github.com/Mattiwatti/EfiGuard.git
