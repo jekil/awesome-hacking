@@ -1441,3 +1441,6 @@
 [submodule "Penetration Testing/Exploiting/EfiGuard"]
 	path = Penetration Testing/Exploiting/EfiGuard
 	url = https://github.com/Mattiwatti/EfiGuard.git
+[submodule "Network/Analysis/fatt"]
+	path = Network/Analysis/fatt
+	url = https://github.com/0x4D31/fatt.git
