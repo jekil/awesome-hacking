@@ -373,6 +373,7 @@ Analysis
 --------
 
 - `Bro <http://www.bro.org>`_ - A powerful network analysis framework that is much different from the typical IDS you may know.
+- `Fatt <https://github.com/0x4D31/fatt>`_ - A pyshark based script for extracting network metadata and fingerprints from pcap files and live network traffic.
 - `Nidan <https://github.com/michelep/Nidan>`_ - An active network monitor tool.
 - `Pytbull <http://pytbull.sourceforge.net>`_ - A python based flexible IDS/IPS testing framework.
 - `Sguil <http://bammv.github.io/sguil/index.html>`_ - Sguil (pronounced sgweel) is built by network security analysts for network security analysts. Sguil's main component is an intuitive GUI that provides access to realtime events, session data, and raw packet captures.
