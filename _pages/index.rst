@@ -320,6 +320,7 @@ Ops
 - `Googleplay-api <https://github.com/egirault/googleplay-api>`_ - An unofficial Python API that let you search, browse and download Android apps from Google Play (formerly Android Market).
 - `Kraken <https://github.com/botherder/kraken>`_ - Cross-platform Yara scanner written in Go.
 - `ImaginaryC2 <https://github.com/felixweyne/imaginaryC2>`_ - A python tool which aims to help in the behavioral (network) analysis of malware. Imaginary C2 hosts a HTTP server which captures HTTP requests towards selectively chosen domains/IPs. Additionally, the tool aims to make it easy to replay captured Command-and-Control responses/served payloads.
+- `Irma <https://github.com/quarkslab/irma>`_ - IRMA is an asynchronous & customizable analysis system for suspicious files. 
 - `KLara <https://github.com/KasperskyLab/klara>`_ - A project is aimed at helping Threat Intelligence researchers hunt for new malware using Yara.
 - `Malboxes <https://github.com/GoSecure/malboxes>`_ - Builds malware analysis Windows VMs so that you don't have to.
 - `Mquery <https://github.com/CERT-Polska/mquery>`_ - YARA malware query accelerator (web frontend).

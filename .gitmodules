@@ -1444,3 +1444,6 @@
 [submodule "Network/Analysis/fatt"]
 	path = Network/Analysis/fatt
 	url = https://github.com/0x4D31/fatt.git
+[submodule "Malware/Ops/irma"]
+	path = Malware/Ops/irma
+	url = https://github.com/quarkslab/irma.git
