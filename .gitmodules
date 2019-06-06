@@ -1447,3 +1447,6 @@
 [submodule "Malware/Ops/irma"]
 	path = Malware/Ops/irma
 	url = https://github.com/quarkslab/irma.git
+[submodule "Network/Sniffer/termshark"]
+	path = Network/Sniffer/termshark
+	url = https://github.com/gcla/termshark.git
