@@ -648,6 +648,7 @@ Training
 - `OWASP Security Shepherd <https://www.owasp.org/index.php/OWASP_Security_Shepherd>`_ - A web and mobile application security training platform.
 - `OWASP WebGoat <https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project>`_ - A deliberately insecure Web Application.
 - `RopeyTasks <https://github.com/continuumsecurity/RopeyTasks>`_ - Deliberately vulnerable web application.
+- `Sqli-labs <https://github.com/Audi-1/sqli-labs>`_ - SQLI labs to test error based, Blind boolean based, Time based.
 - `Xvwa <https://github.com/s4n7h0/xvwa`_ - XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.
 - `WackoPicko <https://github.com/adamdoupe/WackoPicko>`_ - A vulnerable web application used to test web application vulnerability scanners.
 

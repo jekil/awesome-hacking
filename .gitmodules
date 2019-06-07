@@ -1450,3 +1450,6 @@
 [submodule "Network/Sniffer/termshark"]
 	path = Network/Sniffer/termshark
 	url = https://github.com/gcla/termshark.git
+[submodule "Penetration Testing/Training/sqli-labs"]
+	path = Penetration Testing/Training/sqli-labs
+	url = https://github.com/Audi-1/sqli-labs.git
