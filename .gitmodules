@@ -1453,3 +1453,6 @@
 [submodule "Penetration Testing/Training/sqli-labs"]
 	path = Penetration Testing/Training/sqli-labs
 	url = https://github.com/Audi-1/sqli-labs.git
+[submodule "Security/Privacy/webXray"]
+	path = Security/Privacy/webXray
+	url = https://github.com/timlib/webXray.git
