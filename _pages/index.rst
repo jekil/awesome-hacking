@@ -820,6 +820,7 @@ Reverse Engineering
 - `Shed <https://github.com/enkomio/shed>`_ - .NET runtime inspector.
 - `Simplify <https://github.com/CalebFenton/simplify>`_ - Generic Android Deobfuscator.
 - `Smali <https://github.com/JesusFreke/smali>`_ - Smali/baksmali is an assembler/disassembler for the dex format used by dalvik, Android's Java VM implementation.
+- `Swiffas <https://github.com/ahixon/swiffas>`_ - SWF parser and AVM2 (Actionscript 3) bytecode parser.
 - `Swift-frida <https://github.com/maltek/swift-frida>`_ - Frida library for interacting with Swift programs.
 - `Toolbag <https://github.com/aaronportnoy/toolbag>`_ - The IDA Toolbag is a plugin providing supplemental functionality to Hex-Rays IDA Pro disassembler.
 - `Ufgraph <https://github.com/bfosterjr/ufgraph>`_ - A simple script which parses the output of the uf (un-assemble function) command in windbg and uses graphviz to generate a control flow graph as a PNG/SVG/PDF/GIF (see -of option) and displays it.

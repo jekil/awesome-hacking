@@ -1456,3 +1456,6 @@
 [submodule "Security/Privacy/webXray"]
 	path = Security/Privacy/webXray
 	url = https://github.com/timlib/webXray.git
+[submodule "Reverse Engineering/swiffas"]
+	path = Reverse Engineering/swiffas
+	url = https://github.com/ahixon/swiffas.git
