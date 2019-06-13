@@ -193,6 +193,7 @@ Intelligence
 ============
 
 - `Attackintel <https://github.com/gr4ym4ntx/attackintel>`_ - A python script to query the MITRE ATT&CK API for tactics, techniques, mitigations, & detection methods for specific threat groups.
+- `Shodan-seeker <https://github.com/laincode/shodan-seeker>`_ - Command-line tool using Shodan API. Generates and downloads CSV results, diffing of historic scanning results, alerts and monitoring of specific ports/IPs, etc.
 - `VIA4CVE <https://github.com/cve-search/VIA4CVE>`_ - An aggregator of the known vendor vulnerabilities database to support the expansion of information with CVEs.
 
 Library

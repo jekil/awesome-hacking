@@ -1459,3 +1459,6 @@
 [submodule "Reverse Engineering/swiffas"]
 	path = Reverse Engineering/swiffas
 	url = https://github.com/ahixon/swiffas.git
+[submodule "Intelligence/shodan-seeker"]
+	path = Intelligence/shodan-seeker
+	url = https://github.com/laincode/shodan-seeker.git
