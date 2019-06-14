@@ -1462,3 +1462,6 @@
 [submodule "Intelligence/shodan-seeker"]
 	path = Intelligence/shodan-seeker
 	url = https://github.com/laincode/shodan-seeker.git
+[submodule "Penetration Testing/Exploits/qemu-vm-escape"]
+	path = Penetration Testing/Exploits/qemu-vm-escape
+	url = https://github.com/Kira-cxy/qemu-vm-escape.git

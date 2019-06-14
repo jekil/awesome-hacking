@@ -470,6 +470,7 @@ Exploits
 - `ES File Explorer Open Port Vulnerability <https://github.com/fs0c131y/ESFileExplorerOpenPortVuln>`_ - ES File Explorer Open Port Vulnerability - CVE-2019-6447.
 - `HolicPOC <https://github.com/leeqwind/HolicPOC>`_ - CVE-2015-2546, CVE-2016-0165, CVE-2016-0167, CVE-2017-0101, CVE-2017-0263, CVE-2018-8120.
 - `Jira-Scan <https://github.com/random-robbie/Jira-Scan>`_ - Jira scanner for CVE-2017-9506.
+- `Qemu-vm-escape <https://github.com/Kira-cxy/qemu-vm-escape>`_ - This is an exploit for CVE-2019-6778, a heap buffer overflow in slirp:tcp_emu().
 - `MS17-010 <https://github.com/worawit/MS17-010>`_ - Exploits for MS17-010.
 - `Ruby-advisory-db <https://github.com/rubysec/ruby-advisory-db>`_ - A database of vulnerable Ruby Gems.
 - `The Exploit Database <https://github.com/offensive-security/exploit-database>`_ - The official Exploit Database repository.
