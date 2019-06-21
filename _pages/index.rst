@@ -405,6 +405,7 @@ Sniffer
 - `NetworkMiner <http://www.netresec.com/?page=NetworkMiner>`_ - A Network Forensic Analysis Tool (NFAT).
 - `Netsniff-ng <http://netsniff-ng.org>`_ - A Swiss army knife for your daily Linux network plumbing.
 - `OpenFPC <http://www.openfpc.org>`_ - OpenFPC is a set of scripts that combine to provide a lightweight full-packet network traffic recorder and buffering tool. Its design goal is to allow non-expert users to deploy a distributed network traffic recorder on COTS hardware while integrating into existing alert and log tools.
+- `Openli <https://github.com/wanduow/openli>`_ - Open Source ETSI compliant Lawful Intercept software.
 - `PF_RING <http://www.ntop.org/products/packet-capture/pf_ring/>`_ - PF_RING™ is a Linux kernel module and user-space framework that allows you to process packets at high-rates while providing you a consistent API for packet processing applications.
 - `Termshark <https://github.com/gcla/termshark>`_ - A terminal UI for tshark, inspired by Wireshark.
 - `WebPcap <https://github.com/sparrowprince/WebPcap>`_ - A web-based packet analyzer (client/server architecture). Useful for analyzing distributed applications or embedded devices.

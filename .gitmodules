@@ -1465,3 +1465,6 @@
 [submodule "Penetration Testing/Exploits/qemu-vm-escape"]
 	path = Penetration Testing/Exploits/qemu-vm-escape
 	url = https://github.com/Kira-cxy/qemu-vm-escape.git
+[submodule "Network/Sniffer/openli"]
+	path = Network/Sniffer/openli
+	url = https://github.com/wanduow/openli.git
