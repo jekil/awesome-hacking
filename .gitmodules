@@ -1471,3 +1471,6 @@
 [submodule "Penetration Testing/Mobile/Keychain-Dumper"]
 	path = Penetration Testing/Mobile/Keychain-Dumper
 	url = https://github.com/ptoomey3/Keychain-Dumper.git
+[submodule "Penetration Testing/Training/Android-InsecureBankv2"]
+	path = Penetration Testing/Training/Android-InsecureBankv2
+	url = https://github.com/dineshshetty/Android-InsecureBankv2.git

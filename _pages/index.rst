@@ -642,6 +642,7 @@ Services
 Training
 --------
 
+- `Android-InsecureBankv2 <https://github.com/dineshshetty/Android-InsecureBankv2>`_ - Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities.
 - `Don't Panic <https://github.com/antire-book/dont_panic>`_ - Training linux bind shell with anti-reverse engineering techniques.
 - `DVWA <http://dvwa.co.uk>`_ - Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.
 - `DVWS <https://github.com/interference-security/DVWS>`_ - Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which works on web sockets for client-server communication.
