@@ -540,6 +540,7 @@ Mobile
 - `Drozer <http://mwr.to/drozer>`_ - The Leading Security Assessment Framework for Android.
 - `Idb <http://www.idbtool.com>`_ - A tool to simplify some common tasks for iOS pentesting and research.
 - `Introspy-iOS <http://isecpartners.github.io/Introspy-iOS/>`_ - Security profiling for blackbox iOS.
+- `Keychain-Dumper <https://github.com/ptoomey3/Keychain-Dumper/>`_ - A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken.
 - `JAADAS <https://github.com/flankerhqd/JAADAS>`_ - Joint Advanced Defect assEsment for android applications.
 - `Mobile Security Framework <http://opensecurity.in>`_ - An intelligent, all-in-one open source mobile application (Android/iOS/Windows) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
 - `QARK <https://github.com/linkedin/qark/>`_ - QARK by LinkedIn is for app developers to scan app for security issues.
