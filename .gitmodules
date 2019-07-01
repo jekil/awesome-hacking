@@ -1474,3 +1474,6 @@
 [submodule "Penetration Testing/Training/Android-InsecureBankv2"]
 	path = Penetration Testing/Training/Android-InsecureBankv2
 	url = https://github.com/dineshshetty/Android-InsecureBankv2.git
+[submodule "Penetration Testing/Web/xss-keylogger"]
+	path = Penetration Testing/Web/xss-keylogger
+	url = https://github.com/hadynz/xss-keylogger.git
