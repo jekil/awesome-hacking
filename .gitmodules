@@ -1477,3 +1477,6 @@
 [submodule "Penetration Testing/Web/xss-keylogger"]
 	path = Penetration Testing/Web/xss-keylogger
 	url = https://github.com/hadynz/xss-keylogger.git
+[submodule "Intelligence/yeti"]
+	path = Intelligence/yeti
+	url = https://github.com/yeti-platform/yeti.git
