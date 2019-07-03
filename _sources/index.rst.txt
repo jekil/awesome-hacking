@@ -830,6 +830,7 @@ Reverse Engineering
 - `Swiffas <https://github.com/ahixon/swiffas>`_ - SWF parser and AVM2 (Actionscript 3) bytecode parser.
 - `Swift-frida <https://github.com/maltek/swift-frida>`_ - Frida library for interacting with Swift programs.
 - `Toolbag <https://github.com/aaronportnoy/toolbag>`_ - The IDA Toolbag is a plugin providing supplemental functionality to Hex-Rays IDA Pro disassembler.
+- `uEmu <https://github.com/alexhude/uEmu>`_ - Tiny cute emulator plugin for IDA based on unicorn.
 - `Ufgraph <https://github.com/bfosterjr/ufgraph>`_ - A simple script which parses the output of the uf (un-assemble function) command in windbg and uses graphviz to generate a control flow graph as a PNG/SVG/PDF/GIF (see -of option) and displays it.
 - `Uncompyle <https://github.com/gstarnberger/uncompyle>`_ - Decompile Python 2.7 binaries (.pyc).
 - `Unicorn Engine <http://www.unicorn-engine.org>`_ - A lightweight, multi-platform, multi-architecture CPU emulator framework based on QEMU.
