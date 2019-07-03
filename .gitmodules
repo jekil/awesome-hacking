@@ -1480,3 +1480,6 @@
 [submodule "Intelligence/yeti"]
 	path = Intelligence/yeti
 	url = https://github.com/yeti-platform/yeti.git
+[submodule "Reverse Engineering/uEmu"]
+	path = Reverse Engineering/uEmu
+	url = https://github.com/alexhude/uEmu.git
