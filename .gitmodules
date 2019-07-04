@@ -1483,3 +1483,6 @@
 [submodule "Reverse Engineering/uEmu"]
 	path = Reverse Engineering/uEmu
 	url = https://github.com/alexhude/uEmu.git
+[submodule "Malware/Honeypot/honeytrap"]
+	path = Malware/Honeypot/honeytrap
+	url = https://github.com/honeytrap/honeytrap.git
