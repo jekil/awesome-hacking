@@ -1486,3 +1486,6 @@
 [submodule "Malware/Honeypot/honeytrap"]
 	path = Malware/Honeypot/honeytrap
 	url = https://github.com/honeytrap/honeytrap.git
+[submodule "Social Engineering/Phishing/miteru"]
+	path = Social Engineering/Phishing/miteru
+	url = https://github.com/ninoseki/miteru.git

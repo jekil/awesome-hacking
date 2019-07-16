@@ -745,6 +745,7 @@ Endpoint Security
 Phishing
 --------
 
+- `Miteru <https://github.com/ninoseki/miteru>`_ - An experimental phishing kit detection tool.
 - `StreamingPhish <https://github.com/wesleyraptor/streamingphish>`_ - Python-based utility that uses supervised machine learning to detect phishing domains from the Certificate Transparency log network.
 
 Privacy
