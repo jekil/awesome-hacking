@@ -1489,3 +1489,6 @@
 [submodule "Social Engineering/Phishing/miteru"]
 	path = Social Engineering/Phishing/miteru
 	url = https://github.com/ninoseki/miteru.git
+[submodule "Security/Cloud Security/hammer"]
+	path = Security/Cloud Security/hammer
+	url = https://github.com/dowjones/hammer.git
