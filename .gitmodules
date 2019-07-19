@@ -1492,3 +1492,6 @@
 [submodule "Security/Cloud Security/hammer"]
 	path = Security/Cloud Security/hammer
 	url = https://github.com/dowjones/hammer.git
+[submodule "Reverse Engineering/protobuf-inspector"]
+	path = Reverse Engineering/protobuf-inspector
+	url = https://github.com/jmendeth/protobuf-inspector.git
