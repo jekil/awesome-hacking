@@ -1495,3 +1495,6 @@
 [submodule "Reverse Engineering/protobuf-inspector"]
 	path = Reverse Engineering/protobuf-inspector
 	url = https://github.com/jmendeth/protobuf-inspector.git
+[submodule "Reverse Engineering/minhook"]
+	path = Reverse Engineering/minhook
+	url = https://github.com/TsudaKageyu/minhook.git
