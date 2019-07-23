@@ -1498,3 +1498,6 @@
 [submodule "Reverse Engineering/minhook"]
 	path = Reverse Engineering/minhook
 	url = https://github.com/TsudaKageyu/minhook.git
+[submodule "Hardware Hacking/Computer/kbd-audio"]
+	path = Hardware Hacking/Computer/kbd-audio
+	url = https://github.com/ggerganov/kbd-audio.git
