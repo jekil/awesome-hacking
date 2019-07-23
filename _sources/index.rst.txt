@@ -187,6 +187,7 @@ Hardware Hacking
 Computer
 --------
 
+- `Kbd-audio <https://github.com/ggerganov/kbd-audio>`_ - Tools for capturing and analysing keyboard input paired with microphone capture.
 - `NSA-B-GONE <https://github.com/zakqwy/NSA-B-GONE>`_ - Thinkpad X220 board that disconnects the webcam and microphone data lines.
 
 Intelligence
