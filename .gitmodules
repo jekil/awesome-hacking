@@ -1501,3 +1501,6 @@
 [submodule "Hardware Hacking/Computer/kbd-audio"]
 	path = Hardware Hacking/Computer/kbd-audio
 	url = https://github.com/ggerganov/kbd-audio.git
+[submodule "Penetration Testing/Exploits/kernel-exploits"]
+	path = Penetration Testing/Exploits/kernel-exploits
+	url = https://github.com/bcoles/kernel-exploits.git
