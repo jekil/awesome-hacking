@@ -1504,3 +1504,6 @@
 [submodule "Penetration Testing/Exploits/kernel-exploits"]
 	path = Penetration Testing/Exploits/kernel-exploits
 	url = https://github.com/bcoles/kernel-exploits.git
+[submodule "Hardware Hacking/Computer/LimeSDR-Mini"]
+	path = Hardware Hacking/Computer/LimeSDR-Mini
+	url = https://github.com/myriadrf/LimeSDR-Mini.git
