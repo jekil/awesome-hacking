@@ -1486,3 +1486,6 @@
 [submodule "Malware/Honeypot/honeytrap"]
 	path = Malware/Honeypot/honeytrap
 	url = https://github.com/honeytrap/honeytrap.git
+[submodule "Security/Privacy/git-crypt"]
+	path = Security/Privacy/git-crypt
+	url = https://github.com/AGWA/git-crypt.git
