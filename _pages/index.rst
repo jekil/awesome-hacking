@@ -187,6 +187,8 @@ Hardware Hacking
 Computer
 --------
 
+- `Kbd-audio <https://github.com/ggerganov/kbd-audio>`_ - Tools for capturing and analysing keyboard input paired with microphone capture.
+- `LimeSDR-Mini <https://github.com/myriadrf/LimeSDR-Mini>`_ - The LimeSDR-Mini board provides a hardware platform for developing and prototyping high-performance and logic-intensive digital and RF designs using Altera’s MAX10 FPGA and Lime Microsystems transceiver.
 - `NSA-B-GONE <https://github.com/zakqwy/NSA-B-GONE>`_ - Thinkpad X220 board that disconnects the webcam and microphone data lines.
 
 Intelligence
@@ -473,6 +475,7 @@ Exploits
 - `ES File Explorer Open Port Vulnerability <https://github.com/fs0c131y/ESFileExplorerOpenPortVuln>`_ - ES File Explorer Open Port Vulnerability - CVE-2019-6447.
 - `HolicPOC <https://github.com/leeqwind/HolicPOC>`_ - CVE-2015-2546, CVE-2016-0165, CVE-2016-0167, CVE-2017-0101, CVE-2017-0263, CVE-2018-8120.
 - `Jira-Scan <https://github.com/random-robbie/Jira-Scan>`_ - Jira scanner for CVE-2017-9506.
+- `Kernel Exploits <https://github.com/bcoles/kernel-exploits>`_ - Various kernel exploits.
 - `Qemu-vm-escape <https://github.com/Kira-cxy/qemu-vm-escape>`_ - This is an exploit for CVE-2019-6778, a heap buffer overflow in slirp:tcp_emu().
 - `MS17-010 <https://github.com/worawit/MS17-010>`_ - Exploits for MS17-010.
 - `Ruby-advisory-db <https://github.com/rubysec/ruby-advisory-db>`_ - A database of vulnerable Ruby Gems.
@@ -730,6 +733,7 @@ Cloud Security
 - `Aws-nuke <https://github.com/rebuy-de/aws-nuke>`_ - Nuke a whole AWS account and delete all its resources.
 - `Azucar <https://github.com/nccgroup/azucar/>`_ - Security auditing tool for Azure environments.
 - `CloudMapper <https://github.com/duo-labs/cloudmapper>`_ - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
+- `Hammer <https://github.com/dowjones/hammer>`_ - Dow Jones Hammer : Protect the cloud with the power of the cloud(AWS).
 - `Security Monkey <https://github.com/Netflix/security_monkey>`_ - Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 
 Endpoint Security
@@ -745,6 +749,7 @@ Endpoint Security
 Phishing
 --------
 
+- `Miteru <https://github.com/ninoseki/miteru>`_ - An experimental phishing kit detection tool.
 - `StreamingPhish <https://github.com/wesleyraptor/streamingphish>`_ - Python-based utility that uses supervised machine learning to detect phishing domains from the Certificate Transparency log network.
 
 Privacy
@@ -811,6 +816,7 @@ Reverse Engineering
 - `MARA Framework <https://github.com/xtiankisutsa/MARA_Framework>`_ - A Mobile Application Reverse engineering and Analysis Framework.
 - `Medusa <https://github.com/wisk/medusa>`_ - A disassembler designed to be both modular and interactive.
 - `MegaDumper <https://github.com/CodeCracker-Tools/MegaDumper>`_ - Dump native and .NET assemblies.
+- `Minhook <https://github.com/TsudaKageyu/minhook>`_ - The Minimalistic x86/x64 API Hooking Library for Windows.
 - `Mona.py <https://www.corelan.be/index.php/2011/07/14/mona-py-the-manual/>`_ - PyCommand for Immunity Debugger that replaces and improves on pvefindaddr.
 - `OllyDbg <http://www.ollydbg.de>`_ - An x86 debugger that emphasizes binary code analysis.
 - `Paimei <https://github.com/OpenRCE/paimei>`_ - Reverse engineering framework, includes PyDBG, PIDA, pGRAPH.
@@ -818,6 +824,7 @@ Reverse Engineering
 - `Pigaios <https://github.com/joxeankoret/pigaios>`_ - A tool for matching and diffing source codes directly against binaries.
 - `Plasma <https://github.com/joelpx/plasma>`_ - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
 - `Procyon <https://bitbucket.org/mstrobel/procyon>`_ - A modern open-source Java decompiler.
+- `Protobuf-inspector <https://github.com/jmendeth/protobuf-inspector>`_ - Tool to reverse-engineer Protocol Buffers with unknown definition.
 - `Pyew <https://github.com/joxeankoret/pyew>`_ - Command line hexadecimal editor and disassembler, mainly to analyze malware.
 - `Qira <http://qira.me>`_ - QEMU Interactive Runtime Analyser.
 - `R2MSDN <https://github.com/newlog/r2msdn>`_ - R2 plugin to add MSDN documentation URLs and parameter names to imported function calls.

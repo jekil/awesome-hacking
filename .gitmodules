@@ -1489,3 +1489,24 @@
 [submodule "Security/Privacy/git-crypt"]
 	path = Security/Privacy/git-crypt
 	url = https://github.com/AGWA/git-crypt.git
+[submodule "Social Engineering/Phishing/miteru"]
+	path = Social Engineering/Phishing/miteru
+	url = https://github.com/ninoseki/miteru.git
+[submodule "Security/Cloud Security/hammer"]
+	path = Security/Cloud Security/hammer
+	url = https://github.com/dowjones/hammer.git
+[submodule "Reverse Engineering/protobuf-inspector"]
+	path = Reverse Engineering/protobuf-inspector
+	url = https://github.com/jmendeth/protobuf-inspector.git
+[submodule "Reverse Engineering/minhook"]
+	path = Reverse Engineering/minhook
+	url = https://github.com/TsudaKageyu/minhook.git
+[submodule "Hardware Hacking/Computer/kbd-audio"]
+	path = Hardware Hacking/Computer/kbd-audio
+	url = https://github.com/ggerganov/kbd-audio.git
+[submodule "Penetration Testing/Exploits/kernel-exploits"]
+	path = Penetration Testing/Exploits/kernel-exploits
+	url = https://github.com/bcoles/kernel-exploits.git
+[submodule "Hardware Hacking/Computer/LimeSDR-Mini"]
+	path = Hardware Hacking/Computer/LimeSDR-Mini
+	url = https://github.com/myriadrf/LimeSDR-Mini.git
