@@ -1360,6 +1360,9 @@
 [submodule "Pentration Testing/Post Exploitation/Orc"]
 	path = Penetration Testing/Post Exploitation/Orc
 	url = https://github.com/zMarch/Orc.git
+[submodule "Pentration Testing/web/Spyse.py"]
+	path = Pentration Testing/web/Spyse.py
+	url = https://github.com/zeropwn/spyse.py.git 
 [submodule "Pentration Testing/Exploits/ESFileExplorerOpenPortVuln"]
 	path = Penetration Testing/Exploits/ESFileExplorerOpenPortVuln
 	url = https://github.com/fs0c131y/ESFileExplorerOpenPortVuln.git
