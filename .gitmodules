@@ -1510,3 +1510,6 @@
 [submodule "Hardware Hacking/Computer/LimeSDR-Mini"]
 	path = Hardware Hacking/Computer/LimeSDR-Mini
 	url = https://github.com/myriadrf/LimeSDR-Mini.git
+[submodule "Penetration Testing/Exploiting/unicorn"]
+	path = Penetration Testing/Exploiting/unicorn
+	url = https://github.com/trustedsec/unicorn.git
