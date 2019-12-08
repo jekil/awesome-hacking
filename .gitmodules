@@ -1513,3 +1513,6 @@
 [submodule "Penetration Testing/Exploiting/unicorn"]
 	path = Penetration Testing/Exploiting/unicorn
 	url = https://github.com/trustedsec/unicorn.git
+[submodule "Penetration Testing/Post Exploitation/WEASEL"]
+	path = Penetration Testing/Post Exploitation/WEASEL
+	url = https://github.com/facebookincubator/WEASEL.git
