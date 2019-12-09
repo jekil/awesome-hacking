@@ -716,6 +716,7 @@ Wireless
 --------
 
 - `Aircrack-ng <http://www.aircrack-ng.org>`_ - An 802.11 WEP and WPA-PSK keys cracking program.
+- `Airgeddon <https://github.com/v1s1t0r1sh3r3/airgeddon/>`_ - This is a multi-use bash script for Linux systems to audit wireless networks.
 - `Kismet <https://kismetwireless.net/>`_ - Wireless network detector, sniffer, and IDS.
 - `Krackattacks-scripts <https://github.com/vanhoefm/krackattacks-scripts>`_ - Scripts to test if clients or access points (APs) are affected by the KRACK attack against WPA2.
 - `LANs.py <https://github.com/DanMcInerney/LANs.py>`_ - Inject code, jam wifi, and spy on wifi users.
