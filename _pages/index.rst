@@ -867,6 +867,7 @@ Harvester
 ---------
 
 - `Creepy <http://www.geocreepy.com>`_ - A geolocation OSINT tool.
+- `Datasploit <https://github.com/dvopsway/datasploit>`_ - A tool to perform various OSINT techniques, aggregate all the raw data, visualise it on a dashboard, and facilitate alerting and monitoring on the data.
 - `Email-enum <https://github.com/Frint0/email-enum>`_ - Searches mainstream websites and tells you if an email is registered.
 - `Github-dorks <https://github.com/techgaun/github-dorks>`_ - CLI tool to scan github repos/organizations for potential sensitive information leak.
 - `Maltego <https://www.paterva.com>`_ - Proprietary software for open source intelligence and forensics, from Paterva.
