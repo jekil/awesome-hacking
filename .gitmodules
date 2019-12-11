@@ -1522,3 +1522,6 @@
 [submodule "Social Engineering/Harvester/datasploit"]
 	path = Social Engineering/Harvester/datasploit
 	url = https://github.com/dvopsway/datasploit.git
+[submodule "Penetration Testing/Exploiting/SysWhispers"]
+	path = Penetration Testing/Exploiting/SysWhispers
+	url = https://github.com/jthuraisamy/SysWhispers.git
