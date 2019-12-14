@@ -1525,3 +1525,6 @@
 [submodule "Penetration Testing/Exploiting/SysWhispers"]
 	path = Penetration Testing/Exploiting/SysWhispers
 	url = https://github.com/jthuraisamy/SysWhispers.git
+[submodule "Forensics/Network Forensics/website-evidence-collector"]
+	path = Forensics/Network Forensics/website-evidence-collector
+	url = https://github.com/EU-EDPS/website-evidence-collector.git
