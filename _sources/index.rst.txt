@@ -529,6 +529,7 @@ Fuzzing
 - `Radamsa-android <https://github.com/anestisb/radamsa-android>`_ - An Android port of radamsa fuzzer.
 - `Razzer <https://github.com/compsec-snu/razzer>`_ - A Kernel fuzzer focusing on race bugs.
 - `RPCForge <https://github.com/sogeti-esec-lab/RPCForge>`_ - Windows RPC Python fuzzer.
+- `Retrowrite <https://github.com/HexHive/retrowrite>`_ - Retrofitting compiler passes though binary rewriting.
 - `SecLists <https://github.com/danielmiessler/SecLists>`_ - A collection of multiple types of lists used during security assessments.
 - `Sienna-locomotive <https://github.com/trailofbits/sienna-locomotive>`_ - A user-friendly fuzzing and crash triage tool for Windows.
 - `Sulley <https://github.com/OpenRCE/sulley>`_ - Fuzzer development and fuzz testing framework consisting of multiple extensible components.
