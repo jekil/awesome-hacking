@@ -889,3 +889,8 @@ Phishing
 - `Phishing-frenzy <https://github.com/pentestgeek/phishing-frenzy>`_ - Ruby on Rails Phishing Framework.
 - `Pompa <https://github.com/m1nl/pompa>`_ - Fully-featured spear-phishing toolkit - web front-end.
 - `Whatsapp-phishing <https://github.com/Mawalu/whatsapp-phishing>`_ -  Proof of principle code for running a phishing attack against the official Whatsapp Web client.
+
+Wardialing
+----------
+
+- `Voipwardialer <https://github.com/x25today/voipwardialer>`_ - A Voip Wardialer for the phreaking of 2020.

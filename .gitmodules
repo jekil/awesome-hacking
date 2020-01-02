@@ -1531,3 +1531,6 @@
 [submodule "Penetration Testing/Fuzzing/retrowrite"]
 	path = Penetration Testing/Fuzzing/retrowrite
 	url = https://github.com/HexHive/retrowrite.git
+[submodule "Social Engineering/Wardialing/voipwardialer"]
+	path = Social Engineering/Wardialing/voipwardialer
+	url = https://github.com/x25today/voipwardialer.git
