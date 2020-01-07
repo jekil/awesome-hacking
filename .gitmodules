@@ -1534,3 +1534,9 @@
 [submodule "Social Engineering/Wardialing/voipwardialer"]
 	path = Social Engineering/Wardialing/voipwardialer
 	url = https://github.com/x25today/voipwardialer.git
+[submodule "Malware/Dynamic Analysis/qiling"]
+	path = Malware/Dynamic Analysis/qiling
+	url = https://github.com/qilingframework/qiling.git
+[submodule "Penetration Testing/Training/DVCP-TE"]
+	path = Penetration Testing/Training/DVCP-TE
+	url = https://github.com/satejnik/DVCP-TE.git
