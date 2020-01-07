@@ -1540,3 +1540,6 @@
 [submodule "Penetration Testing/Training/DVCP-TE"]
 	path = Penetration Testing/Training/DVCP-TE
 	url = https://github.com/satejnik/DVCP-TE.git
+[submodule "Penetration Testing/Training/sadcloud"]
+	path = Penetration Testing/Training/sadcloud
+	url = https://github.com/nccgroup/sadcloud.git
