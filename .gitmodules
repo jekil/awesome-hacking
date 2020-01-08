@@ -1543,3 +1543,6 @@
 [submodule "Penetration Testing/Training/sadcloud"]
 	path = Penetration Testing/Training/sadcloud
 	url = https://github.com/nccgroup/sadcloud.git
+[submodule "Security/Cloud Security/parliament"]
+	path = Security/Cloud Security/parliament
+	url = https://github.com/duo-labs/parliament.git
