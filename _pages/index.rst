@@ -325,6 +325,7 @@ Ops
 - `Grimd <https://github.com/looterz/grimd>`_ - Fast dns proxy that can run anywhere, built to black-hole internet advertisements and malware servers.
 - `Google-play-crawler <https://github.com/Akdeniz/google-play-crawler>`_ - Google-play-crawler is simply Java tool for searching android applications on GooglePlay, and also downloading them.
 - `Googleplay-api <https://github.com/egirault/googleplay-api>`_ - An unofficial Python API that let you search, browse and download Android apps from Google Play (formerly Android Market).
+- `Hidden <https://github.com/JKornev/hidden>`_ - Windows driver with usermode interface which can hide objects of file-system and registry, protect processes and etc.
 - `Kraken <https://github.com/botherder/kraken>`_ - Cross-platform Yara scanner written in Go.
 - `ImaginaryC2 <https://github.com/felixweyne/imaginaryC2>`_ - A python tool which aims to help in the behavioral (network) analysis of malware. Imaginary C2 hosts a HTTP server which captures HTTP requests towards selectively chosen domains/IPs. Additionally, the tool aims to make it easy to replay captured Command-and-Control responses/served payloads.
 - `Irma <https://github.com/quarkslab/irma>`_ - IRMA is an asynchronous & customizable analysis system for suspicious files. 

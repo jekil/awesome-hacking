@@ -1546,3 +1546,6 @@
 [submodule "Security/Cloud Security/parliament"]
 	path = Security/Cloud Security/parliament
 	url = https://github.com/duo-labs/parliament.git
+[submodule "Malware/Ops/hidden"]
+	path = Malware/Ops/hidden
+	url = https://github.com/JKornev/hidden.git
