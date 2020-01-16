@@ -466,6 +466,7 @@ Exploiting
 - `Veil Framework <https://www.veil-framework.com>`_ - A tool designed to generate metasploit payloads that bypass common anti-virus solutions.
 - `Vuls <https://github.com/future-architect/vuls>`_ - Vulnerability scanner for Linux/FreeBSD, agentless, written in Go.
 - `Windows Exploit Suggester <https://github.com/GDSSecurity/Windows-Exploit-Suggester>`_ - Detects potential missing patches on the target.
+- `Ysoserial.net <https://github.com/pwntester/ysoserial.net>`_ - Deserialization payload generator for a variety of .NET formatters.
 - `Zarp <https://github.com/hatRiot/zarp>`_ - Network Attack Tool.
 
 Exploits
