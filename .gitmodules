@@ -1552,3 +1552,6 @@
 [submodule "Intelligence/IntelOwl"]
 	path = Intelligence/IntelOwl
 	url = https://github.com/certego/IntelOwl.git
+[submodule "Penetration Testing/Exploiting/ysoserial.net"]
+	path = Penetration Testing/Exploiting/ysoserial.net
+	url = https://github.com/pwntester/ysoserial.net.git
