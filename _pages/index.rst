@@ -591,6 +591,7 @@ Port Scanning
 
 - `Angry IP Scanner <http://angryip.org>`_ - Fast and friendly network scanner.
 - `Evilscan <https://github.com/eviltik/evilscan>`_ - NodeJS Simple Network Scanner.
+- `Flan <https://github.com/cloudflare/flan>`_ - A pretty sweet vulnerability scanner.
 - `Masscan <https://github.com/robertdavidgraham/masscan>`_ - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - `Nmap <https://nmap.org>`_ - Free Security Scanner For Network Exploration & Security Audits.
 - `Watchdog <https://github.com/flipkart-incubator/watchdog>`_ - A Comprehensive Security Scanning and a Vulnerability Management Tool.

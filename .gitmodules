@@ -1555,3 +1555,6 @@
 [submodule "Penetration Testing/Exploiting/ysoserial.net"]
 	path = Penetration Testing/Exploiting/ysoserial.net
 	url = https://github.com/pwntester/ysoserial.net.git
+[submodule "Penetration Testing/Port Scanning/flan"]
+	path = Penetration Testing/Port Scanning/flan
+	url = https://github.com/cloudflare/flan.git
