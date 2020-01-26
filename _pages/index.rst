@@ -166,6 +166,7 @@ Mobile
 - `Android Forensic Toolkit <https://code.google.com/archive/p/aft/>`_ - Allows you to extract SMS records, call history, photos, browsing history, and password from an Android phone.
 - `Mem <https://github.com/MobileForensicsResearch/mem>`_ - Tool used for dumping memory from Android devices.
 - `Snoopdroid <https://github.com/botherder/snoopdroid>`_ - Extract packages from an Android device.
+- `WhatsApp Media Decrypt <https://github.com/ddz/whatsapp-media-decrypt>`_ - Decrypt WhatsApp encrypted media files.
 
 Network Forensics
 -----------------
@@ -474,6 +475,7 @@ Exploits
 
 - `Apache-uaf <https://github.com/hannob/apache-uaf>`_ - Apache use after free bug infos / ASAN stack traces.
 - `Bluedroid <https://github.com/JiounDai/Bluedroid>`_ - PoCs of Vulnerabilities on Bluedroid.
+- `BlueGate <https://github.com/ollypwn/BlueGate>`_ - PoC (DoS + scanner) for CVE-2020-0609 & CVE-2020-0610 - RD Gateway RCE.
 - `Broadpwn <https://github.com/mailinneberg/Broadpwn>`_ - Broadpwn bug (CVE-2017-9417).
 - `Chakra-2016-11 <https://github.com/theori-io/chakra-2016-11>`_ - Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 & CVE-2016-7201).
 - `CVE-2018-8120 <https://github.com/bigric3/cve-2018-8120>`_ - CVE-2018-8120.

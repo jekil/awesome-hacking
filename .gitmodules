@@ -1558,3 +1558,9 @@
 [submodule "Penetration Testing/Port Scanning/flan"]
 	path = Penetration Testing/Port Scanning/flan
 	url = https://github.com/cloudflare/flan.git
+[submodule "Forensics/Mobile/whatsapp-media-decrypt"]
+	path = Forensics/Mobile/whatsapp-media-decrypt
+	url = https://github.com/ddz/whatsapp-media-decrypt.git
+[submodule "Penetration Testing/Exploits/BlueGate"]
+	path = Penetration Testing/Exploits/BlueGate
+	url = https://github.com/ollypwn/BlueGate.git
