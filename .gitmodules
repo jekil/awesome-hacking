@@ -1564,3 +1564,6 @@
 [submodule "Penetration Testing/Exploits/BlueGate"]
 	path = Penetration Testing/Exploits/BlueGate
 	url = https://github.com/ollypwn/BlueGate.git
+[submodule "Penetration Testing/Exploits/desharialize"]
+	path = Penetration Testing/Exploits/desharialize
+	url = https://github.com/Voulnet/desharialize.git
