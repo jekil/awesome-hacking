@@ -174,7 +174,7 @@ Network Forensics
 - `Dshell <https://github.com/USArmyResearchLab/Dshell>`_ - A network forensic analysis framework.
 - `Dnslog <https://github.com/stamparm/dnslog>`_ - Minimalistic DNS logging tool.
 - `Passivedns <https://github.com/gamelinux/passivedns>`_ - A network sniffer that logs all DNS server replies for use in a passive DNS setup.
-- `Website Evidence Collecto <https://github.com/EU-EDPS/website-evidence-collector>`_ - The tool Website Evidence Collector (WEC) automates the website evidence collection of storage and transfer of personal data.
+- `Website Evidence Collector <https://github.com/EU-EDPS/website-evidence-collector>`_ - The tool Website Evidence Collector (WEC) automates the website evidence collection of storage and transfer of personal data.
 
 Misc
 ----
