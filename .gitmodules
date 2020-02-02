@@ -1567,3 +1567,6 @@
 [submodule "Penetration Testing/Exploits/desharialize"]
 	path = Penetration Testing/Exploits/desharialize
 	url = https://github.com/Voulnet/desharialize.git
+[submodule "Reverse Engineering/binaryanalysis-ng"]
+	path = Reverse Engineering/binaryanalysis-ng
+	url = https://github.com/armijnhemel/binaryanalysis-ng.git

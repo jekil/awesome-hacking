@@ -790,6 +790,7 @@ Reverse Engineering
 - `ApkTool <https://ibotpeaches.github.io/Apktool/>`_ - A tool for reverse engineering Android apk files.
 - `B2R2 <https://github.com/B2R2-org/B2R2>`_ - A collection of useful algorithms, functions, and tools for binary analysis.
 - `Barf <https://github.com/programa-stic/barf-project>`_ - Binary Analysis and Reverse engineering Framework.
+- `Binaryanalysis-ng <https://github.com/armijnhemel/binaryanalysis-ng>`_ - Binary Analysis Next Generation is a framework for unpacking files (like firmware) recursively and running checks on the unpacked files. Its intended use is to be able to find out the provenance of the unpacked files and classify/label files, making them available for further analysis.
 - `BinText <http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx>`_ - A small, very fast and powerful text extractor.
 - `BinWalk <https://github.com/devttys0/binwalk>`_ - Analyze, reverse engineer, and extract firmware images.
 - `Boomerang <https://github.com/BoomerangDecompiler/boomerang>`_ - Decompile x86/SPARC/PowerPC/ST-20 binaries to C.
