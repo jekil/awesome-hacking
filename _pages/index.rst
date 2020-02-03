@@ -692,6 +692,7 @@ Web
 - `Gobuster <https://github.com/OJ/gobuster>`_ - Directory/file & DNS busting tool written in Go.
 - `Jok3r <https://github.com/koutto/jok3r>`_ - Network and Web Pentest Framework.
 - `Joomscan <https://www.owasp.org/index.php/Category:OWASP_Joomla_Vulnerability_Scanner_Project>`_ - Joomla CMS scanner.
+- `Jwt_tool <https://github.com/ticarpi/jwt_tool>`_ - A toolkit for testing, tweaking and cracking JSON Web Tokens.
 - `Kadabra <https://github.com/D35m0nd142/Kadabra>`_ - Automatic LFI Exploiter and Scanner, written in C++ and a couple extern module in Python.
 - `Kadimus <https://github.com/P0cL4bs/Kadimus>`_ - LFI scan and exploit tool.
 - `Liffy <https://github.com/hvqzao/liffy>`_ - LFI exploitation tool.

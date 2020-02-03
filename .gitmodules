@@ -1570,3 +1570,6 @@
 [submodule "Reverse Engineering/binaryanalysis-ng"]
 	path = Reverse Engineering/binaryanalysis-ng
 	url = https://github.com/armijnhemel/binaryanalysis-ng.git
+[submodule "Penetration Testing/Web/jwt_tool"]
+	path = Penetration Testing/Web/jwt_tool
+	url = https://github.com/ticarpi/jwt_tool.git
