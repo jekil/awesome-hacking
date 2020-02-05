@@ -1573,3 +1573,6 @@
 [submodule "Penetration Testing/Web/jwt_tool"]
 	path = Penetration Testing/Web/jwt_tool
 	url = https://github.com/ticarpi/jwt_tool.git
+[submodule "Reverse Engineering/binee"]
+	path = Reverse Engineering/binee
+	url = https://github.com/carbonblack/binee.git
