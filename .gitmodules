@@ -1576,3 +1576,6 @@
 [submodule "Reverse Engineering/binee"]
 	path = Reverse Engineering/binee
 	url = https://github.com/carbonblack/binee.git
+[submodule "Security/Privacy/Tomb"]
+	path = Security/Privacy/Tomb
+	url = https://github.com/dyne/Tomb.git
