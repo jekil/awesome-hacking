@@ -1579,3 +1579,6 @@
 [submodule "Security/Privacy/Tomb"]
 	path = Security/Privacy/Tomb
 	url = https://github.com/dyne/Tomb.git
+[submodule "Malware/Honeypot/kippo-graph"]
+	path = Malware/Honeypot/kippo-graph
+	url = https://github.com/ikoniaris/kippo-graph.git
