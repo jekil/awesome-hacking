@@ -1582,3 +1582,6 @@
 [submodule "Malware/Honeypot/kippo-graph"]
 	path = Malware/Honeypot/kippo-graph
 	url = https://github.com/ikoniaris/kippo-graph.git
+[submodule "Penetration Testing/Exploiting/exe2hex"]
+	path = Penetration Testing/Exploiting/exe2hex
+	url = https://github.com/g0tmi1k/exe2hex.git
