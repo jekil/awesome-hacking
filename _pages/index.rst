@@ -534,6 +534,7 @@ Fuzzing
 - `Melkor-android <https://github.com/anestisb/melkor-android>`_ - An Android port of the melkor ELF fuzzer.
 - `MFFA <https://github.com/fuzzing/MFFA>`_ - Media Fuzzing Framework for Android.
 - `Netzob <https://github.com/netzob/netzob>`_ - Netzob is an opensource tool for reverse engineering, traffic generation and fuzzing of communication protocols.
+- `Neuzz <https://github.com/Dongdongshe/neuzz>`_ - A neural-network-assisted fuzzer.
 - `Python-AFL <http://jwilk.net/software/python-afl>`_ - American fuzzy lop fork server and instrumentation for pure-Python code.
 - `Radamsa-android <https://github.com/anestisb/radamsa-android>`_ - An Android port of radamsa fuzzer.
 - `Razzer <https://github.com/compsec-snu/razzer>`_ - A Kernel fuzzer focusing on race bugs.
