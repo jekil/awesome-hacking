@@ -1588,3 +1588,6 @@
 [submodule "Penetration Testing/Fuzzing/neuzz"]
 	path = Penetration Testing/Fuzzing/neuzz
 	url = https://github.com/Dongdongshe/neuzz.git
+[submodule "Penetration Testing/Web/wstalker"]
+	path = Penetration Testing/Web/wstalker
+	url = https://github.com/nccgroup/wstalker.git
