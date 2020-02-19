@@ -1591,3 +1591,6 @@
 [submodule "Penetration Testing/Web/wstalker"]
 	path = Penetration Testing/Web/wstalker
 	url = https://github.com/nccgroup/wstalker.git
+[submodule "Penetration Testing/Training/insecure-deserialisation-net-poc"]
+	path = Penetration Testing/Training/insecure-deserialisation-net-poc
+	url = https://github.com/omerlh/insecure-deserialisation-net-poc.git
