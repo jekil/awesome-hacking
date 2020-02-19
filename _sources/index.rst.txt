@@ -669,6 +669,7 @@ Training
 - `DVCP-TE <https://github.com/satejnik/DVCP-TE>`_ - Damn Vulnerable Chemical Process - Tennessee Eastman.
 - `DVWS <https://github.com/interference-security/DVWS>`_ - Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which works on web sockets for client-server communication.
 - `Hackazon <https://github.com/rapid7/hackazon>`_ - A modern vulnerable web app.
+- `Insecure-deserialization-net-poc <https://github.com/omerlh/insecure-deserialisation-net-poc>`_ - A small webserver vulnerable to insecure deserialization.
 - `OWASP Juice Shop <https://www.owasp.org/index.php/OWASP_Juice_Shop_Project>`_ - An intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
 - `OWASP NodeGoat <https://www.owasp.org/index.php/Projects/OWASP_Node_js_Goat_Project>`_ - An environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
 - `OWASP Railsgoat <http://railsgoat.cktricky.com/>`_ - A vulnerable version of Rails that follows the OWASP Top 10.
@@ -725,6 +726,7 @@ Web
 - `WPScan <https://wpscan.org>`_ - WPScan is a black box WordPress vulnerability scanner.
 - `WPSploit <https://github.com/espreto/wpsploit>`_ - Exploiting Wordpress With Metasploit.
 - `WS-Attacker <https://github.com/RUB-NDS/WS-Attacker>`_ - A modular framework for web services penetration testing.
+- `WStalker <https://github.com/nccgroup/wstalker>`_ - An easy proxy.
 - `XSS-keylogger <https://github.com/hadynz/xss-keylogger>`_ - A keystroke logger to exploit XSS vulnerabilities in a site.
 - `XSS-payload-list <https://github.com/ismailtasdelen/xss-payload-list>`_- XSS Payload list.
 - `Zed Attack Proxy (ZAP) <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>`_ - The OWASP ZAP core project.
