@@ -1594,3 +1594,6 @@
 [submodule "Penetration Testing/Training/insecure-deserialisation-net-poc"]
 	path = Penetration Testing/Training/insecure-deserialisation-net-poc
 	url = https://github.com/omerlh/insecure-deserialisation-net-poc.git
+[submodule "Reverse Engineering/vt-ida-plugin"]
+	path = Reverse Engineering/vt-ida-plugin
+	url = https://github.com/VirusTotal/vt-ida-plugin.git
