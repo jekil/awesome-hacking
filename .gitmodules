@@ -1597,3 +1597,6 @@
 [submodule "Reverse Engineering/vt-ida-plugin"]
 	path = Reverse Engineering/vt-ida-plugin
 	url = https://github.com/VirusTotal/vt-ida-plugin.git
+[submodule "Penetration Testing/Info Gathering/egresscheck-framework"]
+	path = Penetration Testing/Info Gathering/egresscheck-framework
+	url = https://github.com/stufus/egresscheck-framework.git
