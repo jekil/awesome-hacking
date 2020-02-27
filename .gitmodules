@@ -1600,3 +1600,6 @@
 [submodule "Penetration Testing/Info Gathering/egresscheck-framework"]
 	path = Penetration Testing/Info Gathering/egresscheck-framework
 	url = https://github.com/stufus/egresscheck-framework.git
+[submodule "Reverse Engineering/efi_dxe_emulator"]
+	path = Reverse Engineering/efi_dxe_emulator
+	url = https://github.com/gdbinit/efi_dxe_emulator.git
