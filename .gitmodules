@@ -1603,3 +1603,6 @@
 [submodule "Reverse Engineering/efi_dxe_emulator"]
 	path = Reverse Engineering/efi_dxe_emulator
 	url = https://github.com/gdbinit/efi_dxe_emulator.git
+[submodule "Reverse Engineering/QBDI"]
+	path = Reverse Engineering/QBDI
+	url = https://github.com/QBDI/QBDI.git
