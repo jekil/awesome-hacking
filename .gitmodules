@@ -1606,3 +1606,6 @@
 [submodule "Reverse Engineering/QBDI"]
 	path = Reverse Engineering/QBDI
 	url = https://github.com/QBDI/QBDI.git
+[submodule "Penetration Testing/Post Exploitation/PacketWhisper"]
+	path = Penetration Testing/Post Exploitation/PacketWhisper
+	url = https://github.com/TryCatchHCF/PacketWhisper.git
