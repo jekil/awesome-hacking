@@ -855,6 +855,7 @@ Reverse Engineering
 - `Procyon <https://bitbucket.org/mstrobel/procyon>`_ - A modern open-source Java decompiler.
 - `Protobuf-inspector <https://github.com/jmendeth/protobuf-inspector>`_ - Tool to reverse-engineer Protocol Buffers with unknown definition.
 - `Pyew <https://github.com/joxeankoret/pyew>`_ - Command line hexadecimal editor and disassembler, mainly to analyze malware.
+- `Pwndbg <https://github.com/pwndbg/pwndbg>`_ - Exploit Development and Reverse Engineering with GDB Made Easy.
 - `QBDI <https://github.com/QBDI/QBDI>`_ - A Dynamic Binary Instrumentation framework based on LLVM.
 - `Qira <http://qira.me>`_ - QEMU Interactive Runtime Analyser.
 - `R2MSDN <https://github.com/newlog/r2msdn>`_ - R2 plugin to add MSDN documentation URLs and parameter names to imported function calls.

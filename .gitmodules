@@ -1609,3 +1609,6 @@
 [submodule "Penetration Testing/Post Exploitation/PacketWhisper"]
 	path = Penetration Testing/Post Exploitation/PacketWhisper
 	url = https://github.com/TryCatchHCF/PacketWhisper.git
+[submodule "Reverse Engineering/pwndbg"]
+	path = Reverse Engineering/pwndbg
+	url = https://github.com/pwndbg/pwndbg.git
