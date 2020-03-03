@@ -524,6 +524,7 @@ Info Gathering
 Fuzzing
 -------
 
+- `AFL++ <https://github.com/vanhauser-thc/AFLplusplus>`_ - AFL 2.56b with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more.
 - `AndroFuzz <https://github.com/jonmetz/AndroFuzz>`_ - A fuzzing utility for Android that focuses on reporting and delivery portions of the fuzzing process.
 - `Construct <http://construct.readthedocs.org>`_ - Declarative data structures for python that allow symmetric parsing and building.
 - `Deepstate <https://github.com/trailofbits/deepstate>`_ - A unit test-like interface for fuzzing and symbolic execution.
@@ -855,6 +856,7 @@ Reverse Engineering
 - `Procyon <https://bitbucket.org/mstrobel/procyon>`_ - A modern open-source Java decompiler.
 - `Protobuf-inspector <https://github.com/jmendeth/protobuf-inspector>`_ - Tool to reverse-engineer Protocol Buffers with unknown definition.
 - `Pyew <https://github.com/joxeankoret/pyew>`_ - Command line hexadecimal editor and disassembler, mainly to analyze malware.
+- `Pwndbg <https://github.com/pwndbg/pwndbg>`_ - Exploit Development and Reverse Engineering with GDB Made Easy.
 - `QBDI <https://github.com/QBDI/QBDI>`_ - A Dynamic Binary Instrumentation framework based on LLVM.
 - `Qira <http://qira.me>`_ - QEMU Interactive Runtime Analyser.
 - `R2MSDN <https://github.com/newlog/r2msdn>`_ - R2 plugin to add MSDN documentation URLs and parameter names to imported function calls.
