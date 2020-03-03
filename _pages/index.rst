@@ -524,6 +524,7 @@ Info Gathering
 Fuzzing
 -------
 
+- `AFL++ <https://github.com/vanhauser-thc/AFLplusplus>`_ - AFL 2.56b with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more.
 - `AndroFuzz <https://github.com/jonmetz/AndroFuzz>`_ - A fuzzing utility for Android that focuses on reporting and delivery portions of the fuzzing process.
 - `Construct <http://construct.readthedocs.org>`_ - Declarative data structures for python that allow symmetric parsing and building.
 - `Deepstate <https://github.com/trailofbits/deepstate>`_ - A unit test-like interface for fuzzing and symbolic execution.

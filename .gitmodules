@@ -1612,3 +1612,6 @@
 [submodule "Reverse Engineering/pwndbg"]
 	path = Reverse Engineering/pwndbg
 	url = https://github.com/pwndbg/pwndbg.git
+[submodule "Penetration Testing/Fuzzing/AFLplusplus"]
+	path = Penetration Testing/Fuzzing/AFLplusplus
+	url = https://github.com/vanhauser-thc/AFLplusplus.git
