@@ -1615,3 +1615,6 @@
 [submodule "Penetration Testing/Fuzzing/AFLplusplus"]
 	path = Penetration Testing/Fuzzing/AFLplusplus
 	url = https://github.com/vanhauser-thc/AFLplusplus.git
+[submodule "Penetration Testing/Fuzzing/driller"]
+	path = Penetration Testing/Fuzzing/driller
+	url = https://github.com/shellphish/driller.git
