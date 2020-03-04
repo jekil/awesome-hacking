@@ -1618,3 +1618,6 @@
 [submodule "Penetration Testing/Fuzzing/driller"]
 	path = Penetration Testing/Fuzzing/driller
 	url = https://github.com/shellphish/driller.git
+[submodule "Penetration Testing/Fuzzing/unicorefuzz"]
+	path = Penetration Testing/Fuzzing/unicorefuzz
+	url = https://github.com/fgsect/unicorefuzz.git
