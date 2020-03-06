@@ -1621,3 +1621,6 @@
 [submodule "Penetration Testing/Fuzzing/unicorefuzz"]
 	path = Penetration Testing/Fuzzing/unicorefuzz
 	url = https://github.com/fgsect/unicorefuzz.git
+[submodule "Reverse Engineering/haybale"]
+	path = Reverse Engineering/haybale
+	url = https://github.com/PLSysSec/haybale.git
