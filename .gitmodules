@@ -1624,3 +1624,9 @@
 [submodule "Reverse Engineering/haybale"]
 	path = Reverse Engineering/haybale
 	url = https://github.com/PLSysSec/haybale.git
+[submodule "Penetration Testing/Exploits/CVE-2019-18935"]
+	path = Penetration Testing/Exploits/CVE-2019-18935
+	url = https://github.com/noperator/CVE-2019-18935.git
+[submodule "Penetration Testing/Exploits/CVE-2019-0604"]
+	path = Penetration Testing/Exploits/CVE-2019-0604
+	url = https://github.com/k8gege/CVE-2019-0604.git
