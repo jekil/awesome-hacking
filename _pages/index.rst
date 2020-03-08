@@ -504,6 +504,7 @@ Info Gathering
 - `Dnsenum <https://github.com/fwaeytens/dnsenum/>`_ - A perl script that enumerates DNS information.
 - `Dnsmap <https://github.com/makefu/dnsmap/>`_ - Passive DNS network mapper.
 - `Dnsrecon <https://github.com/darkoperator/dnsrecon/>`_ - DNS Enumeration Script.
+- `Egressbuster <https://github.com/trustedsec/egressbuster>`_ - A method to check egress filtering and identify if ports are allowed. If they are, you can automatically spawn a shell.
 - `EgressCheck Framework <https://github.com/stufus/egresscheck-framework>`_ - Used to check for TCP and UDP egress filtering on both windows and unix client systems.
 - `EyeWitness <https://github.com/FortyNorthSecurity/EyeWitness>`_ - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
 - `Knock <https://github.com/guelfoweb/knock>`_ - A python tool designed to enumerate subdomains on a target domain through a wordlist.

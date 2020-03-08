@@ -1630,3 +1630,6 @@
 [submodule "Penetration Testing/Exploits/CVE-2019-0604"]
 	path = Penetration Testing/Exploits/CVE-2019-0604
 	url = https://github.com/k8gege/CVE-2019-0604.git
+[submodule "Penetration Testing/Info Gathering/egressbuster"]
+	path = Penetration Testing/Info Gathering/egressbuster
+	url = https://github.com/trustedsec/egressbuster.git
