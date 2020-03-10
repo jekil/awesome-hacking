@@ -1633,3 +1633,6 @@
 [submodule "Penetration Testing/Info Gathering/egressbuster"]
 	path = Penetration Testing/Info Gathering/egressbuster
 	url = https://github.com/trustedsec/egressbuster.git
+[submodule "Penetration Testing/Exploiting/AttackSurfaceAnalyzer"]
+	path = Penetration Testing/Exploiting/AttackSurfaceAnalyzer
+	url = https://github.com/microsoft/AttackSurfaceAnalyzer.git
