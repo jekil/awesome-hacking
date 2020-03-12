@@ -1636,3 +1636,6 @@
 [submodule "Penetration Testing/Exploiting/AttackSurfaceAnalyzer"]
 	path = Penetration Testing/Exploiting/AttackSurfaceAnalyzer
 	url = https://github.com/microsoft/AttackSurfaceAnalyzer.git
+[submodule "Penetration Testing/Post Exploitation/HoneyBadger"]
+	path = Penetration Testing/Post Exploitation/HoneyBadger
+	url = https://github.com/trustedsec/HoneyBadger.git
