@@ -1639,3 +1639,6 @@
 [submodule "Penetration Testing/Post Exploitation/HoneyBadger"]
 	path = Penetration Testing/Post Exploitation/HoneyBadger
 	url = https://github.com/trustedsec/HoneyBadger.git
+[submodule "Penetration Testing/Reporting/VECTR"]
+	path = Penetration Testing/Reporting/VECTR
+	url = https://github.com/SecurityRiskAdvisors/VECTR.git
