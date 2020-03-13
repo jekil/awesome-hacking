@@ -661,6 +661,7 @@ Reporting
 - `DefectDojo <https://github.com/DefectDojo/django-DefectDojo>`_ - An open-source application vulnerability correlation and security orchestration tool.
 - `Dradis <https://dradisframework.com/ce/>`_ - Colllaboration and reporting for IT Security teams.
 - `Faraday <http://www.faradaysec.com>`_ - Collaborative Penetration Test and Vulnerability Management Platform.
+- `VECTR <https://github.com/SecurityRiskAdvisors/VECTR>`_ - A tool that facilitates tracking of your red and blue team testing activities to measure detection and prevention capabilities across different attack scenarios.
 
 Services
 --------
