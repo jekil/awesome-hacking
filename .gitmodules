@@ -1642,3 +1642,6 @@
 [submodule "Penetration Testing/Reporting/VECTR"]
 	path = Penetration Testing/Reporting/VECTR
 	url = https://github.com/SecurityRiskAdvisors/VECTR.git
+[submodule "Security/Privacy/sshuttle"]
+	path = Security/Privacy/sshuttle
+	url = https://github.com/sshuttle/sshuttle.git
