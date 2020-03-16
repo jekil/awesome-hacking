@@ -1645,3 +1645,6 @@
 [submodule "Security/Privacy/sshuttle"]
 	path = Security/Privacy/sshuttle
 	url = https://github.com/sshuttle/sshuttle.git
+[submodule "Penetration Testing/Fuzzing/kleefl"]
+	path = Penetration Testing/Fuzzing/kleefl
+	url = https://github.com/julieeen/kleefl.git
