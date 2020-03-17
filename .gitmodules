@@ -1648,3 +1648,6 @@
 [submodule "Penetration Testing/Fuzzing/kleefl"]
 	path = Penetration Testing/Fuzzing/kleefl
 	url = https://github.com/julieeen/kleefl.git
+[submodule "Penetration Testing/Post Exploitation/pivoter"]
+	path = Penetration Testing/Post Exploitation/pivoter
+	url = https://github.com/trustedsec/pivoter.git
