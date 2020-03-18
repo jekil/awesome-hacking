@@ -1651,3 +1651,6 @@
 [submodule "Penetration Testing/Post Exploitation/pivoter"]
 	path = Penetration Testing/Post Exploitation/pivoter
 	url = https://github.com/trustedsec/pivoter.git
+[submodule "Reverse Engineering/frida-scripts"]
+	path = Reverse Engineering/frida-scripts
+	url = https://github.com/interference-security/frida-scripts.git
