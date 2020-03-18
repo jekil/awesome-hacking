@@ -824,6 +824,7 @@ Reverse Engineering
 - `Ctf_import <https://github.com/docileninja/ctf_import>`_ – Run basic functions from stripped binaries cross platform.
 - `Edb <http://www.codef00.com/projects#debugger>`_ - A cross platform x86/x86-64 debugger.
 - `EFI DXE Emulator <https://github.com/gdbinit/efi_dxe_emulator>`_ - An EFI DXE phase binaries emulator based on Unicorn.
+- `Frida-scripts <https://github.com/interference-security/frida-scripts>`_ - These scripts will help in security research and automation.
 - `Dex2jar <https://github.com/pxb1988/dex2jar>`_ - Tools to work with android .dex and java .class files.
 - `Distorm <https://github.com/gdabah/distorm>`_ - Powerful Disassembler Library For x86/AMD64.
 - `DotPeek <https://www.jetbrains.com/decompiler/>`_ - A free-of-charge .NET decompiler from JetBrains.
