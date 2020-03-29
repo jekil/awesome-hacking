@@ -1654,3 +1654,6 @@
 [submodule "Reverse Engineering/frida-scripts"]
 	path = Reverse Engineering/frida-scripts
 	url = https://github.com/interference-security/frida-scripts.git
+[submodule "Penetration Testing/Fuzzing/T-Fuzz"]
+	path = Penetration Testing/Fuzzing/T-Fuzz
+	url = https://github.com/HexHive/T-Fuzz.git

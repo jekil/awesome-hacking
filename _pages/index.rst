@@ -551,6 +551,8 @@ Fuzzing
 - `SecLists <https://github.com/danielmiessler/SecLists>`_ - A collection of multiple types of lists used during security assessments.
 - `Sienna-locomotive <https://github.com/trailofbits/sienna-locomotive>`_ - A user-friendly fuzzing and crash triage tool for Windows.
 - `Sulley <https://github.com/OpenRCE/sulley>`_ - Fuzzer development and fuzz testing framework consisting of multiple extensible components.
+- `Pivoter <https://github.com/trustedsec/pivoter>`_ - A proxy tool for pentesters to have easier lateral movement. 
+- `T-Fuzz <https://github.com/HexHive/T-Fuzz>`_ - A fuzzing tool based on program transformation.
 - `TAOF <https://sourceforge.net/projects/taof/>`_ - The Art of Fuzzing, including ProxyFuzz, a man-in-the-middle non-deterministic network fuzzer.
 - `Unicorefuzz <https://github.com/fgsect/unicorefuzz>`_ - Fuzzing the Kernel Using Unicornafl and AFL++.
 - `Winafl <https://github.com/googleprojectzero/winafl>`_ - A fork of AFL for fuzzing Windows binaries.
