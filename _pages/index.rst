@@ -829,6 +829,7 @@ Reverse Engineering
 - `Frida-scripts <https://github.com/interference-security/frida-scripts>`_ - These scripts will help in security research and automation.
 - `Dex2jar <https://github.com/pxb1988/dex2jar>`_ - Tools to work with android .dex and java .class files.
 - `Distorm <https://github.com/gdabah/distorm>`_ - Powerful Disassembler Library For x86/AMD64.
+- `Dotnet-netrace <https://github.com/lowleveldesign/dotnet-netrace>`_ - Collects network traces of .NET applications.
 - `DotPeek <https://www.jetbrains.com/decompiler/>`_ - A free-of-charge .NET decompiler from JetBrains.
 - `Dwarf <https://github.com/iGio90/Dwarf>`_ - A gui for mobile reverse engineers, crackers and security analyst. Or damn, what a reversed fluffy or yet, duck warrios are rich as fuck. Whatever you like! Built on top of pyqt5, frida and some terrible code.
 - `Enjarify <https://github.com/google/enjarify>`_ - A tool for translating Dalvik bytecode to equivalent Java bytecode. This allows Java analysis tools to analyze Android applications.

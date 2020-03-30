@@ -1657,3 +1657,6 @@
 [submodule "Penetration Testing/Fuzzing/T-Fuzz"]
 	path = Penetration Testing/Fuzzing/T-Fuzz
 	url = https://github.com/HexHive/T-Fuzz.git
+[submodule "Reverse Engineering/dotnet-netrace"]
+	path = Reverse Engineering/dotnet-netrace
+	url = https://github.com/lowleveldesign/dotnet-netrace.git
