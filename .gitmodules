@@ -1660,3 +1660,9 @@
 [submodule "Reverse Engineering/dotnet-netrace"]
 	path = Reverse Engineering/dotnet-netrace
 	url = https://github.com/lowleveldesign/dotnet-netrace.git
+[submodule "Penetration Testing/Exploiting/BugId"]
+	path = Penetration Testing/Exploiting/BugId
+	url = https://github.com/SkyLined/BugId.git
+[submodule "Penetration Testing/Wireless/WiFiDuck"]
+	path = Penetration Testing/Wireless/WiFiDuck
+	url = https://github.com/spacehuhn/WiFiDuck.git

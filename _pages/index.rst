@@ -440,6 +440,7 @@ Exploiting
 
 - `AttackSurfaceAnalyzer <https://github.com/microsoft/AttackSurfaceAnalyzer>`_ - Attack Surface Analyzer can help you analyze your operating system's security configuration for changes during software installation.
 - `BeEF <http://beefproject.com>`_ - The Browser Exploitation Framework Project.
+- `BugId <https://github.com/SkyLined/BugId>`_ - Detect, analyze and uniquely identify crashes in Windows applications.
 - `Commix <http://www.commixproject.com>`_ - Automated All-in-One OS Command Injection and Exploitation Tool.
 - `DLLInjector <https://github.com/OpenSecurityResearch/dllinjector>`_ - Inject dlls in processes.
 - `Drupwn <https://github.com/immunIT/drupwn>`_ - Drupal enumeration & exploitation tool.
@@ -756,6 +757,7 @@ Wireless
 - `LANs.py <https://github.com/DanMcInerney/LANs.py>`_ - Inject code, jam wifi, and spy on wifi users.
 - `Mass-deauth <http://rfkiller.github.io/mass-deauth/>`_ - A script for 802.11 mass-deauthentication.
 - `Reaver <https://code.google.com/archive/p/reaver-wps>`_ - Brute force attack against Wifi Protected Setup.
+- `WiFiDuck <https://github.com/spacehuhn/WiFiDuck>`_ - Wireless keystroke injection attack platform.
 - `Wifikill <https://github.com/roglew/wifikill>`_ - A python program to kick people off of wifi.
 - `Wifijammer <https://github.com/DanMcInerney/wifijammer>`_ - Continuously jam all wifi clients/routers.
 - `Wifite <https://github.com/derv82/wifite>`_ - Automated wireless attack tool.
