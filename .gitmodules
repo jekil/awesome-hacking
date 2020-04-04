@@ -1666,3 +1666,6 @@
 [submodule "Penetration Testing/Wireless/WiFiDuck"]
 	path = Penetration Testing/Wireless/WiFiDuck
 	url = https://github.com/spacehuhn/WiFiDuck.git
+[submodule "Penetration Testing/Training/BadBlood"]
+	path = Penetration Testing/Training/BadBlood
+	url = https://github.com/davidprowe/BadBlood.git
