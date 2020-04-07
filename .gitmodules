@@ -1669,3 +1669,9 @@
 [submodule "Penetration Testing/Training/BadBlood"]
 	path = Penetration Testing/Training/BadBlood
 	url = https://github.com/davidprowe/BadBlood.git
+[submodule "Penetration Testing/Post Exploitation/Ghost-In-The-Logs"]
+	path = Penetration Testing/Post Exploitation/Ghost-In-The-Logs
+	url = https://github.com/bats3c/Ghost-In-The-Logs.git
+[submodule "Social Engineering/Phishing/BlackPhish"]
+	path = Social Engineering/Phishing/BlackPhish
+	url = https://github.com/iinc0gnit0/BlackPhish.git
