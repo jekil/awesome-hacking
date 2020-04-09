@@ -704,6 +704,7 @@ Web
 
 - `Arachni <http://www.arachni-scanner.com>`_ - Web Application Security Scanner Framework.
 - `Argumentinjectionhammer <https://github.com/nccgroup/argumentinjectionhammer>`_ - A Burp Extension designed to identify argument injection vulnerabilities.
+- `BlackBox Protobuf Burp Extension <https://github.com/nccgroup/blackboxprotobuf>`_ - A Burp Suite extension for decoding and modifying arbitrary protobuf messages without the protobuf type definition.
 - `BlindElephant <http://blindelephant.sourceforge.net>`_ - Web Application Fingerprinter.
 - `Brosec <https://github.com/gabemarshall/Brosec>`_ - An interactive reference tool to help security professionals utilize useful payloads and commands.
 - `Burp Suite <http://portswigger.net/burp/>`_ - An integrated platform for performing security testing of web applications.
@@ -928,6 +929,7 @@ Harvester
 Phishing
 --------
 
+- `BlackPhish <https://github.com/iinc0gnit0/BlackPhish>`_ -Super lightweight with many features and blazing fast speeds.
 - `Blackeye <https://github.com/thelinuxchoice/blackeye>`_ - The most complete Phishing Tool, with 32 templates +1 customizable.
 - `CredSniper <https://github.com/ustayready/CredSniper>`_ - A phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.
 - `FiercePhish <https://github.com/Raikia/FiercePhish>`_ - A full-fledged phishing framework to manage all phishing engagements. It allows you to track separate phishing campaigns, schedule sending of emails, and much more.

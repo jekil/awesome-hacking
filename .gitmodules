@@ -1675,3 +1675,6 @@
 [submodule "Social Engineering/Phishing/BlackPhish"]
 	path = Social Engineering/Phishing/BlackPhish
 	url = https://github.com/iinc0gnit0/BlackPhish.git
+[submodule "Penetration Testing/Web/blackboxprotobuf"]
+	path = Penetration Testing/Web/blackboxprotobuf
+	url = https://github.com/nccgroup/blackboxprotobuf.git
