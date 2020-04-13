@@ -1678,3 +1678,6 @@
 [submodule "Penetration Testing/Web/blackboxprotobuf"]
 	path = Penetration Testing/Web/blackboxprotobuf
 	url = https://github.com/nccgroup/blackboxprotobuf.git
+[submodule "Penetration Testing/Exploits/CVE-2020-10560"]
+	path = Penetration Testing/Exploits/CVE-2020-10560
+	url = https://github.com/kevthehermit/CVE-2020-10560.git
