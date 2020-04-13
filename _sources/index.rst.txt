@@ -487,6 +487,7 @@ Exploits
 - `CVE-2019-0604 <https://github.com/k8gege/CVE-2019-0604>`_ - cve-2019-0604 SharePoint RCE exploit.
 - `CVE-2019-6453 <https://github.com/proofofcalc/cve-2019-6453-poc>`_ - Proof of calc for CVE-2019-6453 (Mirc exploit).
 - `CVE-2019-18935 <https://github.com/noperator/CVE-2019-18935>`_ - RCE exploit for a .NET deserialization vulnerability in Telerik UI for ASP.NET AJAX.
+- `CVE-2020-10560 <https://github.com/kevthehermit/CVE-2020-10560>`_ - OSSN Arbitrary File Read
 - `Desharialize <https://github.com/Voulnet/desharialize>`_ - Easy mode to Exploit CVE-2019-0604 (Sharepoint XML Deserialization Unauthenticated RCE).
 - `ES File Explorer Open Port Vulnerability <https://github.com/fs0c131y/ESFileExplorerOpenPortVuln>`_ - ES File Explorer Open Port Vulnerability - CVE-2019-6447.
 - `HolicPOC <https://github.com/leeqwind/HolicPOC>`_ - CVE-2015-2546, CVE-2016-0165, CVE-2016-0167, CVE-2017-0101, CVE-2017-0263, CVE-2018-8120.
