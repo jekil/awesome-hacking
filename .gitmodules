@@ -1681,3 +1681,6 @@
 [submodule "Penetration Testing/Exploits/CVE-2020-10560"]
 	path = Penetration Testing/Exploits/CVE-2020-10560
 	url = https://github.com/kevthehermit/CVE-2020-10560.git
+[submodule "Penetration Testing/Fuzzing/frankenstein"]
+	path = Penetration Testing/Fuzzing/frankenstein
+	url = https://github.com/seemoo-lab/frankenstein.git
