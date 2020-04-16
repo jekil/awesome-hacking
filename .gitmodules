@@ -1684,3 +1684,6 @@
 [submodule "Penetration Testing/Fuzzing/frankenstein"]
 	path = Penetration Testing/Fuzzing/frankenstein
 	url = https://github.com/seemoo-lab/frankenstein.git
+[submodule "Reverse Engineering/Triton"]
+	path = Reverse Engineering/Triton
+	url = https://github.com/JonathanSalwan/Triton.git

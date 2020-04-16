@@ -894,6 +894,7 @@ Reverse Engineering
 - `Swiffas <https://github.com/ahixon/swiffas>`_ - SWF parser and AVM2 (Actionscript 3) bytecode parser.
 - `Swift-frida <https://github.com/maltek/swift-frida>`_ - Frida library for interacting with Swift programs.
 - `Toolbag <https://github.com/aaronportnoy/toolbag>`_ - The IDA Toolbag is a plugin providing supplemental functionality to Hex-Rays IDA Pro disassembler.
+- `Triton <https://github.com/JonathanSalwan/Triton>`_ - Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings.
 - `uEmu <https://github.com/alexhude/uEmu>`_ - Tiny cute emulator plugin for IDA based on unicorn.
 - `Ufgraph <https://github.com/bfosterjr/ufgraph>`_ - A simple script which parses the output of the uf (un-assemble function) command in windbg and uses graphviz to generate a control flow graph as a PNG/SVG/PDF/GIF (see -of option) and displays it.
 - `Uncompyle <https://github.com/gstarnberger/uncompyle>`_ - Decompile Python 2.7 binaries (.pyc).
