@@ -684,6 +684,7 @@ Training
 
 - `Android-InsecureBankv2 <https://github.com/dineshshetty/Android-InsecureBankv2>`_ - Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities.
 - `BadBlood <https://github.com/davidprowe/BadBlood>`_ - Fills a Microsoft Active Directory Domain with a structure and thousands of objects. The output of the tool is a domain similar to a domain in the real world. After BadBlood is ran on a domain, security analysts and engineers can practice using tools to gain an understanding and prescribe to securing Active Directory.
+- `DIVA Android <https://github.com/payatu/diva-android>`_ - Damn Insecure and vulnerable App for Android.
 - `Don't Panic <https://github.com/antire-book/dont_panic>`_ - Training linux bind shell with anti-reverse engineering techniques.
 - `DVWA <http://dvwa.co.uk>`_ - Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.
 - `DVCP-TE <https://github.com/satejnik/DVCP-TE>`_ - Damn Vulnerable Chemical Process - Tennessee Eastman.
