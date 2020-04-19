@@ -1690,3 +1690,6 @@
 [submodule "Penetration Testing/Training/diva-android"]
 	path = Penetration Testing/Training/diva-android
 	url = https://github.com/payatu/diva-android.git
+[submodule "Penetration Testing/Mobile/objection"]
+	path = Penetration Testing/Mobile/objection
+	url = https://github.com/sensepost/objection.git
