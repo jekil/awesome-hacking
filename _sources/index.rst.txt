@@ -576,6 +576,7 @@ Mobile
 - `Keychain-Dumper <https://github.com/ptoomey3/Keychain-Dumper/>`_ - A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken.
 - `JAADAS <https://github.com/flankerhqd/JAADAS>`_ - Joint Advanced Defect assEsment for android applications.
 - `Mobile Security Framework <http://opensecurity.in>`_ - An intelligent, all-in-one open source mobile application (Android/iOS/Windows) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
+- `Objection <https://github.com/sensepost/objection>`_ - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
 - `QARK <https://github.com/linkedin/qark/>`_ - QARK by LinkedIn is for app developers to scan app for security issues.
 
 MITM
