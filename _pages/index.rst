@@ -833,6 +833,7 @@ Reverse Engineering
 - `CHIPSEC <https://github.com/chipsec/chipsec>`_ - Platform Security Assessment Framework.
 - `Coda <https://github.com/npamnani/coda>`_ - Coredump analyzer.
 - `Ctf_import <https://github.com/docileninja/ctf_import>`_ – Run basic functions from stripped binaries cross platform.
+- `DynStruct <https://github.com/ampotos/dynStruct>`_ - Reverse engineering tool for automatic structure recovering and memory use analysis based on DynamoRIO and Capstone.
 - `Edb <http://www.codef00.com/projects#debugger>`_ - A cross platform x86/x86-64 debugger.
 - `EFI DXE Emulator <https://github.com/gdbinit/efi_dxe_emulator>`_ - An EFI DXE phase binaries emulator based on Unicorn.
 - `Frida-scripts <https://github.com/interference-security/frida-scripts>`_ - These scripts will help in security research and automation.

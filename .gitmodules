@@ -1693,3 +1693,6 @@
 [submodule "Penetration Testing/Mobile/objection"]
 	path = Penetration Testing/Mobile/objection
 	url = https://github.com/sensepost/objection.git
+[submodule "Reverse Engineering/dynStruct"]
+	path = Reverse Engineering/dynStruct
+	url = https://github.com/ampotos/dynStruct.git
