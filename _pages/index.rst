@@ -848,6 +848,7 @@ Reverse Engineering
 - `Flare-ida <https://github.com/fireeye/flare-ida>`_ - IDA Pro utilities from FLARE team.
 - `Frida <https://www.frida.re>`_ - Inject JavaScript to explore native apps on Windows, macOS, Linux, iOS, Android, and QNX.
 - `Gdb-dashboard <https://github.com/cyrus-and/gdb-dashboard>`_ - Modular visual interface for GDB in Python.
+- `Gdbstub <https://github.com/mborgerson/gdbstub>`_ - A simple, dependency-free GDB stub that can be easily dropped in to your project.
 - `GEF <https://gef.readthedocs.io/en/latest/>`_ - Multi-Architecture GDB Enhanced Features for Exploiters & Reverse-Engineers.
 - `Ghidra <https://github.com/NationalSecurityAgency/ghidra>`_ - A software reverse engineering (SRE) framework.
 - `Haybale <https://github.com/PLSysSec/haybale>`_ - Symbolic execution of LLVM IR with an engine written in Rust.

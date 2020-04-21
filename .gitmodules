@@ -1696,3 +1696,6 @@
 [submodule "Reverse Engineering/dynStruct"]
 	path = Reverse Engineering/dynStruct
 	url = https://github.com/ampotos/dynStruct.git
+[submodule "Reverse Engineering/gdbstub"]
+	path = Reverse Engineering/gdbstub
+	url = https://github.com/mborgerson/gdbstub.git
