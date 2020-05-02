@@ -731,6 +731,7 @@ Web
 - `Paros <https://sourceforge.net/projects/paros/>`_ - A Java based HTTP/HTTPS proxy for assessing web application vulnerability.
 - `PayloadsAllTheThings <https://github.com/swisskyrepo/PayloadsAllTheThings>`_ - A list of useful payloads and bypass for Web Application Security and Pentest/CTF.
 - `Ratproxy <https://code.google.com/archive/p/ratproxy/>`_ - A semi-automated, largely passive web application security audit tool, optimized for an accurate and sensitive detection, and automatic annotation, of potential problems.
+- `RecurseBuster <https://github.com/C-Sto/recursebuster>`_ - Rapid content discovery tool for recursively querying webservers, handy in pentesting and web application assessments.
 - `Relative-url-extractor <https://github.com/jobertabma/relative-url-extractor>`_ - A small tool that extracts relative URLs from a file.
 - `Scout2 <https://nccgroup.github.io/Scout2/>`_ - Security auditing tool for AWS environments.
 - `Skipfish <https://code.google.com/archive/p/skipfish/>`_ - An active web application security reconnaissance tool. It prepares an interactive sitemap for the targeted site by carrying out a recursive crawl and dictionary-based probes.
