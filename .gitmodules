@@ -1699,3 +1699,6 @@
 [submodule "Reverse Engineering/gdbstub"]
 	path = Reverse Engineering/gdbstub
 	url = https://github.com/mborgerson/gdbstub.git
+[submodule "Penetration Testing/Web/recursebuster"]
+	path = Penetration Testing/Web/recursebuster
+	url = https://github.com/C-Sto/recursebuster.git
