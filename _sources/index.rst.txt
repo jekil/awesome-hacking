@@ -765,6 +765,7 @@ Wireless
 - `LANs.py <https://github.com/DanMcInerney/LANs.py>`_ - Inject code, jam wifi, and spy on wifi users.
 - `Mass-deauth <http://rfkiller.github.io/mass-deauth/>`_ - A script for 802.11 mass-deauthentication.
 - `Reaver <https://code.google.com/archive/p/reaver-wps>`_ - Brute force attack against Wifi Protected Setup.
+- `Sniffle <https://github.com/nccgroup/Sniffle>`_ - A sniffer for Bluetooth 5 and 4.x (LE) using TI CC1352/CC26x2 hardware.
 - `WiFiDuck <https://github.com/spacehuhn/WiFiDuck>`_ - Wireless keystroke injection attack platform.
 - `Wifikill <https://github.com/roglew/wifikill>`_ - A python program to kick people off of wifi.
 - `Wifijammer <https://github.com/DanMcInerney/wifijammer>`_ - Continuously jam all wifi clients/routers.
