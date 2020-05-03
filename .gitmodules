@@ -1702,3 +1702,6 @@
 [submodule "Penetration Testing/Web/recursebuster"]
 	path = Penetration Testing/Web/recursebuster
 	url = https://github.com/C-Sto/recursebuster.git
+[submodule "Penetration Testing/Wireless/Sniffle"]
+	path = Penetration Testing/Wireless/Sniffle
+	url = https://github.com/nccgroup/Sniffle.git
