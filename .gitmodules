@@ -1705,3 +1705,6 @@
 [submodule "Penetration Testing/Wireless/Sniffle"]
 	path = Penetration Testing/Wireless/Sniffle
 	url = https://github.com/nccgroup/Sniffle.git
+[submodule "Penetration Testing/Fuzzing/instrim"]
+	path = Penetration Testing/Fuzzing/instrim
+	url = https://github.com/csienslab/instrim.git
