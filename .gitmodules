@@ -1708,3 +1708,6 @@
 [submodule "Penetration Testing/Fuzzing/instrim"]
 	path = Penetration Testing/Fuzzing/instrim
 	url = https://github.com/csienslab/instrim.git
+[submodule "Penetration Testing/Fuzzing/vuzzer"]
+	path = Penetration Testing/Fuzzing/vuzzer
+	url = https://github.com/vusec/vuzzer.git

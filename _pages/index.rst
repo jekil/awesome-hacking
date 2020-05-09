@@ -559,6 +559,7 @@ Fuzzing
 - `T-Fuzz <https://github.com/HexHive/T-Fuzz>`_ - A fuzzing tool based on program transformation.
 - `TAOF <https://sourceforge.net/projects/taof/>`_ - The Art of Fuzzing, including ProxyFuzz, a man-in-the-middle non-deterministic network fuzzer.
 - `Unicorefuzz <https://github.com/fgsect/unicorefuzz>`_ - Fuzzing the Kernel Using Unicornafl and AFL++.
+- `VUzzer <https://github.com/vusec/vuzzer>`_ - This Project depends heavily on a modeified version of DataTracker, which in turn depends on LibDFT pintool. It has some extra tags added in libdft.
 - `Winafl <https://github.com/googleprojectzero/winafl>`_ - A fork of AFL for fuzzing Windows binaries.
 - `Windows IPC Fuzzing Tools <https://www.nccgroup.trust/us/about-us/resources/windows-ipc-fuzzing-tools/>`_ - A collection of tools used to attack applications that use Windows Interprocess Communication mechanisms.
 - `Zulu <https://github.com/nccgroup/Zulu.git>`_ - A fuzzer designed for rapid prototyping that normally happens on a client engagement where something needs to be fuzzed within tight timescales.
