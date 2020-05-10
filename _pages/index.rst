@@ -181,7 +181,7 @@ Misc
 
 - `Diffy <https://github.com/Netflix-Skunkworks/diffy>`_ - A digital forensics and incident response (DFIR) tool developed by Netflix's Security Intelligence and Response Team (SIRT). Allows a forensic investigator to quickly scope a compromise across cloud instances during an incident, and triage those instances for followup actions.
 - `HxD <https://mh-nexus.de/en/hxd/>`_ - A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size.
-- `Libfvde <https://github.com/libyal/libfvde>` - Library and tools to access FileVault Drive Encryption (FVDE) encrypted volumes.
+- `Libfvde <https://github.com/libyal/libfvde>`_ - Library and tools to access FileVault Drive Encryption (FVDE) encrypted volumes.
 
 Hardware Hacking
 ================
@@ -240,10 +240,10 @@ Live CD - Distributions
 - `Android Tamer <https://androidtamer.com>`_ - Virtual / Live Platform for Android Security professionals.
 - `ArchStrike <https://archstrike.org>`_ - An Arch Linux repository for security professionals and enthusiasts.
 - `BackBox <https://backbox.org>`_ - Ubuntu-based distribution for penetration tests and security assessments.
-- `BlackArch <https://www.blackarch.org>`__ - Arch Linux-based distribution for penetration testers and security researchers.
+- `BlackArch <https://www.blackarch.org>`_ - Arch Linux-based distribution for penetration testers and security researchers.
 - `BOSSLive <https://bosslinux.in>`_ - An Indian GNU/Linux distribution developed by CDAC and is customized to suit Indian's digital environment. It supports most of the Indian languages.
 - `DEFT Linux <http://www.deftlinux.net>`_ - Suite dedicated to incident response and digital forensics.
-- `Fedora Security Lab <https://labs.fedoraproject.org/en/security/>`__ - A safe test environment to work on security auditing, forensics, system rescue and teaching security testing methodologies in universities and other organizations.
+- `Fedora Security Lab <https://labs.fedoraproject.org/en/security/>`_ - A safe test environment to work on security auditing, forensics, system rescue and teaching security testing methodologies in universities and other organizations.
 - `Kali <https://www.kali.org>`_ - A Linux distribution designed for digital forensics and penetration testing.
 - `NST <http://networksecuritytoolkit.org>`_ - Network Security Toolkit distribution.
 - `Ophcrack <http://ophcrack.sourceforge.net>`_ - A free Windows password cracker based on rainbow tables. It is a very efficient implementation of rainbow tables done by the inventors of the method. It comes with a Graphical User Interface and runs on multiple platforms.
@@ -270,7 +270,7 @@ Dynamic Analysis
 - `Panda <https://github.com/panda-re/panda>`_ - Platform for Architecture-Neutral Dynamic Analysis.
 - `ProbeDroid <https://github.com/ZSShen/ProbeDroid>`_ - A dynamic binary instrumentation kit targeting on Android(Lollipop) 5.0 and above.
 - `PyEMU <https://code.google.com/archive/p/pyemu/>`_ - Fully scriptable IA-32 emulator, useful for malware analysis.
-- `Pyrebox <https://github.com/Cisco-Talos/pyrebox>` _ - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU.
+- `Pyrebox <https://github.com/Cisco-Talos/pyrebox>`_ - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU.
 - `Qiling <https://github.com/qilingframework/qiling>`_ - Advanced Binary Emulation framework.
 - `Uitkyk <https://github.com/brompwnie/uitkyk>`_ - Runtime memory analysis framework to identify Android malware.
 - `WScript Emulator <https://github.com/mrpapercut/wscript/>`_ - Emulator/tracer of the Windows Script Host functionality.
@@ -701,7 +701,7 @@ Training
 - `RopeyTasks <https://github.com/continuumsecurity/RopeyTasks>`_ - Deliberately vulnerable web application.
 - `Sqli-labs <https://github.com/Audi-1/sqli-labs>`_ - SQLI labs to test error based, Blind boolean based, Time based.
 - `Sadcloud <https://github.com/nccgroup/sadcloud>`_ - A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure.
-- `Xvwa <https://github.com/s4n7h0/xvwa`_ - XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.
+- `Xvwa <https://github.com/s4n7h0/xvwa>`_ - XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.
 - `WackoPicko <https://github.com/adamdoupe/WackoPicko>`_ - A vulnerable web application used to test web application vulnerability scanners.
 
 Web
@@ -753,7 +753,7 @@ Web
 - `WS-Attacker <https://github.com/RUB-NDS/WS-Attacker>`_ - A modular framework for web services penetration testing.
 - `WStalker <https://github.com/nccgroup/wstalker>`_ - An easy proxy.
 - `XSS-keylogger <https://github.com/hadynz/xss-keylogger>`_ - A keystroke logger to exploit XSS vulnerabilities in a site.
-- `XSS-payload-list <https://github.com/ismailtasdelen/xss-payload-list>`_- XSS Payload list.
+- `XSS-payload-list <https://github.com/ismailtasdelen/xss-payload-list>`_ - XSS Payload list.
 - `Zed Attack Proxy (ZAP) <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>`_ - The OWASP ZAP core project.
 
 Wireless
