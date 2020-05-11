@@ -740,6 +740,7 @@ Reverse Engineering
 - `Bytecode_graph <https://github.com/fireeye/flare-bytecode_graph>`_ - Module designed to modify Python bytecode. Allows instructions to be added or removed from a Python bytecode string.
 - `CHIPSEC <https://github.com/chipsec/chipsec>`_ - Platform Security Assessment Framework.
 - `Capstone <http://www.capstone-engine.org>`_ - Lightweight multi-platform, multi-architecture disassembly framework with Python bindings.
+- `ClassNameDeobfuscator <https://github.com/HamiltonianCycle/ClassNameDeobfuscator>`_ - Simple script to parse through the .smali files produced by apktool and extract the .source annotation lines.
 - `Coda <https://github.com/npamnani/coda>`_ - Coredump analyzer.
 - `Ctf_import <https://github.com/docileninja/ctf_import>`_ - Run basic functions from stripped binaries cross platform.
 - `Dex2jar <https://github.com/pxb1988/dex2jar>`_ - Tools to work with android .dex and java .class files.

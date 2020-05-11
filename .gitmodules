@@ -1711,3 +1711,6 @@
 [submodule "Penetration Testing/Fuzzing/vuzzer"]
 	path = Penetration Testing/Fuzzing/vuzzer
 	url = https://github.com/vusec/vuzzer.git
+[submodule "Reverse Engineering/ClassNameDeobfuscator"]
+	path = Reverse Engineering/ClassNameDeobfuscator
+	url = https://github.com/HamiltonianCycle/ClassNameDeobfuscator.git
