@@ -1714,3 +1714,9 @@
 [submodule "Reverse Engineering/ClassNameDeobfuscator"]
 	path = Reverse Engineering/ClassNameDeobfuscator
 	url = https://github.com/HamiltonianCycle/ClassNameDeobfuscator.git
+[submodule "Reverse Engineering/avscript"]
+	path = Reverse Engineering/avscript
+	url = https://github.com/taviso/avscript.git
+[submodule "Penetration Testing/Port Scanning/zgrab2"]
+	path = Penetration Testing/Port Scanning/zgrab2
+	url = https://github.com/zmap/zgrab2.git

@@ -566,6 +566,7 @@ Port Scanning
 - `Masscan <https://github.com/robertdavidgraham/masscan>`_ - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - `Nmap <https://nmap.org>`_ - Free Security Scanner For Network Exploration & Security Audits.
 - `Watchdog <https://github.com/flipkart-incubator/watchdog>`_ - A Comprehensive Security Scanning and a Vulnerability Management Tool.
+- `ZGrab <https://github.com/zmap/zgrab2>`_ - Go Application Layer Scanner
 - `Zmap <https://zmap.io>`_ - An open-source network scanner that enables researchers to easily perform Internet-wide network studies. 
 
 Post Exploitation
@@ -729,6 +730,7 @@ Reverse Engineering
 - `Angr <https://github.com/angr/angr>`_ - A platform-agnostic binary analysis framework developed by the Computer Security Lab at UC Santa Barbara and their associated CTF team, Shellphish.
 - `Apk2Gold <https://github.com/lxdvs/apk2gold>`_ - Yet another Android decompiler.
 - `ApkTool <https://ibotpeaches.github.io/Apktool/>`_ - A tool for reverse engineering Android apk files.
+- `Avscript <https://github.com/taviso/avscript>`_ - Avast JavaScript Interactive Shell
 - `B2R2 <https://github.com/B2R2-org/B2R2>`_ - A collection of useful algorithms, functions, and tools for binary analysis.
 - `Barf <https://github.com/programa-stic/barf-project>`_ - Binary Analysis and Reverse engineering Framework.
 - `BinText <http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx>`_ - A small, very fast and powerful text extractor.
