@@ -397,9 +397,6 @@
 [submodule "Intelligence/xiphosresearch-exploits"]
 	path = Intelligence/xiphosresearch-exploits
 	url = https://github.com/XiphosResearch/exploits.git
-[submodule "Pentration Testing/Exploiting/exploitpack"]
-	path = Penetration Testing/Exploiting/exploitpack
-	url = https://github.com/juansacco/exploitpack.git
 [submodule "Pentration Testing/Exploiting/evilgrade"]
 	path = Penetration Testing/Exploiting/evilgrade
 	url = https://github.com/infobyte/evilgrade.git
