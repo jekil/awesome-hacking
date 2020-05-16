@@ -895,9 +895,6 @@
 [submodule "Malware/Honeypot/ESPot"]
 	path = Malware/Honeypot/ESPot
 	url = https://github.com/mycert/ESPot.git
-[submodule "Malware/Honeypot/delilah"]
-	path = Malware/Honeypot/delilah
-	url = https://github.com/Novetta/delilah.git
 [submodule "Malware/Honeypot/glastopf"]
 	path = Malware/Honeypot/glastopf
 	url = https://github.com/mushorg/glastopf.git
@@ -1720,3 +1717,6 @@
 [submodule "Penetration Testing/Info Gathering/spyse.py"]
 	path = Penetration Testing/Info Gathering/spyse.py
 	url = https://github.com/zeropwn/spyse.py.git
+[submodule "Malware/Dynamic Analysis/drakvuf-sandbox"]
+	path = Malware/Dynamic Analysis/drakvuf-sandbox
+	url = https://github.com/CERT-Polska/drakvuf-sandbox.git
