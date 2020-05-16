@@ -166,9 +166,6 @@
 [submodule "Pentration Testing/Info Gathering/dnsrecon"]
 	path = Penetration Testing/Info Gathering/dnsrecon
 	url = https://github.com/darkoperator/dnsrecon.git
-[submodule "Network/Sniffer/dripcap"]
-	path = Network/Sniffer/dripcap
-	url = https://github.com/dripcap/dripcap.git
 [submodule "Forensics/Network Forensics/Dshell"]
 	path = Forensics/Network Forensics/Dshell
 	url = https://github.com/USArmyResearchLab/Dshell.git
