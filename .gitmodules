@@ -1720,3 +1720,6 @@
 [submodule "Security/Cloud Security/panther"]
 	path = Security/Cloud Security/panther
 	url = https://github.com/panther-labs/panther.git
+[submodule "Penetration Testing/Info Gathering/spyse.py"]
+	path = Penetration Testing/Info Gathering/spyse.py
+	url = https://github.com/zeropwn/spyse.py.git
