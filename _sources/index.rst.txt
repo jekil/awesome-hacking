@@ -236,7 +236,6 @@ Honeypot
 - `Elastichoney <https://github.com/jordan-wright/elastichoney>`_ - A Simple Elasticsearch Honeypot.
 - `Glastopf <https://github.com/mushorg/glastopf>`_ - Web Application Honeypot.
 - `Glutton <https://github.com/mushorg/glutton>`_ - All eating honeypot.
-- `HoneyPress <https://github.com/dustyfresh/HoneyPress>`_ - python based WordPress honeypot in a docker container.
 - `HoneyTrap <https://github.com/honeytrap/honeytrap>`_ - Advanced Honeypot framework.
 - `Honeyd <http://www.honeyd.org>`_ - Create a virtual honeynet.
 - `HonnyPotter <https://github.com/MartinIngesen/HonnyPotter>`_ - A WordPress login honeypot for collection and analysis of failed login attempts.
