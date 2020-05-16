@@ -922,9 +922,6 @@
 [submodule "Malware/Honeypot/HonnyPotter"]
 	path = Malware/Honeypot/HonnyPotter
 	url = https://github.com/MartinIngesen/HonnyPotter.git
-[submodule "Malware/Honeypot/HoneyPress"]
-	path = Malware/Honeypot/HoneyPress
-	url = https://github.com/dustyfresh/HoneyPress.git
 [submodule "Malware/Honeypot/wp-smart-honeypot"]
 	path = Malware/Honeypot/wp-smart-honeypot
 	url = https://github.com/freak3dot/wp-smart-honeypot.git
