@@ -503,6 +503,7 @@ Info Gathering
 - `SPartan <https://github.com/sensepost/SPartan>`_ - Frontpage and Sharepoint fingerprinting and attack tool.
 - `SSLMap <http://thesprawl.org/projects/sslmap/>`_ - TLS/SSL cipher suite scanner.
 - `Sparty <https://github.com/0xdevalias/sparty>`_ - MS Sharepoint and Frontpage Auditing Tool.
+- `Spyse.py <https://github.com/zeropwn/spyse.py>`_ - Python API wrapper and command-line client for the tools hosted on spyse.com.
 - `SubFinder <https://github.com/subfinder/subfinder>`_ - A subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - `SubQuest <https://github.com/skepticfx/subquest>`_ - Fast, Elegant subdomain scanner using nodejs.
 - `Subbrute <https://github.com/TheRook/subbrute>`_ - A DNS meta-query spider that enumerates DNS records, and subdomains.
