@@ -121,9 +121,6 @@
 [submodule "Docker/dockerdvwa"]
 	path = Docker/dockerdvwa
 	url = https://github.com/citizen-stig/dockerdvwa.git
-[submodule "Docker/kali-linux-docker"]
-	path = Docker/kali-linux-docker
-	url = https://github.com/offensive-security/kali-linux-docker.git
 [submodule "Docker/vaas-cve-2014-0160"]
 	path = Docker/vaas-cve-2014-0160
 	url = https://github.com/hmlio/vaas-cve-2014-0160.git
