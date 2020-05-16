@@ -210,6 +210,7 @@ Dynamic Analysis
 - `Cuckoo Sandbox <http://www.cuckoosandbox.org>`_ - An automated dynamic malware analysis system.
 - `CuckooDroid <https://github.com/idanr1986/cuckoo-droid>`_ - Automated Android Malware Analysis with Cuckoo Sandbox.
 - `DECAF <https://github.com/sycurelab/DECAF>`_ - Short for Dynamic Executable Code Analysis Framework, is a binary analysis platform based on QEMU.
+- `DRAKVUF Sandbox <https://github.com/CERT-Polska/drakvuf-sandbox>`_ - DRAKVUF Sandbox is an automated black-box malware analysis system with DRAKVUF engine under the hood, which does not require an agent on guest OS.
 - `DroidBox <https://github.com/pjlantz/droidbox>`_ - Dynamic analysis of Android apps.
 - `Hooker <https://github.com/AndroidHooker/hooker>`_ - An opensource project for dynamic analyses of Android applications.
 - `Jsunpack-n <https://github.com/urule99/jsunpack-n>`_ - Emulates browser functionality when visiting a URL.
