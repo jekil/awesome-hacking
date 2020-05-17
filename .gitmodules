@@ -214,9 +214,6 @@
 [submodule "Malware/Intelligence/passivedns-client"]
 	path = Malware/Intelligence/passivedns-client
 	url = https://github.com/chrislee35/passivedns-client.git
-[submodule "Pentration Testing/Wireless/kismet"]
-	path = Penetration Testing/Wireless/kismet
-	url = https://www.kismetwireless.net/kismet.git
 [submodule "Pentration Testing/Wireless/wifite"]
 	path = Penetration Testing/Wireless/wifite
 	url = https://github.com/derv82/wifite.git
@@ -1720,3 +1717,6 @@
 [submodule "Penetration Testing/Exploits/CVE-2020-11651"]
 	path = Penetration Testing/Exploits/CVE-2020-11651
 	url = https://github.com/kevthehermit/CVE-2020-11651.git
+[submodule "Penetration Testing/Wireless/kismet"]
+	path = Penetration Testing/Wireless/kismet
+	url = https://github.com/kismetwireless/kismet.git
