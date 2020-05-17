@@ -16,7 +16,7 @@ To update it run the following command::
 
     git pull
 
-Every kind of **contribution** is really appreciated! Follow the `contribute </contribute.html>`_.
+Every kind of **contribution** is really appreciated! Follow the `contribute <https://awesomehacking.org/contribute.html>`_.
 
 *If you enjoy this work, please keep it alive contributing or just sharing it!* - `@jekil <https://twitter.com/jekil>`_
 
@@ -806,6 +806,7 @@ Reverse Engineering
 - `ScratchABit <https://github.com/pfalcon/ScratchABit>`_ - Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API.
 - `Shed <https://github.com/enkomio/shed>`_ - .NET runtime inspector.
 - `Simplify <https://github.com/CalebFenton/simplify>`_ - Generic Android Deobfuscator.
+- `SimplifyGraph <https://github.com/fireeye/SimplifyGraph>`_ - IDA Pro plugin to assist with complex graphs.
 - `Smali <https://github.com/JesusFreke/smali>`_ - Smali/baksmali is an assembler/disassembler for the dex format used by dalvik, Android's Java VM implementation.
 - `Swiffas <https://github.com/ahixon/swiffas>`_ - SWF parser and AVM2 (Actionscript 3) bytecode parser.
 - `Swift-frida <https://github.com/maltek/swift-frida>`_ - Frida library for interacting with Swift programs.
