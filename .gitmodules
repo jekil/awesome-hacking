@@ -1723,3 +1723,6 @@
 [submodule "Penetration Testing/Post Exploitation/SocksOverRDP"]
 	path = Penetration Testing/Post Exploitation/SocksOverRDP
 	url = https://github.com/nccgroup/SocksOverRDP.git
+[submodule "Reverse Engineering/SimplifyGraph"]
+	path = Reverse Engineering/SimplifyGraph
+	url = https://github.com/fireeye/SimplifyGraph.git
