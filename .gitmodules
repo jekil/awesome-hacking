@@ -1720,3 +1720,6 @@
 [submodule "Penetration Testing/Wireless/kismet"]
 	path = Penetration Testing/Wireless/kismet
 	url = https://github.com/kismetwireless/kismet.git
+[submodule "Penetration Testing/Post Exploitation/SocksOverRDP"]
+	path = Penetration Testing/Post Exploitation/SocksOverRDP
+	url = https://github.com/nccgroup/SocksOverRDP.git
