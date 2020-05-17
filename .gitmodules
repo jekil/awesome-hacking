@@ -1714,3 +1714,9 @@
 [submodule "Penetration Testing/Info Gathering/recon-ng"]
 	path = Penetration Testing/Info Gathering/recon-ng
 	url = https://github.com/lanmaster53/recon-ng.git
+[submodule "Reverse Engineering/winipt"]
+	path = Reverse Engineering/winipt
+	url = https://github.com/ionescu007/winipt.git
+[submodule "Penetration Testing/Exploits/CVE-2020-11651"]
+	path = Penetration Testing/Exploits/CVE-2020-11651
+	url = https://github.com/kevthehermit/CVE-2020-11651.git
