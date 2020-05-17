@@ -442,9 +442,6 @@
 [submodule "Pentration Testing/DoS/LOIC"]
 	path = Penetration Testing/DoS/LOIC
 	url = https://github.com/NewEraCracker/LOIC.git
-[submodule "Pentration Testing/Info Gathering/recon-ng"]
-	path = Penetration Testing/Info Gathering/recon-ng
-	url = https://jekil@bitbucket.org/LaNMaSteR53/recon-ng.git
 [submodule "Social Engineering/Harvester/metagoofil"]
 	path = Social Engineering/Harvester/metagoofil
 	url = https://github.com/laramies/metagoofil.git
@@ -1714,3 +1711,6 @@
 [submodule "Malware/Dynamic Analysis/drakvuf-sandbox"]
 	path = Malware/Dynamic Analysis/drakvuf-sandbox
 	url = https://github.com/CERT-Polska/drakvuf-sandbox.git
+[submodule "Penetration Testing/Info Gathering/recon-ng"]
+	path = Penetration Testing/Info Gathering/recon-ng
+	url = https://github.com/lanmaster53/recon-ng.git

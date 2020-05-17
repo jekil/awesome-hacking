@@ -231,7 +231,6 @@ Honeypot
 - `Basic-auth-pot <https://github.com/bjeborn/basic-auth-pot>`_ - HTTP Basic Authentication honeyPot.
 - `Conpot <https://github.com/mushorg/conpot>`_ - ICS/SCADA honeypot.
 - `Cowrie <https://github.com/micheloosterhof/cowrie>`_ - SSH honeypot, based on Kippo.
-- `Delilah <https://github.com/Novetta/delilah>`_ - An Elasticsearch Honeypot written in Python.
 - `Dionaea <https://github.com/DinoTools/dionaea>`_ - Honeypot designed to trap malware.
 - `ESPot <https://github.com/mycert/ESPot>`_ - An Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
 - `Elastichoney <https://github.com/jordan-wright/elastichoney>`_ - A Simple Elasticsearch Honeypot.
@@ -356,7 +355,6 @@ Sniffer
 
 - `Cloud-pcap <https://github.com/thepacketgeek/cloud-pcap>`_ - Web PCAP storage and analytics.
 - `Dnscap <https://www.dns-oarc.net/tools/dnscap>`_ - Network capture utility designed specifically for DNS traffic.
-- `Dripcap <https://dripcap.org/>`_ - Caffeinated Packet Analyzer.
 - `Dsniff <https://www.monkey.org/~dugsong/dsniff/>`_ - A collection of tools for network auditing and pentesting.
 - `Justniffer <http://justniffer.sourceforge.net/>`_ - Just A Network TCP Packet Sniffer. Justniffer is a network protocol analyzer that captures network traffic and produces logs in a customized way, can emulate Apache web server log files, track response times and extract all "intercepted" files from the HTTP traffic.
 - `Moloch <https://github.com/aol/moloch>`_ - Moloch is a open source large scale full PCAP capturing, indexing and database system.
@@ -396,7 +394,6 @@ Exploiting
 - `EfiGuard <https://github.com/Mattiwatti/EfiGuard>`_ - Disable PatchGuard and DSE at boot time.
 - `Evilgrade <https://github.com/infobyte/evilgrade>`_ - The update explotation framework.
 - `Exe2hex <https://github.com/g0tmi1k/exe2hex>`_ - Inline file transfer using in-built Windows tools (DEBUG.exe or PowerShell).
-- `ExploitPack <http://exploitpack.com>`_ - Graphical tool for penetration testing with a bunch of exploits.
 - `Fathomless <https://github.com/xor-function/fathomless>`_ - A collection of different programs for network red teaming.
 - `Gorsair <https://github.com/Ullaakut/Gorsair>`_ - Gorsair hacks its way into remote docker containers that expose their APIs.
 - `Linux Exploit Suggester <https://github.com/PenturaLabs/Linux_Exploit_Suggester>`_ - Linux Exploit Suggester; based on operating system release number.
@@ -498,7 +495,7 @@ Info Gathering
 - `IVRE <https://ivre.rocks>`_ - An open-source framework for network recon. It relies on open-source well-known tools to gather data (network intelligence), stores it in a database, and provides tools to analyze it.
 - `Knock <https://github.com/guelfoweb/knock>`_ - A python tool designed to enumerate subdomains on a target domain through a wordlist.
 - `Operative-framework <https://github.com/graniet/operative-framework>`_ - This is a framework based on fingerprint action, this tool is used for get information on a website or a enterprise target with multiple modules (Viadeo search,Linkedin search, Reverse email whois, Reverse ip whois, SQL file forensics ...).
-- `Recon-ng <https://bitbucket.org/LaNMaSteR53/recon-ng>`_ - A full-featured Web Reconnaissance framework written in Python.
+- `Recon-ng <https://github.com/lanmaster53/recon-ng>`_ - A full-featured Web Reconnaissance framework written in Python.
 - `SMBMap <https://github.com/ShawnDEvans/smbmap>`_ - A handy SMB enumeration tool.
 - `SPartan <https://github.com/sensepost/SPartan>`_ - Frontpage and Sharepoint fingerprinting and attack tool.
 - `SSLMap <http://thesprawl.org/projects/sslmap/>`_ - TLS/SSL cipher suite scanner.
