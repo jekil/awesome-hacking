@@ -1282,9 +1282,6 @@
 [submodule "Pentration Testing/Password Cracking/npk"]
 	path = Penetration Testing/Password Cracking/npk
 	url = https://github.com/Coalfire-Research/npk.git
-[submodule "Social Engineering/Harvester/email-enum"]
-	path = Social Engineering/Harvester/email-enum
-	url = https://github.com/Frint0/email-enum.git
 [submodule "Reverse Engineering/ghidra"]
 	path = Reverse Engineering/ghidra
 	url = https://github.com/NationalSecurityAgency/ghidra.git
@@ -1723,3 +1720,6 @@
 [submodule "Reverse Engineering/SimplifyGraph"]
 	path = Reverse Engineering/SimplifyGraph
 	url = https://github.com/fireeye/SimplifyGraph.git
+[submodule "Social Engineering/Harvester/email-enum"]
+	path = Social Engineering/Harvester/email-enum
+	url = https://github.com/fuckup1337/email-enum

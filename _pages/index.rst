@@ -869,7 +869,6 @@ Privacy
 - `Tomb <https://github.com/dyne/Tomb>`_ - A minimalistic commandline tool to manage encrypted volumes aka The Crypto Undertaker.
 - `Tor <https://www.torproject.org>`_ - The free software for enabling onion routing online anonymity.
 - `Toriptables2 <https://github.com/ruped24/toriptables2>`_ - A python script alternative to Nipe. Makes Tor Network your default gateway.
-- `WebXray <https://github.com/timlib/webXray>`_ - A tool for analyzing third-party content on webpages and identifying the companies which collect user data.
 
 Social Engineering
 ==================
@@ -884,7 +883,7 @@ Harvester
 
 - `Creepy <http://www.geocreepy.com>`_ - A geolocation OSINT tool.
 - `Datasploit <https://github.com/dvopsway/datasploit>`_ - A tool to perform various OSINT techniques, aggregate all the raw data, visualise it on a dashboard, and facilitate alerting and monitoring on the data.
-- `Email-enum <https://github.com/Frint0/email-enum>`_ - Searches mainstream websites and tells you if an email is registered.
+- `Email-enum <https://github.com/fuckup1337/email-enum>`_ - Searches mainstream websites and tells you if an email is registered.
 - `Github-dorks <https://github.com/techgaun/github-dorks>`_ - CLI tool to scan github repos/organizations for potential sensitive information leak.
 - `Maltego <https://www.paterva.com>`_ - Proprietary software for open source intelligence and forensics, from Paterva.
 - `Metagoofil <https://github.com/laramies/metagoofil>`_ - Metadata harvester.
