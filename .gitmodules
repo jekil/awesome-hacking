@@ -1720,3 +1720,6 @@
 [submodule "Social Engineering/Harvester/email-enum"]
 	path = Social Engineering/Harvester/email-enum
 	url = https://github.com/fuckup1337/email-enum
+[submodule "Reverse Engineering/granary"]
+	path = Reverse Engineering/granary
+	url = https://github.com/Granary/granary.git
