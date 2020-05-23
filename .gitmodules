@@ -1735,3 +1735,6 @@
 [submodule "Security/Cloud Security/s3cr3t"]
 	path = Security/Cloud Security/s3cr3t
 	url = https://github.com/axl89/s3cr3t.git
+[submodule "Security/Endpoint Security/aide"]
+	path = Security/Endpoint Security/aide
+	url = https://github.com/aide/aide.git
