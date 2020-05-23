@@ -1723,3 +1723,15 @@
 [submodule "Reverse Engineering/granary"]
 	path = Reverse Engineering/granary
 	url = https://github.com/Granary/granary.git
+[submodule "Social Engineering/Phishing/lockphish"]
+	path = Social Engineering/Phishing/lockphish
+	url = https://github.com/thelinuxchoice/lockphish.git
+[submodule "Social Engineering/Phishing/whatsapp-phishing"]
+	path = Social Engineering/Phishing/whatsapp-phishing
+	url = https://github.com/Ignitetch/whatsapp-phishing.git
+[submodule "Penetration Testing/Exploiting/ShellcodeCompiler"]
+	path = Penetration Testing/Exploiting/ShellcodeCompiler
+	url = https://github.com/NytroRST/ShellcodeCompiler.git
+[submodule "Security/Cloud Security/s3cr3t"]
+	path = Security/Cloud Security/s3cr3t
+	url = https://github.com/axl89/s3cr3t.git
