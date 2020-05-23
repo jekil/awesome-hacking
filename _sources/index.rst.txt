@@ -409,6 +409,7 @@ Exploiting
 - `Rupture <https://github.com/dionyziz/rupture/>`_ - A framework for BREACH and other compression-based crypto attacks.
 - `SPARTA <http://sparta.secforce.com>`_ - Network Infrastructure Penetration Testing Tool.
 - `SharpShooter <https://github.com/mdsecactivebreach/SharpShooter>`_ - Payload Generation Framework.
+- `ShellcodeCompiler <https://github.com/NytroRST/ShellcodeCompiler>`_ - A program that compiles C/C++ style code into a small, position-independent and NULL-free shellcode for Windows (x86 and x64) and Linux (x86 and x64). It is possible to call any Windows API function or Linux syscall in a user-friendly way.
 - `Shellen <https://github.com/merrychap/shellen>`_ - Interactive shellcoding environment to easily craft shellcodes.
 - `Shellsploit <https://github.com/b3mb4m/shellsploit-framework>`_ - Let's you generate customized shellcodes, backdoors, injectors for various operating system. And let's you obfuscation every byte via encoders.
 - `Spoodle <https://github.com/vjex/spoodle>`_ - A mass subdomain + poodle vulnerability scanner.
@@ -841,6 +842,7 @@ Cloud Security
 - `Panther <https://runpanther.io>`_ - A Cloud-Native SIEM for the Modern Security Team
 - `Parliament <https://github.com/duo-labs/parliament>`_ - An AWS IAM linting library. It reviews policies looking for problems.
 - `Security Monkey <https://github.com/Netflix/security_monkey>`_ - Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
+- `s3cr3t <https://github.com/axl89/s3cr3t>`_ - Serve files securely from an S3 bucket with expiring links and other restrictions.
 
 Endpoint Security
 -----------------
@@ -899,9 +901,11 @@ Phishing
 - `CredSniper <https://github.com/ustayready/CredSniper>`_ - A phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.
 - `FiercePhish <https://github.com/Raikia/FiercePhish>`_ - A full-fledged phishing framework to manage all phishing engagements. It allows you to track separate phishing campaigns, schedule sending of emails, and much more.
 - `GoPhish <https://github.com/gophish/gophish>`_ - Gophish is an open-source phishing toolkit designed for businesses and penetration testers. It provides the ability to quickly and easily setup and execute phishing engagements and security awareness training.
+- `Lockphish <https://github.com/thelinuxchoice/lockphish>`_ - Lockphish it's the first tool for phishing attacks on the lock screen, designed to grab Windows credentials, Android PIN and iPhone Passcode using a https link.
 - `Modlishka <https://github.com/drk1wi/Modlishka>`_ - Reverse Proxy. Phishing NG.
 - `Phishing-frenzy <https://github.com/pentestgeek/phishing-frenzy>`_ - Ruby on Rails Phishing Framework.
 - `Pompa <https://github.com/m1nl/pompa>`_ - Fully-featured spear-phishing toolkit - web front-end.
+- `Whatsapp-phishing <https://github.com/Ignitetch/whatsapp-phishing>`_ - The best tool for whatsapp-phishing with otp provider.
 
 Wardialing
 ----------
