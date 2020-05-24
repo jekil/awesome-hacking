@@ -1738,3 +1738,9 @@
 [submodule "Security/Endpoint Security/aide"]
 	path = Security/Endpoint Security/aide
 	url = https://github.com/aide/aide.git
+[submodule "Code Auditing/Static Analysis/drtaint"]
+	path = Code Auditing/Static Analysis/drtaint
+	url = https://github.com/toshipiazza/drtaint.git
+[submodule "Penetration Testing/Wireless/aircrack-ng"]
+	path = Penetration Testing/Wireless/aircrack-ng
+	url = https://github.com/aircrack-ng/aircrack-ng.git
