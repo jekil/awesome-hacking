@@ -1744,3 +1744,15 @@
 [submodule "Penetration Testing/Wireless/aircrack-ng"]
 	path = Penetration Testing/Wireless/aircrack-ng
 	url = https://github.com/aircrack-ng/aircrack-ng.git
+[submodule "Forensics/Mobile/android-backup-extractor"]
+	path = Forensics/Mobile/android-backup-extractor
+	url = https://github.com/nelenkov/android-backup-extractor.git
+[submodule "Reverse Engineering/Ponce"]
+	path = Reverse Engineering/Ponce
+	url = https://github.com/illera88/Ponce.git
+[submodule "Penetration Testing/Fuzzing/vfuzz"]
+	path = Penetration Testing/Fuzzing/vfuzz
+	url = https://github.com/guidovranken/vfuzz.git
+[submodule "Penetration Testing/Post Exploitation/SharpC2"]
+	path = Penetration Testing/Post Exploitation/SharpC2
+	url = https://github.com/SharpC2/SharpC2.git

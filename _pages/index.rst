@@ -121,6 +121,7 @@ Mobile
 ------
 
 - `Android Forensic Toolkit <https://code.google.com/archive/p/aft/>`_ - Allows you to extract SMS records, call history, photos, browsing history, and password from an Android phone.
+- `Android backup extractor <https://github.com/nelenkov/android-backup-extractor>`_ - Utility to extract and repack Android backups created with adb backup (ICS+). Largely based on BackupManagerService.java from AOSP.
 - `Mem <https://github.com/MobileForensicsResearch/mem>`_ - Tool used for dumping memory from Android devices.
 - `Snoopdroid <https://github.com/botherder/snoopdroid>`_ - Extract packages from an Android device.
 - `WhatsApp Media Decrypt <https://github.com/ddz/whatsapp-media-decrypt>`_ - Decrypt WhatsApp encrypted media files.
@@ -480,6 +481,7 @@ Fuzzing
 - `TAOF <https://sourceforge.net/projects/taof/>`_ - The Art of Fuzzing, including ProxyFuzz, a man-in-the-middle non-deterministic network fuzzer.
 - `Unicorefuzz <https://github.com/fgsect/unicorefuzz>`_ - Fuzzing the Kernel Using Unicornafl and AFL++.
 - `VUzzer <https://github.com/vusec/vuzzer>`_ - This Project depends heavily on a modeified version of DataTracker, which in turn depends on LibDFT pintool. It has some extra tags added in libdft.
+- `Vfuzz <https://github.com/guidovranken/vfuzz>`_ - I don't claim superiority over other engines in performance or efficiency out of the box, but this does implement some features that I felt where lacking elsewhere.
 - `Winafl <https://github.com/googleprojectzero/winafl>`_ - A fork of AFL for fuzzing Windows binaries.
 - `Windows IPC Fuzzing Tools <https://www.nccgroup.trust/us/about-us/resources/windows-ipc-fuzzing-tools/>`_ - A collection of tools used to attack applications that use Windows Interprocess Communication mechanisms.
 - `Zulu <https://github.com/nccgroup/Zulu.git>`_ - A fuzzer designed for rapid prototyping that normally happens on a client engagement where something needs to be fuzzed within tight timescales.
@@ -609,6 +611,7 @@ Post Exploitation
 - `RemoteRecon <https://github.com/xorrior/RemoteRecon>`_ - Remote Recon and Collection.
 - `RottenPotatoNG <https://github.com/breenmachine/RottenPotatoNG>`_ - New version of RottenPotato as a C++ DLL and standalone C++ binary - no need for meterpreter or other tools.
 - `SafetyKatz <https://github.com/GhostPack/SafetyKatz>`_ - SafetyKatz is a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subTee's .NET PE Load.
+- `SharpC2 <https://github.com/SharpC2/SharpC2>`_ - .NET Command & Control Framework
 - `SocksOverRDP <https://github.com/nccgroup/SocksOverRDP>`_ - Socks5/4/4a Proxy support for Remote Desktop Protocol / Terminal Services.
 - `SpYDyishai <https://github.com/Night46/spYDyishai>`_ - A Gmail credential harvester.
 - `Tgcd <http://tgcd.sourceforge.net>`_ - A simple Unix network utility to extend the accessibility of TCP/IP based network services beyond firewalls.
@@ -795,6 +798,7 @@ Reverse Engineering
 - `Paimei <https://github.com/OpenRCE/paimei>`_ - Reverse engineering framework, includes PyDBG, PIDA, pGRAPH.
 - `Pigaios <https://github.com/joxeankoret/pigaios>`_ - A tool for matching and diffing source codes directly against binaries.
 - `Plasma <https://github.com/joelpx/plasma>`_ - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
+- `Ponce <https://github.com/illera88/Ponce>`_ - An IDA Pro plugin that provides users the ability to perform taint analysis and symbolic execution over binaries in an easy and intuitive fashion. With Ponce you are one click away from getting all the power from cutting edge symbolic execution. Entirely written in C/C++.
 - `Procyon <https://bitbucket.org/mstrobel/procyon>`_ - A modern open-source Java decompiler.
 - `Protobuf-inspector <https://github.com/jmendeth/protobuf-inspector>`_ - Tool to reverse-engineer Protocol Buffers with unknown definition.
 - `Pwndbg <https://github.com/pwndbg/pwndbg>`_ - Exploit Development and Reverse Engineering with GDB Made Easy.
