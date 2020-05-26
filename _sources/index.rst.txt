@@ -222,6 +222,7 @@ Dynamic Analysis
 - `Panda <https://github.com/panda-re/panda>`_ - Platform for Architecture-Neutral Dynamic Analysis.
 - `ProbeDroid <https://github.com/ZSShen/ProbeDroid>`_ - A dynamic binary instrumentation kit targeting on Android(Lollipop) 5.0 and above.
 - `PyEMU <https://code.google.com/archive/p/pyemu/>`_ - Fully scriptable IA-32 emulator, useful for malware analysis.
+- `PyWinSandbox <https://github.com/karkason/pywinsandbox>`_ - Python Windows Sandbox library. Create a new Windows Sandbox machine, control it with a simple RPyC interface.
 - `Pyrebox <https://github.com/Cisco-Talos/pyrebox>`_ - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU.
 - `Qiling <https://github.com/qilingframework/qiling>`_ - Advanced Binary Emulation framework.
 - `Uitkyk <https://github.com/brompwnie/uitkyk>`_ - Runtime memory analysis framework to identify Android malware.
@@ -238,6 +239,7 @@ Honeypot
 - `Elastichoney <https://github.com/jordan-wright/elastichoney>`_ - A Simple Elasticsearch Honeypot.
 - `Glastopf <https://github.com/mushorg/glastopf>`_ - Web Application Honeypot.
 - `Glutton <https://github.com/mushorg/glutton>`_ - All eating honeypot.
+- `HFish <https://hfish.io/>`_ - A cross platform honeypot platform developed based on golang, which has been meticulously built for enterprise security.
 - `HoneyTrap <https://github.com/honeytrap/honeytrap>`_ - Advanced Honeypot framework.
 - `Honeyd <http://www.honeyd.org>`_ - Create a virtual honeynet.
 - `HonnyPotter <https://github.com/MartinIngesen/HonnyPotter>`_ - A WordPress login honeypot for collection and analysis of failed login attempts.
@@ -249,6 +251,7 @@ Honeypot
 - `MysqlPot <https://github.com/schmalle/MysqlPot>`_ - A mysql honeypot, still very very early stage.
 - `NoSQLPot <https://github.com/torque59/nosqlpot>`_ - The NoSQL Honeypot Framework.
 - `Nodepot <https://github.com/schmalle/Nodepot>`_ - A nodejs web application honeypot.
+- `OpenCanary <http://opencanary.org/>`_ - A daemon that runs several canary versions of services that alerts when a service is (ab)used.
 - `Phoneyc <https://github.com/buffer/phoneyc>`_ - Pure Python honeyclient implementation.
 - `Phpmyadmin_honeypot <https://github.com/gfoss/phpmyadmin_honeypot>`_ - A simple and effective phpMyAdmin honeypot.
 - `Servletpot <https://github.com/schmalle/servletpot>`_ - Web application Honeypot.
@@ -398,6 +401,7 @@ Exploiting
 - `Exe2hex <https://github.com/g0tmi1k/exe2hex>`_ - Inline file transfer using in-built Windows tools (DEBUG.exe or PowerShell).
 - `Fathomless <https://github.com/xor-function/fathomless>`_ - A collection of different programs for network red teaming.
 - `Gorsair <https://github.com/Ullaakut/Gorsair>`_ - Gorsair hacks its way into remote docker containers that expose their APIs.
+- `LAVA <https://github.com/panda-re/lava>`_ - Large-scale Automated Vulnerability Addition.
 - `Linux Exploit Suggester <https://github.com/PenturaLabs/Linux_Exploit_Suggester>`_ - Linux Exploit Suggester; based on operating system release number.
 - `Linux-exploit-suggester <https://github.com/mzet-/linux-exploit-suggester>`_ - Linux privilege escalation auditing tool.
 - `Metasploit Framework <http://www.metasploit.com/>`_ - Exploitation framework.
@@ -706,6 +710,7 @@ Web
 - `Wfuzz <https://github.com/xmendez/wfuzz>`_ - Web application fuzzer.
 - `WhatWeb <https://www.morningstarsecurity.com/research/whatweb>`_ - Website Fingerprinter.
 - `Wordpress Exploit Framework <https://github.com/rastating/wordpress-exploit-framework>`_ - A Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
+- `Wuzz <https://github.com/asciimoo/wuzz>`_ - Interactive cli tool for HTTP inspection
 - `XSS-keylogger <https://github.com/hadynz/xss-keylogger>`_ - A keystroke logger to exploit XSS vulnerabilities in a site.
 - `XSS-payload-list <https://github.com/ismailtasdelen/xss-payload-list>`_ - XSS Payload list.
 - `Yasuo <https://github.com/0xsauby/yasuo>`_ - A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network.
