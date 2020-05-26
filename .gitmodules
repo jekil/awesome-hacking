@@ -1756,3 +1756,18 @@
 [submodule "Penetration Testing/Post Exploitation/SharpC2"]
 	path = Penetration Testing/Post Exploitation/SharpC2
 	url = https://github.com/SharpC2/SharpC2.git
+[submodule "Penetration Testing/Exploiting/lava"]
+	path = Penetration Testing/Exploiting/lava
+	url = https://github.com/panda-re/lava.git
+[submodule "Malware/Dynamic Analysis/pywinsandbox"]
+	path = Malware/Dynamic Analysis/pywinsandbox
+	url = https://github.com/karkason/pywinsandbox.git
+[submodule "Malware/Honeypot/opencanary"]
+	path = Malware/Honeypot/opencanary
+	url = https://github.com/thinkst/opencanary.git
+[submodule "Malware/Honeypot/HFish"]
+	path = Malware/Honeypot/HFish
+	url = https://github.com/hacklcx/HFish.git
+[submodule "Penetration Testing/Web/wuzz"]
+	path = Penetration Testing/Web/wuzz
+	url = https://github.com/asciimoo/wuzz.git
