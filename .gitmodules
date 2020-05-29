@@ -1771,3 +1771,12 @@
 [submodule "Penetration Testing/Web/wuzz"]
 	path = Penetration Testing/Web/wuzz
 	url = https://github.com/asciimoo/wuzz.git
+[submodule "Reverse Engineering/ghidra_scripts"]
+	path = Reverse Engineering/ghidra_scripts
+	url = https://github.com/ghidraninja/ghidra_scripts.git
+[submodule "Malware/Honeypot/django-admin-honeypot"]
+	path = Malware/Honeypot/django-admin-honeypot
+	url = https://github.com/dmpayton/django-admin-honeypot.git
+[submodule "Malware/Honeypot/tpotce"]
+	path = Malware/Honeypot/tpotce
+	url = https://github.com/dtag-dev-sec/tpotce.git
