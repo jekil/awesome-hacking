@@ -235,6 +235,7 @@ Honeypot
 - `Conpot <https://github.com/mushorg/conpot>`_ - ICS/SCADA honeypot.
 - `Cowrie <https://github.com/micheloosterhof/cowrie>`_ - SSH honeypot, based on Kippo.
 - `Dionaea <https://github.com/DinoTools/dionaea>`_ - Honeypot designed to trap malware.
+- `Django-admin-honeypot <https://github.com/dmpayton/django-admin-honeypot>`_ - A fake Django admin login screen to log and notify admins of attempted unauthorized access.
 - `ESPot <https://github.com/mycert/ESPot>`_ - An Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
 - `Elastichoney <https://github.com/jordan-wright/elastichoney>`_ - A Simple Elasticsearch Honeypot.
 - `Glastopf <https://github.com/mushorg/glastopf>`_ - Web Application Honeypot.
@@ -258,6 +259,7 @@ Honeypot
 - `Shadow Daemon <https://shadowd.zecure.org>`_ - A modular Web Application Firewall / High-Interaction Honeypot for PHP, Perl & Python apps.
 - `Smart-honeypot <https://github.com/freak3dot/smart-honeypot>`_ - PHP Script demonstrating a smart honey pot.
 - `SpamScope <https://github.com/SpamScope/spamscope>`_ - Fast Advanced Spam Analysis Tool.
+- `T-Pot <https://github.com/dtag-dev-sec/tpotce>`_ - The All In One Honeypot Platform.
 - `Thug <https://github.com/buffer/thug>`_ - Low interaction honeyclient, for investigating malicious websites.
 - `Wordpot <https://github.com/gbrindisi/wordpot>`_ - A WordPress Honeypot.
 - `Wp-smart-honeypot <https://github.com/freak3dot/wp-smart-honeypot>`_ - WordPress plugin to reduce comment spam with a smarter honeypot.
@@ -773,6 +775,7 @@ Reverse Engineering
 - `Gdb-dashboard <https://github.com/cyrus-and/gdb-dashboard>`_ - Modular visual interface for GDB in Python.
 - `Gdbstub <https://github.com/mborgerson/gdbstub>`_ - A simple, dependency-free GDB stub that can be easily dropped in to your project.
 - `Ghidra <https://github.com/NationalSecurityAgency/ghidra>`_ - A software reverse engineering (SRE) framework.
+- `Ghidra_scripts <https://github.com/ghidraninja/ghidra_scripts>`_ - Scripts for the Ghidra software reverse engineering suite.
 - `Granary <https://github.com/Granary/granary>`_ - A  kernel space dynamic binary translation framework. The main goal of Granary is to enable flexible and efficient instrumentation of Linux kernel modules, while imposing no overhead to non-module kernel code.
 - `Haybale <https://github.com/PLSysSec/haybale>`_ - Symbolic execution of LLVM IR with an engine written in Rust.
 - `Heap-viewer <https://github.com/danigargu/heap-viewer>`_ - An IDA Pro plugin to examine the glibc heap, focused on exploit development.
