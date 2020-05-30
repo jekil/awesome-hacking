@@ -903,6 +903,7 @@ Harvester
 - `Github-dorks <https://github.com/techgaun/github-dorks>`_ - CLI tool to scan github repos/organizations for potential sensitive information leak.
 - `Maltego <https://www.paterva.com>`_ - Proprietary software for open source intelligence and forensics, from Paterva.
 - `Metagoofil <https://github.com/laramies/metagoofil>`_ - Metadata harvester.
+- `SpiderFoot <http://www.spiderfoot.net>`_ - Automates OSINT collection so that you can focus on analysis.
 - `TTSL <https://github.com/dchrastil/TTSL>`_ - Tool to scrape LinkedIn.
 - `TheHarvester <http://www.edge-security.com/theharvester.php>`_ - E-mail, subdomain and people names harvester.
 

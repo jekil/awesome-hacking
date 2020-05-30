@@ -1780,3 +1780,6 @@
 [submodule "Malware/Honeypot/tpotce"]
 	path = Malware/Honeypot/tpotce
 	url = https://github.com/dtag-dev-sec/tpotce.git
+[submodule "Social Engineering/Harvester/spiderfoot"]
+	path = Social Engineering/Harvester/spiderfoot
+	url = https://github.com/smicallef/spiderfoot.git
