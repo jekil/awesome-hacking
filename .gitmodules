@@ -1783,3 +1783,9 @@
 [submodule "Social Engineering/Harvester/spiderfoot"]
 	path = Social Engineering/Harvester/spiderfoot
 	url = https://github.com/smicallef/spiderfoot.git
+[submodule "Malware/Honeypot/kippo"]
+	path = Malware/Honeypot/kippo
+	url = https://github.com/desaster/kippo.git
+[submodule "Penetration Testing/Post Exploitation/HoneypotBuster"]
+	path = Penetration Testing/Post Exploitation/HoneypotBuster
+	url = https://github.com/JavelinNetworks/HoneypotBuster.git

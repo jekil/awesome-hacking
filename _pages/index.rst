@@ -233,7 +233,7 @@ Honeypot
 
 - `Basic-auth-pot <https://github.com/bjeborn/basic-auth-pot>`_ - HTTP Basic Authentication honeyPot.
 - `Conpot <https://github.com/mushorg/conpot>`_ - ICS/SCADA honeypot.
-- `Cowrie <https://github.com/micheloosterhof/cowrie>`_ - SSH honeypot, based on Kippo.
+- `Cowrie <https://www.cowrie.org>`_ - SSH honeypot, based on Kippo.
 - `Dionaea <https://github.com/DinoTools/dionaea>`_ - Honeypot designed to trap malware.
 - `Django-admin-honeypot <https://github.com/dmpayton/django-admin-honeypot>`_ - A fake Django admin login screen to log and notify admins of attempted unauthorized access.
 - `ESPot <https://github.com/mycert/ESPot>`_ - An Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
@@ -244,6 +244,7 @@ Honeypot
 - `HoneyTrap <https://github.com/honeytrap/honeytrap>`_ - Advanced Honeypot framework.
 - `Honeyd <http://www.honeyd.org>`_ - Create a virtual honeynet.
 - `HonnyPotter <https://github.com/MartinIngesen/HonnyPotter>`_ - A WordPress login honeypot for collection and analysis of failed login attempts.
+- `Kippo <https://github.com/desaster/kippo>`_ - A medium interaction SSH honeypot designed to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.
 - `Kippo-graph <https://github.com/ikoniaris/kippo-graph>`_ - Visualize statistics from a Kippo SSH honeypot.
 - `MHN <https://github.com/threatstream/mhn>`_ - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management.
 - `Maildb <https://github.com/kevthehermit/Maildb>`_ - Python Web App to Parse and Track Email and http Pcap Files.
@@ -598,6 +599,7 @@ Post Exploitation
 - `GetVulnerableGPO <https://github.com/gpoguy/GetVulnerableGPO.git>`_ - PowerShell script to find 'vulnerable' security-related GPOs that should be hardended.
 - `Ghost In The Logs <https://github.com/bats3c/ghost-in-the-logs/>`_ - Evade sysmon and windows event logging.
 - `HoneyBadger <https://github.com/trustedsec/HoneyBadger>`_ - A collection of Metasploit modules with a plugin to help automate Post-Exploitation actions on target systems using the Metasploit Framework.
+- `HoneypotBuster <https://github.com/JavelinNetworks/HoneypotBuster>`_ - Microsoft PowerShell module designed for red teams that can be used to find honeypots and honeytokens in the network or at the host.
 - `Iodine <http://code.kryo.se/iodine>`_ - Lets you tunnel IPv4 data through a DNS server.
 - `Koadic <https://github.com/zerosum0x0/koadic>`_ - Koadic C3 COM Command & Control - JScript RAT.
 - `Mallory <https://github.com/justmao945/mallory>`_ - HTTP/HTTPS proxy over SSH.
