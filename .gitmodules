@@ -1789,3 +1789,9 @@
 [submodule "Penetration Testing/Post Exploitation/HoneypotBuster"]
 	path = Penetration Testing/Post Exploitation/HoneypotBuster
 	url = https://github.com/JavelinNetworks/HoneypotBuster.git
+[submodule "Malware/Honeypot/snare"]
+	path = Malware/Honeypot/snare
+	url = https://github.com/mushorg/snare.git
+[submodule "Malware/Honeypot/heralding"]
+	path = Malware/Honeypot/heralding
+	url = https://github.com/johnnykv/heralding.git
