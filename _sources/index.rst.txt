@@ -241,6 +241,7 @@ Honeypot
 - `Glastopf <https://github.com/mushorg/glastopf>`_ - Web Application Honeypot.
 - `Glutton <https://github.com/mushorg/glutton>`_ - All eating honeypot.
 - `HFish <https://hfish.io/>`_ - A cross platform honeypot platform developed based on golang, which has been meticulously built for enterprise security.
+- `Heralding <https://github.com/johnnykv/heralding>`_ - Sometimes you just want a simple honeypot that collects credentials, nothing more. Heralding is that honeypot! Currently the following protocols are supported: ftp, telnet, ssh, rdp, http, https, pop3, pop3s, imap, imaps, smtp, vnc, postgresql and socks5.
 - `HoneyTrap <https://github.com/honeytrap/honeytrap>`_ - Advanced Honeypot framework.
 - `Honeyd <http://www.honeyd.org>`_ - Create a virtual honeynet.
 - `HonnyPotter <https://github.com/MartinIngesen/HonnyPotter>`_ - A WordPress login honeypot for collection and analysis of failed login attempts.
@@ -259,6 +260,7 @@ Honeypot
 - `Servletpot <https://github.com/schmalle/servletpot>`_ - Web application Honeypot.
 - `Shadow Daemon <https://shadowd.zecure.org>`_ - A modular Web Application Firewall / High-Interaction Honeypot for PHP, Perl & Python apps.
 - `Smart-honeypot <https://github.com/freak3dot/smart-honeypot>`_ - PHP Script demonstrating a smart honey pot.
+- `Snare <https://github.com/mushorg/snare>`_ - Super Next generation Advanced Reactive honEypot
 - `SpamScope <https://github.com/SpamScope/spamscope>`_ - Fast Advanced Spam Analysis Tool.
 - `T-Pot <https://github.com/dtag-dev-sec/tpotce>`_ - The All In One Honeypot Platform.
 - `Thug <https://github.com/buffer/thug>`_ - Low interaction honeyclient, for investigating malicious websites.
