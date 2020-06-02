@@ -1795,3 +1795,12 @@
 [submodule "Malware/Honeypot/heralding"]
 	path = Malware/Honeypot/heralding
 	url = https://github.com/johnnykv/heralding.git
+[submodule "Penetration Testing/Post Exploitation/spraywmi"]
+	path = Penetration Testing/Post Exploitation/spraywmi
+	url = https://github.com/trustedsec/spraywmi.git
+[submodule "Penetration Testing/Exploiting/meterssh"]
+	path = Penetration Testing/Exploiting/meterssh
+	url = https://github.com/trustedsec/meterssh.git
+[submodule "Malware/Honeypot/mailoney"]
+	path = Malware/Honeypot/mailoney
+	url = https://github.com/awhitehatter/mailoney.git
