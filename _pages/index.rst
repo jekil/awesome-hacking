@@ -242,6 +242,7 @@ Honeypot
 - `Glutton <https://github.com/mushorg/glutton>`_ - All eating honeypot.
 - `HFish <https://hfish.io/>`_ - A cross platform honeypot platform developed based on golang, which has been meticulously built for enterprise security.
 - `Heralding <https://github.com/johnnykv/heralding>`_ - Sometimes you just want a simple honeypot that collects credentials, nothing more. Heralding is that honeypot! Currently the following protocols are supported: ftp, telnet, ssh, rdp, http, https, pop3, pop3s, imap, imaps, smtp, vnc, postgresql and socks5.
+- `HonTel <https://github.com/stamparm/hontel>`_ - A Honeypot for Telnet service. Basically, it is a Python v2.x application emulating the service inside the chroot environment. Originally it has been designed to be run inside the Ubuntu/Debian environment, though it could be easily adapted to run inside any Linux environment.
 - `HoneyTrap <https://github.com/honeytrap/honeytrap>`_ - Advanced Honeypot framework.
 - `Honeyd <http://www.honeyd.org>`_ - Create a virtual honeynet.
 - `HonnyPotter <https://github.com/MartinIngesen/HonnyPotter>`_ - A WordPress login honeypot for collection and analysis of failed login attempts.
@@ -397,6 +398,7 @@ Exploiting
 ----------
 
 - `AttackSurfaceAnalyzer <https://github.com/microsoft/AttackSurfaceAnalyzer>`_ - Attack Surface Analyzer can help you analyze your operating system's security configuration for changes during software installation.
+- `Bashfuscator <https://github.com/Bashfuscator/Bashfuscator>`_ - A fully configurable and extendable Bash obfuscation framework. This tool is intended to help both red team and blue team.
 - `BeEF <http://beefproject.com>`_ - The Browser Exploitation Framework Project.
 - `BugId <https://github.com/SkyLined/BugId>`_ - Detect, analyze and uniquely identify crashes in Windows applications.
 - `Commix <http://www.commixproject.com>`_ - Automated All-in-One OS Command Injection and Exploitation Tool.
@@ -587,6 +589,7 @@ Post Exploitation
 -----------------
 
 - `Backdoorme <https://github.com/Kkevsterrr/backdoorme>`_ - Powerful auto-backdooring utility.
+- `CatTails <https://github.com/oneNutW0nder/CatTails>`_ - Raw socket library/framework for red team events.
 - `Covenant <https://github.com/cobbr/Covenant>`_ - Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.
 - `CrackMapExec <https://github.com/byt3bl33d3r/CrackMapExec>`_ - A post-exploitation tool that helps automate assessing the security of large Active Directory networks.
 - `CredCrack <https://github.com/gojhonny/CredCrack>`_ - A fast and stealthy credential harvester.
@@ -620,6 +623,7 @@ Post Exploitation
 - `Pupy <https://github.com/n1nj4sec/pupy>`_ - An opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python.
 - `Pwnat <https://samy.pl/pwnat/>`_ - Punches holes in firewalls and NATs allowing any numbers of clients behind NATs to directly connect to a server behind a different NAT.
 - `Pypykatz <https://github.com/skelsec/pypykatz>`_ - Mimikatz implementation in pure Python.
+- `RedGhost <https://github.com/d4rk007/RedGhost>`_ - Linux post exploitation framework written in bash designed to assist red teams in persistence, reconnaissance, privilege escalation and leaving no trace.
 - `RemoteRecon <https://github.com/xorrior/RemoteRecon>`_ - Remote Recon and Collection.
 - `RottenPotatoNG <https://github.com/breenmachine/RottenPotatoNG>`_ - New version of RottenPotato as a C++ DLL and standalone C++ binary - no need for meterpreter or other tools.
 - `SafetyKatz <https://github.com/GhostPack/SafetyKatz>`_ - SafetyKatz is a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subTee's .NET PE Load.

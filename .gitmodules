@@ -1804,3 +1804,15 @@
 [submodule "Malware/Honeypot/mailoney"]
 	path = Malware/Honeypot/mailoney
 	url = https://github.com/awhitehatter/mailoney.git
+[submodule "Malware/Honeypot/hontel"]
+	path = Malware/Honeypot/hontel
+	url = https://github.com/stamparm/hontel.git
+[submodule "Penetration Testing/Post Exploitation/CatTails"]
+	path = Penetration Testing/Post Exploitation/CatTails
+	url = https://github.com/oneNutW0nder/CatTails.git
+[submodule "Penetration Testing/Post Exploitation/RedGhost"]
+	path = Penetration Testing/Post Exploitation/RedGhost
+	url = https://github.com/d4rk007/RedGhost.git
+[submodule "Penetration Testing/Exploiting/Bashfuscator"]
+	path = Penetration Testing/Exploiting/Bashfuscator
+	url = https://github.com/Bashfuscator/Bashfuscator.git
