@@ -590,6 +590,7 @@ Post Exploitation
 
 - `Backdoorme <https://github.com/Kkevsterrr/backdoorme>`_ - Powerful auto-backdooring utility.
 - `CatTails <https://github.com/oneNutW0nder/CatTails>`_ - Raw socket library/framework for red team events.
+- `Cloudy-kraken <https://github.com/Netflix-Skunkworks/cloudy-kraken>`_ - AWS Red Team Orchestration Framework.
 - `Covenant <https://github.com/cobbr/Covenant>`_ - Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.
 - `CrackMapExec <https://github.com/byt3bl33d3r/CrackMapExec>`_ - A post-exploitation tool that helps automate assessing the security of large Active Directory networks.
 - `CredCrack <https://github.com/gojhonny/CredCrack>`_ - A fast and stealthy credential harvester.
@@ -618,6 +619,7 @@ Post Exploitation
 - `PacketWhisper <https://github.com/TryCatchHCF/PacketWhisper>`_ - Stealthily Transfer Data & Defeat Attribution Using DNS Queries & Text-Based Steganography, without the need for attacker-controlled Name Servers or domains; Evade DLP/MLS Devices; Defeat Data- & DNS Name Server Whitelisting Controls. Convert any file type (e.g. executables, Office, Zip, images) into a list of Fully Qualified Domain Names (FQDNs), use DNS queries to transfer data. Simple yet extremely effective.
 - `Pivoter <https://github.com/trustedsec/pivoter>`_ - A proxy tool for pentesters to have easier lateral movement. 
 - `Poet <https://github.com/mossberg/poet>`_ - Post-exploitation tool.
+- `PoshC2 <https://github.com/nettitude/PoshC2>`_ - A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement.
 - `PowerOPS <https://github.com/fdiskyou/PowerOPS>`_ - PowerShell Runspace Portable Post Exploitation Tool aimed at making Penetration Testing with PowerShell "easier".
 - `ProcessHider <https://github.com/M00nRise/ProcessHider>`_ - Post-exploitation tool for hiding processes from monitoring applications.
 - `Pupy <https://github.com/n1nj4sec/pupy>`_ - An opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python.

@@ -1816,3 +1816,9 @@
 [submodule "Penetration Testing/Exploiting/Bashfuscator"]
 	path = Penetration Testing/Exploiting/Bashfuscator
 	url = https://github.com/Bashfuscator/Bashfuscator.git
+[submodule "Penetration Testing/Post Exploitation/PoshC2"]
+	path = Penetration Testing/Post Exploitation/PoshC2
+	url = https://github.com/nettitude/PoshC2.git
+[submodule "Penetration Testing/Post Exploitation/cloudy-kraken"]
+	path = Penetration Testing/Post Exploitation/cloudy-kraken
+	url = https://github.com/Netflix-Skunkworks/cloudy-kraken.git
