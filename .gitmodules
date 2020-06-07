@@ -1822,3 +1822,15 @@
 [submodule "Penetration Testing/Post Exploitation/cloudy-kraken"]
 	path = Penetration Testing/Post Exploitation/cloudy-kraken
 	url = https://github.com/Netflix-Skunkworks/cloudy-kraken.git
+[submodule "Penetration Testing/Post Exploitation/paragon"]
+	path = Penetration Testing/Post Exploitation/paragon
+	url = https://github.com/KCarretto/paragon.git
+[submodule "Penetration Testing/Post Exploitation/Apfell"]
+	path = Penetration Testing/Post Exploitation/Apfell
+	url = https://github.com/its-a-feature/Apfell.git
+[submodule "Penetration Testing/Exploiting/Macrome"]
+	path = Penetration Testing/Exploiting/Macrome
+	url = https://github.com/michaelweber/Macrome.git
+[submodule "Malware/Honeypot/HoneyPy"]
+	path = Malware/Honeypot/HoneyPy
+	url = https://github.com/foospidy/HoneyPy.git

@@ -243,6 +243,7 @@ Honeypot
 - `HFish <https://hfish.io/>`_ - A cross platform honeypot platform developed based on golang, which has been meticulously built for enterprise security.
 - `Heralding <https://github.com/johnnykv/heralding>`_ - Sometimes you just want a simple honeypot that collects credentials, nothing more. Heralding is that honeypot! Currently the following protocols are supported: ftp, telnet, ssh, rdp, http, https, pop3, pop3s, imap, imaps, smtp, vnc, postgresql and socks5.
 - `HonTel <https://github.com/stamparm/hontel>`_ - A Honeypot for Telnet service. Basically, it is a Python v2.x application emulating the service inside the chroot environment. Originally it has been designed to be run inside the Ubuntu/Debian environment, though it could be easily adapted to run inside any Linux environment.
+- `HoneyPy <https://github.com/foospidy/HoneyPy>`_ - A low to medium interaction honeypot.
 - `HoneyTrap <https://github.com/honeytrap/honeytrap>`_ - Advanced Honeypot framework.
 - `Honeyd <http://www.honeyd.org>`_ - Create a virtual honeynet.
 - `HonnyPotter <https://github.com/MartinIngesen/HonnyPotter>`_ - A WordPress login honeypot for collection and analysis of failed login attempts.
@@ -412,6 +413,7 @@ Exploiting
 - `LAVA <https://github.com/panda-re/lava>`_ - Large-scale Automated Vulnerability Addition.
 - `Linux Exploit Suggester <https://github.com/PenturaLabs/Linux_Exploit_Suggester>`_ - Linux Exploit Suggester; based on operating system release number.
 - `Linux-exploit-suggester <https://github.com/mzet-/linux-exploit-suggester>`_ - Linux privilege escalation auditing tool.
+- `Macrome <https://github.com/michaelweber/Macrome>`_ - Excel Macro Document Reader/Writer for Red Teamers & Analysts
 - `Metasploit Framework <http://www.metasploit.com/>`_ - Exploitation framework.
 - `MeterSSH <https://github.com/trustedsec/meterssh>`_ - A way to take shellcode, inject it into memory then tunnel whatever port you want to over SSH to mask any type of communications as a normal SSH connection. The way it works is by injecting shellcode into memory, then wrapping a port spawned (meterpeter in this case) by the shellcode over SSH back to the attackers machine. Then connecting with meterpreter's listener to localhost will communicate through the SSH proxy, to the victim through the SSH tunnel. All communications are relayed through the SSH tunnel and not through the network.
 - `Nessus <http://www.tenable.com/products/nessus-vulnerability-scanner>`_ - Vulnerability, configuration, and compliance assessment.
@@ -588,6 +590,7 @@ Port Scanning
 Post Exploitation
 -----------------
 
+- `Apfell <https://github.com/its-a-feature/Apfell>`_ - A collaborative, multi-platform, red teaming framework.
 - `Backdoorme <https://github.com/Kkevsterrr/backdoorme>`_ - Powerful auto-backdooring utility.
 - `CatTails <https://github.com/oneNutW0nder/CatTails>`_ - Raw socket library/framework for red team events.
 - `Cloudy-kraken <https://github.com/Netflix-Skunkworks/cloudy-kraken>`_ - AWS Red Team Orchestration Framework.
@@ -617,6 +620,7 @@ Post Exploitation
 - `Orc <https://github.com/zMarch/Orc>`_ - A post-exploitation framework for Linux written in Bash.
 - `P0wnedShell <https://github.com/Cn33liz/p0wnedShell>`_ - PowerShell Runspace Post Exploitation Toolkit.
 - `PacketWhisper <https://github.com/TryCatchHCF/PacketWhisper>`_ - Stealthily Transfer Data & Defeat Attribution Using DNS Queries & Text-Based Steganography, without the need for attacker-controlled Name Servers or domains; Evade DLP/MLS Devices; Defeat Data- & DNS Name Server Whitelisting Controls. Convert any file type (e.g. executables, Office, Zip, images) into a list of Fully Qualified Domain Names (FQDNs), use DNS queries to transfer data. Simple yet extremely effective.
+- `Paragon <https://github.com/KCarretto/paragon>`_ - Red Team engagement platform with the goal of unifying offensive tools behind a simple UI.
 - `Pivoter <https://github.com/trustedsec/pivoter>`_ - A proxy tool for pentesters to have easier lateral movement. 
 - `Poet <https://github.com/mossberg/poet>`_ - Post-exploitation tool.
 - `PoshC2 <https://github.com/nettitude/PoshC2>`_ - A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement.
