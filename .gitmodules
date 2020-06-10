@@ -1834,3 +1834,12 @@
 [submodule "Malware/Honeypot/HoneyPy"]
 	path = Malware/Honeypot/HoneyPy
 	url = https://github.com/foospidy/HoneyPy.git
+[submodule "Malware/Honeypot/Tango"]
+	path = Malware/Honeypot/Tango
+	url = https://github.com/aplura/Tango.git
+[submodule "Malware/Honeypot/OWASP-Honeypot"]
+	path = Malware/Honeypot/OWASP-Honeypot
+	url = https://github.com/zdresearch/OWASP-Honeypot.git
+[submodule "Malware/Honeypot/Honeypot"]
+	path = Malware/Honeypot/Honeypot
+	url = https://github.com/Shmakov/Honeypot.git

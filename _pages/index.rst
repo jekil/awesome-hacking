@@ -246,6 +246,7 @@ Honeypot
 - `HoneyPy <https://github.com/foospidy/HoneyPy>`_ - A low to medium interaction honeypot.
 - `HoneyTrap <https://github.com/honeytrap/honeytrap>`_ - Advanced Honeypot framework.
 - `Honeyd <http://www.honeyd.org>`_ - Create a virtual honeynet.
+- `Honeypot <https://github.com/Shmakov/Honeypot>`_ - Low interaction honeypot that displays real time attacks.
 - `HonnyPotter <https://github.com/MartinIngesen/HonnyPotter>`_ - A WordPress login honeypot for collection and analysis of failed login attempts.
 - `Kippo <https://github.com/desaster/kippo>`_ - A medium interaction SSH honeypot designed to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.
 - `Kippo-graph <https://github.com/ikoniaris/kippo-graph>`_ - Visualize statistics from a Kippo SSH honeypot.
@@ -257,6 +258,7 @@ Honeypot
 - `MysqlPot <https://github.com/schmalle/MysqlPot>`_ - A mysql honeypot, still very very early stage.
 - `NoSQLPot <https://github.com/torque59/nosqlpot>`_ - The NoSQL Honeypot Framework.
 - `Nodepot <https://github.com/schmalle/Nodepot>`_ - A nodejs web application honeypot.
+- `OWASP-Honeypot <https://github.com/zdresearch/OWASP-Honeypot>`_ - An open source software in Python language which designed for creating honeypot and honeynet in an easy and secure way.
 - `OpenCanary <http://opencanary.org/>`_ - A daemon that runs several canary versions of services that alerts when a service is (ab)used.
 - `Phoneyc <https://github.com/buffer/phoneyc>`_ - Pure Python honeyclient implementation.
 - `Phpmyadmin_honeypot <https://github.com/gfoss/phpmyadmin_honeypot>`_ - A simple and effective phpMyAdmin honeypot.
@@ -266,6 +268,7 @@ Honeypot
 - `Snare <https://github.com/mushorg/snare>`_ - Super Next generation Advanced Reactive honEypot
 - `SpamScope <https://github.com/SpamScope/spamscope>`_ - Fast Advanced Spam Analysis Tool.
 - `T-Pot <https://github.com/dtag-dev-sec/tpotce>`_ - The All In One Honeypot Platform.
+- `Tango <https://github.com/aplura/Tango>`_ - Honeypot Intelligence with Splunk.
 - `Thug <https://github.com/buffer/thug>`_ - Low interaction honeyclient, for investigating malicious websites.
 - `Wordpot <https://github.com/gbrindisi/wordpot>`_ - A WordPress Honeypot.
 - `Wp-smart-honeypot <https://github.com/freak3dot/wp-smart-honeypot>`_ - WordPress plugin to reduce comment spam with a smarter honeypot.
