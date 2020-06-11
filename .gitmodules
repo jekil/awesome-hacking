@@ -1843,3 +1843,12 @@
 [submodule "Malware/Honeypot/Honeypot"]
 	path = Malware/Honeypot/Honeypot
 	url = https://github.com/Shmakov/Honeypot.git
+[submodule "Penetration Testing/Fuzzing/unicornafl"]
+	path = Penetration Testing/Fuzzing/unicornafl
+	url = https://github.com/AFLplusplus/unicornafl.git
+[submodule "Penetration Testing/Info Gathering/TravisLeaks"]
+	path = Penetration Testing/Info Gathering/TravisLeaks
+	url = https://github.com/Shashank-In/TravisLeaks.git
+[submodule "Penetration Testing/Info Gathering/secretz"]
+	path = Penetration Testing/Info Gathering/secretz
+	url = https://github.com/lc/secretz.git
