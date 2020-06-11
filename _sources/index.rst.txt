@@ -498,6 +498,7 @@ Fuzzing
 - `T-Fuzz <https://github.com/HexHive/T-Fuzz>`_ - A fuzzing tool based on program transformation.
 - `TAOF <https://sourceforge.net/projects/taof/>`_ - The Art of Fuzzing, including ProxyFuzz, a man-in-the-middle non-deterministic network fuzzer.
 - `Unicorefuzz <https://github.com/fgsect/unicorefuzz>`_ - Fuzzing the Kernel Using Unicornafl and AFL++.
+- `Unicornafl <https://github.com/AFLplusplus/unicornafl>`_ - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86) adapted to afl++.
 - `VUzzer <https://github.com/vusec/vuzzer>`_ - This Project depends heavily on a modeified version of DataTracker, which in turn depends on LibDFT pintool. It has some extra tags added in libdft.
 - `Vfuzz <https://github.com/guidovranken/vfuzz>`_ - I don't claim superiority over other engines in performance or efficiency out of the box, but this does implement some features that I felt where lacking elsewhere.
 - `Winafl <https://github.com/googleprojectzero/winafl>`_ - A fork of AFL for fuzzing Windows binaries.
@@ -522,11 +523,13 @@ Info Gathering
 - `SMBMap <https://github.com/ShawnDEvans/smbmap>`_ - A handy SMB enumeration tool.
 - `SPartan <https://github.com/sensepost/SPartan>`_ - Frontpage and Sharepoint fingerprinting and attack tool.
 - `SSLMap <http://thesprawl.org/projects/sslmap/>`_ - TLS/SSL cipher suite scanner.
+- `Secretz <https://github.com/lc/secretz>`_ - A tool that minimizes the large attack surface of Travis CI. It automatically fetches repos, builds, and logs for any given organization.
 - `Sparty <https://github.com/0xdevalias/sparty>`_ - MS Sharepoint and Frontpage Auditing Tool.
 - `Spyse.py <https://github.com/zeropwn/spyse.py>`_ - Python API wrapper and command-line client for the tools hosted on spyse.com.
 - `SubFinder <https://github.com/subfinder/subfinder>`_ - A subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - `SubQuest <https://github.com/skepticfx/subquest>`_ - Fast, Elegant subdomain scanner using nodejs.
 - `Subbrute <https://github.com/TheRook/subbrute>`_ - A DNS meta-query spider that enumerates DNS records, and subdomains.
+- `TravisLeaks <https://github.com/Shashank-In/TravisLeaks>`_ - A tool to find sensitive keys and passwords in Travis logs.
 - `TruffleHog <https://github.com/dxa4481/truffleHog>`_ - Searches through git repositories for high entropy strings, digging deep into commit history.
 - `URLextractor <https://github.com/eschultze/URLextractor>`_ - Information gathering & website reconnaissance.
 - `VHostScan <https://github.com/codingo/VHostScan>`_ - A virtual host scanner that performs reverse lookups, can be used with pivot tools, detect catch-all scenarios, aliases and dynamic default pages.
