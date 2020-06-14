@@ -1852,3 +1852,6 @@
 [submodule "Penetration Testing/Info Gathering/secretz"]
 	path = Penetration Testing/Info Gathering/secretz
 	url = https://github.com/lc/secretz.git
+[submodule "Malware/Honeypot/shiva"]
+	path = Malware/Honeypot/shiva
+	url = https://github.com/shiva-spampot/shiva.git
