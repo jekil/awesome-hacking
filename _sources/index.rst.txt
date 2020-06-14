@@ -264,6 +264,7 @@ Honeypot
 - `Phpmyadmin_honeypot <https://github.com/gfoss/phpmyadmin_honeypot>`_ - A simple and effective phpMyAdmin honeypot.
 - `Servletpot <https://github.com/schmalle/servletpot>`_ - Web application Honeypot.
 - `Shadow Daemon <https://shadowd.zecure.org>`_ - A modular Web Application Firewall / High-Interaction Honeypot for PHP, Perl & Python apps.
+- `Shiva <https://github.com/shiva-spampot/shiva>`_ - Spam Honeypot with Intelligent Virtual Analyzer, is an open but controlled relay Spam Honeypot (SpamPot), built on top of Lamson Python framework, with capability of collecting and analyzing all spam thrown at it.
 - `Smart-honeypot <https://github.com/freak3dot/smart-honeypot>`_ - PHP Script demonstrating a smart honey pot.
 - `Snare <https://github.com/mushorg/snare>`_ - Super Next generation Advanced Reactive honEypot
 - `SpamScope <https://github.com/SpamScope/spamscope>`_ - Fast Advanced Spam Analysis Tool.
