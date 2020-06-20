@@ -1855,3 +1855,9 @@
 [submodule "Malware/Honeypot/shiva"]
 	path = Malware/Honeypot/shiva
 	url = https://github.com/shiva-spampot/shiva.git
+[submodule "Reverse Engineering/IRPMon"]
+	path = Reverse Engineering/IRPMon
+	url = https://github.com/MartinDrab/IRPMon.git
+[submodule "Library/Python/plyara"]
+	path = Library/Python/plyara
+	url = https://github.com/plyara/plyara.git
