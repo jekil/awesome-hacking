@@ -269,9 +269,12 @@ Honeypot
 - `Smart-honeypot <https://github.com/freak3dot/smart-honeypot>`_ - PHP Script demonstrating a smart honey pot.
 - `Snare <https://github.com/mushorg/snare>`_ - Super Next generation Advanced Reactive honEypot
 - `SpamScope <https://github.com/SpamScope/spamscope>`_ - Fast Advanced Spam Analysis Tool.
+- `StrutsHoneypot <https://github.com/Cymmetria/StrutsHoneypot>`_ - Struts Apache 2 based honeypot as well as a detection module for Apache 2 servers.
 - `T-Pot <https://github.com/dtag-dev-sec/tpotce>`_ - The All In One Honeypot Platform.
 - `Tango <https://github.com/aplura/Tango>`_ - Honeypot Intelligence with Splunk.
 - `Thug <https://github.com/buffer/thug>`_ - Low interaction honeyclient, for investigating malicious websites.
+- `Twisted-honeypots <https://github.com/lanjelot/twisted-honeypots>`_ - SSH, FTP and Telnet honeypots based on Twisted.
+- `Wetland <https://github.com/ohmyadd/wetland>`_ - A high interaction SSH honeypot.
 - `Wordpot <https://github.com/gbrindisi/wordpot>`_ - A WordPress Honeypot.
 - `Wp-smart-honeypot <https://github.com/freak3dot/wp-smart-honeypot>`_ - WordPress plugin to reduce comment spam with a smarter honeypot.
 
