@@ -1861,3 +1861,12 @@
 [submodule "Library/Python/plyara"]
 	path = Library/Python/plyara
 	url = https://github.com/plyara/plyara.git
+[submodule "Malware/Honeypot/StrutsHoneypot"]
+	path = Malware/Honeypot/StrutsHoneypot
+	url = https://github.com/Cymmetria/StrutsHoneypot.git
+[submodule "Malware/Honeypot/twisted-honeypots"]
+	path = Malware/Honeypot/twisted-honeypots
+	url = https://github.com/lanjelot/twisted-honeypots.git
+[submodule "Malware/Honeypot/wetland"]
+	path = Malware/Honeypot/wetland
+	url = https://github.com/ohmyadd/wetland.git
