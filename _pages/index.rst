@@ -233,6 +233,7 @@ Honeypot
 --------
 
 - `Basic-auth-pot <https://github.com/bjeborn/basic-auth-pot>`_ - HTTP Basic Authentication honeyPot.
+- `CitrixHoneypot <https://github.com/MalwareTech/CitrixHoneypot>`_ - Detect and log CVE-2019-19781 scan and exploitation attempts.
 - `Conpot <https://github.com/mushorg/conpot>`_ - ICS/SCADA honeypot.
 - `Cowrie <https://www.cowrie.org>`_ - SSH honeypot, based on Kippo.
 - `Dionaea <https://github.com/DinoTools/dionaea>`_ - Honeypot designed to trap malware.
@@ -252,6 +253,7 @@ Honeypot
 - `Kippo <https://github.com/desaster/kippo>`_ - A medium interaction SSH honeypot designed to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.
 - `Kippo-graph <https://github.com/ikoniaris/kippo-graph>`_ - Visualize statistics from a Kippo SSH honeypot.
 - `MHN <https://github.com/threatstream/mhn>`_ - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management.
+- `MTPot <https://github.com/Cymmetria/MTPot>`_ - Open Source Telnet Honeypot.
 - `Maildb <https://github.com/kevthehermit/Maildb>`_ - Python Web App to Parse and Track Email and http Pcap Files.
 - `Mailoney <https://github.com/awhitehatter/mailoney>`_ - A SMTP Honeypot I wrote just to have fun learning Python.
 - `Mnemosyne <https://github.com/johnnykv/mnemosyne>`_ - A normalizer for honeypot data; supports Dionaea.

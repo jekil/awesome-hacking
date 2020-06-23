@@ -1870,3 +1870,9 @@
 [submodule "Malware/Honeypot/wetland"]
 	path = Malware/Honeypot/wetland
 	url = https://github.com/ohmyadd/wetland.git
+[submodule "Malware/Honeypot/CitrixHoneypot"]
+	path = Malware/Honeypot/CitrixHoneypot
+	url = https://github.com/MalwareTech/CitrixHoneypot.git
+[submodule "Malware/Honeypot/MTPot"]
+	path = Malware/Honeypot/MTPot
+	url = https://github.com/Cymmetria/MTPot.git
