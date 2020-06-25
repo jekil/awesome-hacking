@@ -232,6 +232,7 @@ Dynamic Analysis
 Honeypot
 --------
 
+- `Amun <https://github.com/zeroq/amun>`_ - Amun was the first python-based low-interaction honeypot, following the concepts of Nepenthes but extending it with more sophisticated emulation and easier maintenance.
 - `Basic-auth-pot <https://github.com/bjeborn/basic-auth-pot>`_ - HTTP Basic Authentication honeyPot.
 - `Bluepot <https://github.com/andrewmichaelsmith/bluepot>`_ - Bluetooth Honeypot.
 - `CitrixHoneypot <https://github.com/MalwareTech/CitrixHoneypot>`_ - Detect and log CVE-2019-19781 scan and exploitation attempts.

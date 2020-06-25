@@ -1882,3 +1882,6 @@
 [submodule "Malware/Honeypot/honeything"]
 	path = Malware/Honeypot/honeything
 	url = https://github.com/omererdem/honeything.git
+[submodule "Malware/Honeypot/amun"]
+	path = Malware/Honeypot/amun
+	url = https://github.com/zeroq/amun.git
