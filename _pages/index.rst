@@ -233,6 +233,7 @@ Honeypot
 --------
 
 - `Basic-auth-pot <https://github.com/bjeborn/basic-auth-pot>`_ - HTTP Basic Authentication honeyPot.
+- `Bluepot <https://github.com/andrewmichaelsmith/bluepot>`_ - Bluetooth Honeypot.
 - `CitrixHoneypot <https://github.com/MalwareTech/CitrixHoneypot>`_ - Detect and log CVE-2019-19781 scan and exploitation attempts.
 - `Conpot <https://github.com/mushorg/conpot>`_ - ICS/SCADA honeypot.
 - `Cowrie <https://www.cowrie.org>`_ - SSH honeypot, based on Kippo.
@@ -249,6 +250,7 @@ Honeypot
 - `HoneyTrap <https://github.com/honeytrap/honeytrap>`_ - Advanced Honeypot framework.
 - `Honeyd <http://www.honeyd.org>`_ - Create a virtual honeynet.
 - `Honeypot <https://github.com/Shmakov/Honeypot>`_ - Low interaction honeypot that displays real time attacks.
+- `Honeything <https://github.com/omererdem/honeything>`_ - A honeypot for Internet of TR-069 things. It's designed to act as completely a modem/router that has RomPager embedded web server and supports TR-069 (CWMP) protocol.
 - `HonnyPotter <https://github.com/MartinIngesen/HonnyPotter>`_ - A WordPress login honeypot for collection and analysis of failed login attempts.
 - `Kippo <https://github.com/desaster/kippo>`_ - A medium interaction SSH honeypot designed to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.
 - `Kippo-graph <https://github.com/ikoniaris/kippo-graph>`_ - Visualize statistics from a Kippo SSH honeypot.

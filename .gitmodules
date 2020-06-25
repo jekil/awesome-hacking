@@ -1876,3 +1876,9 @@
 [submodule "Malware/Honeypot/MTPot"]
 	path = Malware/Honeypot/MTPot
 	url = https://github.com/Cymmetria/MTPot.git
+[submodule "Malware/Honeypot/bluepot"]
+	path = Malware/Honeypot/bluepot
+	url = https://github.com/andrewmichaelsmith/bluepot.git
+[submodule "Malware/Honeypot/honeything"]
+	path = Malware/Honeypot/honeything
+	url = https://github.com/omererdem/honeything.git
