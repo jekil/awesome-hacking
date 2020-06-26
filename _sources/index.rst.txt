@@ -417,6 +417,7 @@ Exploiting
 - `BugId <https://github.com/SkyLined/BugId>`_ - Detect, analyze and uniquely identify crashes in Windows applications.
 - `Commix <http://www.commixproject.com>`_ - Automated All-in-One OS Command Injection and Exploitation Tool.
 - `DLLInjector <https://github.com/OpenSecurityResearch/dllinjector>`_ - Inject dlls in processes.
+- `Donut <https://github.com/TheWover/donut>`_ - Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters.
 - `Drupwn <https://github.com/immunIT/drupwn>`_ - Drupal enumeration & exploitation tool.
 - `EfiGuard <https://github.com/Mattiwatti/EfiGuard>`_ - Disable PatchGuard and DSE at boot time.
 - `Evilgrade <https://github.com/infobyte/evilgrade>`_ - The update explotation framework.
@@ -476,6 +477,7 @@ Exploits
 - `Ruby-advisory-db <https://github.com/rubysec/ruby-advisory-db>`_ - A database of vulnerable Ruby Gems.
 - `The Exploit Database <https://github.com/offensive-security/exploit-database>`_ - The official Exploit Database repository.
 - `XiphosResearch Exploits <https://github.com/XiphosResearch/exploits>`_ - Miscellaneous proof of concept exploit code written at Xiphos Research for testing purposes.
+- `cve-2020-1054 <https://github.com/0xeb-bp/cve-2020-1054>`_ - LPE for CVE-2020-1054 targeting Windows 7 x64
 
 Fuzzing
 -------
@@ -794,6 +796,7 @@ Reverse Engineering
 - `Distorm <https://github.com/gdabah/distorm>`_ - Powerful Disassembler Library For x86/AMD64.
 - `DotPeek <https://www.jetbrains.com/decompiler/>`_ - A free-of-charge .NET decompiler from JetBrains.
 - `Dotnet-netrace <https://github.com/lowleveldesign/dotnet-netrace>`_ - Collects network traces of .NET applications.
+- `Dragondance <https://github.com/0ffffffffh/dragondance>`_ - Binary code coverage visualizer plugin for Ghidra.
 - `Dwarf <https://github.com/iGio90/Dwarf>`_ - A gui for mobile reverse engineers, crackers and security analyst. Or damn, what a reversed fluffy or yet, duck warrios are rich as fuck. Whatever you like! Built on top of pyqt5, frida and some terrible code.
 - `DynStruct <https://github.com/ampotos/dynStruct>`_ - Reverse engineering tool for automatic structure recovering and memory use analysis based on DynamoRIO and Capstone.
 - `EFI DXE Emulator <https://github.com/gdbinit/efi_dxe_emulator>`_ - An EFI DXE phase binaries emulator based on Unicorn.
