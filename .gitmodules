@@ -1885,3 +1885,12 @@
 [submodule "Malware/Honeypot/amun"]
 	path = Malware/Honeypot/amun
 	url = https://github.com/zeroq/amun.git
+[submodule "Reverse Engineering/dragondance"]
+	path = Reverse Engineering/dragondance
+	url = https://github.com/0ffffffffh/dragondance.git
+[submodule "Penetration Testing/Exploiting/donut"]
+	path = Penetration Testing/Exploiting/donut
+	url = https://github.com/TheWover/donut.git
+[submodule "Penetration Testing/Exploits/cve-2020-1054"]
+	path = Penetration Testing/Exploits/cve-2020-1054
+	url = https://github.com/0xeb-bp/cve-2020-1054.git
