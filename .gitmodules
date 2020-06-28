@@ -1894,3 +1894,12 @@
 [submodule "Penetration Testing/Exploits/cve-2020-1054"]
 	path = Penetration Testing/Exploits/cve-2020-1054
 	url = https://github.com/0xeb-bp/cve-2020-1054.git
+[submodule "Reverse Engineering/grap"]
+	path = Reverse Engineering/grap
+	url = https://github.com/QuoSecGmbH/grap.git
+[submodule "Reverse Engineering/HexRaysCodeXplorer"]
+	path = Reverse Engineering/HexRaysCodeXplorer
+	url = https://github.com/REhints/HexRaysCodeXplorer.git
+[submodule "Malware/Source Code/byob"]
+	path = Malware/Source Code/byob
+	url = https://github.com/malwaredllc/byob.git
