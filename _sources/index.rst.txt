@@ -318,6 +318,7 @@ Source Code
 -----------
 
 - `Android-malware <https://github.com/ashishb/android-malware>`_ - Collection of android malware samples.
+- `BYOB <https://github.com/malwaredllc/byob>`_ - An open-source project that provides a framework for security researchers and developers to build and operate a basic botnet to deepen their understanding of the sophisticated malware that infects millions of devices every year and spawns modern botnets, in order to improve their ability to develop counter-measures against these threats.
 - `BlackHole <https://github.com/hussein-aitlahcen/BlackHole>`_ - C# RAT (Remote Administration Tool).
 - `Carberp <https://github.com/hzeroo/Carberp>`_ - Carberp leaked source code.
 - `Fancybear <https://github.com/rickey-g/fancybear>`_ - Fancy Bear Source Code.
@@ -813,8 +814,10 @@ Reverse Engineering
 - `Ghidra <https://github.com/NationalSecurityAgency/ghidra>`_ - A software reverse engineering (SRE) framework.
 - `Ghidra_scripts <https://github.com/ghidraninja/ghidra_scripts>`_ - Scripts for the Ghidra software reverse engineering suite.
 - `Granary <https://github.com/Granary/granary>`_ - A  kernel space dynamic binary translation framework. The main goal of Granary is to enable flexible and efficient instrumentation of Linux kernel modules, while imposing no overhead to non-module kernel code.
+- `Grap <https://github.com/QuoSecGmbH/grap>`_ - Define and match graph patterns within binaries.
 - `Haybale <https://github.com/PLSysSec/haybale>`_ - Symbolic execution of LLVM IR with an engine written in Rust.
 - `Heap-viewer <https://github.com/danigargu/heap-viewer>`_ - An IDA Pro plugin to examine the glibc heap, focused on exploit development.
+- `HexRaysCodeXplorer <https://github.com/REhints/HexRaysCodeXplorer>`_ - Hex-Rays Decompiler plugin for better code navigation
 - `Hopper <https://www.hopperapp.com>`_ - A OS X and Linux Disassembler/Decompiler for 32/64 bit Windows/Mac/Linux/iOS executables.
 - `IDA Free <https://www.hex-rays.com/products/ida/support/download_freeware.shtml>`_ - The freeware version of IDA.
 - `IDA Patcher <https://github.com/iphelix/ida-patcher>`_ - IDA Patcher is a plugin for Hex-Ray's IDA Pro disassembler designed to enhance IDA's ability to patch binary files and memory.
