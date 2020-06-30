@@ -1903,3 +1903,6 @@
 [submodule "Malware/Source Code/byob"]
 	path = Malware/Source Code/byob
 	url = https://github.com/malwaredllc/byob.git
+[submodule "Penetration Testing/Info Gathering/ATSCAN"]
+	path = Penetration Testing/Info Gathering/ATSCAN
+	url = https://github.com/AlisamTechnology/ATSCAN.git
