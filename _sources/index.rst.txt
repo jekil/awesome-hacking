@@ -440,6 +440,7 @@ Exploiting
 - `Routersploit <https://github.com/reverse-shell/routersploit>`_ - Automated penetration testing software for router.
 - `Rupture <https://github.com/dionyziz/rupture/>`_ - A framework for BREACH and other compression-based crypto attacks.
 - `SPARTA <http://sparta.secforce.com>`_ - Network Infrastructure Penetration Testing Tool.
+- `Shark <https://github.com/9176324/Shark>`_ - Turn off PatchGuard in real time for win7 (7600) ~ win10 (18950).
 - `SharpShooter <https://github.com/mdsecactivebreach/SharpShooter>`_ - Payload Generation Framework.
 - `ShellcodeCompiler <https://github.com/NytroRST/ShellcodeCompiler>`_ - A program that compiles C/C++ style code into a small, position-independent and NULL-free shellcode for Windows (x86 and x64) and Linux (x86 and x64). It is possible to call any Windows API function or Linux syscall in a user-friendly way.
 - `Shellen <https://github.com/merrychap/shellen>`_ - Interactive shellcoding environment to easily craft shellcodes.
@@ -907,6 +908,11 @@ Endpoint Security
 - `Lynis <https://github.com/CISOfy/lynis>`_ - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - `Osx-config-check <https://github.com/kristovatlas/osx-config-check>`_ - Verify the configuration of your OS X machine.
 - `Xnumon <https://github.com/droe/xnumon>`_ - Monitor macOS for malicious activity.
+
+Orchestration
+-------------
+
+- `Stoq <https://stoq.punchcyber.com/>`_ - An open source framework for enterprise level automated analysis.
 
 Phishing
 --------
