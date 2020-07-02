@@ -1906,3 +1906,9 @@
 [submodule "Penetration Testing/Info Gathering/ATSCAN"]
 	path = Penetration Testing/Info Gathering/ATSCAN
 	url = https://github.com/AlisamTechnology/ATSCAN.git
+[submodule "Security/Orchestration/stoq"]
+	path = Security/Orchestration/stoq
+	url = https://github.com/PUNCH-Cyber/stoq.git
+[submodule "Penetration Testing/Exploiting/Shark"]
+	path = Penetration Testing/Exploiting/Shark
+	url = https://github.com/9176324/Shark.git
