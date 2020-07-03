@@ -1912,3 +1912,12 @@
 [submodule "Penetration Testing/Exploiting/Shark"]
 	path = Penetration Testing/Exploiting/Shark
 	url = https://github.com/9176324/Shark.git
+[submodule "Malware/Honeypot/tanner"]
+	path = Malware/Honeypot/tanner
+	url = https://github.com/mushorg/tanner.git
+[submodule "Security/Cloud Security/varna"]
+	path = Security/Cloud Security/varna
+	url = https://github.com/endgameinc/varna.git
+[submodule "Penetration Testing/Web/Konan"]
+	path = Penetration Testing/Web/Konan
+	url = https://github.com/m4ll0k/Konan.git
