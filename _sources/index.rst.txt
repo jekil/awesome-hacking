@@ -277,6 +277,7 @@ Honeypot
 - `StrutsHoneypot <https://github.com/Cymmetria/StrutsHoneypot>`_ - Struts Apache 2 based honeypot as well as a detection module for Apache 2 servers.
 - `T-Pot <https://github.com/dtag-dev-sec/tpotce>`_ - The All In One Honeypot Platform.
 - `Tango <https://github.com/aplura/Tango>`_ - Honeypot Intelligence with Splunk.
+- `Tanner <https://github.com/mushorg/tanner>`_ - A remote data analysis and classification service to evaluate HTTP requests and composing the response then served by SNARE. TANNER uses multiple application vulnerability type emulation techniques when providing responses for SNARE. In addition, TANNER provides Dorks for SNARE powering its luring capabilities.
 - `Thug <https://github.com/buffer/thug>`_ - Low interaction honeyclient, for investigating malicious websites.
 - `Twisted-honeypots <https://github.com/lanjelot/twisted-honeypots>`_ - SSH, FTP and Telnet honeypots based on Twisted.
 - `Wetland <https://github.com/ohmyadd/wetland>`_ - A high interaction SSH honeypot.
@@ -722,6 +723,7 @@ Web
 - `Jwt_tool <https://github.com/ticarpi/jwt_tool>`_ - A toolkit for testing, tweaking and cracking JSON Web Tokens.
 - `Kadabra <https://github.com/D35m0nd142/Kadabra>`_ - Automatic LFI Exploiter and Scanner, written in C++ and a couple extern module in Python.
 - `Kadimus <https://github.com/P0cL4bs/Kadimus>`_ - LFI scan and exploit tool.
+- `Konan <https://github.com/m4ll0k/Konan>`_ - An advanced open source tool designed to brute force directories and files names on web/application servers.
 - `Liffy <https://github.com/hvqzao/liffy>`_ - LFI exploitation tool.
 - `LinkFinder <https://github.com/GerbenJavado/LinkFinder>`_ - A python script that finds endpoints in JavaScript files.
 - `Netsparker <https://www.netsparker.com>`_ - Web Application Security Scanner.
@@ -897,6 +899,8 @@ Cloud Security
 - `Panther <https://runpanther.io>`_ - A Cloud-Native SIEM for the Modern Security Team
 - `Parliament <https://github.com/duo-labs/parliament>`_ - An AWS IAM linting library. It reviews policies looking for problems.
 - `Security Monkey <https://github.com/Netflix/security_monkey>`_ - Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
+- `Varna <https://github.com/endgameinc/varna>`_ - Quick & Cheap AWS CloudTrail Monitoring with Event Query Language (EQL)
+Resources
 - `s3cr3t <https://github.com/axl89/s3cr3t>`_ - Serve files securely from an S3 bucket with expiring links and other restrictions.
 
 Endpoint Security
