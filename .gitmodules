@@ -1921,3 +1921,6 @@
 [submodule "Penetration Testing/Web/Konan"]
 	path = Penetration Testing/Web/Konan
 	url = https://github.com/m4ll0k/Konan.git
+[submodule "Penetration Testing/Fuzzing/fuzzotron"]
+	path = Penetration Testing/Fuzzing/fuzzotron
+	url = https://github.com/denandz/fuzzotron.git

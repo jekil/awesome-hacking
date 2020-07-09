@@ -495,6 +495,7 @@ Fuzzing
 - `Fusil <http://fusil.readthedocs.io/>`_ - A Python library used to write fuzzing programs. It helps to start process with a prepared environment (limit memory, environment variables, redirect stdout, etc.), start network client or server, and create mangled files.
 - `Fuzzbox <https://github.com/iSECPartners/fuzzbox>`_ - A multi-codec media fuzzing tool.
 - `Fuzzlyn <https://github.com/jakobbotsch/Fuzzlyn>`_ - Fuzzer for the .NET toolchains, utilizes Roslyn to generate random C# programs.
+- `Fuzzotron <https://github.com/denandz/fuzzotron>`_ - A TCP/UDP based network daemon fuzzer.
 - `Honggfuzz <http://google.github.io/honggfuzz/>`_ - Security oriented fuzzer with powerful analysis options. Supports evolutionary, feedback-driven fuzzing based on code coverage (sw and hw).
 - `InsTrim <https://github.com/csienslab/instrim>`_ - Lightweight Instrumentation for Coverage-guided Fuzzing.
 - `KleeFL <https://github.com/julieeen/kleefl>`_ - Seeding Fuzzers With Symbolic Execution.
