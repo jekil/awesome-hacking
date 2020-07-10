@@ -1924,3 +1924,9 @@
 [submodule "Penetration Testing/Fuzzing/fuzzotron"]
 	path = Penetration Testing/Fuzzing/fuzzotron
 	url = https://github.com/denandz/fuzzotron.git
+[submodule "Penetration Testing/Fuzzing/boofuzz"]
+	path = Penetration Testing/Fuzzing/boofuzz
+	url = https://github.com/jtpereyda/boofuzz.git
+[submodule "Penetration Testing/Web/pyfiscan"]
+	path = Penetration Testing/Web/pyfiscan
+	url = https://github.com/fgeek/pyfiscan.git

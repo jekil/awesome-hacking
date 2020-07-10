@@ -487,6 +487,7 @@ Fuzzing
 
 - `AFL++ <https://github.com/vanhauser-thc/AFLplusplus>`_ - AFL 2.56b with community patches, AFLfast power schedules, qemu 3.1 upgrade + laf-intel support, MOpt mutators, InsTrim instrumentation, unicorn_mode, Redqueen and a lot more.
 - `AndroFuzz <https://github.com/jonmetz/AndroFuzz>`_ - A fuzzing utility for Android that focuses on reporting and delivery portions of the fuzzing process.
+- `Boofuzz <https://github.com/jtpereyda/boofuzz>`_ - A fork and successor of the Sulley Fuzzing Framework.
 - `Construct <http://construct.readthedocs.org>`_ - Declarative data structures for python that allow symmetric parsing and building.
 - `Deepstate <https://github.com/trailofbits/deepstate>`_ - A unit test-like interface for fuzzing and symbolic execution.
 - `Driller <https://github.com/shellphish/driller>`_ - Augmenting AFL with symbolic execution.
@@ -733,6 +734,7 @@ Web
 - `OWASP Xenotix <https://www.owasp.org/index.php/OWASP_Xenotix_XSS_Exploit_Framework>`_ - XSS Exploit Framework is an advanced Cross Site Scripting (XSS) vulnerability detection and exploitation framework.
 - `Paros <https://sourceforge.net/projects/paros/>`_ - A Java based HTTP/HTTPS proxy for assessing web application vulnerability.
 - `PayloadsAllTheThings <https://github.com/swisskyrepo/PayloadsAllTheThings>`_ - A list of useful payloads and bypass for Web Application Security and Pentest/CTF.
+- `Pyfiscan <https://github.com/fgeek/pyfiscan>`_ - Free web-application vulnerability and version scanner.
 - `Ratproxy <https://code.google.com/archive/p/ratproxy/>`_ - A semi-automated, largely passive web application security audit tool, optimized for an accurate and sensitive detection, and automatic annotation, of potential problems.
 - `RecurseBuster <https://github.com/C-Sto/recursebuster>`_ - Rapid content discovery tool for recursively querying webservers, handy in pentesting and web application assessments.
 - `Relative-url-extractor <https://github.com/jobertabma/relative-url-extractor>`_ - A small tool that extracts relative URLs from a file.
