@@ -1930,3 +1930,12 @@
 [submodule "Penetration Testing/Web/pyfiscan"]
 	path = Penetration Testing/Web/pyfiscan
 	url = https://github.com/fgeek/pyfiscan.git
+[submodule "Penetration Testing/Fuzzing/winafl_inmemory"]
+	path = Penetration Testing/Fuzzing/winafl_inmemory
+	url = https://github.com/s0i37/winafl_inmemory.git
+[submodule "Library/Go/garble"]
+	path = Library/Go/garble
+	url = https://github.com/mvdan/garble.git
+[submodule "Reverse Engineering/DBI"]
+	path = Reverse Engineering/DBI
+	url = https://github.com/s0i37/DBI.git

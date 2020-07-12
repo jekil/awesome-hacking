@@ -161,6 +161,11 @@ C
 
 - `Libdnet <https://github.com/dugsong/libdnet>`_ - Provides a simplified, portable interface to several low-level networking routines, including network address manipulation, kernel arp cache and route table lookup and manipulation, network firewalling, network interface lookup and manipulation, IP tunnelling, and raw IP packet and Ethernet frame transmission.
 
+Go
+--
+
+- `Garble <https://github.com/mvdan/garble>`_ - Obfuscate Go builds.
+
 Java
 ----
 
@@ -519,6 +524,7 @@ Fuzzing
 - `VUzzer <https://github.com/vusec/vuzzer>`_ - This Project depends heavily on a modeified version of DataTracker, which in turn depends on LibDFT pintool. It has some extra tags added in libdft.
 - `Vfuzz <https://github.com/guidovranken/vfuzz>`_ - I don't claim superiority over other engines in performance or efficiency out of the box, but this does implement some features that I felt where lacking elsewhere.
 - `Winafl <https://github.com/googleprojectzero/winafl>`_ - A fork of AFL for fuzzing Windows binaries.
+- `Winafl_inmemory <https://github.com/s0i37/winafl_inmemory>`_ - WINAFL for blackbox in-memory fuzzing (PIN).
 - `Windows IPC Fuzzing Tools <https://www.nccgroup.trust/us/about-us/resources/windows-ipc-fuzzing-tools/>`_ - A collection of tools used to attack applications that use Windows Interprocess Communication mechanisms.
 - `Zulu <https://github.com/nccgroup/Zulu.git>`_ - A fuzzer designed for rapid prototyping that normally happens on a client engagement where something needs to be fuzzed within tight timescales.
 
@@ -800,6 +806,7 @@ Reverse Engineering
 - `ClassNameDeobfuscator <https://github.com/HamiltonianCycle/ClassNameDeobfuscator>`_ - Simple script to parse through the .smali files produced by apktool and extract the .source annotation lines.
 - `Coda <https://github.com/npamnani/coda>`_ - Coredump analyzer.
 - `Ctf_import <https://github.com/docileninja/ctf_import>`_ - Run basic functions from stripped binaries cross platform.
+- `DBI <https://github.com/s0i37/DBI>`_ - Dynamic Binary Instrumentation plugins.
 - `Dex2jar <https://github.com/pxb1988/dex2jar>`_ - Tools to work with android .dex and java .class files.
 - `Distorm <https://github.com/gdabah/distorm>`_ - Powerful Disassembler Library For x86/AMD64.
 - `DotPeek <https://www.jetbrains.com/decompiler/>`_ - A free-of-charge .NET decompiler from JetBrains.
