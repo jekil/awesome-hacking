@@ -1939,3 +1939,9 @@
 [submodule "Reverse Engineering/DBI"]
 	path = Reverse Engineering/DBI
 	url = https://github.com/s0i37/DBI.git
+[submodule "Forensics/Incident Response/snoopdigg"]
+	path = Forensics/Incident Response/snoopdigg
+	url = https://github.com/botherder/snoopdigg.git
+[submodule "Forensics/Misc/mass_archive"]
+	path = Forensics/Misc/mass_archive
+	url = https://github.com/motherboardgithub/mass_archive.git
