@@ -217,6 +217,7 @@ Dynamic Analysis
 ----------------
 
 - `Androguard <https://github.com/androguard/androguard/>`_ - Reverse engineering, Malware and goodware analysis of Android applications.
+- `CAPEv2 <https://github.com/kevoreilly/CAPEv2>`_ - Malware Configuration And Payload Extraction.
 - `Cuckoo Sandbox <http://www.cuckoosandbox.org>`_ - An automated dynamic malware analysis system.
 - `CuckooDroid <https://github.com/idanr1986/cuckoo-droid>`_ - Automated Android Malware Analysis with Cuckoo Sandbox.
 - `DECAF <https://github.com/sycurelab/DECAF>`_ - Short for Dynamic Executable Code Analysis Framework, is a binary analysis platform based on QEMU.
@@ -326,6 +327,7 @@ Source Code
 -----------
 
 - `Android-malware <https://github.com/ashishb/android-malware>`_ - Collection of android malware samples.
+- `AsyncRAT-C-Sharp <https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp>`_ - Open-Source Remote Administration Tool For Windows C# (RAT).
 - `BYOB <https://github.com/malwaredllc/byob>`_ - An open-source project that provides a framework for security researchers and developers to build and operate a basic botnet to deepen their understanding of the sophisticated malware that infects millions of devices every year and spawns modern botnets, in order to improve their ability to develop counter-measures against these threats.
 - `BlackHole <https://github.com/hussein-aitlahcen/BlackHole>`_ - C# RAT (Remote Administration Tool).
 - `Carberp <https://github.com/hzeroo/Carberp>`_ - Carberp leaked source code.

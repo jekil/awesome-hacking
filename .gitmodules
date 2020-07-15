@@ -1945,3 +1945,9 @@
 [submodule "Forensics/Misc/mass_archive"]
 	path = Forensics/Misc/mass_archive
 	url = https://github.com/motherboardgithub/mass_archive.git
+[submodule "Malware/Source Code/AsyncRAT-C-Sharp"]
+	path = Malware/Source Code/AsyncRAT-C-Sharp
+	url = https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp.git
+[submodule "Malware/Dynamic Analysis/CAPEv2"]
+	path = Malware/Dynamic Analysis/CAPEv2
+	url = https://github.com/kevoreilly/CAPEv2.git
