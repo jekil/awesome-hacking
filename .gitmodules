@@ -1951,3 +1951,6 @@
 [submodule "Malware/Dynamic Analysis/CAPEv2"]
 	path = Malware/Dynamic Analysis/CAPEv2
 	url = https://github.com/kevoreilly/CAPEv2.git
+[submodule "Penetration Testing/Exploiting/nishang"]
+	path = Penetration Testing/Exploiting/nishang
+	url = https://github.com/samratashok/nishang.git
