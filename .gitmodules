@@ -1954,3 +1954,6 @@
 [submodule "Penetration Testing/Exploiting/nishang"]
 	path = Penetration Testing/Exploiting/nishang
 	url = https://github.com/samratashok/nishang.git
+[submodule "Security/Endpoint Security/ProcMon-for-Linux"]
+	path = Security/Endpoint Security/ProcMon-for-Linux
+	url = https://github.com/microsoft/ProcMon-for-Linux.git
