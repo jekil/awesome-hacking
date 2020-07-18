@@ -929,6 +929,11 @@ Endpoint Security
 - `ProcMon-for-Linux <https://github.com/microsoft/ProcMon-for-Linux>`_ - A Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
 - `Xnumon <https://github.com/droe/xnumon>`_ - Monitor macOS for malicious activity.
 
+Network Security
+----------------
+
+- `Pi-hole <https://github.com/pi-hole/pi-hole>`_ - A DNS sinkhole that protects your devices from unwanted content, without installing any client-side software.
+
 Orchestration
 -------------
 
