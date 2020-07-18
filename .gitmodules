@@ -1957,3 +1957,6 @@
 [submodule "Security/Endpoint Security/ProcMon-for-Linux"]
 	path = Security/Endpoint Security/ProcMon-for-Linux
 	url = https://github.com/microsoft/ProcMon-for-Linux.git
+[submodule "Security/Network Security/pi-hole"]
+	path = Security/Network Security/pi-hole
+	url = https://github.com/pi-hole/pi-hole.git
