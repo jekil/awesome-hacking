@@ -1960,3 +1960,9 @@
 [submodule "Security/Network Security/pi-hole"]
 	path = Security/Network Security/pi-hole
 	url = https://github.com/pi-hole/pi-hole.git
+[submodule "Penetration Testing/Web/php-jpeg-injector"]
+	path = Penetration Testing/Web/php-jpeg-injector
+	url = https://github.com/dlegs/php-jpeg-injector.git
+[submodule "Malware/Static Analysis/capa"]
+	path = Malware/Static Analysis/capa
+	url = https://github.com/fireeye/capa.git
