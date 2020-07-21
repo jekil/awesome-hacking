@@ -1966,3 +1966,9 @@
 [submodule "Malware/Static Analysis/capa"]
 	path = Malware/Static Analysis/capa
 	url = https://github.com/fireeye/capa.git
+[submodule "Penetration Testing/Web/tsunami-security-scanner"]
+	path = Penetration Testing/Web/tsunami-security-scanner
+	url = https://github.com/google/tsunami-security-scanner.git
+[submodule "Penetration Testing/Training/kubernetes-goat"]
+	path = Penetration Testing/Training/kubernetes-goat
+	url = https://github.com/madhuakula/kubernetes-goat.git
