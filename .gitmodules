@@ -1972,3 +1972,12 @@
 [submodule "Penetration Testing/Training/kubernetes-goat"]
 	path = Penetration Testing/Training/kubernetes-goat
 	url = https://github.com/madhuakula/kubernetes-goat.git
+[submodule "Intelligence/MISP-maltego"]
+	path = Intelligence/MISP-maltego
+	url = https://github.com/MISP/MISP-maltego.git
+[submodule "Penetration Testing/Exploits/CVE-2020-1301"]
+	path = Penetration Testing/Exploits/CVE-2020-1301
+	url = https://github.com/shubham0d/CVE-2020-1301.git
+[submodule "Penetration Testing/Training/juliart"]
+	path = Penetration Testing/Training/juliart
+	url = https://github.com/iknowjason/juliart.git
