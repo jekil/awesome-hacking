@@ -1981,3 +1981,6 @@
 [submodule "Penetration Testing/Training/juliart"]
 	path = Penetration Testing/Training/juliart
 	url = https://github.com/iknowjason/juliart.git
+[submodule "Penetration Testing/Training/GRFICS"]
+	path = Penetration Testing/Training/GRFICS
+	url = https://github.com/djformby/GRFICS.git
