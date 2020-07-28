@@ -707,6 +707,7 @@ Training
 - `DVWA <http://dvwa.co.uk>`_ - Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable.
 - `DVWS <https://github.com/interference-security/DVWS>`_ - Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which works on web sockets for client-server communication.
 - `Don't Panic <https://github.com/antire-book/dont_panic>`_ - Training linux bind shell with anti-reverse engineering techniques.
+- `GRFICS <https://github.com/djformby/GRFICS>`_ - A graphical realism framework for industrial control simulations that uses Unity 3D game engine graphics to lower the barrier to entry for industrial control system security. GRFICS provides users with a full virtual industrial control system (ICS) network to practice common attacks including command injection, man-in-the-middle, and buffer overflows, and visually see the impact of their attacks in the 3D visualization. Users can also practice their defensive skills by properly segmenting the network with strong firewall rules, or writing intrusion detection rules.
 - `Hackazon <https://github.com/rapid7/hackazon>`_ - A modern vulnerable web app.
 - `Insecure-deserialization-net-poc <https://github.com/omerlh/insecure-deserialisation-net-poc>`_ - A small webserver vulnerable to insecure deserialization.
 - `JuliaRT <https://github.com/iknowjason/juliart>`_ - Automated AD Pentest Lab Deployment in the Cloud: IaC Terraform and Ansible Playbook templates for deploying an Active Directory Domain in Azure.
