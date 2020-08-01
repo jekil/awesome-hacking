@@ -734,6 +734,7 @@ Web
 - `Burp Suite <http://portswigger.net/burp/>`_ - An integrated platform for performing security testing of web applications.
 - `CloudScraper <https://github.com/jordanpotti/CloudScraper>`_ - Tool to enumerate targets in search of cloud resources. S3 Buckets, Azure Blobs, Digital Ocean Storage Space.
 - `Cms-explorer <https://code.google.com/archive/p/cms-explorer/>`_ - CMS Explorer is designed to reveal the the specific modules, plugins, components and themes that various CMS driven web sites are running.
+- `Dirble <https://github.com/nccgroup/dirble>`_ - Fast directory scanning and scraping tool.
 - `Dvcs-ripper <https://github.com/kost/dvcs-ripper>`_ - Rip web accessible (distributed) version control systems.
 - `Fimap <https://tha-imax.de/git/root/fimap>`_ - Find, prepare, audit, exploit and even google automatically for LFI/RFI bugs.
 - `Gobuster <https://github.com/OJ/gobuster>`_ - Directory/file & DNS busting tool written in Go.
@@ -777,6 +778,7 @@ Web
 - `Wuzz <https://github.com/asciimoo/wuzz>`_ - Interactive cli tool for HTTP inspection
 - `XSS-keylogger <https://github.com/hadynz/xss-keylogger>`_ - A keystroke logger to exploit XSS vulnerabilities in a site.
 - `XSS-payload-list <https://github.com/ismailtasdelen/xss-payload-list>`_ - XSS Payload list.
+- `XSpear <https://github.com/hahwul/XSpear>`_ - Powerfull XSS Scanning and Parameter analysis tool&gem.
 - `Yasuo <https://github.com/0xsauby/yasuo>`_ - A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network.
 - `Zed Attack Proxy (ZAP) <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>`_ - The OWASP ZAP core project.
 
