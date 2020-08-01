@@ -1984,3 +1984,9 @@
 [submodule "Penetration Testing/Training/GRFICS"]
 	path = Penetration Testing/Training/GRFICS
 	url = https://github.com/djformby/GRFICS.git
+[submodule "Penetration Testing/Web/dirble"]
+	path = Penetration Testing/Web/dirble
+	url = https://github.com/nccgroup/dirble.git
+[submodule "Penetration Testing/Web/XSpear"]
+	path = Penetration Testing/Web/XSpear
+	url = https://github.com/hahwul/XSpear.git
