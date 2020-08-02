@@ -1990,3 +1990,21 @@
 [submodule "Penetration Testing/Web/XSpear"]
 	path = Penetration Testing/Web/XSpear
 	url = https://github.com/hahwul/XSpear.git
+[submodule "Penetration Testing/Password Cracking/kwprocessor"]
+	path = Penetration Testing/Password Cracking/kwprocessor
+	url = https://github.com/hashcat/kwprocessor.git
+[submodule "Reverse Engineering/APKiD"]
+	path = Reverse Engineering/APKiD
+	url = https://github.com/rednaga/APKiD.git
+[submodule "Reverse Engineering/flare-emu"]
+	path = Reverse Engineering/flare-emu
+	url = https://github.com/fireeye/flare-emu.git
+[submodule "Penetration Testing/Exploiting/SharpBlock"]
+	path = Penetration Testing/Exploiting/SharpBlock
+	url = https://github.com/CCob/SharpBlock.git
+[submodule "Malware/Static Analysis/quark-engine"]
+	path = Malware/Static Analysis/quark-engine
+	url = https://github.com/quark-engine/quark-engine.git
+[submodule "Forensics/Mobile/iOSbackup"]
+	path = Forensics/Mobile/iOSbackup
+	url = https://github.com/avibrazil/iOSbackup.git
