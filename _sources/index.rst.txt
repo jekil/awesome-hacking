@@ -127,6 +127,7 @@ Mobile
 - `Mem <https://github.com/MobileForensicsResearch/mem>`_ - Tool used for dumping memory from Android devices.
 - `Snoopdroid <https://github.com/botherder/snoopdroid>`_ - Extract packages from an Android device.
 - `WhatsApp Media Decrypt <https://github.com/ddz/whatsapp-media-decrypt>`_ - Decrypt WhatsApp encrypted media files.
+- `iOSbackup <https://github.com/avibrazil/iOSbackup>`_ - A Pyhotn 3 class that reads and extracts files from a password-encrypted iOS backup created by iTunes on Mac and Windows. Compatible with iOS 13.
 
 Network Forensics
 -----------------
@@ -360,6 +361,7 @@ Static Analysis
 - `PScout <http://pscout.csl.toronto.edu>`_ - Analyzing the Android Permission Specification.
 - `Pdfminer <https://euske.github.io/pdfminer/>`_ - A tool for extracting information from PDF documents.
 - `Peepdf <http://eternal-todo.com/tools/peepdf-pdf-analysis-tool>`_ - A Python tool to explore PDF files in order to find out if the file can be harmful or not. The aim of this tool is to provide all the necessary components that a security researcher could need in a PDF analysis without using 3 or 4 tools to make all the tasks.
+- `Quark-engine <https://github.com/quark-engine/quark-engine>`_ - A trust-worthy, practical tool that's ready to boost up your malware reverse engineering.
 - `Smali-CFGs <https://github.com/EugenioDelfa/Smali-CFGs>`_ - Smali Control Flow Graph's.
 - `SmaliSCA <https://github.com/dorneanu/smalisca>`_ - Smali Static Code Analysis.
 - `Sysinternals Suite <https://technet.microsoft.com/en-us/sysinternals/bb842062>`_ - The Sysinternals Troubleshooting Utilities.
@@ -454,6 +456,7 @@ Exploiting
 - `Rupture <https://github.com/dionyziz/rupture/>`_ - A framework for BREACH and other compression-based crypto attacks.
 - `SPARTA <http://sparta.secforce.com>`_ - Network Infrastructure Penetration Testing Tool.
 - `Shark <https://github.com/9176324/Shark>`_ - Turn off PatchGuard in real time for win7 (7600) ~ win10 (18950).
+- `SharpBlock <https://github.com/CCob/SharpBlock>`_ - A method of bypassing EDR's active projection DLL's by preventing entry point execution.
 - `SharpShooter <https://github.com/mdsecactivebreach/SharpShooter>`_ - Payload Generation Framework.
 - `ShellcodeCompiler <https://github.com/NytroRST/ShellcodeCompiler>`_ - A program that compiles C/C++ style code into a small, position-independent and NULL-free shellcode for Windows (x86 and x64) and Linux (x86 and x64). It is possible to call any Windows API function or Linux syscall in a user-friendly way.
 - `Shellen <https://github.com/merrychap/shellen>`_ - Interactive shellcoding environment to easily craft shellcodes.
@@ -609,6 +612,7 @@ Password Cracking
 - `Hashcrack <https://github.com/nccgroup/hashcrack>`_ - Guesses hash types, picks some sensible dictionaries and rules for hashcat.
 - `Hob0Rules <https://github.com/praetorian-inc/Hob0Rules>`_ - Password cracking rules for Hashcat based on statistics and industry patterns.
 - `John the Ripper <http://www.openwall.com/john/>`_ - A fast password cracker.
+- `Kwprocessor <https://github.com/hashcat/kwprocessor>`_ - Advanced keyboard-walk generator with configureable basechars, keymap and routes.
 - `NPK <https://github.com/Coalfire-Research/npk>`_ - A mostly-serverless distributed hash cracking platform.
 - `Patator <https://github.com/lanjelot/patator>`_ - Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
 - `THC-Hydra <https://www.thc.org/thc-hydra/>`_ - A very fast network logon cracker which support many different services.
@@ -802,6 +806,7 @@ Wireless
 Reverse Engineering
 ===================
 
+- `APKiD <https://github.com/rednaga/APKiD>`_ - Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android.
 - `AndBug <https://github.com/swdunlop/AndBug>`_ - A debugger targeting the Android platform's Dalvik virtual machine intended for reverse engineers and developers.
 - `Angr <https://github.com/angr/angr>`_ - A platform-agnostic binary analysis framework developed by the Computer Security Lab at UC Santa Barbara and their associated CTF team, Shellphish.
 - `Apk2Gold <https://github.com/lxdvs/apk2gold>`_ - Yet another Android decompiler.
@@ -834,6 +839,7 @@ Reverse Engineering
 - `Enjarify <https://github.com/google/enjarify>`_ - A tool for translating Dalvik bytecode to equivalent Java bytecode. This allows Java analysis tools to analyze Android applications.
 - `Fibratus <https://github.com/rabbitstack/fibratus>`_ - Tool for exploration and tracing of the Windows kernel.
 - `Fino <https://github.com/sysdream/fino>`_ - An Android Dynamic Analysis Tool.
+- `Flare-emu <https://github.com/fireeye/flare-emu>`_ - It marries a supported binary analysis framework, such as IDA Pro or Radare2, with Unicorn’s emulation framework to provide the user with an easy to use and flexible interface for scripting emulation tasks. It is designed to handle all the housekeeping of setting up a flexible and robust emulator for its supported architectures so that you can focus on solving your code analysis problems.re
 - `Flare-ida <https://github.com/fireeye/flare-ida>`_ - IDA Pro utilities from FLARE team.
 - `Frida <https://www.frida.re>`_ - Inject JavaScript to explore native apps on Windows, macOS, Linux, iOS, Android, and QNX.
 - `Frida-scripts <https://github.com/interference-security/frida-scripts>`_ - These scripts will help in security research and automation.
