@@ -2008,3 +2008,6 @@
 [submodule "Forensics/Mobile/iOSbackup"]
 	path = Forensics/Mobile/iOSbackup
 	url = https://github.com/avibrazil/iOSbackup.git
+[submodule "Intelligence/n6"]
+	path = Intelligence/n6
+	url = https://github.com/CERT-Polska/n6.git

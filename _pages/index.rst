@@ -156,6 +156,7 @@ Intelligence
 - `Shodan-seeker <https://github.com/laincode/shodan-seeker>`_ - Command-line tool using Shodan API. Generates and downloads CSV results, diffing of historic scanning results, alerts and monitoring of specific ports/IPs, etc.
 - `VIA4CVE <https://github.com/cve-search/VIA4CVE>`_ - An aggregator of the known vendor vulnerabilities database to support the expansion of information with CVEs.
 - `Yeti <https://github.com/yeti-platform/yeti>`_ - Your Everyday Threat Intelligence.
+- `n6 <https://github.com/CERT-Polska/n6>`_ - Automated handling of data feeds for security teams.
 
 Library
 =======
