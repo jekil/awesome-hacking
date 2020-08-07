@@ -2011,3 +2011,6 @@
 [submodule "Intelligence/n6"]
 	path = Intelligence/n6
 	url = https://github.com/CERT-Polska/n6.git
+[submodule "Network/Analysis/Winshark"]
+	path = Network/Analysis/Winshark
+	url = https://github.com/airbus-cert/Winshark.git
