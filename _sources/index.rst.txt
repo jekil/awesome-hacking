@@ -97,6 +97,7 @@ Incident Response
 -----------------
 
 - `Hunter <https://github.com/ThreatHuntingProject/hunter>`_ - A threat hunting / data analysis environment based on Python, Pandas, PySpark and Jupyter Notebook.
+- `Loki <https://github.com/Neo23x0/Loki>`_ - Simple IOC and Incident Response Scanner.
 - `Snoopdigg <https://github.com/botherder/snoopdigg>`_ - Simple utility to ease the process of collecting evidence to find infections.
 
 Live Analysis
@@ -921,6 +922,9 @@ Reverse Engineering
 
 Security
 ========
+
+Asset Management
+----------------
 
 Cloud Security
 --------------
