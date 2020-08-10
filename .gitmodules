@@ -2020,3 +2020,6 @@
 [submodule "Security/Asset Managment/cartography"]
 	path = Security/Asset Managment/cartography
 	url = https://github.com/lyft/cartography
+[submodule "Reverse Engineering/ghidra_kernelcache"]
+	path = Reverse Engineering/ghidra_kernelcache
+	url = https://github.com/0x36/ghidra_kernelcache.git
