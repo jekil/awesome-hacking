@@ -86,6 +86,8 @@ File Forensics
 - `Docker Explorer <https://github.com/google/docker-explorer>`_ - A tool to help forensicate offline docker acquisitions.
 - `Hadoop_framework <https://github.com/sleuthkit/hadoop_framework>`_ - A prototype system that uses Hadoop to process hard drive images.
 - `OSXCollector <http://yelp.github.io/osxcollector/>`_ - A forensic evidence collection & analysis toolkit for OS X.
+- `RegRipper3.0 <https://github.com/keydet89/RegRipper3.0>`_ - Alternative to RegRipper
+- `RegRippy <https://github.com/airbus-cert/regrippy>`_ - A framework for reading and extracting useful forensics data from Windows registry hives. It is an alternative to RegRipper developed in modern Python 3.
 - `Scalpel <https://github.com/sleuthkit/scalpel>`_ - An open source data carving tool.
 - `Shellbags <https://github.com/williballenthin/shellbags>`_ - Investigate NT_USER.dat files.
 - `SlackPirate <https://github.com/emtunc/SlackPirate>`_ - Slack Enumeration and Extraction Tool - extract sensitive information from a Slack Workspace.
@@ -98,6 +100,7 @@ Incident Response
 
 - `Hunter <https://github.com/ThreatHuntingProject/hunter>`_ - A threat hunting / data analysis environment based on Python, Pandas, PySpark and Jupyter Notebook.
 - `Loki <https://github.com/Neo23x0/Loki>`_ - Simple IOC and Incident Response Scanner.
+- `Panorama <https://github.com/AlmCo/Panorama>`_ - It was made to generate a wide report about Windows systems, support and tested on Windows XP SP2 and up.
 - `Snoopdigg <https://github.com/botherder/snoopdigg>`_ - Simple utility to ease the process of collecting evidence to find infections.
 
 Live Analysis
@@ -850,6 +853,7 @@ Reverse Engineering
 - `Gdb-dashboard <https://github.com/cyrus-and/gdb-dashboard>`_ - Modular visual interface for GDB in Python.
 - `Gdbstub <https://github.com/mborgerson/gdbstub>`_ - A simple, dependency-free GDB stub that can be easily dropped in to your project.
 - `Ghidra <https://github.com/NationalSecurityAgency/ghidra>`_ - A software reverse engineering (SRE) framework.
+- `Ghidra_kernelcache <https://github.com/0x36/ghidra_kernelcache>`_ - A Ghidra framework for iOS kernelcache reverse engineering.
 - `Ghidra_scripts <https://github.com/ghidraninja/ghidra_scripts>`_ - Scripts for the Ghidra software reverse engineering suite.
 - `Granary <https://github.com/Granary/granary>`_ - A  kernel space dynamic binary translation framework. The main goal of Granary is to enable flexible and efficient instrumentation of Linux kernel modules, while imposing no overhead to non-module kernel code.
 - `Grap <https://github.com/QuoSecGmbH/grap>`_ - Define and match graph patterns within binaries.
