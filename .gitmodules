@@ -2023,3 +2023,12 @@
 [submodule "Reverse Engineering/ghidra_kernelcache"]
 	path = Reverse Engineering/ghidra_kernelcache
 	url = https://github.com/0x36/ghidra_kernelcache.git
+[submodule "Forensics/Incident Response/Panorama"]
+	path = Forensics/Incident Response/Panorama
+	url = https://github.com/AlmCo/Panorama.git
+[submodule "Forensics/File Forensics/regrippy"]
+	path = Forensics/File Forensics/regrippy
+	url = https://github.com/airbus-cert/regrippy.git
+[submodule "Forensics/File Forensics/RegRipper3.0"]
+	path = Forensics/File Forensics/RegRipper3.0
+	url = https://github.com/keydet89/RegRipper3.0.git
