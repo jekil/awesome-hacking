@@ -131,6 +131,7 @@ Mobile
 - `Mem <https://github.com/MobileForensicsResearch/mem>`_ - Tool used for dumping memory from Android devices.
 - `Snoopdroid <https://github.com/botherder/snoopdroid>`_ - Extract packages from an Android device.
 - `WhatsApp Media Decrypt <https://github.com/ddz/whatsapp-media-decrypt>`_ - Decrypt WhatsApp encrypted media files.
+- `iLEAPP <https://github.com/abrignoni/iLEAPP>`_ - iOS Logs, Events, And Plist Parser.
 - `iOSbackup <https://github.com/avibrazil/iOSbackup>`_ - A Pyhotn 3 class that reads and extracts files from a password-encrypted iOS backup created by iTunes on Mac and Windows. Compatible with iOS 13.
 
 Network Forensics
@@ -342,6 +343,7 @@ Source Code
 - `LOLBAS <https://github.com/LOLBAS-Project/LOLBAS>`_ - Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts).
 - `Mirai <https://github.com/jgamblin/Mirai-Source-Code>`_ - Leaked Mirai Source Code for Research/IoC Development Purposes.
 - `Morris Worm <https://github.com/arialdomartini/morris-worm>`_ - The original Morris Worm source code.
+- `SvcHostDemo <https://github.com/apriorit/SvcHostDemo>`_ - Demo service that runs in svchost.exe.
 - `TinyNuke <https://github.com/rossja/TinyNuke>`_ - Zeus-style banking trojan.
 - `Zerokit <https://github.com/Darkabode/zerokit>`_ - Zerokit/GAPZ rootkit (non buildable and only for researching).
 - `Zeus <https://github.com/Visgean/Zeus>`_ - Zeus version 2.0.8.9, leaked in 2011.
@@ -855,6 +857,7 @@ Reverse Engineering
 - `Ghidra <https://github.com/NationalSecurityAgency/ghidra>`_ - A software reverse engineering (SRE) framework.
 - `Ghidra_kernelcache <https://github.com/0x36/ghidra_kernelcache>`_ - A Ghidra framework for iOS kernelcache reverse engineering.
 - `Ghidra_scripts <https://github.com/ghidraninja/ghidra_scripts>`_ - Scripts for the Ghidra software reverse engineering suite.
+- `Golang_loader_assist <https://github.com/strazzere/golang_loader_assist>`_ - Making GO reversing easier in IDA Pro.
 - `Granary <https://github.com/Granary/granary>`_ - A  kernel space dynamic binary translation framework. The main goal of Granary is to enable flexible and efficient instrumentation of Linux kernel modules, while imposing no overhead to non-module kernel code.
 - `Grap <https://github.com/QuoSecGmbH/grap>`_ - Define and match graph patterns within binaries.
 - `Haybale <https://github.com/PLSysSec/haybale>`_ - Symbolic execution of LLVM IR with an engine written in Rust.

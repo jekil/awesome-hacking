@@ -2032,3 +2032,12 @@
 [submodule "Forensics/File Forensics/RegRipper3.0"]
 	path = Forensics/File Forensics/RegRipper3.0
 	url = https://github.com/keydet89/RegRipper3.0.git
+[submodule "Malware/Source Code/SvcHostDemo"]
+	path = Malware/Source Code/SvcHostDemo
+	url = https://github.com/apriorit/SvcHostDemo.git
+[submodule "Reverse Engineering/golang_loader_assist"]
+	path = Reverse Engineering/golang_loader_assist
+	url = https://github.com/strazzere/golang_loader_assist.git
+[submodule "Forensics/Mobile/iLEAPP"]
+	path = Forensics/Mobile/iLEAPP
+	url = https://github.com/abrignoni/iLEAPP.git
