@@ -258,6 +258,7 @@ Honeypot
 - `Django-admin-honeypot <https://github.com/dmpayton/django-admin-honeypot>`_ - A fake Django admin login screen to log and notify admins of attempted unauthorized access.
 - `ESPot <https://github.com/mycert/ESPot>`_ - An Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
 - `Elastichoney <https://github.com/jordan-wright/elastichoney>`_ - A Simple Elasticsearch Honeypot.
+- `Endlessh <https://github.com/skeeto/endlessh>`_ - An SSH tarpit that very slowly sends an endless, random SSH banner. It keeps SSH clients locked up for hours or even days at a time. The purpose is to put your real SSH server on another port and then let the script kiddies get stuck in this tarpit instead of bothering a real server.
 - `Glastopf <https://github.com/mushorg/glastopf>`_ - Web Application Honeypot.
 - `Glutton <https://github.com/mushorg/glutton>`_ - All eating honeypot.
 - `HFish <https://hfish.io/>`_ - A cross platform honeypot platform developed based on golang, which has been meticulously built for enterprise security.

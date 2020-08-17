@@ -2041,3 +2041,6 @@
 [submodule "Forensics/Mobile/iLEAPP"]
 	path = Forensics/Mobile/iLEAPP
 	url = https://github.com/abrignoni/iLEAPP.git
+[submodule "Malware/Honeypot/endlessh"]
+	path = Malware/Honeypot/endlessh
+	url = https://github.com/skeeto/endlessh.git
