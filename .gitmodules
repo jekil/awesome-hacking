@@ -2044,3 +2044,6 @@
 [submodule "Malware/Honeypot/endlessh"]
 	path = Malware/Honeypot/endlessh
 	url = https://github.com/skeeto/endlessh.git
+[submodule "Penetration Testing/Web/crlfuzz"]
+	path = Penetration Testing/Web/crlfuzz
+	url = https://github.com/dwisiswant0/crlfuzz.git
