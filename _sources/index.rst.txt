@@ -862,6 +862,7 @@ Reverse Engineering
 - `Golang_loader_assist <https://github.com/strazzere/golang_loader_assist>`_ - Making GO reversing easier in IDA Pro.
 - `Granary <https://github.com/Granary/granary>`_ - A  kernel space dynamic binary translation framework. The main goal of Granary is to enable flexible and efficient instrumentation of Linux kernel modules, while imposing no overhead to non-module kernel code.
 - `Grap <https://github.com/QuoSecGmbH/grap>`_ - Define and match graph patterns within binaries.
+- `HVMI <https://github.com/hvmi/hvmi>`_ - Hypervisor Memory Introspection Core Library.
 - `Haybale <https://github.com/PLSysSec/haybale>`_ - Symbolic execution of LLVM IR with an engine written in Rust.
 - `Heap-viewer <https://github.com/danigargu/heap-viewer>`_ - An IDA Pro plugin to examine the glibc heap, focused on exploit development.
 - `HexRaysCodeXplorer <https://github.com/REhints/HexRaysCodeXplorer>`_ - Hex-Rays Decompiler plugin for better code navigation
