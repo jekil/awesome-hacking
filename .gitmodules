@@ -2047,3 +2047,6 @@
 [submodule "Penetration Testing/Web/crlfuzz"]
 	path = Penetration Testing/Web/crlfuzz
 	url = https://github.com/dwisiswant0/crlfuzz.git
+[submodule "Reverse Engineering/hvmi"]
+	path = Reverse Engineering/hvmi
+	url = https://github.com/hvmi/hvmi.git
