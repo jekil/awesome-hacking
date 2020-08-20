@@ -2050,3 +2050,6 @@
 [submodule "Reverse Engineering/hvmi"]
 	path = Reverse Engineering/hvmi
 	url = https://github.com/hvmi/hvmi.git
+[submodule "Penetration Testing/Post Exploitation/shad0w"]
+	path = Penetration Testing/Post Exploitation/shad0w
+	url = https://github.com/bats3c/shad0w.git
