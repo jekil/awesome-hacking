@@ -1203,7 +1203,7 @@
 	url = https://github.com/gophish/gophish.git
 [submodule "Social Engineering/Phishing/blackeye"]
 	path = Social Engineering/Phishing/blackeye
-	url = https://github.com/thelinuxchoice/blackeye.git
+	url = https://github.com/An0nUD4Y/blackeye.git
 [submodule "Social Engineering/Phishing/FiercePhish"]
 	path = Social Engineering/Phishing/FiercePhish
 	url = https://github.com/Raikia/FiercePhish.git
