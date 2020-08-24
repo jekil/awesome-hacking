@@ -2053,3 +2053,6 @@
 [submodule "Penetration Testing/Post Exploitation/shad0w"]
 	path = Penetration Testing/Post Exploitation/shad0w
 	url = https://github.com/bats3c/shad0w.git
+[submodule "Library/Python/pyprotect"]
+	path = Library/Python/pyprotect
+	url = https://github.com/ga0/pyprotect.git
