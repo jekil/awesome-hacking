@@ -192,6 +192,7 @@ Python
 - `PyPDF2 <http://mstamy2.github.io/PyPDF2>`_ - A utility to read and write PDFs with Python.
 - `Pynids <https://jon.oberheide.org/pynids/>`_ - A python wrapper for libnids, a Network Intrusion Detection System library offering sniffing, IP defragmentation, TCP stream reassembly and TCP port scan detection. Let your own python routines examine network conversations.
 - `Pypcap <https://github.com/dugsong/pypcap>`_ - This is a simplified object-oriented Python wrapper for libpcap.
+- `Pyprotect <https://github.com/ga0/pyprotect>`_ - A lightweight python code protector, makes your python project harder to reverse engineer.
 - `Python-ptrace <https://github.com/haypo/python-ptrace>`_ - Python binding of ptrace library.
 - `RDPY <https://github.com/citronneur/rdpy>`_ - RDPY is a pure Python implementation of the Microsoft RDP (Remote Desktop Protocol) protocol (client and server side).
 - `Scapy <http://www.secdev.org/projects/scapy/>`_ - A python-based interactive packet manipulation program & library.
