@@ -28,25 +28,25 @@
 [submodule "Network/Sniffer/PF_RING"]
 	path = Network/Sniffer/PF_RING
 	url = https://github.com/ntop/PF_RING.git
-[submodule "Pentration Testing/Exploits/exploit-database"]
+[submodule "Penetration Testing/Exploits/exploit-database"]
 	path = Penetration Testing/Exploits/exploit-database
 	url = https://github.com/offensive-security/exploit-database.git
-[submodule "Pentration Testing/Fuzzing/Zulu"]
+[submodule "Penetration Testing/Fuzzing/Zulu"]
 	path = Penetration Testing/Fuzzing/Zulu
 	url = https://github.com/nccgroup/Zulu.git
-[submodule "Pentration Testing/Password Cracking/Hob0Rules"]
+[submodule "Penetration Testing/Password Cracking/Hob0Rules"]
 	path = Penetration Testing/Password Cracking/Hob0Rules
 	url = https://github.com/praetorian-inc/Hob0Rules.git
-[submodule "Pentration Testing/Web/zaproxy"]
+[submodule "Penetration Testing/Web/zaproxy"]
 	path = Penetration Testing/Web/zaproxy
 	url = https://github.com/zaproxy/zaproxy.git
-[submodule "Pentration Testing/Web/sqlmap"]
+[submodule "Penetration Testing/Web/sqlmap"]
 	path = Penetration Testing/Web/sqlmap
 	url = https://github.com/sqlmapproject/sqlmap.git
-[submodule "Pentration Testing/Password Cracking/hashcat"]
+[submodule "Penetration Testing/Password Cracking/hashcat"]
 	path = Penetration Testing/Password Cracking/hashcat
 	url = https://github.com/hashcat/hashcat.git
-[submodule "Pentration Testing/Post Exploitation/mimikatz"]
+[submodule "Penetration Testing/Post Exploitation/mimikatz"]
 	path = Penetration Testing/Post Exploitation/mimikatz
 	url = https://github.com/gentilkiwi/mimikatz.git
 [submodule "Reverse Engineering/dex2jar"]
@@ -61,10 +61,10 @@
 [submodule "Network/Packet Manipulation/pig"]
 	path = Network/Packet Manipulation/pig
 	url = https://github.com/rafael-santiago/pig.git
-[submodule "Pentration Testing/MITM/mitmproxy"]
+[submodule "Penetration Testing/MITM/mitmproxy"]
 	path = Penetration Testing/MITM/mitmproxy
 	url = https://github.com/mitmproxy/mitmproxy.git
-[submodule "Pentration Testing/MITM/mitmsocks4j"]
+[submodule "Penetration Testing/MITM/mitmsocks4j"]
 	path = Penetration Testing/MITM/mitmsocks4j
 	url = https://github.com/Akdeniz/mitmsocks4j.git
 [submodule "Malware/Dynamic Analysis/androguard"]
@@ -73,7 +73,7 @@
 [submodule "Cryptography/xortool"]
 	path = Cryptography/xortool
 	url = https://github.com/hellman/xortool.git
-[submodule "Pentration Testing/Password Cracking/JohnTheRipper"]
+[submodule "Penetration Testing/Password Cracking/JohnTheRipper"]
 	path = Penetration Testing/Password Cracking/JohnTheRipper
 	url = https://github.com/magnumripper/JohnTheRipper.git
 [submodule "Forensics/File Forensics/autopsy"]
@@ -88,28 +88,28 @@
 [submodule "Forensics/File Forensics/hadoop_framework"]
 	path = Forensics/File Forensics/hadoop_framework
 	url = https://github.com/sleuthkit/hadoop_framework.git
-[submodule "Pentration Testing/Web/tplmap"]
+[submodule "Penetration Testing/Web/tplmap"]
 	path = Penetration Testing/Web/tplmap
 	url = https://github.com/epinna/tplmap.git
-[submodule "Pentration Testing/Exploiting/metasploit-framework"]
+[submodule "Penetration Testing/Exploiting/metasploit-framework"]
 	path = Penetration Testing/Exploiting/metasploit-framework
 	url = https://github.com/rapid7/metasploit-framework.git
-[submodule "Pentration Testing/Exploiting/shellsploit-framework"]
+[submodule "Penetration Testing/Exploiting/shellsploit-framework"]
 	path = Penetration Testing/Exploiting/shellsploit-framework
 	url = https://github.com/b3mb4m/shellsploit-framework.git
 [submodule "Reverse Engineering/voltron"]
 	path = Reverse Engineering/voltron
 	url = https://github.com/snare/voltron.git
-[submodule "Pentration Testing/Training/SecurityShepherd"]
+[submodule "Penetration Testing/Training/SecurityShepherd"]
 	path = Penetration Testing/Training/SecurityShepherd
 	url = https://github.com/OWASP/SecurityShepherd.git
-[submodule "Pentration Testing/Training/railsgoat"]
+[submodule "Penetration Testing/Training/railsgoat"]
 	path = Penetration Testing/Training/railsgoat
 	url = https://github.com/OWASP/railsgoat.git
-[submodule "Pentration Testing/Web/wpscan"]
+[submodule "Penetration Testing/Web/wpscan"]
 	path = Penetration Testing/Web/wpscan
 	url = https://github.com/wpscanteam/wpscan.git
-[submodule "Pentration Testing/Training/DVWA"]
+[submodule "Penetration Testing/Training/DVWA"]
 	path = Penetration Testing/Training/DVWA
 	url = https://github.com/ethicalhack3r/DVWA.git
 [submodule "Docker/vaas-cve-2014-6271"]
@@ -127,40 +127,40 @@
 [submodule "Docker/docker-bench-security"]
 	path = Docker/docker-bench-security
 	url = https://github.com/diogomonica/docker-bench-security.git
-[submodule "Pentration Testing/Training/WebGoat"]
+[submodule "Penetration Testing/Training/WebGoat"]
 	path = Penetration Testing/Training/WebGoat
 	url = https://github.com/WebGoat/WebGoat.git
 [submodule "Docker/dockermutillidae"]
 	path = Docker/dockermutillidae
 	url = https://github.com/citizen-stig/dockermutillidae.git
-[submodule "Pentration Testing/Web/nikto"]
+[submodule "Penetration Testing/Web/nikto"]
 	path = Penetration Testing/Web/nikto
 	url = https://github.com/sullo/nikto.git
-[submodule "Pentration Testing/Web/w3af"]
+[submodule "Penetration Testing/Web/w3af"]
 	path = Penetration Testing/Web/w3af
 	url = https://github.com/andresriancho/w3af.git
-[submodule "Pentration Testing/Web/dvcs-ripper"]
+[submodule "Penetration Testing/Web/dvcs-ripper"]
 	path = Penetration Testing/Web/dvcs-ripper
 	url = https://github.com/kost/dvcs-ripper.git
-[submodule "Pentration Testing/Web/arachni"]
+[submodule "Penetration Testing/Web/arachni"]
 	path = Penetration Testing/Web/arachni
 	url = https://github.com/Arachni/arachni.git
 [submodule "Network/Sniffer/netsniff-ng"]
 	path = Network/Sniffer/netsniff-ng
 	url = https://github.com/netsniff-ng/netsniff-ng.git
-[submodule "Pentration Testing/Exploiting/sparta"]
+[submodule "Penetration Testing/Exploiting/sparta"]
 	path = Penetration Testing/Exploiting/sparta
 	url = https://github.com/SECFORCE/sparta.git
 [submodule "Network/Fake Services/dnschef"]
 	path = Network/Fake Services/dnschef
 	url = https://github.com/iphelix/dnschef.git
-[submodule "Pentration Testing/Info Gathering/dnsenum"]
+[submodule "Penetration Testing/Info Gathering/dnsenum"]
 	path = Penetration Testing/Info Gathering/dnsenum
 	url = https://github.com/fwaeytens/dnsenum.git
-[submodule "Pentration Testing/Info Gathering/dnsmap"]
+[submodule "Penetration Testing/Info Gathering/dnsmap"]
 	path = Penetration Testing/Info Gathering/dnsmap
 	url = https://github.com/makefu/dnsmap.git
-[submodule "Pentration Testing/Info Gathering/dnsrecon"]
+[submodule "Penetration Testing/Info Gathering/dnsrecon"]
 	path = Penetration Testing/Info Gathering/dnsrecon
 	url = https://github.com/darkoperator/dnsrecon.git
 [submodule "Forensics/Network Forensics/Dshell"]
@@ -169,16 +169,16 @@
 [submodule "Library/Python/scapy"]
 	path = Library/Python/scapy
 	url = https://github.com/secdev/scapy.git
-[submodule "Pentration Testing/Info Gathering/smbmap"]
+[submodule "Penetration Testing/Info Gathering/smbmap"]
 	path = Penetration Testing/Info Gathering/smbmap
 	url = https://github.com/ShawnDEvans/smbmap.git
-[submodule "Pentration Testing/Exploiting/fathomless"]
+[submodule "Penetration Testing/Exploiting/fathomless"]
 	path = Penetration Testing/Exploiting/fathomless
 	url = https://github.com/xor-function/fathomless.git
 [submodule "Reverse Engineering/unlinker"]
 	path = Reverse Engineering/unlinker
 	url = https://github.com/jonwil/unlinker.git
-[submodule "Pentration Testing/Exploiting/beef"]
+[submodule "Penetration Testing/Exploiting/beef"]
 	path = Penetration Testing/Exploiting/beef
 	url = https://github.com/beefproject/beef.git
 [submodule "Forensics/File Forensics/dff"]
@@ -187,22 +187,22 @@
 [submodule "Code Auditing/Static Analysis/brakeman"]
 	path = Code Auditing/Static Analysis/brakeman
 	url = https://github.com/presidentbeef/brakeman.git
-[submodule "Pentration Testing/Post Exploitation/DET"]
+[submodule "Penetration Testing/Post Exploitation/DET"]
 	path = Penetration Testing/Post Exploitation/DET
 	url = https://github.com/sensepost/DET.git
-[submodule "Pentration Testing/Fuzzing/netzob"]
+[submodule "Penetration Testing/Fuzzing/netzob"]
 	path = Penetration Testing/Fuzzing/netzob
 	url = https://github.com/netzob/netzob.git
-[submodule "Pentration Testing/Post Exploitation/pwnat"]
+[submodule "Penetration Testing/Post Exploitation/pwnat"]
 	path = Penetration Testing/Post Exploitation/pwnat
 	url = https://github.com/samyk/pwnat.git
-[submodule "Pentration Testing/Post Exploitation/mallory"]
+[submodule "Penetration Testing/Post Exploitation/mallory"]
 	path = Penetration Testing/Post Exploitation/mallory
 	url = https://github.com/justmao945/mallory.git
-[submodule "Pentration Testing/Exploiting/zarp"]
+[submodule "Penetration Testing/Exploiting/zarp"]
 	path = Penetration Testing/Exploiting/zarp
 	url = https://github.com/hatRiot/zarp.git
-[submodule "Pentration Testing/Port Scanning/masscan"]
+[submodule "Penetration Testing/Port Scanning/masscan"]
 	path = Penetration Testing/Port Scanning/masscan
 	url = https://github.com/robertdavidgraham/masscan.git
 [submodule "Forensics/Network Forensics/passivedns"]
@@ -211,28 +211,28 @@
 [submodule "Malware/Intelligence/passivedns-client"]
 	path = Malware/Intelligence/passivedns-client
 	url = https://github.com/chrislee35/passivedns-client.git
-[submodule "Pentration Testing/Wireless/wifite"]
+[submodule "Penetration Testing/Wireless/wifite"]
 	path = Penetration Testing/Wireless/wifite
 	url = https://github.com/derv82/wifite.git
-[submodule "Pentration Testing/Services/sslyze"]
+[submodule "Penetration Testing/Services/sslyze"]
 	path = Penetration Testing/Services/sslyze
 	url = https://github.com/nabla-c0d3/sslyze.git
-[submodule "Pentration Testing/Services/sslstrip"]
+[submodule "Penetration Testing/Services/sslstrip"]
 	path = Penetration Testing/Services/sslstrip
 	url = https://github.com/moxie0/sslstrip.git
-[submodule "Pentration Testing/Services/sslstrip2"]
+[submodule "Penetration Testing/Services/sslstrip2"]
 	path = Penetration Testing/Services/sslstrip2
 	url = https://github.com/LeonardoNve/sslstrip2.git
-[submodule "Pentration Testing/Services/tls_prober"]
+[submodule "Penetration Testing/Services/tls_prober"]
 	path = Penetration Testing/Services/tls_prober
 	url = https://github.com/WestpointLtd/tls_prober.git
-[submodule "Pentration Testing/Web/weevely3"]
+[submodule "Penetration Testing/Web/weevely3"]
 	path = Penetration Testing/Web/weevely3
 	url = https://github.com/epinna/weevely3.git
-[submodule "Pentration Testing/Post Exploitation/Fireaway"]
+[submodule "Penetration Testing/Post Exploitation/Fireaway"]
 	path = Penetration Testing/Post Exploitation/Fireaway
 	url = https://github.com/tcstool/Fireaway.git
-[submodule "Pentration Testing/Web/NoSQLMap"]
+[submodule "Penetration Testing/Web/NoSQLMap"]
 	path = Penetration Testing/Web/NoSQLMap
 	url = https://github.com/tcstool/NoSQLMap.git
 [submodule "Malware/Ops/malboxes"]
@@ -241,31 +241,31 @@
 [submodule "Security/Endpoint Security/duckhunt"]
 	path = Security/Endpoint Security/duckhunt
 	url = https://github.com/pmsosa/duckhunt.git
-[submodule "Pentration Testing/Training/RopeyTasks"]
+[submodule "Penetration Testing/Training/RopeyTasks"]
 	path = Penetration Testing/Training/RopeyTasks
 	url = https://github.com/continuumsecurity/RopeyTasks.git
-[submodule "Pentration Testing/Web/liffy"]
+[submodule "Penetration Testing/Web/liffy"]
 	path = Penetration Testing/Web/liffy
 	url = https://github.com/hvqzao/liffy.git
-[submodule "Pentration Testing/Web/Kadimus"]
+[submodule "Penetration Testing/Web/Kadimus"]
 	path = Penetration Testing/Web/Kadimus
 	url = https://github.com/P0cL4bs/Kadimus.git
-[submodule "Pentration Testing/Web/Kadabra"]
+[submodule "Penetration Testing/Web/Kadabra"]
 	path = Penetration Testing/Web/Kadabra
 	url = https://github.com/D35m0nd142/Kadabra.git
-[submodule "Pentration Testing/Web/fimap"]
+[submodule "Penetration Testing/Web/fimap"]
 	path = Penetration Testing/Web/fimap
 	url = https://github.com/kurobeats/fimap.git
-[submodule "Pentration Testing/Web/WhatWeb"]
+[submodule "Penetration Testing/Web/WhatWeb"]
 	path = Penetration Testing/Web/WhatWeb
 	url = https://github.com/urbanadventurer/WhatWeb.git
-[submodule "Pentration Testing/Web/joomscan"]
+[submodule "Penetration Testing/Web/joomscan"]
 	path = Penetration Testing/Web/joomscan
 	url = https://github.com/rezasp/joomscan.git
 [submodule "Reverse Engineering/coda"]
 	path = Reverse Engineering/coda
 	url = https://github.com/npamnani/coda.git
-[submodule "Pentration Testing/Mobile/idb"]
+[submodule "Penetration Testing/Mobile/idb"]
 	path = Penetration Testing/Mobile/idb
 	url = https://github.com/dmayer/idb.git
 [submodule "Reverse Engineering/idaemu"]
@@ -286,10 +286,10 @@
 [submodule "Reverse Engineering/flare-bytecode_graph"]
 	path = Reverse Engineering/flare-bytecode_graph
 	url = https://github.com/fireeye/flare-bytecode_graph.git
-[submodule "Pentration Testing/Mobile/Introspy-iOS"]
+[submodule "Penetration Testing/Mobile/Introspy-iOS"]
 	path = Penetration Testing/Mobile/Introspy-iOS
 	url = https://github.com/iSECPartners/Introspy-iOS.git
-[submodule "Pentration Testing/Fuzzing/fuzzbox"]
+[submodule "Penetration Testing/Fuzzing/fuzzbox"]
 	path = Penetration Testing/Fuzzing/fuzzbox
 	url = https://github.com/iSECPartners/fuzzbox.git
 [submodule "Network/Fake Services/dnsRedir"]
@@ -301,7 +301,7 @@
 [submodule "Reverse Engineering/ida-sploiter"]
 	path = Reverse Engineering/ida-sploiter
 	url = https://github.com/iphelix/ida-sploiter.git
-[submodule "Pentration Testing/Info Gathering/sslmap"]
+[submodule "Penetration Testing/Info Gathering/sslmap"]
 	path = Penetration Testing/Info Gathering/sslmap
 	url = https://github.com/iphelix/sslmap.git
 [submodule "Reverse Engineering/ida-patcher"]
@@ -310,16 +310,16 @@
 [submodule "Network/Analysis/bro"]
 	path = Network/Analysis/bro
 	url = https://github.com/bro/bro.git
-[submodule "Pentration Testing/Exploiting/PowerSploit"]
+[submodule "Penetration Testing/Exploiting/PowerSploit"]
 	path = Penetration Testing/Exploiting/PowerSploit
 	url = https://github.com/PowerShellMafia/PowerSploit.git
 [submodule "Malware/Dynamic Analysis/cuckoo"]
 	path = Malware/Dynamic Analysis/cuckoo
 	url = https://github.com/cuckoosandbox/cuckoo.git
-[submodule "Pentration Testing/MITM/ettercap"]
+[submodule "Penetration Testing/MITM/ettercap"]
 	path = Penetration Testing/MITM/ettercap
 	url = https://github.com/Ettercap/ettercap.git
-[submodule "Pentration Testing/Password Cracking/thc-hydra"]
+[submodule "Penetration Testing/Password Cracking/thc-hydra"]
 	path = Penetration Testing/Password Cracking/thc-hydra
 	url = https://github.com/vanhauser-thc/thc-hydra.git
 [submodule "Network/Packet Manipulation/yersinia"]
@@ -337,10 +337,10 @@
 [submodule "Library/Python/dpkt"]
 	path = Library/Python/dpkt
 	url = https://github.com/kbandla/dpkt.git
-[submodule "Pentration Testing/Info Gathering/knock"]
+[submodule "Penetration Testing/Info Gathering/knock"]
 	path = Penetration Testing/Info Gathering/knock
 	url = https://github.com/guelfoweb/knock.git
-[submodule "Pentration Testing/Info Gathering/subbrute"]
+[submodule "Penetration Testing/Info Gathering/subbrute"]
 	path = Penetration Testing/Info Gathering/subbrute
 	url = https://github.com/TheRook/subbrute.git
 [submodule "Reverse Engineering/paimei"]
@@ -391,7 +391,7 @@
 [submodule "Intelligence/xiphosresearch-exploits"]
 	path = Intelligence/xiphosresearch-exploits
 	url = https://github.com/XiphosResearch/exploits.git
-[submodule "Pentration Testing/Exploiting/evilgrade"]
+[submodule "Penetration Testing/Exploiting/evilgrade"]
 	path = Penetration Testing/Exploiting/evilgrade
 	url = https://github.com/infobyte/evilgrade.git
 [submodule "Malware/Source Code/Carberp"]
@@ -400,10 +400,10 @@
 [submodule "Malware/Source Code/Mirai-Source-Code"]
 	path = Malware/Source Code/Mirai-Source-Code
 	url = https://github.com/jgamblin/Mirai-Source-Code.git
-[submodule "Pentration Testing/Post Exploitation/iodine"]
+[submodule "Penetration Testing/Post Exploitation/iodine"]
 	path = Penetration Testing/Post Exploitation/iodine
 	url = https://github.com/yarrick/iodine.git
-[submodule "Pentration Testing/Info Gathering/ivre"]
+[submodule "Penetration Testing/Info Gathering/ivre"]
 	path = Penetration Testing/Info Gathering/ivre
 	url = https://github.com/cea-sec/ivre.git
 [submodule "Network/Sniffer/justniffer"]
@@ -415,31 +415,31 @@
 [submodule "Network/Sniffer/WebPcap"]
 	path = Network/Sniffer/WebPcap
 	url = https://github.com/sparrowprince/WebPcap.git
-[submodule "Pentration Testing/Reporting/faraday"]
+[submodule "Penetration Testing/Reporting/faraday"]
 	path = Penetration Testing/Reporting/faraday
 	url = https://github.com/infobyte/faraday.git
-[submodule "Pentration Testing/Exploiting/commix"]
+[submodule "Penetration Testing/Exploiting/commix"]
 	path = Penetration Testing/Exploiting/commix
 	url = https://github.com/commixproject/commix.git
-[submodule "Pentration Testing/MITM/Responder"]
+[submodule "Penetration Testing/MITM/Responder"]
 	path = Penetration Testing/MITM/Responder
 	url = https://github.com/SpiderLabs/Responder.git
-[submodule "Pentration Testing/Exploiting/Windows-Exploit-Suggester"]
+[submodule "Penetration Testing/Exploiting/Windows-Exploit-Suggester"]
 	path = Penetration Testing/Exploiting/Windows-Exploit-Suggester
 	url = https://github.com/GDSSecurity/Windows-Exploit-Suggester.git
-[submodule "Pentration Testing/Exploiting/Linux_Exploit_Suggester"]
+[submodule "Penetration Testing/Exploiting/Linux_Exploit_Suggester"]
 	path = Penetration Testing/Exploiting/Linux_Exploit_Suggester
 	url = https://github.com/PenturaLabs/Linux_Exploit_Suggester.git
-[submodule "Pentration Testing/Post Exploitation/Empire"]
+[submodule "Penetration Testing/Post Exploitation/Empire"]
 	path = Penetration Testing/Post Exploitation/Empire
 	url = https://github.com/adaptivethreat/Empire.git
-[submodule "Pentration Testing/DoS/LOIC"]
+[submodule "Penetration Testing/DoS/LOIC"]
 	path = Penetration Testing/DoS/LOIC
 	url = https://github.com/NewEraCracker/LOIC.git
 [submodule "Social Engineering/Harvester/metagoofil"]
 	path = Social Engineering/Harvester/metagoofil
 	url = https://github.com/laramies/metagoofil.git
-[submodule "Pentration Testing/Port Scanning/nmap"]
+[submodule "Penetration Testing/Port Scanning/nmap"]
 	path = Penetration Testing/Port Scanning/nmap
 	url = https://github.com/nmap/nmap.git
 [submodule "Social Engineering/Harvester/theHarvester"]
@@ -448,7 +448,7 @@
 [submodule "Social Engineering/Harvester/creepy"]
 	path = Social Engineering/Harvester/creepy
 	url = https://github.com/ilektrojohn/creepy.git
-[submodule "Pentration Testing/Exploits/ruby-advisory-db"]
+[submodule "Penetration Testing/Exploits/ruby-advisory-db"]
 	path = Penetration Testing/Exploits/ruby-advisory-db
 	url = https://github.com/rubysec/ruby-advisory-db.git
 [submodule "Library/Ruby/secureheaders"]
@@ -457,13 +457,13 @@
 [submodule "Intelligence/rt2jira"]
 	path = Intelligence/rt2jira
 	url = https://github.com/fireeye/rt2jira.git
-[submodule "Pentration Testing/Reporting/dradis-ce"]
+[submodule "Penetration Testing/Reporting/dradis-ce"]
 	path = Penetration Testing/Reporting/dradis-ce
 	url = https://github.com/dradis/dradis-ce.git
 [submodule "Social Engineering/Framework/social-engineer-toolkit"]
 	path = Social Engineering/Framework/social-engineer-toolkit
 	url = https://github.com/trustedsec/social-engineer-toolkit.git
-[submodule "Pentration Testing/Port Scanning/ipscan"]
+[submodule "Penetration Testing/Port Scanning/ipscan"]
 	path = Penetration Testing/Port Scanning/ipscan
 	url = https://github.com/angryziber/ipscan.git
 [submodule "Network/Analysis/sguil"]
@@ -481,16 +481,16 @@
 [submodule "Library/Python/pybfd"]
 	path = Library/Python/pybfd
 	url = https://github.com/Groundworkstech/pybfd.git
-[submodule "Pentration Testing/Fuzzing/sulley"]
+[submodule "Penetration Testing/Fuzzing/sulley"]
 	path = Penetration Testing/Fuzzing/sulley
 	url = https://github.com/OpenRCE/sulley.git
-[submodule "Pentration Testing/Post Exploitation/dnsteal"]
+[submodule "Penetration Testing/Post Exploitation/dnsteal"]
 	path = Penetration Testing/Post Exploitation/dnsteal
 	url = https://github.com/m57/dnsteal.git
 [submodule "Network/Sniffer/dnscap"]
 	path = Network/Sniffer/dnscap
 	url = https://github.com/DNS-OARC/dnscap.git
-[submodule "Pentration Testing/Fuzzing/construct"]
+[submodule "Penetration Testing/Fuzzing/construct"]
 	path = Penetration Testing/Fuzzing/construct
 	url = https://github.com/construct/construct.git
 [submodule "Forensics/Memory Forensics/volatility"]
@@ -505,10 +505,10 @@
 [submodule "Malware/Static Analysis/pdfminer"]
 	path = Malware/Static Analysis/pdfminer
 	url = https://github.com/euske/pdfminer.git
-[submodule "Pentration Testing/Password Cracking/BozoCrack"]
+[submodule "Penetration Testing/Password Cracking/BozoCrack"]
 	path = Penetration Testing/Password Cracking/BozoCrack
 	url = https://github.com/juuso/BozoCrack.git
-[submodule "Pentration Testing/Wireless/mass-deauth"]
+[submodule "Penetration Testing/Wireless/mass-deauth"]
 	path = Penetration Testing/Wireless/mass-deauth
 	url = https://github.com/Andy-Maclachlan/mass-deauth.git
 [submodule "Malware/Intelligence/misp-modules"]
@@ -517,67 +517,67 @@
 [submodule "Malware/Honeypot/mhn"]
 	path = Malware/Honeypot/mhn
 	url = https://github.com/threatstream/mhn.git
-[submodule "Pentration Testing/Training/NodeGoat"]
+[submodule "Penetration Testing/Training/NodeGoat"]
 	path = Penetration Testing/Training/NodeGoat
 	url = https://github.com/OWASP/NodeGoat.git
-[submodule "Pentration Testing/Training/juice-shop"]
+[submodule "Penetration Testing/Training/juice-shop"]
 	path = Penetration Testing/Training/juice-shop
 	url = https://github.com/bkimminich/juice-shop.git
 [submodule "Malware/Honeypot/glutton"]
 	path = Malware/Honeypot/glutton
 	url = https://github.com/mushorg/glutton.git
-[submodule "Pentration Testing/Web/Scout2"]
+[submodule "Penetration Testing/Web/Scout2"]
 	path = Penetration Testing/Web/Scout2
 	url = https://github.com/nccgroup/Scout2.git
-[submodule "Pentration Testing/DoS/ufonet"]
+[submodule "Penetration Testing/DoS/ufonet"]
 	path = Penetration Testing/DoS/ufonet
 	url = https://github.com/epsylon/ufonet.git
-[submodule "Pentration Testing/Wireless/wifijammer"]
+[submodule "Penetration Testing/Wireless/wifijammer"]
 	path = Penetration Testing/Wireless/wifijammer
 	url = https://github.com/DanMcInerney/wifijammer.git
-[submodule "Pentration Testing/Wireless/wifikill"]
+[submodule "Penetration Testing/Wireless/wifikill"]
 	path = Penetration Testing/Wireless/wifikill
 	url = https://github.com/roglew/wifikill.git
-[submodule "Pentration Testing/Port Scanning/zmap"]
+[submodule "Penetration Testing/Port Scanning/zmap"]
 	path = Penetration Testing/Port Scanning/zmap
 	url = https://github.com/zmap/zmap.git
-[submodule "Pentration Testing/DoS/torshammer"]
+[submodule "Penetration Testing/DoS/torshammer"]
 	path = Penetration Testing/DoS/torshammer
 	url = https://github.com/dotfighter/torshammer.git
-[submodule "Pentration Testing/DoS/sockstress"]
+[submodule "Penetration Testing/DoS/sockstress"]
 	path = Penetration Testing/DoS/sockstress
 	url = https://github.com/defuse/sockstress.git
-[submodule "Pentration Testing/MITM/MITMf"]
+[submodule "Penetration Testing/MITM/MITMf"]
 	path = Penetration Testing/MITM/MITMf
 	url = https://github.com/byt3bl33d3r/MITMf.git
-[submodule "Pentration Testing/Wireless/LANs.py"]
+[submodule "Penetration Testing/Wireless/LANs.py"]
 	path = Penetration Testing/Wireless/LANs.py
 	url = https://github.com/DanMcInerney/LANs.py.git
-[submodule "Pentration Testing/DoS/DHCPig"]
+[submodule "Penetration Testing/DoS/DHCPig"]
 	path = Penetration Testing/DoS/DHCPig
 	url = https://github.com/kamorin/DHCPig.git
 [submodule "Network/Sniffer/net-creds"]
 	path = Network/Sniffer/net-creds
 	url = https://github.com/DanMcInerney/net-creds.git
-[submodule "Pentration Testing/MITM/dnsspoof"]
+[submodule "Penetration Testing/MITM/dnsspoof"]
 	path = Penetration Testing/MITM/dnsspoof
 	url = https://github.com/DanMcInerney/dnsspoof.git
-[submodule "Pentration Testing/Web/wpsploit"]
+[submodule "Penetration Testing/Web/wpsploit"]
 	path = Penetration Testing/Web/wpsploit
 	url = https://github.com/espreto/wpsploit.git
-[submodule "Pentration Testing/Web/WS-Attacker"]
+[submodule "Penetration Testing/Web/WS-Attacker"]
 	path = Penetration Testing/Web/WS-Attacker
 	url = https://github.com/RUB-NDS/WS-Attacker.git
-[submodule "Pentration Testing/Web/OWASP-Xenotix-XSS-Exploit-Framework"]
+[submodule "Penetration Testing/Web/OWASP-Xenotix-XSS-Exploit-Framework"]
 	path = Penetration Testing/Web/OWASP-Xenotix-XSS-Exploit-Framework
 	url = https://github.com/ajinabraham/OWASP-Xenotix-XSS-Exploit-Framework.git
-[submodule "Pentration Testing/Info Gathering/bundler-audit"]
+[submodule "Penetration Testing/Info Gathering/bundler-audit"]
 	path = Penetration Testing/Info Gathering/bundler-audit
 	url = https://github.com/rubysec/bundler-audit.git
-[submodule "Pentration Testing/Web/yasuo"]
+[submodule "Penetration Testing/Web/yasuo"]
 	path = Penetration Testing/Web/yasuo
 	url = https://github.com/0xsauby/yasuo.git
-[submodule "Pentration Testing/Exploiting/vuls"]
+[submodule "Penetration Testing/Exploiting/vuls"]
 	path = Penetration Testing/Exploiting/vuls
 	url = https://github.com/future-architect/vuls.git
 [submodule "Reverse Engineering/keystone"]
@@ -586,7 +586,7 @@
 [submodule "Reverse Engineering/unicorn"]
 	path = Reverse Engineering/unicorn
 	url = https://github.com/unicorn-engine/unicorn.git
-[submodule "Pentration Testing/Exploiting/routersploit"]
+[submodule "Penetration Testing/Exploiting/routersploit"]
 	path = Penetration Testing/Exploiting/routersploit
 	url = https://github.com/reverse-shell/routersploit.git
 [submodule "Reverse Engineering/fibratus"]
@@ -595,13 +595,13 @@
 [submodule "Social Engineering/Harvester/github-dorks"]
 	path = Social Engineering/Harvester/github-dorks
 	url = https://github.com/techgaun/github-dorks.git
-[submodule "Pentration Testing/Exploiting/spoodle"]
+[submodule "Penetration Testing/Exploiting/spoodle"]
 	path = Penetration Testing/Exploiting/spoodle
 	url = https://github.com/vjex/spoodle.git
 [submodule "Reverse Engineering/chipsec"]
 	path = Reverse Engineering/chipsec
 	url = https://github.com/chipsec/chipsec.git
-[submodule "Pentration Testing/Fuzzing/python-afl"]
+[submodule "Penetration Testing/Fuzzing/python-afl"]
 	path = Penetration Testing/Fuzzing/python-afl
 	url = https://github.com/jwilk/python-afl.git
 [submodule "Malware/Static Analysis/androwarn"]
@@ -628,7 +628,7 @@
 [submodule "Security/Privacy/nipe"]
 	path = Security/Privacy/nipe
 	url = https://github.com/GouveaHeitor/nipe.git
-[submodule "Pentration Testing/Training/dont_panic"]
+[submodule "Penetration Testing/Training/dont_panic"]
 	path = Penetration Testing/Training/dont_panic
 	url = https://github.com/antire-book/dont_panic.git
 [submodule "Malware/Honeypot/spamscope"]
@@ -646,19 +646,19 @@
 [submodule "Malware/Static Analysis/ConDroid"]
 	path = Malware/Static Analysis/ConDroid
 	url = https://github.com/JulianSchuette/ConDroid.git
-[submodule "Pentration Testing/Mobile/qark"]
+[submodule "Penetration Testing/Mobile/qark"]
 	path = Penetration Testing/Mobile/qark
 	url = https://github.com/linkedin/qark.git
-[submodule "Pentration Testing/Mobile/AndroBugs_Framework"]
+[submodule "Penetration Testing/Mobile/AndroBugs_Framework"]
 	path = Penetration Testing/Mobile/AndroBugs_Framework
 	url = https://github.com/AndroBugs/AndroBugs_Framework.git
-[submodule "Pentration Testing/Mobile/Mobile-Security-Framework-MobSF"]
+[submodule "Penetration Testing/Mobile/Mobile-Security-Framework-MobSF"]
 	path = Penetration Testing/Mobile/Mobile-Security-Framework-MobSF
 	url = https://github.com/ajinabraham/Mobile-Security-Framework-MobSF.git
 [submodule "Malware/Dynamic Analysis/droidbox"]
 	path = Malware/Dynamic Analysis/droidbox
 	url = https://github.com/pjlantz/droidbox.git
-[submodule "Pentration Testing/Mobile/CobraDroidBeta"]
+[submodule "Penetration Testing/Mobile/CobraDroidBeta"]
 	path = Penetration Testing/Mobile/CobraDroidBeta
 	url = https://github.com/jakev/CobraDroidBeta.git
 [submodule "Malware/Static Analysis/Inspeckage"]
@@ -676,7 +676,7 @@
 [submodule "Malware/Dynamic Analysis/ProbeDroid"]
 	path = Malware/Dynamic Analysis/ProbeDroid
 	url = https://github.com/ZSShen/ProbeDroid.git
-[submodule "Pentration Testing/MITM/nogotofail"]
+[submodule "Penetration Testing/MITM/nogotofail"]
 	path = Penetration Testing/MITM/nogotofail
 	url = https://github.com/google/nogotofail.git
 [submodule "Forensics/Mobile/mem"]
@@ -694,10 +694,10 @@
 [submodule "Reverse Engineering/Apktool"]
 	path = Reverse Engineering/Apktool
 	url = https://github.com/iBotPeaches/Apktool.git
-[submodule "Pentration Testing/Mobile/AFE"]
+[submodule "Penetration Testing/Mobile/AFE"]
 	path = Penetration Testing/Mobile/AFE
 	url = https://github.com/appknox/AFE.git
-[submodule "Pentration Testing/Mobile/drozer"]
+[submodule "Penetration Testing/Mobile/drozer"]
 	path = Penetration Testing/Mobile/drozer
 	url = https://github.com/mwrlabs/drozer.git
 [submodule "Reverse Engineering/enjarify"]
@@ -718,22 +718,22 @@
 [submodule "Reverse Engineering/simplify"]
 	path = Reverse Engineering/simplify
 	url = https://github.com/CalebFenton/simplify.git
-[submodule "Pentration Testing/Fuzzing/radamsa-android"]
+[submodule "Penetration Testing/Fuzzing/radamsa-android"]
 	path = Penetration Testing/Fuzzing/radamsa-android
 	url = https://github.com/anestisb/radamsa-android.git
-[submodule "Pentration Testing/Fuzzing/melkor-android"]
+[submodule "Penetration Testing/Fuzzing/melkor-android"]
 	path = Penetration Testing/Fuzzing/melkor-android
 	url = https://github.com/anestisb/melkor-android.git
-[submodule "Pentration Testing/Fuzzing/honggfuzz"]
+[submodule "Penetration Testing/Fuzzing/honggfuzz"]
 	path = Penetration Testing/Fuzzing/honggfuzz
 	url = https://github.com/google/honggfuzz.git
-[submodule "Pentration Testing/Fuzzing/AndroFuzz"]
+[submodule "Penetration Testing/Fuzzing/AndroFuzz"]
 	path = Penetration Testing/Fuzzing/AndroFuzz
 	url = https://github.com/jonmetz/AndroFuzz.git
 [submodule "Malware/Static Analysis/FSquaDRA"]
 	path = Malware/Static Analysis/FSquaDRA
 	url = https://github.com/zyrikby/FSquaDRA.git
-[submodule "Pentration Testing/Fuzzing/MFFA"]
+[submodule "Penetration Testing/Fuzzing/MFFA"]
 	path = Penetration Testing/Fuzzing/MFFA
 	url = https://github.com/fuzzing/MFFA.git
 [submodule "Malware/Source Code/android-malware"]
@@ -760,7 +760,7 @@
 [submodule "Malware/Ops/node-appland"]
 	path = Malware/Ops/node-appland
 	url = https://github.com/dweinstein/node-appland.git
-[submodule "Pentration Testing/Mobile/android-vts"]
+[submodule "Penetration Testing/Mobile/android-vts"]
 	path = Penetration Testing/Mobile/android-vts
 	url = https://github.com/AndroidVTS/android-vts.git
 [submodule "Malware/Source Code/fancybear"]
@@ -769,13 +769,13 @@
 [submodule "Code Auditing/Static Analysis/shellcheck"]
 	path = Code Auditing/Static Analysis/shellcheck
 	url = https://github.com/koalaman/shellcheck.git
-[submodule "Pentration Testing/Training/DVWS"]
+[submodule "Penetration Testing/Training/DVWS"]
 	path = Penetration Testing/Training/DVWS
 	url = https://github.com/interference-security/DVWS.git
-[submodule "Pentration Testing/Info Gathering/truffleHog"]
+[submodule "Penetration Testing/Info Gathering/truffleHog"]
 	path = Penetration Testing/Info Gathering/truffleHog
 	url = https://github.com/dxa4481/truffleHog.git
-[submodule "Pentration Testing/Exploits/chakra-2016-11"]
+[submodule "Penetration Testing/Exploits/chakra-2016-11"]
 	path = Penetration Testing/Exploits/chakra-2016-11
 	url = https://github.com/theori-io/chakra-2016-11.git
 [submodule "Reverse Engineering/gdb-dashboard"]
@@ -784,7 +784,7 @@
 [submodule "Malware/Dynamic Analysis/magento-malware-scanner"]
 	path = Malware/Dynamic Analysis/magento-malware-scanner
 	url = https://github.com/gwillem/magento-malware-scanner.git
-[submodule "Pentration Testing/Exploiting/rupture"]
+[submodule "Penetration Testing/Exploiting/rupture"]
 	path = Penetration Testing/Exploiting/rupture
 	url = https://github.com/dionyziz/rupture.git
 [submodule "CTF Tools/CTFd"]
@@ -808,13 +808,13 @@
 [submodule "Cryptography/rsatool"]
 	path = Cryptography/rsatool
 	url = https://github.com/ius/rsatool.git
-[submodule "Pentration Testing/Exploiting/dllinjector"]
+[submodule "Penetration Testing/Exploiting/dllinjector"]
 	path = Penetration Testing/Exploiting/dllinjector
 	url = https://github.com/OpenSecurityResearch/dllinjector.git
 [submodule "Reverse Engineering/qira"]
 	path = Reverse Engineering/qira
 	url = https://github.com/BinaryAnalysisPlatform/qira.git
-[submodule "Pentration Testing/Exploiting/ROPgadget"]
+[submodule "Penetration Testing/Exploiting/ROPgadget"]
 	path = Penetration Testing/Exploiting/ROPgadget
 	url = https://github.com/JonathanSalwan/ROPgadget.git
 [submodule "CTF Tools/v0lt"]
@@ -847,16 +847,16 @@
 [submodule "Reverse Engineering/uncompyle"]
 	path = Reverse Engineering/uncompyle
 	url = https://github.com/gstarnberger/uncompyle.git
-[submodule "Pentration Testing/Exploiting/PSKernel-Primitives"]
+[submodule "Penetration Testing/Exploiting/PSKernel-Primitives"]
 	path = Penetration Testing/Exploiting/PSKernel-Primitives
 	url = https://github.com/FuzzySecurity/PSKernel-Primitives.git
-[submodule "Pentration Testing/Post Exploitation/p0wnedShell"]
+[submodule "Penetration Testing/Post Exploitation/p0wnedShell"]
 	path = Penetration Testing/Post Exploitation/p0wnedShell
 	url = https://github.com/Cn33liz/p0wnedShell.git
 [submodule "Malware/Honeypot/MongoDB-HoneyProxy"]
 	path = Malware/Honeypot/MongoDB-HoneyProxy
 	url = https://github.com/Plazmaz/MongoDB-HoneyProxy.git
-[submodule "Pentration Testing/Info Gathering/operative-framework"]
+[submodule "Penetration Testing/Info Gathering/operative-framework"]
 	path = Penetration Testing/Info Gathering/operative-framework
 	url = https://github.com/graniet/operative-framework.git
 [submodule "Reverse Engineering/ufgraph"]
@@ -913,22 +913,22 @@
 [submodule "Reverse Engineering/ScratchABit"]
 	path = Reverse Engineering/ScratchABit
 	url = https://github.com/pfalcon/ScratchABit.git
-[submodule "Pentration Testing/Mobile/Androl4b"]
+[submodule "Penetration Testing/Mobile/Androl4b"]
 	path = Penetration Testing/Mobile/Androl4b
 	url = https://github.com/sh4hin/Androl4b.git
-[submodule "Pentration Testing/Mobile/JAADAS"]
+[submodule "Penetration Testing/Mobile/JAADAS"]
 	path = Penetration Testing/Mobile/JAADAS
 	url = https://github.com/flankerhqd/JAADAS.git
-[submodule "Pentration Testing/Web/wordpress-exploit-framework"]
+[submodule "Penetration Testing/Web/wordpress-exploit-framework"]
 	path = Penetration Testing/Web/wordpress-exploit-framework
 	url = https://github.com/rastating/wordpress-exploit-framework.git
 [submodule "Library/Python/rdpy"]
 	path = Library/Python/rdpy
 	url = https://github.com/citronneur/rdpy.git
-[submodule "Pentration Testing/Info Gathering/Wmap"]
+[submodule "Penetration Testing/Info Gathering/Wmap"]
 	path = Penetration Testing/Info Gathering/Wmap
 	url = https://github.com/MaYaSeVeN/Wmap.git
-[submodule "Pentration Testing/Info Gathering/URLextractor"]
+[submodule "Penetration Testing/Info Gathering/URLextractor"]
 	path = Penetration Testing/Info Gathering/URLextractor
 	url = https://github.com/eschultze/URLextractor.git
 [submodule "Malware/Honeypot/conpot"]
@@ -967,16 +967,16 @@
 [submodule "CTF Tools/one_gadget"]
 	path = CTF Tools/one_gadget
 	url = https://github.com/david942j/one_gadget.git
-[submodule "Pentration Testing/Exploits/MS17-010"]
+[submodule "Penetration Testing/Exploits/MS17-010"]
 	path = Penetration Testing/Exploits/MS17-010
 	url = https://github.com/worawit/MS17-010.git
 [submodule "Social Engineering/Harvester/TTSL"]
 	path = Social Engineering/Harvester/TTSL
 	url = https://github.com/dchrastil/TTSL.git
-[submodule "Pentration Testing/Exploiting/Veil"]
+[submodule "Penetration Testing/Exploiting/Veil"]
 	path = Penetration Testing/Exploiting/Veil
 	url = https://github.com/Veil-Framework/Veil.git
-[submodule "Pentration Testing/Info Gathering/SecLists"]
+[submodule "Penetration Testing/Info Gathering/SecLists"]
 	path = Penetration Testing/Info Gathering/SecLists
 	url = https://github.com/danielmiessler/SecLists.git
 [submodule "Forensics/File Forensics/osxcollector"]
@@ -985,16 +985,16 @@
 [submodule "Malware/Dynamic Analysis/wscript"]
 	path = Malware/Dynamic Analysis/wscript
 	url = https://github.com/mrpapercut/wscript.git
-[submodule "Pentration Testing/Exploits/Jira-Scan"]
+[submodule "Penetration Testing/Exploits/Jira-Scan"]
 	path = Penetration Testing/Exploits/Jira-Scan
 	url = https://github.com/random-robbie/Jira-Scan.git
-[submodule "Pentration Testing/Web/xss-payload-list"]
+[submodule "Penetration Testing/Web/xss-payload-list"]
 	path = Penetration Testing/Web/xss-payload-list
 	url = https://github.com/ismailtasdelen/xss-payload-list.git
 [submodule "Security/Cloud Security/azucar"]
 	path = Security/Cloud Security/azucar
 	url = https://github.com/nccgroup/azucar.git
-[submodule "Pentration Testing/Exploiting/shellen"]
+[submodule "Penetration Testing/Exploiting/shellen"]
 	path = Penetration Testing/Exploiting/shellen
 	url = https://github.com/merrychap/shellen.git
 [submodule "Malware/Dynamic Analysis/uitkyk"]
@@ -1006,7 +1006,7 @@
 [submodule "Reverse Engineering/heap-viewer"]
 	path = Reverse Engineering/heap-viewer
 	url = https://github.com/danigargu/heap-viewer.git
-[submodule "Pentration Testing/Exploits/CVE-2018-8897"]
+[submodule "Penetration Testing/Exploits/CVE-2018-8897"]
 	path = Penetration Testing/Exploits/CVE-2018-8897
 	url = https://github.com/nmulasmajic/CVE-2018-8897.git
 [submodule "Reverse Engineering/shed"]
@@ -1018,25 +1018,25 @@
 [submodule "Malware/Source Code/morris-worm"]
 	path = Malware/Source Code/morris-worm
 	url = https://github.com/arialdomartini/morris-worm.git
-[submodule "Pentration Testing/Password Cracking/common-substr"]
+[submodule "Penetration Testing/Password Cracking/common-substr"]
 	path = Penetration Testing/Password Cracking/common-substr
 	url = https://github.com/sensepost/common-substr.git
-[submodule "Pentration Testing/Post Exploitation/GetVulnerableGPO"]
+[submodule "Penetration Testing/Post Exploitation/GetVulnerableGPO"]
 	path = Penetration Testing/Post Exploitation/GetVulnerableGPO
 	url = https://github.com/gpoguy/GetVulnerableGPO.git
 [submodule "Malware/Ops/al-khaser"]
 	path = Malware/Ops/al-khaser
 	url = https://github.com/LordNoteworthy/al-khaser.git
-[submodule "Pentration Testing/Port Scanning/watchdog"]
+[submodule "Penetration Testing/Port Scanning/watchdog"]
 	path = Penetration Testing/Port Scanning/watchdog
 	url = https://github.com/flipkart-incubator/watchdog.git
-[submodule "Pentration Testing/Exploits/cve-2018-8120"]
+[submodule "Penetration Testing/Exploits/cve-2018-8120"]
 	path = Penetration Testing/Exploits/cve-2018-8120
 	url = https://github.com/bigric3/cve-2018-8120
-[submodule "Pentration Testing/Exploits/HolicPOC"]
+[submodule "Penetration Testing/Exploits/HolicPOC"]
 	path = Penetration Testing/Exploits/HolicPOC
 	url = https://github.com/leeqwind/HolicPOC.git
-[submodule "Pentration Testing/Exploiting/drupwn"]
+[submodule "Penetration Testing/Exploiting/drupwn"]
 	path = Penetration Testing/Exploiting/drupwn
 	url = https://github.com/immunIT/drupwn.git
 [submodule "Forensics/File Forensics/docker-explorer"]
@@ -1045,49 +1045,49 @@
 [submodule "Security/Endpoint Security/lynis"]
 	path = Security/Endpoint Security/lynis
 	url = https://github.com/CISOfy/lynis.git
-[submodule "Pentration Testing/Post Exploitation/TheFatRat"]
+[submodule "Penetration Testing/Post Exploitation/TheFatRat"]
 	path = Penetration Testing/Post Exploitation/TheFatRat
 	url = https://github.com/Exploit-install/TheFatRat.git
-[submodule "Pentration Testing/Post Exploitation/poet"]
+[submodule "Penetration Testing/Post Exploitation/poet"]
 	path = Penetration Testing/Post Exploitation/poet
 	url = https://github.com/mossberg/poet.git
-[submodule "Pentration Testing/Post Exploitation/mimikittenz"]
+[submodule "Penetration Testing/Post Exploitation/mimikittenz"]
 	path = Penetration Testing/Post Exploitation/mimikittenz
 	url = https://github.com/putterpanda/mimikittenz.git
-[submodule "Pentration Testing/Post Exploitation/spYDyishai"]
+[submodule "Penetration Testing/Post Exploitation/spYDyishai"]
 	path = Penetration Testing/Post Exploitation/spYDyishai
 	url = https://github.com/Night46/spYDyishai.git
-[submodule "Pentration Testing/Post Exploitation/koadic"]
+[submodule "Penetration Testing/Post Exploitation/koadic"]
 	path = Penetration Testing/Post Exploitation/koadic
 	url = https://github.com/zerosum0x0/koadic.git
-[submodule "Pentration Testing/Post Exploitation/CrackMapExec"]
+[submodule "Penetration Testing/Post Exploitation/CrackMapExec"]
 	path = Penetration Testing/Post Exploitation/CrackMapExec
 	url = https://github.com/byt3bl33d3r/CrackMapExec.git
-[submodule "Pentration Testing/Post Exploitation/PowerOPS"]
+[submodule "Penetration Testing/Post Exploitation/PowerOPS"]
 	path = Penetration Testing/Post Exploitation/PowerOPS
 	url = https://github.com/fdiskyou/PowerOPS.git
-[submodule "Pentration Testing/Post Exploitation/enumdb"]
+[submodule "Penetration Testing/Post Exploitation/enumdb"]
 	path = Penetration Testing/Post Exploitation/enumdb
 	url = https://github.com/m8r0wn/enumdb.git
-[submodule "Pentration Testing/Post Exploitation/RemoteRecon"]
+[submodule "Penetration Testing/Post Exploitation/RemoteRecon"]
 	path = Penetration Testing/Post Exploitation/RemoteRecon
 	url = https://github.com/xorrior/RemoteRecon.git
-[submodule "Pentration Testing/Post Exploitation/EvilOSX"]
+[submodule "Penetration Testing/Post Exploitation/EvilOSX"]
 	path = Penetration Testing/Post Exploitation/EvilOSX
 	url = https://github.com/Marten4n6/EvilOSX.git
-[submodule "Pentration Testing/Post Exploitation/ProcessHider"]
+[submodule "Penetration Testing/Post Exploitation/ProcessHider"]
 	path = Penetration Testing/Post Exploitation/ProcessHider
 	url = https://github.com/M00nRise/ProcessHider.git
 [submodule "Malware/Ops/mquery"]
 	path = Malware/Ops/mquery
 	url = https://github.com/CERT-Polska/mquery.git
-[submodule "Pentration Testing/Post Exploitation/pupy"]
+[submodule "Penetration Testing/Post Exploitation/pupy"]
 	path = Penetration Testing/Post Exploitation/pupy
 	url = https://github.com/n1nj4sec/pupy.git
-[submodule "Pentration Testing/Post Exploitation/FruityC2"]
+[submodule "Penetration Testing/Post Exploitation/FruityC2"]
 	path = Penetration Testing/Post Exploitation/FruityC2
 	url = https://github.com/xtr4nge/FruityC2.git
-[submodule "Pentration Testing/Post Exploitation/DBC2"]
+[submodule "Penetration Testing/Post Exploitation/DBC2"]
 	path = Penetration Testing/Post Exploitation/DBC2
 	url = https://github.com/Arno0x/DBC2.git
 [submodule "Security/Endpoint Security/hardentools"]
@@ -1099,7 +1099,7 @@
 [submodule "Security/Endpoint Security/osx-config-check"]
 	path = Security/Endpoint Security/osx-config-check
 	url = https://github.com/kristovatlas/osx-config-check.git
-[submodule "Pentration Testing/Info Gathering/xray"]
+[submodule "Penetration Testing/Info Gathering/xray"]
 	path = Penetration Testing/Info Gathering/xray
 	url = https://github.com/evilsocket/xray.git
 [submodule "Forensics/Misc/diffy"]
@@ -1111,10 +1111,10 @@
 [submodule "Forensics/Live Analysis/windows-event-forwarding"]
 	path = Forensics/Live Analysis/windows-event-forwarding
 	url = https://github.com/palantir/windows-event-forwarding.git
-[submodule "Pentration Testing/Exploits/Bluedroid"]
+[submodule "Penetration Testing/Exploits/Bluedroid"]
 	path = Penetration Testing/Exploits/Bluedroid
 	url = https://github.com/JiounDai/Bluedroid.git
-[submodule "Pentration Testing/Fuzzing/Fuzzlyn"]
+[submodule "Penetration Testing/Fuzzing/Fuzzlyn"]
 	path = Penetration Testing/Fuzzing/Fuzzlyn
 	url = https://github.com/jakobbotsch/Fuzzlyn.git
 [submodule "Forensics/Incident Respones/hunter"]
@@ -1129,31 +1129,31 @@
 [submodule "Library/Python/amodem"]
 	path = Library/Python/amodem
 	url = https://github.com/romanz/amodem.git
-[submodule "Pentration Testing/Info Gathering/subfinder"]
+[submodule "Penetration Testing/Info Gathering/subfinder"]
 	path = Penetration Testing/Info Gathering/subfinder
 	url = https://github.com/subfinder/subfinder.git
-[submodule "Pentration Testing/Info Gathering/VHostScan"]
+[submodule "Penetration Testing/Info Gathering/VHostScan"]
 	path = Penetration Testing/Info Gathering/VHostScan
 	url = https://github.com/codingo/VHostScan.git
-[submodule "Pentration Testing/MITM/ssh-mitm"]
+[submodule "Penetration Testing/MITM/ssh-mitm"]
 	path = Penetration Testing/MITM/ssh-mitm
 	url = https://github.com/jtesta/ssh-mitm.git
 [submodule "Malware/Ops/imaginaryC2"]
 	path = Malware/Ops/imaginaryC2
 	url = https://github.com/felixweyne/imaginaryC2.git
-[submodule "Pentration Testing/Wireless/krackattacks-scripts"]
+[submodule "Penetration Testing/Wireless/krackattacks-scripts"]
 	path = Penetration Testing/Wireless/krackattacks-scripts
 	url = https://github.com/vanhoefm/krackattacks-scripts.git
 [submodule "Forensics/Network Forensics/dnslog"]
 	path = Forensics/Network Forensics/dnslog
 	url = https://github.com/stamparm/dnslog.git
-[submodule "Pentration Testing/Web/tracy"]
+[submodule "Penetration Testing/Web/tracy"]
 	path = Penetration Testing/Web/tracy
 	url = https://github.com/nccgroup/tracy
-[submodule "Pentration Testing/MITM/caplets"]
+[submodule "Penetration Testing/MITM/caplets"]
 	path = Penetration Testing/MITM/caplets
 	url = https://github.com/bettercap/caplets.git
-[submodule "Pentration Testing/Web/PayloadsAllTheThings"]
+[submodule "Penetration Testing/Web/PayloadsAllTheThings"]
 	path = Penetration Testing/Web/PayloadsAllTheThings
 	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
 [submodule "Malware/Ops/BASS"]
@@ -1162,22 +1162,22 @@
 [submodule "Network/Analysis/Nidan"]
 	path = Network/Analysis/Nidan
 	url = https://github.com/michelep/Nidan.git
-[submodule "Pentration Testing/Post Exploitation/pypykatz"]
+[submodule "Penetration Testing/Post Exploitation/pypykatz"]
 	path = Penetration Testing/Post Exploitation/pypykatz
 	url = https://github.com/skelsec/pypykatz.git
 [submodule "Reverse Engineering/idawasm"]
 	path = Reverse Engineering/idawasm
 	url = https://github.com/fireeye/idawasm.git
-[submodule "Pentration Testing/Password Cracking/hashcrack"]
+[submodule "Penetration Testing/Password Cracking/hashcrack"]
 	path = Penetration Testing/Password Cracking/hashcrack
 	url = https://github.com/nccgroup/hashcrack.git
-[submodule "Pentration Testing/Post Exploitation/SafetyKatz"]
+[submodule "Penetration Testing/Post Exploitation/SafetyKatz"]
 	path = Penetration Testing/Post Exploitation/SafetyKatz
 	url = https://github.com/GhostPack/SafetyKatz.git
 [submodule "Security/Phishing/streamingphish"]
 	path = Security/Phishing/streamingphish
 	url = https://github.com/wesleyraptor/streamingphish.git
-[submodule "Pentration Testing/Password Cracking/patator"]
+[submodule "Penetration Testing/Password Cracking/patator"]
 	path = Penetration Testing/Password Cracking/patator
 	url = https://github.com/lanjelot/patator.git
 [submodule "Malware/Honeypot/hassh"]
@@ -1207,10 +1207,10 @@
 [submodule "Social Engineering/Phishing/FiercePhish"]
 	path = Social Engineering/Phishing/FiercePhish
 	url = https://github.com/Raikia/FiercePhish.git
-[submodule "Pentration Testing/Info Gathering/SPartan"]
+[submodule "Penetration Testing/Info Gathering/SPartan"]
 	path = Penetration Testing/Info Gathering/SPartan
 	url = https://github.com/sensepost/SPartan.git
-[submodule "Pentration Testing/Info Gathering/sparty"]
+[submodule "Penetration Testing/Info Gathering/sparty"]
 	path = Penetration Testing/Info Gathering/sparty
 	url = https://github.com/0xdevalias/sparty.git
 [submodule "Reverse Engineering/Dwarf"]
@@ -1222,16 +1222,16 @@
 [submodule "Social Engineering/Phishing/pompa"]
 	path = Social Engineering/Phishing/pompa
 	url = https://github.com/m1nl/pompa.git
-[submodule "Pentration Testing/Wireless/wifiphisher"]
+[submodule "Penetration Testing/Wireless/wifiphisher"]
 	path = Penetration Testing/Wireless/wifiphisher
 	url = https://github.com/wifiphisher/wifiphisher.git
-[submodule "Pentration Testing/Post Exploitation/DNSlivery"]
+[submodule "Penetration Testing/Post Exploitation/DNSlivery"]
 	path = Penetration Testing/Post Exploitation/DNSlivery
 	url = https://github.com/no0be/DNSlivery.git
-[submodule "Pentration Testing/Fuzzing/winafl"]
+[submodule "Penetration Testing/Fuzzing/winafl"]
 	path = Penetration Testing/Fuzzing/winafl
 	url = https://github.com/googleprojectzero/winafl.git
-[submodule "Pentration Testing/Exploits/Broadpwn"]
+[submodule "Penetration Testing/Exploits/Broadpwn"]
 	path = Penetration Testing/Exploits/Broadpwn
 	url = https://github.com/mailinneberg/Broadpwn.git
 [submodule "Security/Cloud Security/aws-nuke"]
@@ -1240,19 +1240,19 @@
 [submodule "Forensics/File Forensics/SlackPirate"]
 	path = Forensics/File Forensics/SlackPirate
 	url = https://github.com/emtunc/SlackPirate.git
-[submodule "Pentration Testing/Exploits/apache-uaf"]
+[submodule "Penetration Testing/Exploits/apache-uaf"]
 	path = Penetration Testing/Exploits/apache-uaf
 	url = https://github.com/hannob/apache-uaf.git
-[submodule "Pentration Testing/Post Exploitation/RottenPotatoNG"]
+[submodule "Penetration Testing/Post Exploitation/RottenPotatoNG"]
 	path = Penetration Testing/Post Exploitation/RottenPotatoNG
 	url = https://github.com/breenmachine/RottenPotatoNG.git
-[submodule "Pentration Testing/Post Exploitation/Covenant"]
+[submodule "Penetration Testing/Post Exploitation/Covenant"]
 	path = Penetration Testing/Post Exploitation/Covenant
 	url = https://github.com/cobbr/Covenant.git
 [submodule "Forensics/File Forensics/telegram-extractor"]
 	path = Forensics/File Forensics/telegram-extractor
 	url = https://github.com/tsusanka/telegram-extractor.git
-[submodule "Pentration Testing/Exploiting/Gorsair"]
+[submodule "Penetration Testing/Exploiting/Gorsair"]
 	path = Penetration Testing/Exploiting/Gorsair
 	url = https://github.com/Ullaakut/Gorsair.git
 [submodule "Malware/Dynamic Analysis/pyrebox"]
@@ -1264,19 +1264,19 @@
 [submodule "Social Engineering/Phishing/phishing-frenzy"]
 	path = Social Engineering/Phishing/phishing-frenzy
 	url = https://github.com/pentestgeek/phishing-frenzy.git
-[submodule "Pentration Testing/Exploits/cve-2019-6453-poc"]
+[submodule "Penetration Testing/Exploits/cve-2019-6453-poc"]
 	path = Penetration Testing/Exploits/cve-2019-6453-poc
 	url = https://github.com/proofofcalc/cve-2019-6453-poc.git
 [submodule "Security/Cloud Security/cloudmapper"]
 	path = Security/Cloud Security/cloudmapper
 	url = https://github.com/duo-labs/cloudmapper.git
-[submodule "Pentration Testing/Web/Wappalyzer"]
+[submodule "Penetration Testing/Web/Wappalyzer"]
 	path = Penetration Testing/Web/Wappalyzer
 	url = https://github.com/AliasIO/Wappalyzer.git
 [submodule "Reverse Engineering/B2R2"]
 	path = Reverse Engineering/B2R2
 	url = https://github.com/B2R2-org/B2R2.git
-[submodule "Pentration Testing/Password Cracking/npk"]
+[submodule "Penetration Testing/Password Cracking/npk"]
 	path = Penetration Testing/Password Cracking/npk
 	url = https://github.com/Coalfire-Research/npk.git
 [submodule "Reverse Engineering/ghidra"]
@@ -1285,16 +1285,16 @@
 [submodule "Malware/Ops/grimd"]
 	path = Malware/Ops/grimd
 	url = https://github.com/looterz/grimd.git
-[submodule "Pentration Testing/Web/gobuster"]
+[submodule "Penetration Testing/Web/gobuster"]
 	path = Penetration Testing/Web/gobuster
 	url = https://github.com/OJ/gobuster.git
-[submodule "Pentration Testing/Exploiting/SharpShooter"]
+[submodule "Penetration Testing/Exploiting/SharpShooter"]
 	path = Penetration Testing/Exploiting/SharpShooter
 	url = https://github.com/mdsecactivebreach/SharpShooter.git
-[submodule "Pentration Testing/Post Exploitation/nopowershell"]
+[submodule "Penetration Testing/Post Exploitation/nopowershell"]
 	path = Penetration Testing/Post Exploitation/nopowershell
 	url = https://github.com/bitsadmin/nopowershell.git
-[submodule "Pentration Testing/Reporting/django-DefectDojo"]
+[submodule "Penetration Testing/Reporting/django-DefectDojo"]
 	path = Penetration Testing/Reporting/django-DefectDojo
 	url = https://github.com/DefectDojo/django-DefectDojo.git
 [submodule "Malware/Source Code/zerokit"]
@@ -1303,55 +1303,55 @@
 [submodule "Hardware Hacking/Computer/NSA-B-GONE"]
 	path = Hardware Hacking/Computer/NSA-B-GONE
 	url = https://github.com/zakqwy/NSA-B-GONE.git
-[submodule "Pentration Testing/Web/jok3r"]
+[submodule "Penetration Testing/Web/jok3r"]
 	path = Penetration Testing/Web/jok3r
 	url = https://github.com/koutto/jok3r.git
 [submodule "Forensics/File Forensics/truehunter"]
 	path = Forensics/File Forensics/truehunter
 	url = https://github.com/adoreste/truehunter.git
-[submodule "Pentration Testing/Fuzzing/sienna-locomotive"]
+[submodule "Penetration Testing/Fuzzing/sienna-locomotive"]
 	path = Penetration Testing/Fuzzing/sienna-locomotive
 	url = https://github.com/trailofbits/sienna-locomotive.git
 [submodule "Reverse Engineering/pigaios"]
 	path = Reverse Engineering/pigaios
 	url = https://github.com/joxeankoret/pigaios.git
-[submodule "Pentration Testing/Fuzzing/RPCForge"]
+[submodule "Penetration Testing/Fuzzing/RPCForge"]
 	path = Penetration Testing/Fuzzing/RPCForge
 	url = https://github.com/sogeti-esec-lab/RPCForge.git
 [submodule "Reverse Engineering/swift-frida"]
 	path = Reverse Engineering/swift-frida
 	url = https://github.com/maltek/swift-frida.git
-[submodule "Pentration Testing/Web/wfuzz"]
+[submodule "Penetration Testing/Web/wfuzz"]
 	path = Penetration Testing/Web/wfuzz
 	url = https://github.com/xmendez/wfuzz.git
-[submodule "Pentration Testing/Port Scanning/evilscan"]
+[submodule "Penetration Testing/Port Scanning/evilscan"]
 	path = Penetration Testing/Port Scanning/evilscan
 	url = https://github.com/eviltik/evilscan.git
-[submodule "Pentration Testing/Web/Brosec"]
+[submodule "Penetration Testing/Web/Brosec"]
 	path = Penetration Testing/Web/Brosec
 	url = https://github.com/gabemarshall/Brosec.git
-[submodule "Pentration Testing/Post Exploitation/Orc"]
+[submodule "Penetration Testing/Post Exploitation/Orc"]
 	path = Penetration Testing/Post Exploitation/Orc
 	url = https://github.com/zMarch/Orc.git
-[submodule "Pentration Testing/Exploits/ESFileExplorerOpenPortVuln"]
+[submodule "Penetration Testing/Exploits/ESFileExplorerOpenPortVuln"]
 	path = Penetration Testing/Exploits/ESFileExplorerOpenPortVuln
 	url = https://github.com/fs0c131y/ESFileExplorerOpenPortVuln.git
-[submodule "Pentration Testing/Info Gathering/subquest"]
+[submodule "Penetration Testing/Info Gathering/subquest"]
 	path = Penetration Testing/Info Gathering/subquest
 	url = https://github.com/skepticfx/subquest.git
-[submodule "Pentration Testing/Web/LinkFinder"]
+[submodule "Penetration Testing/Web/LinkFinder"]
 	path = Penetration Testing/Web/LinkFinder
 	url = https://github.com/GerbenJavado/LinkFinder.git
-[submodule "Pentration Testing/Web/CloudScraper"]
+[submodule "Penetration Testing/Web/CloudScraper"]
 	path = Penetration Testing/Web/CloudScraper
 	url = https://github.com/jordanpotti/CloudScraper.git
 [submodule "Malware/Source Code/LOLBAS"]
 	path = Malware/Source Code/LOLBAS
 	url = https://github.com/LOLBAS-Project/LOLBAS.git
-[submodule "Pentration Testing/Training/WackoPicko"]
+[submodule "Penetration Testing/Training/WackoPicko"]
 	path = Penetration Testing/Training/WackoPicko
 	url = https://github.com/adamdoupe/WackoPicko.git
-[submodule "Pentration Testing/DoS/Memcrashed-DDoS-Exploit"]
+[submodule "Penetration Testing/DoS/Memcrashed-DDoS-Exploit"]
 	path = Penetration Testing/DoS/Memcrashed-DDoS-Exploit
 	url = https://github.com/649/Memcrashed-DDoS-Exploit.git
 [submodule "Security/Privacy/toriptables2"]
