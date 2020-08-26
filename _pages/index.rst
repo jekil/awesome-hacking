@@ -618,6 +618,7 @@ Password Cracking
 
 - `BozoCrack <https://github.com/juuso/BozoCrack>`_ - A silly & effective MD5 cracker in Ruby.
 - `Common-substr <https://github.com/SensePost/common-substr>`_ - Simple awk script to extract the most common substrings from an input text. Built for password cracking.
+  `Duplicut <https://github.com/nil0x42/duplicut>`_ - Quickly remove duplicates, without changing the order, and without getting OOM on huge wordlists.
 - `HashCat <https://hashcat.net/hashcat/>`_ - World's fastest and most advanced password recovery utility.
 - `Hashcrack <https://github.com/nccgroup/hashcrack>`_ - Guesses hash types, picks some sensible dictionaries and rules for hashcat.
 - `Hob0Rules <https://github.com/praetorian-inc/Hob0Rules>`_ - Password cracking rules for Hashcat based on statistics and industry patterns.
@@ -769,6 +770,7 @@ Web
 - `Paros <https://sourceforge.net/projects/paros/>`_ - A Java based HTTP/HTTPS proxy for assessing web application vulnerability.
 - `PayloadsAllTheThings <https://github.com/swisskyrepo/PayloadsAllTheThings>`_ - A list of useful payloads and bypass for Web Application Security and Pentest/CTF.
 - `Php-jpeg-injector <https://github.com/dlegs/php-jpeg-injector>`_ - Injects php payloads into jpeg images.
+- `PhpSploit <https://github.com/nil0x42/phpsploit>`_ - Full-featured C2 framework which silently persists on webserver via evil PHP oneliner.
 - `Pyfiscan <https://github.com/fgeek/pyfiscan>`_ - Free web-application vulnerability and version scanner.
 - `Ratproxy <https://code.google.com/archive/p/ratproxy/>`_ - A semi-automated, largely passive web application security audit tool, optimized for an accurate and sensitive detection, and automatic annotation, of potential problems.
 - `RecurseBuster <https://github.com/C-Sto/recursebuster>`_ - Rapid content discovery tool for recursively querying webservers, handy in pentesting and web application assessments.
