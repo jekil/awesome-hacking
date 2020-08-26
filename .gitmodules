@@ -2059,3 +2059,6 @@
 [submodule "Library/Python/pyprotect"]
 	path = Library/Python/pyprotect
 	url = https://github.com/ga0/pyprotect.git
+[submodule "Penetration Testing/Password Cracking/duplicut"]
+	path = Penetration Testing/Password Cracking/duplicut
+	url = https://github.com/nil0x42/duplicut.git
