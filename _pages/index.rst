@@ -193,6 +193,7 @@ Python
 - `Pynids <https://jon.oberheide.org/pynids/>`_ - A python wrapper for libnids, a Network Intrusion Detection System library offering sniffing, IP defragmentation, TCP stream reassembly and TCP port scan detection. Let your own python routines examine network conversations.
 - `Pypcap <https://github.com/dugsong/pypcap>`_ - This is a simplified object-oriented Python wrapper for libpcap.
 - `Pyprotect <https://github.com/ga0/pyprotect>`_ - A lightweight python code protector, makes your python project harder to reverse engineer.
+- `Python-idb <https://github.com/williballenthin/python-idb>`_ - Pure Python parser and analyzer for IDA Pro database files (.idb).
 - `Python-ptrace <https://github.com/haypo/python-ptrace>`_ - Python binding of ptrace library.
 - `RDPY <https://github.com/citronneur/rdpy>`_ - RDPY is a pure Python implementation of the Microsoft RDP (Remote Desktop Protocol) protocol (client and server side).
 - `Scapy <http://www.secdev.org/projects/scapy/>`_ - A python-based interactive packet manipulation program & library.
@@ -243,6 +244,7 @@ Dynamic Analysis
 - `PyWinSandbox <https://github.com/karkason/pywinsandbox>`_ - Python Windows Sandbox library. Create a new Windows Sandbox machine, control it with a simple RPyC interface.
 - `Pyrebox <https://github.com/Cisco-Talos/pyrebox>`_ - Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU.
 - `Qiling <https://github.com/qilingframework/qiling>`_ - Advanced Binary Emulation framework.
+- `Speakeasy <https://github.com/fireeye/speakeasy>`_ - A portable, modular, binary emulator designed to emulate Windows kernel and user mode malware.
 - `Uitkyk <https://github.com/brompwnie/uitkyk>`_ - Runtime memory analysis framework to identify Android malware.
 - `WScript Emulator <https://github.com/mrpapercut/wscript/>`_ - Emulator/tracer of the Windows Script Host functionality.
 

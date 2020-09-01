@@ -2056,3 +2056,9 @@
 [submodule "Library/Python/pyprotect"]
 	path = Library/Python/pyprotect
 	url = https://github.com/ga0/pyprotect.git
+[submodule "Library/Python/python-idb"]
+	path = Library/Python/python-idb
+	url = https://github.com/williballenthin/python-idb.git
+[submodule "Malware/Dynamic Analysis/speakeasy"]
+	path = Malware/Dynamic Analysis/speakeasy
+	url = https://github.com/fireeye/speakeasy.git
