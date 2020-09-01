@@ -613,6 +613,7 @@ Mobile
 - `Keychain-Dumper <https://github.com/ptoomey3/Keychain-Dumper/>`_ - A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken.
 - `Mobile Security Framework <http://opensecurity.in>`_ - An intelligent, all-in-one open source mobile application (Android/iOS/Windows) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
 - `Objection <https://github.com/sensepost/objection>`_ - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
+- `Oversecured <https://oversecured.com/>`_ - A static SaaS-based vulnerability scanner for Android apps. Contains 90+ vulnerability categories.
 - `QARK <https://github.com/linkedin/qark/>`_ - QARK by LinkedIn is for app developers to scan app for security issues.
 
 Password Cracking
@@ -734,6 +735,7 @@ Training
 - `OWASP Railsgoat <http://railsgoat.cktricky.com/>`_ - A vulnerable version of Rails that follows the OWASP Top 10.
 - `OWASP Security Shepherd <https://www.owasp.org/index.php/OWASP_Security_Shepherd>`_ - A web and mobile application security training platform.
 - `OWASP WebGoat <https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project>`_ - A deliberately insecure Web Application.
+- `Oversecured Vulnerable Android App (OVAA) <https://github.com/oversecured/ovaa>`_ - Vulnerable Android app showing modern security vulnerabilities.
 - `RopeyTasks <https://github.com/continuumsecurity/RopeyTasks>`_ - Deliberately vulnerable web application.
 - `Sadcloud <https://github.com/nccgroup/sadcloud>`_ - A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure.
 - `Sqli-labs <https://github.com/Audi-1/sqli-labs>`_ - SQLI labs to test error based, Blind boolean based, Time based.
