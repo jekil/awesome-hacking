@@ -2062,3 +2062,9 @@
 [submodule "Malware/Dynamic Analysis/speakeasy"]
 	path = Malware/Dynamic Analysis/speakeasy
 	url = https://github.com/fireeye/speakeasy.git
+[submodule "Reverse Engineering/vmx_intrinsics"]
+	path = Reverse Engineering/vmx_intrinsics
+	url = https://github.com/synacktiv/vmx_intrinsics.git
+[submodule "Reverse Engineering/Sojobo"]
+	path = Reverse Engineering/Sojobo
+	url = https://github.com/enkomio/Sojobo.git

@@ -915,6 +915,7 @@ Reverse Engineering
 - `Simplify <https://github.com/CalebFenton/simplify>`_ - Generic Android Deobfuscator.
 - `SimplifyGraph <https://github.com/fireeye/SimplifyGraph>`_ - IDA Pro plugin to assist with complex graphs.
 - `Smali <https://github.com/JesusFreke/smali>`_ - Smali/baksmali is an assembler/disassembler for the dex format used by dalvik, Android's Java VM implementation.
+- `Sojobo <https://github.com/enkomio/Sojobo>`_ - An emulator for the B2R2 framework. It was created to easier the analysis of potentially malicious files. It is totally developed in .NET so you don't need to install or compile any other external libraries.
 - `Swiffas <https://github.com/ahixon/swiffas>`_ - SWF parser and AVM2 (Actionscript 3) bytecode parser.
 - `Swift-frida <https://github.com/maltek/swift-frida>`_ - Frida library for interacting with Swift programs.
 - `Toolbag <https://github.com/aaronportnoy/toolbag>`_ - The IDA Toolbag is a plugin providing supplemental functionality to Hex-Rays IDA Pro disassembler.
@@ -924,6 +925,7 @@ Reverse Engineering
 - `Uncompyle <https://github.com/gstarnberger/uncompyle>`_ - Decompile Python 2.7 binaries (.pyc).
 - `Unicorn Engine <http://www.unicorn-engine.org>`_ - A lightweight, multi-platform, multi-architecture CPU emulator framework based on QEMU.
 - `Unlinker <https://github.com/jonwil/unlinker>`_ - Unlinker is a tool that can rip functions out of Visual C++ compiled binaries and produce Visual C++ COFF object files.
+- `VMX_INTRINSICS <https://github.com/synacktiv/vmx_intrinsics>`_ - VMX intrinsics plugin for Hex-Rays decompiler.
 - `VT-IDA Plugin <https://github.com/VirusTotal/vt-ida-plugin>`_ - Official VirusTotal plugin for IDA Pro.
 - `Voltron <https://github.com/snare/voltron>`_ - An extensible debugger UI toolkit written in Python. It aims to improve the user experience of various debuggers (LLDB, GDB, VDB and WinDbg) by enabling the attachment of utility views that can retrieve and display data from the debugger host.
 - `WinDbg <https://developer.microsoft.com/en-us/windows/hardware/windows-driver-kit>`_ - Windows Driver Kit and WinDbg.
