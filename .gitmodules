@@ -2068,3 +2068,6 @@
 [submodule "Reverse Engineering/Sojobo"]
 	path = Reverse Engineering/Sojobo
 	url = https://github.com/enkomio/Sojobo.git
+[submodule "Reverse Engineering/AngryGhidra"]
+	path = Reverse Engineering/AngryGhidra
+	url = https://github.com/Nalen98/AngryGhidra.git
