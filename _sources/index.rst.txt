@@ -823,6 +823,7 @@ Reverse Engineering
 - `APKiD <https://github.com/rednaga/APKiD>`_ - Android Application Identifier for Packers, Protectors, Obfuscators and Oddities - PEiD for Android.
 - `AndBug <https://github.com/swdunlop/AndBug>`_ - A debugger targeting the Android platform's Dalvik virtual machine intended for reverse engineers and developers.
 - `Angr <https://github.com/angr/angr>`_ - A platform-agnostic binary analysis framework developed by the Computer Security Lab at UC Santa Barbara and their associated CTF team, Shellphish.
+- `AngryGhidra <https://github.com/Nalen98/AngryGhidra>`_ - Angr plugin for Ghidra.
 - `Apk2Gold <https://github.com/lxdvs/apk2gold>`_ - Yet another Android decompiler.
 - `ApkTool <https://ibotpeaches.github.io/Apktool/>`_ - A tool for reverse engineering Android apk files.
 - `Avscript <https://github.com/taviso/avscript>`_ - Avast JavaScript Interactive Shell.
