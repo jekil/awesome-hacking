@@ -497,6 +497,7 @@ Exploits
 - `CVE-2020-10560 <https://github.com/kevthehermit/CVE-2020-10560>`_ - OSSN Arbitrary File Read
 - `CVE-2020-11651 <https://github.com/kevthehermit/CVE-2020-11651>`_ - PoC for CVE-2020-11651.
 - `CVE-2020-1301 <https://github.com/shubham0d/CVE-2020-1301>`_ - POC exploit for SMBLost vulnerability (CVE-2020-1301)
+- `CVE-2020-1472 <https://github.com/VoidSec/CVE-2020-1472>`_ - Exploit Code for CVE-2020-1472 aka Zerologon.
 - `Chakra-2016-11 <https://github.com/theori-io/chakra-2016-11>`_ - Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 & CVE-2016-7201).
 - `Desharialize <https://github.com/Voulnet/desharialize>`_ - Easy mode to Exploit CVE-2019-0604 (Sharepoint XML Deserialization Unauthenticated RCE).
 - `ES File Explorer Open Port Vulnerability <https://github.com/fs0c131y/ESFileExplorerOpenPortVuln>`_ - ES File Explorer Open Port Vulnerability - CVE-2019-6447.

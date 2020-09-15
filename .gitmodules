@@ -2071,3 +2071,6 @@
 [submodule "Reverse Engineering/AngryGhidra"]
 	path = Reverse Engineering/AngryGhidra
 	url = https://github.com/Nalen98/AngryGhidra.git
+[submodule "Penetration Testing/Exploits/CVE-2020-1472"]
+	path = Penetration Testing/Exploits/CVE-2020-1472
+	url = https://github.com/VoidSec/CVE-2020-1472.git
