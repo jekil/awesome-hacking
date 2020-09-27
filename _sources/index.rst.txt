@@ -28,6 +28,7 @@ CTF Tools
 =========
 
 - `CTFd <https://ctfd.io>`_ - CTF in a can. Easily modifiable and has everything you need to run a jeopardy style CTF.
+- `CTForge <https://github.com/secgroup/ctforge>`_ - The framework developed by the hacking team from University of Venice to easily host jeopardy and attack-defense CTF security competitions. It provides the software components for running the game, namely the website and the checkbot (optional).
 - `FBCTF <https://github.com/facebook/fbctf>`_ - Platform to host Capture the Flag competitions.
 - `LibreCTF <https://github.com/easyctf/librectf>`_ - CTF in a box. Minimal setup required.
 - `Mellivora <https://github.com/Nakiami/mellivora>`_ - A CTF engine written in PHP.
@@ -533,6 +534,7 @@ Fuzzing
 - `Melkor-android <https://github.com/anestisb/melkor-android>`_ - An Android port of the melkor ELF fuzzer.
 - `Netzob <https://github.com/netzob/netzob>`_ - Netzob is an opensource tool for reverse engineering, traffic generation and fuzzing of communication protocols.
 - `Neuzz <https://github.com/Dongdongshe/neuzz>`_ - A neural-network-assisted fuzzer.
+- `OneFuzz <https://github.com/microsoft/onefuzz>`_ - Project OneFuzz enables continuous developer-driven fuzzing to proactively harden software prior to release. With a single command, which can be baked into CICD, developers can launch fuzz jobs from a few virtual machines to thousands of cores.
 - `Python-AFL <http://jwilk.net/software/python-afl>`_ - American fuzzy lop fork server and instrumentation for pure-Python code.
 - `RPCForge <https://github.com/sogeti-esec-lab/RPCForge>`_ - Windows RPC Python fuzzer.
 - `Radamsa-android <https://github.com/anestisb/radamsa-android>`_ - An Android port of radamsa fuzzer.
