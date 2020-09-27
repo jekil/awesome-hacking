@@ -2074,3 +2074,9 @@
 [submodule "Penetration Testing/Exploits/CVE-2020-1472"]
 	path = Penetration Testing/Exploits/CVE-2020-1472
 	url = https://github.com/VoidSec/CVE-2020-1472.git
+[submodule "Penetration Testing/Fuzzing/onefuzz"]
+	path = Penetration Testing/Fuzzing/onefuzz
+	url = https://github.com/microsoft/onefuzz.git
+[submodule "CTF Tools/ctforge"]
+	path = CTF Tools/ctforge
+	url = https://github.com/secgroup/ctforge.git
