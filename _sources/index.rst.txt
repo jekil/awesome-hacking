@@ -463,6 +463,7 @@ Exploiting
 - `Nishang <https://github.com/samratashok/nishang>`_ - Offensive PowerShell for red team, penetration testing and offensive security.
 - `OpenVAS <http://www.openvas.org>`_ - Open Source vulnerability scanner and manager.
 - `PSKernel-Primitives <https://github.com/FuzzySecurity/PSKernel-Primitives>`_ - Exploit primitives for PowerShell.
+- `Peirates <https://github.com/inguardians/peirates>`_ - A Kubernetes penetration tool, enables an attacker to escalate privilege and pivot through a Kubernetes cluster. It automates known techniques to steal and collect service accounts, obtain further code execution, and gain control of the cluster.
 - `PowerSploit <https://github.com/PowerShellMafia/PowerSploit/>`_ - A PowerShell Post-Exploitation Framework.
 - `ROP Gadget <http://shell-storm.org/project/ROPgadget/>`_ - Framework for ROP exploitation.
 - `Routersploit <https://github.com/reverse-shell/routersploit>`_ - Automated penetration testing software for router.
