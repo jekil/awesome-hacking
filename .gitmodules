@@ -2080,3 +2080,6 @@
 [submodule "CTF Tools/ctforge"]
 	path = CTF Tools/ctforge
 	url = https://github.com/secgroup/ctforge.git
+[submodule "Penetration Testing/Exploiting/peirates"]
+	path = Penetration Testing/Exploiting/peirates
+	url = https://github.com/inguardians/peirates.git
