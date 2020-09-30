@@ -2083,3 +2083,12 @@
 [submodule "Penetration Testing/Exploiting/peirates"]
 	path = Penetration Testing/Exploiting/peirates
 	url = https://github.com/inguardians/peirates.git
+[submodule "Penetration Testing/Exploits/CVE-2020-1472_2"]
+	path = Penetration Testing/Exploits/CVE-2020-1472_2
+	url = https://github.com/dirkjanm/CVE-2020-1472
+[submodule "Penetration Testing/Exploits/tpwn"]
+	path = Penetration Testing/Exploits/tpwn
+	url = https://github.com/kpwn/tpwn
+[submodule "Penetration Testing/Exploiting/kube-hunter"]
+	path = Penetration Testing/Exploiting/kube-hunter
+	url = https://github.com/aquasecurity/kube-hunter.git
