@@ -123,6 +123,7 @@ Misc
 - `HxD <https://mh-nexus.de/en/hxd/>`_ - A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size.
 - `Libfvde <https://github.com/libyal/libfvde>`_ - Library and tools to access FileVault Drive Encryption (FVDE) encrypted volumes.
 - `Mass_archive <https://github.com/motherboardgithub/mass_archive>`_ - A basic tool for pushing a web page to multiple archiving services at once.
+- `Dorkify <https://github.com/hhhrrrttt222111/Dorkify>`_ - Perform Google Dork search with Dorkify.
 
 Mobile
 ------
