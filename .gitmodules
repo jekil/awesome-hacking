@@ -2092,3 +2092,9 @@
 [submodule "Penetration Testing/Exploiting/kube-hunter"]
 	path = Penetration Testing/Exploiting/kube-hunter
 	url = https://github.com/aquasecurity/kube-hunter.git
+[submodule "Security/Network Security/scirius"]
+	path = Security/Network Security/scirius
+	url = https://github.com/StamusNetworks/scirius.git
+[submodule "Security/Network Security/evebox"]
+	path = Security/Network Security/evebox
+	url = https://github.com/jasonish/evebox.git
