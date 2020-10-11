@@ -567,6 +567,7 @@ Info Gathering
 - `Dnsenum <https://github.com/fwaeytens/dnsenum/>`_ - A perl script that enumerates DNS information.
 - `Dnsmap <https://github.com/makefu/dnsmap/>`_ - Passive DNS network mapper.
 - `Dnsrecon <https://github.com/darkoperator/dnsrecon/>`_ - DNS Enumeration Script.
+- `Dnsspy <https://github.com/4thel00z/dnsspy>`_ - Performs various DNS enumeration attacks.
 - `EgressCheck Framework <https://github.com/stufus/egresscheck-framework>`_ - Used to check for TCP and UDP egress filtering on both windows and unix client systems.
 - `Egressbuster <https://github.com/trustedsec/egressbuster>`_ - A method to check egress filtering and identify if ports are allowed. If they are, you can automatically spawn a shell.
 - `EyeWitness <https://github.com/FortyNorthSecurity/EyeWitness>`_ - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
@@ -693,6 +694,7 @@ Post Exploitation
 - `RedGhost <https://github.com/d4rk007/RedGhost>`_ - Linux post exploitation framework written in bash designed to assist red teams in persistence, reconnaissance, privilege escalation and leaving no trace.
 - `RemoteRecon <https://github.com/xorrior/RemoteRecon>`_ - Remote Recon and Collection.
 - `RottenPotatoNG <https://github.com/breenmachine/RottenPotatoNG>`_ - New version of RottenPotato as a C++ DLL and standalone C++ binary - no need for meterpreter or other tools.
+- `Rpc2socks <https://github.com/lexfo/rpc2socks>`_ - Post-exploit tool that enables a SOCKS tunnel via a Windows host using an extensible custom RPC proto over SMB through a named pipe.
 - `SafetyKatz <https://github.com/GhostPack/SafetyKatz>`_ - SafetyKatz is a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subTee's .NET PE Load.
 - `Shad0w <https://github.com/bats3c/shad0w>`_ - A post exploitation framework designed to operate covertly on heavily monitored environments.
 - `SharpC2 <https://github.com/SharpC2/SharpC2>`_ - .NET Command & Control Framework
