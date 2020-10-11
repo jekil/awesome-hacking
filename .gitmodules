@@ -2098,3 +2098,9 @@
 [submodule "Security/Network Security/evebox"]
 	path = Security/Network Security/evebox
 	url = https://github.com/jasonish/evebox.git
+[submodule "Penetration Testing/Info Gathering/dnsspy"]
+	path = Penetration Testing/Info Gathering/dnsspy
+	url = https://github.com/4thel00z/dnsspy.git
+[submodule "Penetration Testing/Post Exploitation/rpc2socks"]
+	path = Penetration Testing/Post Exploitation/rpc2socks
+	url = https://github.com/lexfo/rpc2socks.git
