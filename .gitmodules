@@ -2104,3 +2104,6 @@
 [submodule "Penetration Testing/Post Exploitation/rpc2socks"]
 	path = Penetration Testing/Post Exploitation/rpc2socks
 	url = https://github.com/lexfo/rpc2socks.git
+[submodule "Penetration Testing/Exploits/Chimay-Red"]
+	path = Penetration Testing/Exploits/Chimay-Red
+	url = https://github.com/BigNerd95/Chimay-Red.git
