@@ -443,6 +443,7 @@ Exploiting
 - `Bashfuscator <https://github.com/Bashfuscator/Bashfuscator>`_ - A fully configurable and extendable Bash obfuscation framework. This tool is intended to help both red team and blue team.
 - `BeEF <http://beefproject.com>`_ - The Browser Exploitation Framework Project.
 - `BugId <https://github.com/SkyLined/BugId>`_ - Detect, analyze and uniquely identify crashes in Windows applications.
+- `CCAT <https://github.com/RhinoSecurityLabs/ccat>`_ - Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments.
 - `Commix <http://www.commixproject.com>`_ - Automated All-in-One OS Command Injection and Exploitation Tool.
 - `DLLInjector <https://github.com/OpenSecurityResearch/dllinjector>`_ - Inject dlls in processes.
 - `Donut <https://github.com/TheWover/donut>`_ - Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters.

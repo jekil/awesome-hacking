@@ -2107,3 +2107,6 @@
 [submodule "Penetration Testing/Exploits/Chimay-Red"]
 	path = Penetration Testing/Exploits/Chimay-Red
 	url = https://github.com/BigNerd95/Chimay-Red.git
+[submodule "Penetration Testing/Exploiting/ccat"]
+	path = Penetration Testing/Exploiting/ccat
+	url = https://github.com/RhinoSecurityLabs/ccat.git
