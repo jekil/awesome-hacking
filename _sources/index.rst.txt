@@ -446,6 +446,7 @@ Exploiting
 - `CCAT <https://github.com/RhinoSecurityLabs/ccat>`_ - Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments.
 - `Commix <http://www.commixproject.com>`_ - Automated All-in-One OS Command Injection and Exploitation Tool.
 - `DLLInjector <https://github.com/OpenSecurityResearch/dllinjector>`_ - Inject dlls in processes.
+- `DefenderCheck <https://github.com/matterpreter/DefenderCheck>`_ - Identifies the bytes that Microsoft Defender flags on.
 - `Donut <https://github.com/TheWover/donut>`_ - Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters.
 - `Drupwn <https://github.com/immunIT/drupwn>`_ - Drupal enumeration & exploitation tool.
 - `EfiGuard <https://github.com/Mattiwatti/EfiGuard>`_ - Disable PatchGuard and DSE at boot time.
