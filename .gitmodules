@@ -2110,3 +2110,6 @@
 [submodule "Penetration Testing/Exploiting/ccat"]
 	path = Penetration Testing/Exploiting/ccat
 	url = https://github.com/RhinoSecurityLabs/ccat.git
+[submodule "Penetration Testing/Exploiting/DefenderCheck"]
+	path = Penetration Testing/Exploiting/DefenderCheck
+	url = https://github.com/matterpreter/DefenderCheck.git
