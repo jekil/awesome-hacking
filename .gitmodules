@@ -2113,3 +2113,6 @@
 [submodule "Penetration Testing/Exploiting/DefenderCheck"]
 	path = Penetration Testing/Exploiting/DefenderCheck
 	url = https://github.com/matterpreter/DefenderCheck.git
+[submodule "Code Auditing/Static Analysis/gosec"]
+	path = Code Auditing/Static Analysis/gosec
+	url = https://github.com/securego/gosec.git
