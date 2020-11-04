@@ -2116,3 +2116,6 @@
 [submodule "Code Auditing/Static Analysis/gosec"]
 	path = Code Auditing/Static Analysis/gosec
 	url = https://github.com/securego/gosec.git
+[submodule "Penetration Testing/Info Gathering/cloudflare_enum"]
+	path = Penetration Testing/Info Gathering/cloudflare_enum
+	url = https://github.com/mandatoryprogrammer/cloudflare_enum.git
