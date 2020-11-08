@@ -657,6 +657,7 @@ Port Scanning
 Post Exploitation
 -----------------
 
+- `3snake <https://github.com/blendin/3snake>`_ - Tool for extracting information from newly spawned processes.
 - `Apfell <https://github.com/its-a-feature/Apfell>`_ - A collaborative, multi-platform, red teaming framework.
 - `Backdoorme <https://github.com/Kkevsterrr/backdoorme>`_ - Powerful auto-backdooring utility.
 - `CatTails <https://github.com/oneNutW0nder/CatTails>`_ - Raw socket library/framework for red team events.
