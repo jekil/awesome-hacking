@@ -2119,3 +2119,6 @@
 [submodule "Penetration Testing/Info Gathering/cloudflare_enum"]
 	path = Penetration Testing/Info Gathering/cloudflare_enum
 	url = https://github.com/mandatoryprogrammer/cloudflare_enum.git
+[submodule "Penetration Testing/Post Exploitation/3snake"]
+	path = Penetration Testing/Post Exploitation/3snake
+	url = https://github.com/blendin/3snake.git
