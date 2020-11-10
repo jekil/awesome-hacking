@@ -2122,3 +2122,6 @@
 [submodule "Penetration Testing/Post Exploitation/3snake"]
 	path = Penetration Testing/Post Exploitation/3snake
 	url = https://github.com/blendin/3snake.git
+[submodule "Penetration Testing/Info Gathering/Bluto"]
+	path = Penetration Testing/Info Gathering/Bluto
+	url = https://github.com/darryllane/Bluto.git
