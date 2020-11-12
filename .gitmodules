@@ -2125,3 +2125,6 @@
 [submodule "Penetration Testing/Info Gathering/Bluto"]
 	path = Penetration Testing/Info Gathering/Bluto
 	url = https://github.com/darryllane/Bluto.git
+[submodule "Malware/Source Code/Coldfire"]
+	path = Malware/Source Code/Coldfire
+	url = https://github.com/redcode-labs/Coldfire.git
