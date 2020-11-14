@@ -47,6 +47,7 @@ Static Analysis
 - `Brakeman <http://brakemanscanner.org>`_ - A static analysis security vulnerability scanner for Ruby on Rails applications.
 - `Dr. Taint <https://github.com/toshipiazza/drtaint>`_ - A very WIP DynamoRIO module built on the Dr. Memory Framework to implement taint analysis on ARM.
 - `Gosec <https://github.com/securego/gosec>`_ - Inspects source code for security problems by scanning the Go AST.
+- `STACK <https://github.com/xiw/stack>`_ - A static checker for identifying unstable code.
 - `ShellCheck <https://github.com/koalaman/shellcheck>`_ - A static analysis tool for shell scripts.
 
 Cryptography

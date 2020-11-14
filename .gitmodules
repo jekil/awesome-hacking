@@ -2128,3 +2128,6 @@
 [submodule "Malware/Source Code/Coldfire"]
 	path = Malware/Source Code/Coldfire
 	url = https://github.com/redcode-labs/Coldfire.git
+[submodule "Code Auditing/Static Analysis/stack"]
+	path = Code Auditing/Static Analysis/stack
+	url = https://github.com/xiw/stack.git
