@@ -2131,3 +2131,9 @@
 [submodule "Code Auditing/Static Analysis/stack"]
 	path = Code Auditing/Static Analysis/stack
 	url = https://github.com/xiw/stack.git
+[submodule "Penetration Testing/Exploits/cve-2020-1350"]
+	path = Penetration Testing/Exploits/cve-2020-1350
+	url = https://github.com/tinkersec/cve-2020-1350.git
+[submodule "Penetration Testing/Exploits/CVE-2020-1350-DoS"]
+	path = Penetration Testing/Exploits/CVE-2020-1350-DoS
+	url = https://github.com/maxpl0it/CVE-2020-1350-DoS.git
