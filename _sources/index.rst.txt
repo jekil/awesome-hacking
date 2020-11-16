@@ -505,6 +505,8 @@ Exploits
 - `CVE-2020-10560 <https://github.com/kevthehermit/CVE-2020-10560>`_ - OSSN Arbitrary File Read
 - `CVE-2020-11651 <https://github.com/kevthehermit/CVE-2020-11651>`_ - PoC for CVE-2020-11651.
 - `CVE-2020-1301 <https://github.com/shubham0d/CVE-2020-1301>`_ - POC exploit for SMBLost vulnerability (CVE-2020-1301)
+- `CVE-2020-1350 <https://github.com/tinkersec/cve-2020-1350>`_ - Bash Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2003 up to Windows Server 2019.
+- `CVE-2020-1350-DoS <https://github.com/maxpl0it/CVE-2020-1350-DoS>`_ - A denial-of-service proof-of-concept for CVE-2020-1350.
 - `CVE-2020-1472 <https://github.com/VoidSec/CVE-2020-1472>`_ - Exploit Code for CVE-2020-1472 aka Zerologon.
 - `CVE-2020-1472_2 <https://github.com/dirkjanm/CVE-2020-1472>`_ - PoC for Zerologon
 - `Chakra-2016-11 <https://github.com/theori-io/chakra-2016-11>`_ - Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 & CVE-2016-7201).
