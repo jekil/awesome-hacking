@@ -2137,3 +2137,6 @@
 [submodule "Penetration Testing/Exploits/CVE-2020-1350-DoS"]
 	path = Penetration Testing/Exploits/CVE-2020-1350-DoS
 	url = https://github.com/maxpl0it/CVE-2020-1350-DoS.git
+[submodule "Penetration Testing/Exploiting/EtherSploit-IP"]
+	path = Penetration Testing/Exploiting/EtherSploit-IP
+	url = https://github.com/thiagoralves/EtherSploit-IP.git
