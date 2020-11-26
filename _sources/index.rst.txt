@@ -453,6 +453,7 @@ Exploiting
 - `Donut <https://github.com/TheWover/donut>`_ - Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters.
 - `Drupwn <https://github.com/immunIT/drupwn>`_ - Drupal enumeration & exploitation tool.
 - `EfiGuard <https://github.com/Mattiwatti/EfiGuard>`_ - Disable PatchGuard and DSE at boot time.
+- `EtherSploit-IP <https://github.com/thiagoralves/EtherSploit-IP>`_ - Exploiting Allen-Bradley E/IP PLCs.
 - `Evilgrade <https://github.com/infobyte/evilgrade>`_ - The update explotation framework.
 - `Exe2hex <https://github.com/g0tmi1k/exe2hex>`_ - Inline file transfer using in-built Windows tools (DEBUG.exe or PowerShell).
 - `Fathomless <https://github.com/xor-function/fathomless>`_ - A collection of different programs for network red teaming.
