@@ -985,6 +985,7 @@ Endpoint Security
 - `Duckhunt <https://github.com/pmsosa/duckhunt>`_ - Prevent RubberDucky (or other keystroke injection) attacks.
 - `Hardentools <https://github.com/securitywithoutborders/hardentools>`_ - A utility that disables a number of risky Windows features.
 - `Lynis <https://github.com/CISOfy/lynis>`_ - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
+- `OpenEDR <https://github.com/ComodoSecurity/openedr>`_ - A full blown EDR capability. It is one of the most sophisticated, effective EDR code base in the world and with the community’s help it will become even better.
 - `Osx-config-check <https://github.com/kristovatlas/osx-config-check>`_ - Verify the configuration of your OS X machine.
 - `ProcMon-for-Linux <https://github.com/microsoft/ProcMon-for-Linux>`_ - A Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
 - `Xnumon <https://github.com/droe/xnumon>`_ - Monitor macOS for malicious activity.

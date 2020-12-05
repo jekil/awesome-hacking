@@ -2140,3 +2140,6 @@
 [submodule "Penetration Testing/Exploiting/EtherSploit-IP"]
 	path = Penetration Testing/Exploiting/EtherSploit-IP
 	url = https://github.com/thiagoralves/EtherSploit-IP.git
+[submodule "Security/Endpoint Security/openedr"]
+	path = Security/Endpoint Security/openedr
+	url = https://github.com/ComodoSecurity/openedr.git
