@@ -98,6 +98,11 @@ File Forensics
 - `Telegram-extractor <https://github.com/tsusanka/telegram-extractor>`_ - Python3 scripts to analyse the data stored in Telegram.
 - `Truehunter <https://github.com/adoreste/truehunter>`_ - The goal of Truehunter is to detect encrypted containers using a fast and memory efficient approach without any external dependencies for ease of portability.
 
+Image Forensics
+---------------
+
+- `Depix <https://github.com/beurtschipper/Depix>`_ - Recovers passwords from pixelized screenshots.
+
 Incident Response
 -----------------
 
