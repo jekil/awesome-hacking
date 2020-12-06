@@ -2143,3 +2143,6 @@
 [submodule "Security/Endpoint Security/openedr"]
 	path = Security/Endpoint Security/openedr
 	url = https://github.com/ComodoSecurity/openedr.git
+[submodule "Forensics/Image Forensics/Depix"]
+	path = Forensics/Image Forensics/Depix
+	url = https://github.com/beurtschipper/Depix.git
