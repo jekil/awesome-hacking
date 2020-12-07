@@ -2146,3 +2146,6 @@
 [submodule "Forensics/Image Forensics/Depix"]
 	path = Forensics/Image Forensics/Depix
 	url = https://github.com/beurtschipper/Depix.git
+[submodule "Penetration Testing/Exploiting/PEzor"]
+	path = Penetration Testing/Exploiting/PEzor
+	url = https://github.com/phra/PEzor.git
