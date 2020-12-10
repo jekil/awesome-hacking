@@ -2149,3 +2149,6 @@
 [submodule "Penetration Testing/Exploiting/PEzor"]
 	path = Penetration Testing/Exploiting/PEzor
 	url = https://github.com/phra/PEzor.git
+[submodule "Reverse Engineering/ICSREF"]
+	path = Reverse Engineering/ICSREF
+	url = https://github.com/momalab/ICSREF.git
