@@ -2152,3 +2152,6 @@
 [submodule "Reverse Engineering/ICSREF"]
 	path = Reverse Engineering/ICSREF
 	url = https://github.com/momalab/ICSREF.git
+[submodule "Malware/Honeypot/miniprint"]
+	path = Malware/Honeypot/miniprint
+	url = https://github.com/sa7mon/miniprint.git
