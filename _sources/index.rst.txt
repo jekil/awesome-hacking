@@ -287,6 +287,7 @@ Honeypot
 - `MTPot <https://github.com/Cymmetria/MTPot>`_ - Open Source Telnet Honeypot.
 - `Maildb <https://github.com/kevthehermit/Maildb>`_ - Python Web App to Parse and Track Email and http Pcap Files.
 - `Mailoney <https://github.com/awhitehatter/mailoney>`_ - A SMTP Honeypot I wrote just to have fun learning Python.
+- `Miniprint <https://github.com/sa7mon/miniprint>`_ - A medium interaction printer honeypot.
 - `Mnemosyne <https://github.com/johnnykv/mnemosyne>`_ - A normalizer for honeypot data; supports Dionaea.
 - `MongoDB-HoneyProxy <https://github.com/Plazmaz/MongoDB-HoneyProxy>`_ - A honeypot proxy for mongodb. When run, this will proxy and log all traffic to a dummy mongodb server.
 - `MysqlPot <https://github.com/schmalle/MysqlPot>`_ - A mysql honeypot, still very very early stage.
