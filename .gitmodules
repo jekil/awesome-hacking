@@ -2155,3 +2155,6 @@
 [submodule "Malware/Honeypot/miniprint"]
 	path = Malware/Honeypot/miniprint
 	url = https://github.com/sa7mon/miniprint.git
+[submodule "Security/Network Security/AdGuardHome"]
+	path = Security/Network Security/AdGuardHome
+	url = https://github.com/AdguardTeam/AdGuardHome.git
