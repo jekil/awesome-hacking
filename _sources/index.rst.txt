@@ -1001,6 +1001,7 @@ Endpoint Security
 Network Security
 ----------------
 
+- `AdGuardHome <https://github.com/AdguardTeam/AdGuardHome>`_ - Network-wide ads & trackers blocking DNS server.
 - `EveBox <https://github.com/jasonish/evebox>`_ - A web based Suricata "eve" event viewer for Elastic Search.
 - `Pi-hole <https://github.com/pi-hole/pi-hole>`_ - A DNS sinkhole that protects your devices from unwanted content, without installing any client-side software.
 - `Scirius <https://github.com/StamusNetworks/scirius/>`_ - A web application for Suricata ruleset management.
