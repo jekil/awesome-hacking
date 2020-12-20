@@ -2158,3 +2158,6 @@
 [submodule "Security/Network Security/AdGuardHome"]
 	path = Security/Network Security/AdGuardHome
 	url = https://github.com/AdguardTeam/AdGuardHome.git
+[submodule "Intelligence/dnstwist"]
+	path = Intelligence/dnstwist
+	url = https://github.com/elceef/dnstwist.git
