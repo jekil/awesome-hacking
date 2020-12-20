@@ -164,6 +164,7 @@ Intelligence
 ============
 
 - `Attackintel <https://github.com/gr4ym4ntx/attackintel>`_ - A python script to query the MITRE ATT&CK API for tactics, techniques, mitigations, & detection methods for specific threat groups.
+- `Dnstwist <https://github.com/elceef/dnstwist>`_ - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation.
 - `IntelOwl <https://github.com/certego/IntelOwl>`_ - Analyze files, domains, IPs in multiple ways from a single API at scale. 
 - `MISP-maltego <https://github.com/MISP/MISP-maltego>`_ - Set of Maltego transforms to inferface with a MISP Threat Sharing instance, and also to explore the whole MITRE ATT&CK dataset.
 - `Shodan-seeker <https://github.com/laincode/shodan-seeker>`_ - Command-line tool using Shodan API. Generates and downloads CSV results, diffing of historic scanning results, alerts and monitoring of specific ports/IPs, etc.
