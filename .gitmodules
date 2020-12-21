@@ -2161,3 +2161,6 @@
 [submodule "Intelligence/dnstwist"]
 	path = Intelligence/dnstwist
 	url = https://github.com/elceef/dnstwist.git
+[submodule "Penetration Testing/Exploiting/monkey"]
+	path = Penetration Testing/Exploiting/monkey
+	url = https://github.com/guardicore/monkey.git
