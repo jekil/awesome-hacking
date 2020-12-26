@@ -482,6 +482,7 @@ Exploiting
 - `Peirates <https://github.com/inguardians/peirates>`_ - A Kubernetes penetration tool, enables an attacker to escalate privilege and pivot through a Kubernetes cluster. It automates known techniques to steal and collect service accounts, obtain further code execution, and gain control of the cluster.
 - `PowerSploit <https://github.com/PowerShellMafia/PowerSploit/>`_ - A PowerShell Post-Exploitation Framework.
 - `ROP Gadget <http://shell-storm.org/project/ROPgadget/>`_ - Framework for ROP exploitation.
+- `Ropper <https://github.com/sashs/Ropper>`_ - Display information about files in different file formats and find gadgets to build rop chains for different architectures (x86/x86_64, ARM/ARM64, MIPS, PowerPC, SPARC64). For disassembly ropper uses the awesome Capstone Framework.
 - `Routersploit <https://github.com/reverse-shell/routersploit>`_ - Automated penetration testing software for router.
 - `Rupture <https://github.com/dionyziz/rupture/>`_ - A framework for BREACH and other compression-based crypto attacks.
 - `SPARTA <http://sparta.secforce.com>`_ - Network Infrastructure Penetration Testing Tool.
