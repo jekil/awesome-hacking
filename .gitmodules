@@ -2164,3 +2164,6 @@
 [submodule "Penetration Testing/Exploiting/monkey"]
 	path = Penetration Testing/Exploiting/monkey
 	url = https://github.com/guardicore/monkey.git
+[submodule "Penetration Testing/Exploiting/Ropper"]
+	path = Penetration Testing/Exploiting/Ropper
+	url = https://github.com/sashs/Ropper.git
