@@ -2167,3 +2167,6 @@
 [submodule "Penetration Testing/Exploiting/Ropper"]
 	path = Penetration Testing/Exploiting/Ropper
 	url = https://github.com/sashs/Ropper.git
+[submodule "Reverse Engineering/rizin"]
+	path = Reverse Engineering/rizin
+	url = https://github.com/rizinorg/rizin.git
