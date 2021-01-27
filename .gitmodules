@@ -2170,3 +2170,6 @@
 [submodule "Reverse Engineering/rizin"]
 	path = Reverse Engineering/rizin
 	url = https://github.com/rizinorg/rizin.git
+[submodule "Social Engineering/Phishing/muraena"]
+	path = Social Engineering/Phishing/muraena
+	url = https://github.com/muraenateam/muraena.git
