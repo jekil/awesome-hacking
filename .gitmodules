@@ -2173,3 +2173,6 @@
 [submodule "Social Engineering/Phishing/muraena"]
 	path = Social Engineering/Phishing/muraena
 	url = https://github.com/muraenateam/muraena.git
+[submodule "Security/Cloud Security/IAMFinder"]
+	path = Security/Cloud Security/IAMFinder
+	url = https://github.com/prisma-cloud/IAMFinder.git
