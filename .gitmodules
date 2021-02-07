@@ -2176,3 +2176,12 @@
 [submodule "Security/Cloud Security/IAMFinder"]
 	path = Security/Cloud Security/IAMFinder
 	url = https://github.com/prisma-cloud/IAMFinder.git
+[submodule "Malware/Static Analysis/aa-tools"]
+	path = Malware/Static Analysis/aa-tools
+	url = https://github.com/JPCERTCC/aa-tools.git
+[submodule "Malware/Intelligence/pybeacon"]
+	path = Malware/Intelligence/pybeacon
+	url = https://github.com/nccgroup/pybeacon.git
+[submodule "Malware/Intelligence/cobaltstrike"]
+	path = Malware/Intelligence/cobaltstrike
+	url = https://github.com/Te-k/cobaltstrike.git

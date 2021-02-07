@@ -317,8 +317,10 @@ Honeypot
 Intelligence
 ------------
 
+- `Cobaltstrike <https://github.com/Te-k/cobaltstrike>`_ - Code and yara rules to detect and analyze Cobalt Strike.
 - `MISP Modules <https://github.com/MISP/misp-modules>`_ - Modules for expansion services, import and export in MISP.
 - `Passivedns-client <https://github.com/chrislee35/passivedns-client>`_ - Provides a library and a query tool for querying several passive DNS providers.
+- `Pybeacon <https://github.com/nccgroup/pybeacon>`_ - A collection of scripts for dealing with Cobalt Strike beacons in Python.
 - `Rt2jira <https://github.com/fireeye/rt2jira>`_ - Convert RT tickets to JIRA tickets.
 
 Ops
@@ -367,6 +369,7 @@ Static Analysis
 ---------------
 
 - `APKinspector <https://github.com/honeynet/apkinspector/>`_ - A powerful GUI tool for analysts to analyze the Android applications.
+- `Aa-tools <https://github.com/JPCERTCC/aa-tools>`_ - Artifact analysis tools by JPCERT/CC Analysis Center.
 - `Androwarn <https://github.com/maaaaz/androwarn/>`_ - Detect and warn the user about potential malicious behaviours developed by an Android application.
 - `ApkAnalyser <https://github.com/sonyxperiadev/ApkAnalyser>`_ - A static, virtual analysis tool for examining and validating the development work of your Android app.
 - `Argus-SAF <http://pag.arguslab.org/argus-saf>`_ - Argus static analysis framework.
