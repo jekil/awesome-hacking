@@ -317,6 +317,7 @@ Honeypot
 Intelligence
 ------------
 
+- `CobaltStrikeParser <https://github.com/Sentinel-One/CobaltStrikeParser>`_ - Python parser for CobaltStrike Beacon's configuration.
 - `Cobaltstrike <https://github.com/Te-k/cobaltstrike>`_ - Code and yara rules to detect and analyze Cobalt Strike.
 - `MISP Modules <https://github.com/MISP/misp-modules>`_ - Modules for expansion services, import and export in MISP.
 - `Passivedns-client <https://github.com/chrislee35/passivedns-client>`_ - Provides a library and a query tool for querying several passive DNS providers.

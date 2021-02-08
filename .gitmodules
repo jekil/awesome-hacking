@@ -2185,3 +2185,6 @@
 [submodule "Malware/Intelligence/cobaltstrike"]
 	path = Malware/Intelligence/cobaltstrike
 	url = https://github.com/Te-k/cobaltstrike.git
+[submodule "Malware/Intelligence/CobaltStrikeParser"]
+	path = Malware/Intelligence/CobaltStrikeParser
+	url = https://github.com/Sentinel-One/CobaltStrikeParser.git
