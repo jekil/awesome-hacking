@@ -2188,3 +2188,6 @@
 [submodule "Malware/Intelligence/CobaltStrikeParser"]
 	path = Malware/Intelligence/CobaltStrikeParser
 	url = https://github.com/Sentinel-One/CobaltStrikeParser.git
+[submodule "Penetration Testing/Exploits/CVE-2021-26855_PoC"]
+	path = Penetration Testing/Exploits/CVE-2021-26855_PoC
+	url = https://github.com/alt3kx/CVE-2021-26855_PoC.git
