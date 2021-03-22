@@ -659,6 +659,7 @@ Password Cracking
 - `Hob0Rules <https://github.com/praetorian-inc/Hob0Rules>`_ - Password cracking rules for Hashcat based on statistics and industry patterns.
 - `John the Ripper <http://www.openwall.com/john/>`_ - A fast password cracker.
 - `Kwprocessor <https://github.com/hashcat/kwprocessor>`_ - Advanced keyboard-walk generator with configureable basechars, keymap and routes.
+- `Mentalist <https://github.com/sc0tfree/mentalist>`_ - A graphical tool for custom wordlist generation. It utilizes common human paradigms for constructing passwords and can output the full wordlist as well as rules compatible with Hashcat and John the Ripper.
 - `NPK <https://github.com/Coalfire-Research/npk>`_ - A mostly-serverless distributed hash cracking platform.
 - `Patator <https://github.com/lanjelot/patator>`_ - Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
 - `THC-Hydra <https://www.thc.org/thc-hydra/>`_ - A very fast network logon cracker which support many different services.
