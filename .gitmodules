@@ -2191,3 +2191,6 @@
 [submodule "Penetration Testing/Exploits/CVE-2021-26855_PoC"]
 	path = Penetration Testing/Exploits/CVE-2021-26855_PoC
 	url = https://github.com/alt3kx/CVE-2021-26855_PoC.git
+[submodule "Penetration Testing/Password Cracking/mentalist"]
+	path = Penetration Testing/Password Cracking/mentalist
+	url = https://github.com/sc0tfree/mentalist.git
