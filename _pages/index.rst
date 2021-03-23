@@ -662,6 +662,7 @@ Password Cracking
 - `Mentalist <https://github.com/sc0tfree/mentalist>`_ - A graphical tool for custom wordlist generation. It utilizes common human paradigms for constructing passwords and can output the full wordlist as well as rules compatible with Hashcat and John the Ripper.
 - `NPK <https://github.com/Coalfire-Research/npk>`_ - A mostly-serverless distributed hash cracking platform.
 - `Patator <https://github.com/lanjelot/patator>`_ - Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage.
+- `RSMangler <https://github.com/digininja/RSMangler>`_ - It will take a wordlist and perform various manipulations on it similar to those done by John the Ripper with a few extras.
 - `THC-Hydra <https://www.thc.org/thc-hydra/>`_ - A very fast network logon cracker which support many different services.
 
 Port Scanning

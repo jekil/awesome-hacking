@@ -2194,3 +2194,6 @@
 [submodule "Penetration Testing/Password Cracking/mentalist"]
 	path = Penetration Testing/Password Cracking/mentalist
 	url = https://github.com/sc0tfree/mentalist.git
+[submodule "Penetration Testing/Password Cracking/RSMangler"]
+	path = Penetration Testing/Password Cracking/RSMangler
+	url = https://github.com/digininja/RSMangler.git
