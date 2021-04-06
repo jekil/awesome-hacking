@@ -482,6 +482,7 @@ Exploiting
 - `Nishang <https://github.com/samratashok/nishang>`_ - Offensive PowerShell for red team, penetration testing and offensive security.
 - `OpenVAS <http://www.openvas.org>`_ - Open Source vulnerability scanner and manager.
 - `PEzor <https://github.com/phra/PEzor>`_ - Open-Source PE Packer.
+- `PRET <https://github.com/RUB-NDS/PRET>`_ - Printer Exploitation Toolkit. The tool that made dumpster diving obsolete.
 - `PSKernel-Primitives <https://github.com/FuzzySecurity/PSKernel-Primitives>`_ - Exploit primitives for PowerShell.
 - `Peirates <https://github.com/inguardians/peirates>`_ - A Kubernetes penetration tool, enables an attacker to escalate privilege and pivot through a Kubernetes cluster. It automates known techniques to steal and collect service accounts, obtain further code execution, and gain control of the cluster.
 - `PowerSploit <https://github.com/PowerShellMafia/PowerSploit/>`_ - A PowerShell Post-Exploitation Framework.

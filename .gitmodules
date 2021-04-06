@@ -2197,3 +2197,6 @@
 [submodule "Penetration Testing/Password Cracking/RSMangler"]
 	path = Penetration Testing/Password Cracking/RSMangler
 	url = https://github.com/digininja/RSMangler.git
+[submodule "Penetration Testing/Exploiting/PRET"]
+	path = Penetration Testing/Exploiting/PRET
+	url = https://github.com/RUB-NDS/PRET.git
