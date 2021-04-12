@@ -505,6 +505,7 @@ Exploiting
 - `Windows Exploit Suggester <https://github.com/GDSSecurity/Windows-Exploit-Suggester>`_ - Detects potential missing patches on the target.
 - `Ysoserial.net <https://github.com/pwntester/ysoserial.net>`_ - Deserialization payload generator for a variety of .NET formatters.
 - `Zarp <https://github.com/hatRiot/zarp>`_ - Network Attack Tool.
+- `expdevBadChars <https://github.com/mgeeky/expdevBadChars>`_ - Bad Characters highlighter for exploit development purposes supporting multiple input formats while comparing.
 
 Exploits
 --------
