@@ -2200,3 +2200,6 @@
 [submodule "Penetration Testing/Exploiting/PRET"]
 	path = Penetration Testing/Exploiting/PRET
 	url = https://github.com/RUB-NDS/PRET.git
+[submodule "Penetration Testing/Exploiting/expdevBadChars"]
+	path = Penetration Testing/Exploiting/expdevBadChars
+	url = https://github.com/mgeeky/expdevBadChars.git
