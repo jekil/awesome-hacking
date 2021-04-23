@@ -2206,3 +2206,6 @@
 [submodule "Forensics/File Forensics/TVS_extractor"]
 	path = Forensics/File Forensics/TVS_extractor
 	url = https://github.com/ITLivLab/TVS_extractor.git
+[submodule "Penetration Testing/Web/Autowasp"]
+	path = Penetration Testing/Web/Autowasp
+	url = https://github.com/GovTech-CSG/Autowasp.git
