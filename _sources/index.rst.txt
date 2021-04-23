@@ -786,6 +786,7 @@ Web
 
 - `Arachni <http://www.arachni-scanner.com>`_ - Web Application Security Scanner Framework.
 - `Argumentinjectionhammer <https://github.com/nccgroup/argumentinjectionhammer>`_ - A Burp Extension designed to identify argument injection vulnerabilities.
+- `Autowasp <https://github.com/GovTech-CSG/Autowasp>`_ - A Burp Suite extension that integrates Burp issues logging, with OWASP Web Security Testing Guide (WSTG), to provide a streamlined web security testing flow for the modern-day penetration tester! This tool will guide new penetration testers to understand the best practices of web application security and automate OWASP WSTG checks.
 - `BlackBox Protobuf Burp Extension <https://github.com/nccgroup/blackboxprotobuf>`_ - A Burp Suite extension for decoding and modifying arbitrary protobuf messages without the protobuf type definition.
 - `BlindElephant <http://blindelephant.sourceforge.net>`_ - Web Application Fingerprinter.
 - `Brosec <https://github.com/gabemarshall/Brosec>`_ - An interactive reference tool to help security professionals utilize useful payloads and commands.
