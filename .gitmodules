@@ -2209,3 +2209,6 @@
 [submodule "Penetration Testing/Web/Autowasp"]
 	path = Penetration Testing/Web/Autowasp
 	url = https://github.com/GovTech-CSG/Autowasp.git
+[submodule "Penetration Testing/Post Exploitation/MicroBackdoor"]
+	path = Penetration Testing/Post Exploitation/MicroBackdoor
+	url = https://github.com/Cr4sh/MicroBackdoor.git
