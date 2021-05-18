@@ -1003,6 +1003,11 @@ Cloud Security
 Resources
 - `s3cr3t <https://github.com/axl89/s3cr3t>`_ - Serve files securely from an S3 bucket with expiring links and other restrictions.
 
+DevOps
+------
+
+- `Trivy <https://github.com/aquasecurity/trivy>`_ - A simple and comprehensive vulnerability scanner for containers and other artifacts. A software vulnerability is a glitch, flaw, or weakness present in the software or in an Operating System. Trivy detects vulnerabilities of OS packages (Alpine, RHEL, CentOS, etc.) and application dependencies (Bundler, Composer, npm, yarn, etc.). Trivy is easy to use.
+
 Endpoint Security
 -----------------
 

@@ -2212,3 +2212,6 @@
 [submodule "Penetration Testing/Post Exploitation/MicroBackdoor"]
 	path = Penetration Testing/Post Exploitation/MicroBackdoor
 	url = https://github.com/Cr4sh/MicroBackdoor.git
+[submodule "Security/DevOps/trivy"]
+	path = Security/DevOps/trivy
+	url = https://github.com/aquasecurity/trivy.git
