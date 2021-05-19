@@ -2215,3 +2215,6 @@
 [submodule "Security/DevOps/trivy"]
 	path = Security/DevOps/trivy
 	url = https://github.com/aquasecurity/trivy.git
+[submodule "Penetration Testing/Exploits/CVE-2021-31166"]
+	path = Penetration Testing/Exploits/CVE-2021-31166
+	url = https://github.com/0vercl0k/CVE-2021-31166.git
