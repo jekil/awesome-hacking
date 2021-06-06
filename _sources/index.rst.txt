@@ -999,6 +999,7 @@ Cloud Security
 - `IAMFinder <https://github.com/prisma-cloud/IAMFinder>`_ - Enumerates and finds users and IAM roles in a target AWS account. With only the AWS account number of the targeted account, IAMFinder is able to identify users and roles in that environment. Upon successfully identifying an IAM role, IAMFinder can also check if this role can be assumed anonymously.
 - `Panther <https://runpanther.io>`_ - A Cloud-Native SIEM for the Modern Security Team
 - `Parliament <https://github.com/duo-labs/parliament>`_ - An AWS IAM linting library. It reviews policies looking for problems.
+- `Patrolaroid <https://github.com/rpetrich/patrolaroid>`_ - An instant camera for capturing cloud workload risks. It’s a prod-friendly scanner that makes finding security issues in AWS instances and buckets less annoying and disruptive for software engineers and cloud admins.
 - `Security Monkey <https://github.com/Netflix/security_monkey>`_ - Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 - `Varna <https://github.com/endgameinc/varna>`_ - Quick & Cheap AWS CloudTrail Monitoring with Event Query Language (EQL)
 Resources
