@@ -2218,3 +2218,6 @@
 [submodule "Penetration Testing/Exploits/CVE-2021-31166"]
 	path = Penetration Testing/Exploits/CVE-2021-31166
 	url = https://github.com/0vercl0k/CVE-2021-31166.git
+[submodule "Security/Cloud Security/patrolaroid"]
+	path = Security/Cloud Security/patrolaroid
+	url = https://github.com/rpetrich/patrolaroid.git
