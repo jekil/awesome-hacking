@@ -475,6 +475,7 @@ Exploiting
 - `LAVA <https://github.com/panda-re/lava>`_ - Large-scale Automated Vulnerability Addition.
 - `Linux Exploit Suggester <https://github.com/PenturaLabs/Linux_Exploit_Suggester>`_ - Linux Exploit Suggester; based on operating system release number.
 - `Linux-exploit-suggester <https://github.com/mzet-/linux-exploit-suggester>`_ - Linux privilege escalation auditing tool.
+- `MSDAT <https://github.com/quentinhardy/msdat>`_ - Microsoft SQL Database Attacking Tool is an open source penetration testing tool that tests the security of Microsoft SQL Databases remotely.
 - `Macrome <https://github.com/michaelweber/Macrome>`_ - Excel Macro Document Reader/Writer for Red Teamers & Analysts
 - `Metasploit Framework <http://www.metasploit.com/>`_ - Exploitation framework.
 - `MeterSSH <https://github.com/trustedsec/meterssh>`_ - A way to take shellcode, inject it into memory then tunnel whatever port you want to over SSH to mask any type of communications as a normal SSH connection. The way it works is by injecting shellcode into memory, then wrapping a port spawned (meterpeter in this case) by the shellcode over SSH back to the attackers machine. Then connecting with meterpreter's listener to localhost will communicate through the SSH proxy, to the victim through the SSH tunnel. All communications are relayed through the SSH tunnel and not through the network.

@@ -2221,3 +2221,6 @@
 [submodule "Security/Cloud Security/patrolaroid"]
 	path = Security/Cloud Security/patrolaroid
 	url = https://github.com/rpetrich/patrolaroid.git
+[submodule "Penetration Testing/Exploiting/msdat"]
+	path = Penetration Testing/Exploiting/msdat
+	url = https://github.com/quentinhardy/msdat.git
