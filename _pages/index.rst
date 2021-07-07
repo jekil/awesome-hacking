@@ -538,6 +538,7 @@ Exploits
 - `Jira-Scan <https://github.com/random-robbie/Jira-Scan>`_ - Jira scanner for CVE-2017-9506.
 - `Kernel Exploits <https://github.com/bcoles/kernel-exploits>`_ - Various kernel exploits.
 - `MS17-010 <https://github.com/worawit/MS17-010>`_ - Exploits for MS17-010.
+- `PrintNightmare <https://github.com/afwu/PrintNightmare>`_ - PrintNightmare (CVE-2021-1675) Remote code execution in Windows Spooler Service
 - `Qemu-vm-escape <https://github.com/Kira-cxy/qemu-vm-escape>`_ - This is an exploit for CVE-2019-6778, a heap buffer overflow in slirp:tcp_emu().
 - `Ruby-advisory-db <https://github.com/rubysec/ruby-advisory-db>`_ - A database of vulnerable Ruby Gems.
 - `The Exploit Database <https://github.com/offensive-security/exploit-database>`_ - The official Exploit Database repository.

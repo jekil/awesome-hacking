@@ -2224,3 +2224,6 @@
 [submodule "Penetration Testing/Exploiting/msdat"]
 	path = Penetration Testing/Exploiting/msdat
 	url = https://github.com/quentinhardy/msdat.git
+[submodule "Penetration Testing/Exploits/PrintNightmare"]
+	path = Penetration Testing/Exploits/PrintNightmare
+	url = https://github.com/afwu/PrintNightmare.git
