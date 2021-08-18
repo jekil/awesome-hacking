@@ -2227,3 +2227,15 @@
 [submodule "Penetration Testing/Exploits/PrintNightmare"]
 	path = Penetration Testing/Exploits/PrintNightmare
 	url = https://github.com/afwu/PrintNightmare.git
+[submodule "Penetration Testing/Web/x8-Burp"]
+	path = Penetration Testing/Web/x8-Burp
+	url = https://github.com/Impact-I/x8-Burp.git
+[submodule "Malware/Static Analysis/tlsh"]
+	path = Malware/Static Analysis/tlsh
+	url = https://github.com/trendmicro/tlsh.git
+[submodule "Malware/Intelligence/misp-dashboard"]
+	path = Malware/Intelligence/misp-dashboard
+	url = https://github.com/MISP/misp-dashboard.git
+[submodule "Penetration Testing/Exploiting/malicious-pdf"]
+	path = Penetration Testing/Exploiting/malicious-pdf
+	url = https://github.com/jonaslejon/malicious-pdf.git

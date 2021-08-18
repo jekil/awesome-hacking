@@ -321,6 +321,7 @@ Intelligence
 - `CobaltStrikeParser <https://github.com/Sentinel-One/CobaltStrikeParser>`_ - Python parser for CobaltStrike Beacon's configuration.
 - `Cobaltstrike <https://github.com/Te-k/cobaltstrike>`_ - Code and yara rules to detect and analyze Cobalt Strike.
 - `MISP Modules <https://github.com/MISP/misp-modules>`_ - Modules for expansion services, import and export in MISP.
+- `Misp-dashboard <https://github.com/MISP/misp-dashboard>`_ - A dashboard for a real-time overview of threat intelligence from MISP instances.
 - `Passivedns-client <https://github.com/chrislee35/passivedns-client>`_ - Provides a library and a query tool for querying several passive DNS providers.
 - `Pybeacon <https://github.com/nccgroup/pybeacon>`_ - A collection of scripts for dealing with Cobalt Strike beacons in Python.
 - `Rt2jira <https://github.com/fireeye/rt2jira>`_ - Convert RT tickets to JIRA tickets.
@@ -392,6 +393,7 @@ Static Analysis
 - `Smali-CFGs <https://github.com/EugenioDelfa/Smali-CFGs>`_ - Smali Control Flow Graph's.
 - `SmaliSCA <https://github.com/dorneanu/smalisca>`_ - Smali Static Code Analysis.
 - `Sysinternals Suite <https://technet.microsoft.com/en-us/sysinternals/bb842062>`_ - The Sysinternals Troubleshooting Utilities.
+- `Tlsh <https://github.com/trendmicro/tlsh>`_ - Trend Micro Locality Sensitive Hash is a fuzzy matching library. Given a byte stream with a minimum length of 50 bytes TLSH generates a hash value which can be used for similarity comparisons. Similar objects will have similar hash values which allows for the detection of similar objects by comparing their hash values. Note that the byte stream should have a sufficient amount of complexity. For example, a byte stream of identical bytes will not generate a hash value.
 - `Yara <http://virustotal.github.io/yara/>`_ - Identify and classify malware samples.
 
 Network
@@ -477,6 +479,7 @@ Exploiting
 - `Linux-exploit-suggester <https://github.com/mzet-/linux-exploit-suggester>`_ - Linux privilege escalation auditing tool.
 - `MSDAT <https://github.com/quentinhardy/msdat>`_ - Microsoft SQL Database Attacking Tool is an open source penetration testing tool that tests the security of Microsoft SQL Databases remotely.
 - `Macrome <https://github.com/michaelweber/Macrome>`_ - Excel Macro Document Reader/Writer for Red Teamers & Analysts
+- `Malicious-pdf <https://github.com/jonaslejon/malicious-pdf>`_ - Generate ten different malicious pdf files with phone-home functionality. Can be used with Burp Collaborator.
 - `Metasploit Framework <http://www.metasploit.com/>`_ - Exploitation framework.
 - `MeterSSH <https://github.com/trustedsec/meterssh>`_ - A way to take shellcode, inject it into memory then tunnel whatever port you want to over SSH to mask any type of communications as a normal SSH connection. The way it works is by injecting shellcode into memory, then wrapping a port spawned (meterpeter in this case) by the shellcode over SSH back to the attackers machine. Then connecting with meterpreter's listener to localhost will communicate through the SSH proxy, to the victim through the SSH tunnel. All communications are relayed through the SSH tunnel and not through the network.
 - `Nessus <http://www.tenable.com/products/nessus-vulnerability-scanner>`_ - Vulnerability, configuration, and compliance assessment.
@@ -845,6 +848,7 @@ Web
 - `XSpear <https://github.com/hahwul/XSpear>`_ - Powerfull XSS Scanning and Parameter analysis tool&gem.
 - `Yasuo <https://github.com/0xsauby/yasuo>`_ - A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network.
 - `Zed Attack Proxy (ZAP) <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>`_ - The OWASP ZAP core project.
+- `x8-Burp <https://github.com/Impact-I/x8-Burp>`_ - Hidden parameters discovery suite wrapper.
 
 Wireless
 --------
