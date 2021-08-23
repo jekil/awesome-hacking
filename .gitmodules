@@ -2242,3 +2242,12 @@
 [submodule "Forensics/Mobile/mvt"]
 	path = Forensics/Mobile/mvt
 	url = https://github.com/mvt-project/mvt.git
+[submodule "Penetration Testing/Exploiting/ProxyLogon"]
+	path = Penetration Testing/Exploiting/ProxyLogon
+	url = https://github.com/RickGeex/ProxyLogon.git
+[submodule "Penetration Testing/Exploits/Proxyshell-Exchange"]
+	path = Penetration Testing/Exploits/Proxyshell-Exchange
+	url = https://github.com/mr-r3bot/Proxyshell-Exchange.git
+[submodule "Penetration Testing/Exploits/proxyshell-auto"]
+	path = Penetration Testing/Exploits/proxyshell-auto
+	url = https://github.com/Udyz/proxyshell-auto.git

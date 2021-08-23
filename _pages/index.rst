@@ -492,6 +492,7 @@ Exploiting
 - `PSKernel-Primitives <https://github.com/FuzzySecurity/PSKernel-Primitives>`_ - Exploit primitives for PowerShell.
 - `Peirates <https://github.com/inguardians/peirates>`_ - A Kubernetes penetration tool, enables an attacker to escalate privilege and pivot through a Kubernetes cluster. It automates known techniques to steal and collect service accounts, obtain further code execution, and gain control of the cluster.
 - `PowerSploit <https://github.com/PowerShellMafia/PowerSploit/>`_ - A PowerShell Post-Exploitation Framework.
+- `ProxyLogon <https://github.com/RickGeex/ProxyLogon>`_ - ProxyLogon is the formally generic name for CVE-2021-26855, a vulnerability on Microsoft Exchange Server that allows an attacker bypassing the authentication and impersonating as the admin. We have also chained this bug with another post-auth arbitrary-file-write vulnerability, CVE-2021-27065, to get code execution.
 - `ROP Gadget <http://shell-storm.org/project/ROPgadget/>`_ - Framework for ROP exploitation.
 - `Ropper <https://github.com/sashs/Ropper>`_ - Display information about files in different file formats and find gadgets to build rop chains for different architectures (x86/x86_64, ARM/ARM64, MIPS, PowerPC, SPARC64). For disassembly ropper uses the awesome Capstone Framework.
 - `Routersploit <https://github.com/reverse-shell/routersploit>`_ - Automated penetration testing software for router.
@@ -543,6 +544,8 @@ Exploits
 - `Kernel Exploits <https://github.com/bcoles/kernel-exploits>`_ - Various kernel exploits.
 - `MS17-010 <https://github.com/worawit/MS17-010>`_ - Exploits for MS17-010.
 - `PrintNightmare <https://github.com/afwu/PrintNightmare>`_ - PrintNightmare (CVE-2021-1675) Remote code execution in Windows Spooler Service
+- `Proxyshell-Exchange <https://github.com/mr-r3bot/Proxyshell-Exchange>`_ - Poc script for ProxyShell exploit chain in Exchange Server.
+- `Proxyshell-auto <https://github.com/Udyz/proxyshell-auto>`_ - Automatic ProxyShell Exploit.
 - `Qemu-vm-escape <https://github.com/Kira-cxy/qemu-vm-escape>`_ - This is an exploit for CVE-2019-6778, a heap buffer overflow in slirp:tcp_emu().
 - `Ruby-advisory-db <https://github.com/rubysec/ruby-advisory-db>`_ - A database of vulnerable Ruby Gems.
 - `The Exploit Database <https://github.com/offensive-security/exploit-database>`_ - The official Exploit Database repository.
