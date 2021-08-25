@@ -2251,3 +2251,12 @@
 [submodule "Penetration Testing/Exploits/proxyshell-auto"]
 	path = Penetration Testing/Exploits/proxyshell-auto
 	url = https://github.com/Udyz/proxyshell-auto.git
+[submodule "Code Auditing/Static Analysis/gokart"]
+	path = Code Auditing/Static Analysis/gokart
+	url = https://github.com/praetorian-inc/gokart.git
+[submodule "Intelligence/deepdarkCTI"]
+	path = Intelligence/deepdarkCTI
+	url = https://github.com/fastfire/deepdarkCTI.git
+[submodule "Penetration Testing/Exploits/EfsPotato"]
+	path = Penetration Testing/Exploits/EfsPotato
+	url = https://github.com/zcgonvh/EfsPotato.git

@@ -46,6 +46,7 @@ Static Analysis
 
 - `Brakeman <http://brakemanscanner.org>`_ - A static analysis security vulnerability scanner for Ruby on Rails applications.
 - `Dr. Taint <https://github.com/toshipiazza/drtaint>`_ - A very WIP DynamoRIO module built on the Dr. Memory Framework to implement taint analysis on ARM.
+- `GoKart <https://github.com/praetorian-inc/gokart>`_ - A static analysis tool for Go that finds vulnerabilities using the SSA (single static assignment) form of Go source code.
 - `Gosec <https://github.com/securego/gosec>`_ - Inspects source code for security problems by scanning the Go AST.
 - `STACK <https://github.com/xiw/stack>`_ - A static checker for identifying unstable code.
 - `ShellCheck <https://github.com/koalaman/shellcheck>`_ - A static analysis tool for shell scripts.
@@ -166,6 +167,7 @@ Intelligence
 ============
 
 - `Attackintel <https://github.com/gr4ym4ntx/attackintel>`_ - A python script to query the MITRE ATT&CK API for tactics, techniques, mitigations, & detection methods for specific threat groups.
+- `DeepdarkCTI <https://github.com/fastfire/deepdarkCTI>`_ - The aim of this project is to collect the sources, present in the Deep and Dark web, which can be useful in Cyber Threat Intelligence contexts.
 - `Dnstwist <https://github.com/elceef/dnstwist>`_ - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation.
 - `IntelOwl <https://github.com/certego/IntelOwl>`_ - Analyze files, domains, IPs in multiple ways from a single API at scale. 
 - `MISP-maltego <https://github.com/MISP/MISP-maltego>`_ - Set of Maltego transforms to inferface with a MISP Threat Sharing instance, and also to explore the whole MITRE ATT&CK dataset.
@@ -539,6 +541,7 @@ Exploits
 - `Chimay-Red <https://github.com/BigNerd95/Chimay-Red>`_ - Working POC of Mikrotik exploit from Vault 7 CIA Leaks.
 - `Desharialize <https://github.com/Voulnet/desharialize>`_ - Easy mode to Exploit CVE-2019-0604 (Sharepoint XML Deserialization Unauthenticated RCE).
 - `ES File Explorer Open Port Vulnerability <https://github.com/fs0c131y/ESFileExplorerOpenPortVuln>`_ - ES File Explorer Open Port Vulnerability - CVE-2019-6447.
+- `EfsPotato <https://github.com/zcgonvh/EfsPotato>`_ - Exploit for EfsPotato(MS-EFSR EfsRpcOpenFileRaw with SeImpersonatePrivilege local privalege escalation vulnerability).
 - `HolicPOC <https://github.com/leeqwind/HolicPOC>`_ - CVE-2015-2546, CVE-2016-0165, CVE-2016-0167, CVE-2017-0101, CVE-2017-0263, CVE-2018-8120.
 - `Jira-Scan <https://github.com/random-robbie/Jira-Scan>`_ - Jira scanner for CVE-2017-9506.
 - `Kernel Exploits <https://github.com/bcoles/kernel-exploits>`_ - Various kernel exploits.
