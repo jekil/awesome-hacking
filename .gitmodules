@@ -2260,3 +2260,9 @@
 [submodule "Penetration Testing/Exploits/EfsPotato"]
 	path = Penetration Testing/Exploits/EfsPotato
 	url = https://github.com/zcgonvh/EfsPotato.git
+[submodule "Penetration Testing/Exploiting/laf"]
+	path = Penetration Testing/Exploiting/laf
+	url = https://github.com/IOActive/laf.git
+[submodule "Penetration Testing/Exploiting/caldera"]
+	path = Penetration Testing/Exploiting/caldera
+	url = https://github.com/mitre/caldera.git

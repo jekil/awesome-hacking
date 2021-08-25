@@ -463,6 +463,7 @@ Exploiting
 - `Bashfuscator <https://github.com/Bashfuscator/Bashfuscator>`_ - A fully configurable and extendable Bash obfuscation framework. This tool is intended to help both red team and blue team.
 - `BeEF <http://beefproject.com>`_ - The Browser Exploitation Framework Project.
 - `BugId <https://github.com/SkyLined/BugId>`_ - Detect, analyze and uniquely identify crashes in Windows applications.
+- `CALDERA <https://github.com/mitre/caldera>`_ - A cyber security framework designed to easily automate adversary emulation, assist manual red-teams, and automate incident response.
 - `CCAT <https://github.com/RhinoSecurityLabs/ccat>`_ - Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments.
 - `Commix <http://www.commixproject.com>`_ - Automated All-in-One OS Command Injection and Exploitation Tool.
 - `DLLInjector <https://github.com/OpenSecurityResearch/dllinjector>`_ - Inject dlls in processes.
@@ -480,6 +481,7 @@ Exploiting
 - `LAVA <https://github.com/panda-re/lava>`_ - Large-scale Automated Vulnerability Addition.
 - `Linux Exploit Suggester <https://github.com/PenturaLabs/Linux_Exploit_Suggester>`_ - Linux Exploit Suggester; based on operating system release number.
 - `Linux-exploit-suggester <https://github.com/mzet-/linux-exploit-suggester>`_ - Linux privilege escalation auditing tool.
+- `LoRaWAN Auditing Framework <https://github.com/IOActive/laf>`_ - IoT deployments just keep growing and one part of that significant grow is composed of millions of LPWAN (low-power wide-area network) sensors deployed at hundreds of cities (Smart Cities) around the world, also at industries and homes. One of the most used LPWAN technologies is LoRa for which LoRaWAN is the network standard (MAC layer). LoRaWAN is a secure protocol with built in encryption but implementation issues and weaknesses affect the security of most current deployments.
 - `MSDAT <https://github.com/quentinhardy/msdat>`_ - Microsoft SQL Database Attacking Tool is an open source penetration testing tool that tests the security of Microsoft SQL Databases remotely.
 - `Macrome <https://github.com/michaelweber/Macrome>`_ - Excel Macro Document Reader/Writer for Red Teamers & Analysts
 - `Malicious-pdf <https://github.com/jonaslejon/malicious-pdf>`_ - Generate ten different malicious pdf files with phone-home functionality. Can be used with Burp Collaborator.
