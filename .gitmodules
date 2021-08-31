@@ -2266,3 +2266,9 @@
 [submodule "Penetration Testing/Exploiting/caldera"]
 	path = Penetration Testing/Exploiting/caldera
 	url = https://github.com/mitre/caldera.git
+[submodule "Security/Phishing/phishdetect"]
+	path = Security/Phishing/phishdetect
+	url = https://github.com/phishdetect/phishdetect.git
+[submodule "Penetration Testing/Exploiting/Jir-Thief"]
+	path = Penetration Testing/Exploiting/Jir-Thief
+	url = https://github.com/antman1p/Jir-Thief.git

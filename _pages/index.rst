@@ -477,6 +477,7 @@ Exploiting
 - `Fathomless <https://github.com/xor-function/fathomless>`_ - A collection of different programs for network red teaming.
 - `Gorsair <https://github.com/Ullaakut/Gorsair>`_ - Gorsair hacks its way into remote docker containers that expose their APIs.
 - `Infection Monkey <https://github.com/guardicore/monkey>`_ - An open source security tool for testing a data center's resiliency to perimeter breaches and internal server infection. The Monkey uses various methods to self propagate across a data center and reports success to a centralized Monkey Island server.
+- `Jir-thief <https://github.com/antman1p/Jir-Thief>`_ - A Red Team tool for exfiltrating sensitive data from Jira tickets.
 - `Kube-hunter <https://github.com/aquasecurity/kube-hunter>`_ - Hunt for security weaknesses in Kubernetes clusters.
 - `LAVA <https://github.com/panda-re/lava>`_ - Large-scale Automated Vulnerability Addition.
 - `Linux Exploit Suggester <https://github.com/PenturaLabs/Linux_Exploit_Suggester>`_ - Linux Exploit Suggester; based on operating system release number.
@@ -1054,6 +1055,7 @@ Phishing
 --------
 
 - `Miteru <https://github.com/ninoseki/miteru>`_ - An experimental phishing kit detection tool.
+- `PhishDetect <https://github.com/phishdetect/phishdetect>`_ - A library and a platform to detect potential phishing pages. It attempts doing so by identifying suspicious and malicious properties both in the domain names and URL provided, as well as in the HTML content of the page opened.
 - `StreamingPhish <https://github.com/wesleyraptor/streamingphish>`_ - Python-based utility that uses supervised machine learning to detect phishing domains from the Certificate Transparency log network.
 
 Privacy
