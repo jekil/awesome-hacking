@@ -541,6 +541,7 @@ Exploits
 - `CVE-2020-1472_2 <https://github.com/dirkjanm/CVE-2020-1472>`_ - PoC for Zerologon
 - `CVE-2021-26855_PoC <https://github.com/alt3kx/CVE-2021-26855_PoC>`_ - SSRF payloads (CVE-2021-26855) over Exchange Server 2019.
 - `CVE-2021-31166 <https://github.com/0vercl0k/CVE-2021-31166>`_ - Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.
+- `CVE-2021-34473 <https://github.com/phamphuqui1998/CVE-2021-34473>`_ - CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability.
 - `Chakra-2016-11 <https://github.com/theori-io/chakra-2016-11>`_ - Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 & CVE-2016-7201).
 - `Chimay-Red <https://github.com/BigNerd95/Chimay-Red>`_ - Working POC of Mikrotik exploit from Vault 7 CIA Leaks.
 - `Desharialize <https://github.com/Voulnet/desharialize>`_ - Easy mode to Exploit CVE-2019-0604 (Sharepoint XML Deserialization Unauthenticated RCE).

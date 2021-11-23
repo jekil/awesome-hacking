@@ -2278,3 +2278,6 @@
 [submodule "Penetration Testing/Exploits/InstallerFileTakeOver"]
 	path = Penetration Testing/Exploits/InstallerFileTakeOver
 	url = https://github.com/klinix5/InstallerFileTakeOver.git
+[submodule "Penetration Testing/Exploits/CVE-2021-34473"]
+	path = Penetration Testing/Exploits/CVE-2021-34473
+	url = https://github.com/phamphuqui1998/CVE-2021-34473.git
