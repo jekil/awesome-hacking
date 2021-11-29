@@ -2281,3 +2281,9 @@
 [submodule "Penetration Testing/Exploits/CVE-2021-34473"]
 	path = Penetration Testing/Exploits/CVE-2021-34473
 	url = https://github.com/phamphuqui1998/CVE-2021-34473.git
+[submodule "Penetration Testing/Info Gathering/CloudFail"]
+	path = Penetration Testing/Info Gathering/CloudFail
+	url = https://github.com/m0rtem/CloudFail.git
+[submodule "Penetration Testing/Info Gathering/CloudFlair"]
+	path = Penetration Testing/Info Gathering/CloudFlair
+	url = https://github.com/christophetd/CloudFlair.git
