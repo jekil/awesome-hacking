@@ -2287,3 +2287,9 @@
 [submodule "Penetration Testing/Info Gathering/CloudFlair"]
 	path = Penetration Testing/Info Gathering/CloudFlair
 	url = https://github.com/christophetd/CloudFlair.git
+[submodule "Penetration Testing/Info Gathering/log4jscanlinux"]
+	path = Penetration Testing/Info Gathering/log4jscanlinux
+	url = https://github.com/Qualys/log4jscanlinux.git
+[submodule "Penetration Testing/Info Gathering/log4jscanwin"]
+	path = Penetration Testing/Info Gathering/log4jscanwin
+	url = https://github.com/Qualys/log4jscanwin.git

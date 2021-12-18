@@ -623,6 +623,8 @@ Info Gathering
 - `EyeWitness <https://github.com/FortyNorthSecurity/EyeWitness>`_ - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
 - `IVRE <https://ivre.rocks>`_ - An open-source framework for network recon. It relies on open-source well-known tools to gather data (network intelligence), stores it in a database, and provides tools to analyze it.
 - `Knock <https://github.com/guelfoweb/knock>`_ - A python tool designed to enumerate subdomains on a target domain through a wordlist.
+- `Log4jscanlinux <https://github.com/Qualys/log4jscanlinux>`_ - This shell script intends to collect necessary details and help detect CVE-2021-44228 and CVE-2021-45046 vulnerabilities reported in Log4j.
+- `Log4jscanwin <https://github.com/Qualys/log4jscanwin>`_ - The Log4jScanner.exe utility helps to detect CVE-2021-44228 and CVE-2021-45046 vulnerabilities. The utility will scan the entire hard drive(s) including archives (and nested JARs) for the Java class that indicates the Java application contains a vulnerable log4j library. The utility will output its results to a console.
 - `Operative-framework <https://github.com/graniet/operative-framework>`_ - This is a framework based on fingerprint action, this tool is used for get information on a website or a enterprise target with multiple modules (Viadeo search,Linkedin search, Reverse email whois, Reverse ip whois, SQL file forensics ...).
 - `Recon-ng <https://github.com/lanmaster53/recon-ng>`_ - A full-featured Web Reconnaissance framework written in Python.
 - `SMBMap <https://github.com/ShawnDEvans/smbmap>`_ - A handy SMB enumeration tool.
