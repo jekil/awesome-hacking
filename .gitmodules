@@ -2293,3 +2293,6 @@
 [submodule "Penetration Testing/Info Gathering/log4jscanwin"]
 	path = Penetration Testing/Info Gathering/log4jscanwin
 	url = https://github.com/Qualys/log4jscanwin.git
+[submodule "Penetration Testing/Exploits/Exchange_SSRF"]
+	path = Penetration Testing/Exploits/Exchange_SSRF
+	url = https://github.com/Jumbo-WJB/Exchange_SSRF.git
