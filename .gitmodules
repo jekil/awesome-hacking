@@ -2296,3 +2296,6 @@
 [submodule "Penetration Testing/Exploits/Exchange_SSRF"]
 	path = Penetration Testing/Exploits/Exchange_SSRF
 	url = https://github.com/Jumbo-WJB/Exchange_SSRF.git
+[submodule "Reverse Engineering/ilo4_toolbox"]
+	path = Reverse Engineering/ilo4_toolbox
+	url = https://github.com/airbus-seclab/ilo4_toolbox.git
