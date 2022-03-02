@@ -539,6 +539,7 @@ Exploits
 - `CVE-2020-1350-DoS <https://github.com/maxpl0it/CVE-2020-1350-DoS>`_ - A denial-of-service proof-of-concept for CVE-2020-1350.
 - `CVE-2020-1472 <https://github.com/VoidSec/CVE-2020-1472>`_ - Exploit Code for CVE-2020-1472 aka Zerologon.
 - `CVE-2020-1472_2 <https://github.com/dirkjanm/CVE-2020-1472>`_ - PoC for Zerologon
+- `CVE-2021-1965 <https://github.com/parsdefense/CVE-2021-1965>`_ - CVE-2021-1965 WiFi Zero Click RCE Trigger PoC
 - `CVE-2021-26855_PoC <https://github.com/alt3kx/CVE-2021-26855_PoC>`_ - SSRF payloads (CVE-2021-26855) over Exchange Server 2019.
 - `CVE-2021-31166 <https://github.com/0vercl0k/CVE-2021-31166>`_ - Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.
 - `CVE-2021-34473 <https://github.com/phamphuqui1998/CVE-2021-34473>`_ - CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability.
@@ -917,6 +918,7 @@ Reverse Engineering
 - `Dragondance <https://github.com/0ffffffffh/dragondance>`_ - Binary code coverage visualizer plugin for Ghidra.
 - `Dwarf <https://github.com/iGio90/Dwarf>`_ - A gui for mobile reverse engineers, crackers and security analyst. Or damn, what a reversed fluffy or yet, duck warrios are rich as fuck. Whatever you like! Built on top of pyqt5, frida and some terrible code.
 - `DynStruct <https://github.com/ampotos/dynStruct>`_ - Reverse engineering tool for automatic structure recovering and memory use analysis based on DynamoRIO and Capstone.
+- `EDB <https://github.com/dylandreimerink/edb>`_ - A debugger(like gdb and dlv) for eBPF programs. Normally eBPF programs are loaded into the Linux kernel and then executed, this makes it difficult to understand what is happening or why things go wrong. For normal applications we can use gdb or dlv to inspect programs, but these don't work for the eBPF due to the way eBPF is loaded into the kernel.
 - `EFI DXE Emulator <https://github.com/gdbinit/efi_dxe_emulator>`_ - An EFI DXE phase binaries emulator based on Unicorn.
 - `Edb <http://www.codef00.com/projects#debugger>`_ - A cross platform x86/x86-64 debugger.
 - `Enjarify <https://github.com/google/enjarify>`_ - A tool for translating Dalvik bytecode to equivalent Java bytecode. This allows Java analysis tools to analyze Android applications.
