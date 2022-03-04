@@ -2305,3 +2305,9 @@
 [submodule "Reverse Engineering/edb"]
 	path = Reverse Engineering/edb
 	url = https://github.com/dylandreimerink/edb.git
+[submodule "Malware/Honeypot/Log4Pot"]
+	path = Malware/Honeypot/Log4Pot
+	url = https://github.com/thomaspatzke/Log4Pot.git
+[submodule "Reverse Engineering/rarvmtools"]
+	path = Reverse Engineering/rarvmtools
+	url = https://github.com/taviso/rarvmtools.git

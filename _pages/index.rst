@@ -288,6 +288,7 @@ Honeypot
 - `HonnyPotter <https://github.com/MartinIngesen/HonnyPotter>`_ - A WordPress login honeypot for collection and analysis of failed login attempts.
 - `Kippo <https://github.com/desaster/kippo>`_ - A medium interaction SSH honeypot designed to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.
 - `Kippo-graph <https://github.com/ikoniaris/kippo-graph>`_ - Visualize statistics from a Kippo SSH honeypot.
+- `Log4Pot <https://github.com/thomaspatzke/Log4Pot>`_ - A honeypot for the Log4Shell vulnerability (CVE-2021-44228).
 - `MHN <https://github.com/threatstream/mhn>`_ - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management.
 - `MTPot <https://github.com/Cymmetria/MTPot>`_ - Open Source Telnet Honeypot.
 - `Maildb <https://github.com/kevthehermit/Maildb>`_ - Python Web App to Parse and Track Email and http Pcap Files.
@@ -982,6 +983,7 @@ Reverse Engineering
 - `RABCDAsm <https://github.com/CyberShadow/RABCDAsm>`_ - Robust ABC (ActionScript Bytecode) [Dis-]Assembler.
 - `Radare2 <http://www.radare.org>`_ - Opensource, crossplatform reverse engineering framework.
 - `Radare2-bindings <https://github.com/radare/radare2-bindings>`_ - Bindings of the r2 api for Valabind and friends.
+- `Rarvmtools <https://github.com/taviso/rarvmtools>`_ - This is a basic toolchain for the RarVM, a virtual machine included with the popular WinRAR compression suite. Rar includes a VM to support custom data transformations to improve data redundancy, and thus improve compression ratios. However, it also represents a widely deployed machine architecture about which very little is known...that is just too tempting a target for exploration to ignore.
 - `Redexer <https://github.com/plum-umd/redexer>`_ - A reengineering tool that manipulates Android app binaries.
 - `Rizin <https://github.com/rizinorg/rizin>`_ - A fork of the radare2 reverse engineering framework with a focus on usability, working features and code cleanliness.
 - `ScratchABit <https://github.com/pfalcon/ScratchABit>`_ - Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API.
