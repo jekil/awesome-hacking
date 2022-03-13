@@ -324,6 +324,7 @@ Intelligence
 
 - `CobaltStrikeParser <https://github.com/Sentinel-One/CobaltStrikeParser>`_ - Python parser for CobaltStrike Beacon's configuration.
 - `Cobaltstrike <https://github.com/Te-k/cobaltstrike>`_ - Code and yara rules to detect and analyze Cobalt Strike.
+- `GreedyBear <https://github.com/honeynet/GreedyBear>`_ - The project goal is to extract data of the attacks detected by a TPOT or a cluster of them and to generate some feeds that can be used to prevent and detect attacks.
 - `MISP Modules <https://github.com/MISP/misp-modules>`_ - Modules for expansion services, import and export in MISP.
 - `Misp-dashboard <https://github.com/MISP/misp-dashboard>`_ - A dashboard for a real-time overview of threat intelligence from MISP instances.
 - `Passivedns-client <https://github.com/chrislee35/passivedns-client>`_ - Provides a library and a query tool for querying several passive DNS providers.
@@ -528,6 +529,7 @@ Exploits
 - `BlueGate <https://github.com/ollypwn/BlueGate>`_ - PoC (DoS + scanner) for CVE-2020-0609 & CVE-2020-0610 - RD Gateway RCE.
 - `Bluedroid <https://github.com/JiounDai/Bluedroid>`_ - PoCs of Vulnerabilities on Bluedroid.
 - `Broadpwn <https://github.com/mailinneberg/Broadpwn>`_ - Broadpwn bug (CVE-2017-9417).
+- `CVE-2016-5195 <https://github.com/gbonacini/CVE-2016-5195>`_ - A CVE-2016-5195 exploit example.
 - `CVE-2018-8120 <https://github.com/bigric3/cve-2018-8120>`_ - CVE-2018-8120.
 - `CVE-2018-8897 <https://github.com/nmulasmajic/CVE-2018-8897>`_ - Implements the POP/MOV SS (CVE-2018-8897) vulnerability by bugchecking the machine (local DoS).
 - `CVE-2019-0604 <https://github.com/k8gege/CVE-2019-0604>`_ - cve-2019-0604 SharePoint RCE exploit.
@@ -547,6 +549,11 @@ Exploits
 - `Chakra-2016-11 <https://github.com/theori-io/chakra-2016-11>`_ - Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 & CVE-2016-7201).
 - `Chimay-Red <https://github.com/BigNerd95/Chimay-Red>`_ - Working POC of Mikrotik exploit from Vault 7 CIA Leaks.
 - `Desharialize <https://github.com/Voulnet/desharialize>`_ - Easy mode to Exploit CVE-2019-0604 (Sharepoint XML Deserialization Unauthenticated RCE).
+- `Dirty-cow-golang <https://github.com/mengzhuo/dirty-cow-golang>`_ - Dirty Cow implement in Go
+- `Dirtycow <https://github.com/FireFart/dirtycow>`_ - This exploit uses the pokemon exploit of the dirtycow vulnerability as a base and automatically generates a new passwd line. The user will be prompted for the new password when the binary is run. The original /etc/passwd file is then backed up to /tmp/passwd.bak and overwrites the root account with the generated line. After running the exploit you should be able to login with the newly created user.
+- `Dirtycow-vdso <https://github.com/scumjr/dirtycow-vdso>`_ - PoC for Dirty COW (CVE-2016-5195). This PoC relies on ptrace (instead of /proc/self/mem) to patch vDSO.
+- `Dirtycow.cr <https://github.com/xlucas/dirtycow.cr>`_ - CVE-2016-5195 exploit written in Crystal
+- `Dirtycow.fasm <https://github.com/sivizius/dirtycow.fasm>`_ - Fast dirtycow implementation with privilege escalation for amd64 in flatassembler.
 - `ES File Explorer Open Port Vulnerability <https://github.com/fs0c131y/ESFileExplorerOpenPortVuln>`_ - ES File Explorer Open Port Vulnerability - CVE-2019-6447.
 - `EfsPotato <https://github.com/zcgonvh/EfsPotato>`_ - Exploit for EfsPotato(MS-EFSR EfsRpcOpenFileRaw with SeImpersonatePrivilege local privalege escalation vulnerability).
 - `Exchange_SSRF <https://github.com/Jumbo-WJB/Exchange_SSRF>`_ - Some Attacks of Exchange SSRF ProxyLogon&ProxyShell.
@@ -727,6 +734,7 @@ Post Exploitation
 - `EvilOSX <https://github.com/Marten4n6/EvilOSX>`_ - A pure python, post-exploitation, RAT (Remote Administration Tool) for macOS / OSX.
 - `Fireaway <https://github.com/tcstool/Fireaway>`_ - Next Generation Firewall Audit and Bypass Tool.
 - `FruityC2 <https://github.com/xtr4nge/FruityC2>`_ - A post-exploitation (and open source) framework based on the deployment of agents on compromised machines. Agents are managed from a web interface under the control of an operator.
+- `GTFONow <https://github.com/Frissi0n/GTFONow>`_ - Automatic privilege escalation for misconfigured capabilities, sudo and suid binaries.
 - `GetVulnerableGPO <https://github.com/gpoguy/GetVulnerableGPO.git>`_ - PowerShell script to find 'vulnerable' security-related GPOs that should be hardended.
 - `Ghost In The Logs <https://github.com/bats3c/ghost-in-the-logs/>`_ - Evade sysmon and windows event logging.
 - `HoneyBadger <https://github.com/trustedsec/HoneyBadger>`_ - A collection of Metasploit modules with a plugin to help automate Post-Exploitation actions on target systems using the Metasploit Framework.
@@ -740,6 +748,7 @@ Post Exploitation
 - `NoPowerShell <https://github.com/bitsadmin/nopowershell>`_ - PowerShell rebuilt in C# for Red Teaming purposes.
 - `Orc <https://github.com/zMarch/Orc>`_ - A post-exploitation framework for Linux written in Bash.
 - `P0wnedShell <https://github.com/Cn33liz/p0wnedShell>`_ - PowerShell Runspace Post Exploitation Toolkit.
+- `PEASS-ng <https://github.com/carlospolop/PEASS-ng>`_ - Privilege Escalation Awesome Scripts SUITE (with colors).
 - `PacketWhisper <https://github.com/TryCatchHCF/PacketWhisper>`_ - Stealthily Transfer Data & Defeat Attribution Using DNS Queries & Text-Based Steganography, without the need for attacker-controlled Name Servers or domains; Evade DLP/MLS Devices; Defeat Data- & DNS Name Server Whitelisting Controls. Convert any file type (e.g. executables, Office, Zip, images) into a list of Fully Qualified Domain Names (FQDNs), use DNS queries to transfer data. Simple yet extremely effective.
 - `Paragon <https://github.com/KCarretto/paragon>`_ - Red Team engagement platform with the goal of unifying offensive tools behind a simple UI.
 - `Pivoter <https://github.com/trustedsec/pivoter>`_ - A proxy tool for pentesters to have easier lateral movement. 
@@ -1010,6 +1019,7 @@ Reverse Engineering
 - `X64_dbg <http://x64dbg.com>`_ - An open-source x64/x32 debugger for windows.
 - `Xxxswf <https://bitbucket.org/Alexander_Hanel/xxxswf>`_ - A Python script for analyzing Flash files.
 - `YaCo <https://github.com/DGA-MI-SSI/YaCo>`_ - An Hex-Rays IDA plugin. When enabled, multiple users can work simultaneously on the same binary. Any modification done by any user is synchronized through git version control.
+- `r2-dirtycow <https://github.com/nowsecure/dirtycow>`_ - Radare2 IO plugin for Linux and Android. Modifies files owned by other users via dirtycow Copy-On-Write cache vulnerability.
 - `uEmu <https://github.com/alexhude/uEmu>`_ - Tiny cute emulator plugin for IDA based on unicorn.
 
 Security

@@ -2311,3 +2311,33 @@
 [submodule "Reverse Engineering/rarvmtools"]
 	path = Reverse Engineering/rarvmtools
 	url = https://github.com/taviso/rarvmtools.git
+[submodule "Malware/Intelligence/GreedyBear"]
+	path = Malware/Intelligence/GreedyBear
+	url = https://github.com/honeynet/GreedyBear.git
+[submodule "Penetration Testing/Exploits/dirtycow.cr"]
+	path = Penetration Testing/Exploits/dirtycow.cr
+	url = https://github.com/xlucas/dirtycow.cr.git
+[submodule "Penetration Testing/Exploits/dirty-cow-golang"]
+	path = Penetration Testing/Exploits/dirty-cow-golang
+	url = https://github.com/mengzhuo/dirty-cow-golang.git
+[submodule "Penetration Testing/Exploits/dirtycow.fasm"]
+	path = Penetration Testing/Exploits/dirtycow.fasm
+	url = https://github.com/sivizius/dirtycow.fasm.git
+[submodule "Penetration Testing/Exploits/CVE-2016-5195"]
+	path = Penetration Testing/Exploits/CVE-2016-5195
+	url = https://github.com/gbonacini/CVE-2016-5195.git
+[submodule "Reverse Engineering/dirtycow"]
+	path = Reverse Engineering/dirtycow
+	url = https://github.com/nowsecure/dirtycow.git
+[submodule "Penetration Testing/Exploits/dirtycow"]
+	path = Penetration Testing/Exploits/dirtycow
+	url = https://github.com/FireFart/dirtycow.git
+[submodule "Penetration Testing/Exploits/dirtycow-vdso"]
+	path = Penetration Testing/Exploits/dirtycow-vdso
+	url = https://github.com/scumjr/dirtycow-vdso.git
+[submodule "Penetration Testing/Post Exploitation/GTFONow"]
+	path = Penetration Testing/Post Exploitation/GTFONow
+	url = https://github.com/Frissi0n/GTFONow.git
+[submodule "Penetration Testing/Post Exploitation/PEASS-ng"]
+	path = Penetration Testing/Post Exploitation/PEASS-ng
+	url = https://github.com/carlospolop/PEASS-ng.git
