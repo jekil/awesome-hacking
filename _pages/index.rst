@@ -46,6 +46,7 @@ Static Analysis
 
 - `Brakeman <http://brakemanscanner.org>`_ - A static analysis security vulnerability scanner for Ruby on Rails applications.
 - `Dr. Taint <https://github.com/toshipiazza/drtaint>`_ - A very WIP DynamoRIO module built on the Dr. Memory Framework to implement taint analysis on ARM.
+- `Gitleaks <https://github.com/zricethezav/gitleaks>`_ - A SAST tool for detecting and preventing hardcoded secrets like passwords, api keys, and tokens in git repos. Gitleaks is an easy-to-use, all-in-one solution for detecting secrets, past or present, in your code.
 - `GoKart <https://github.com/praetorian-inc/gokart>`_ - A static analysis tool for Go that finds vulnerabilities using the SSA (single static assignment) form of Go source code.
 - `Gosec <https://github.com/securego/gosec>`_ - Inspects source code for security problems by scanning the Go AST.
 - `STACK <https://github.com/xiw/stack>`_ - A static checker for identifying unstable code.
@@ -565,6 +566,7 @@ Exploits
 - `PrintNightmare <https://github.com/afwu/PrintNightmare>`_ - PrintNightmare (CVE-2021-1675) Remote code execution in Windows Spooler Service
 - `Proxyshell-Exchange <https://github.com/mr-r3bot/Proxyshell-Exchange>`_ - Poc script for ProxyShell exploit chain in Exchange Server.
 - `Proxyshell-auto <https://github.com/Udyz/proxyshell-auto>`_ - Automatic ProxyShell Exploit.
+- `Proxyshell-poc <https://github.com/dmaasland/proxyshell-poc>`_ - Proxyshell POC
 - `Qemu-vm-escape <https://github.com/Kira-cxy/qemu-vm-escape>`_ - This is an exploit for CVE-2019-6778, a heap buffer overflow in slirp:tcp_emu().
 - `Ruby-advisory-db <https://github.com/rubysec/ruby-advisory-db>`_ - A database of vulnerable Ruby Gems.
 - `The Exploit Database <https://github.com/offensive-security/exploit-database>`_ - The official Exploit Database repository.
@@ -641,6 +643,7 @@ Info Gathering
 - `SPartan <https://github.com/sensepost/SPartan>`_ - Frontpage and Sharepoint fingerprinting and attack tool.
 - `SSLMap <http://thesprawl.org/projects/sslmap/>`_ - TLS/SSL cipher suite scanner.
 - `Secretz <https://github.com/lc/secretz>`_ - A tool that minimizes the large attack surface of Travis CI. It automatically fetches repos, builds, and logs for any given organization.
+- `Shhgit <https://github.com/eth0izzle/shhgit>`_ - Helps secure forward-thinking development, operations, and security teams by finding secrets across their code before it leads to a security breach.
 - `Sparty <https://github.com/0xdevalias/sparty>`_ - MS Sharepoint and Frontpage Auditing Tool.
 - `Spyse.py <https://github.com/zeropwn/spyse.py>`_ - Python API wrapper and command-line client for the tools hosted on spyse.com.
 - `SubFinder <https://github.com/subfinder/subfinder>`_ - A subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
@@ -690,6 +693,7 @@ Password Cracking
 
 - `BozoCrack <https://github.com/juuso/BozoCrack>`_ - A silly & effective MD5 cracker in Ruby.
 - `Common-substr <https://github.com/SensePost/common-substr>`_ - Simple awk script to extract the most common substrings from an input text. Built for password cracking.
+- `Haklistgen <https://github.com/hakluke/haklistgen>`_ - Turns any junk text into a usable wordlist for brute-forcing.
 - `HashCat <https://hashcat.net/hashcat/>`_ - World's fastest and most advanced password recovery utility.
 - `Hashcrack <https://github.com/nccgroup/hashcrack>`_ - Guesses hash types, picks some sensible dictionaries and rules for hashcat.
 - `Hob0Rules <https://github.com/praetorian-inc/Hob0Rules>`_ - Password cracking rules for Hashcat based on statistics and industry patterns.

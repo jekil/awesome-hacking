@@ -2341,3 +2341,15 @@
 [submodule "Penetration Testing/Post Exploitation/PEASS-ng"]
 	path = Penetration Testing/Post Exploitation/PEASS-ng
 	url = https://github.com/carlospolop/PEASS-ng.git
+[submodule "Penetration Testing/Exploits/proxyshell-poc"]
+	path = Penetration Testing/Exploits/proxyshell-poc
+	url = https://github.com/dmaasland/proxyshell-poc.git
+[submodule "Penetration Testing/Password Cracking/haklistgen"]
+	path = Penetration Testing/Password Cracking/haklistgen
+	url = https://github.com/hakluke/haklistgen.git
+[submodule "Penetration Testing/Info Gathering/shhgit"]
+	path = Penetration Testing/Info Gathering/shhgit
+	url = https://github.com/eth0izzle/shhgit.git
+[submodule "Code Auditing/Static Analysis/gitleaks"]
+	path = Code Auditing/Static Analysis/gitleaks
+	url = https://github.com/zricethezav/gitleaks.git
