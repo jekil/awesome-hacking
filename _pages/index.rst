@@ -1043,6 +1043,7 @@ Cloud Security
 - `Panther <https://runpanther.io>`_ - A Cloud-Native SIEM for the Modern Security Team
 - `Parliament <https://github.com/duo-labs/parliament>`_ - An AWS IAM linting library. It reviews policies looking for problems.
 - `Patrolaroid <https://github.com/rpetrich/patrolaroid>`_ - An instant camera for capturing cloud workload risks. It’s a prod-friendly scanner that makes finding security issues in AWS instances and buckets less annoying and disruptive for software engineers and cloud admins.
+- `PurplePanda <https://github.com/carlospolop/PurplePanda>`_ - This tool fetches resources from different cloud/saas applications focusing on permissions in order to identify privilege escalation paths and dangerous permissions in the cloud/saas configurations. Note that PurplePanda searches both privileges escalation paths within a platform and across platforms.
 - `Security Monkey <https://github.com/Netflix/security_monkey>`_ - Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 - `Varna <https://github.com/endgameinc/varna>`_ - Quick & Cheap AWS CloudTrail Monitoring with Event Query Language (EQL)
 Resources

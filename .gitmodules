@@ -2353,3 +2353,6 @@
 [submodule "Code Auditing/Static Analysis/gitleaks"]
 	path = Code Auditing/Static Analysis/gitleaks
 	url = https://github.com/zricethezav/gitleaks.git
+[submodule "Security/Cloud Security/PurplePanda"]
+	path = Security/Cloud Security/PurplePanda
+	url = https://github.com/carlospolop/PurplePanda.git
