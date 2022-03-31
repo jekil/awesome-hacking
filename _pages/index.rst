@@ -72,6 +72,7 @@ Docker
 - `OWASP Railsgoat <https://hub.docker.com/r/owasp/railsgoat/>`_ - A vulnerable version of Rails that follows the OWASP Top 10.
 - `OWASP Security Shepherd <https://hub.docker.com/r/ismisepaul/securityshepherd/>`_ - A web and mobile application security training platform.
 - `OWASP WebGoat <https://hub.docker.com/r/danmx/docker-owasp-webgoat/>`_ - A deliberately insecure Web Application.
+- `OWASP WrongSecrets <https://hub.docker.com/r/jeroenwillemsen/wrongsecrets>`_ - Examples with how to not use secrets.
 - `OWASP ZAP <https://hub.docker.com/r/owasp/zap2docker-stable/>`_ - Current stable owasp zed attack proxy release in embedded docker container.
 - `Security Ninjas <https://hub.docker.com/r/opendns/security-ninjas/>`_ - An Open Source Application Security Training Program.
 - `SpamScope <https://hub.docker.com/r/fmantuano/spamscope-elasticsearch/>`_ - SpamScope (Fast Advanced Spam Analysis Tool) Elasticsearch.

@@ -130,6 +130,9 @@
 [submodule "Pentration Testing/Training/WebGoat"]
 	path = Penetration Testing/Training/WebGoat
 	url = https://github.com/WebGoat/WebGoat.git
+[submodule "Pentration Testing/Training/wrongsecrets"]
+	path = Penetration Testing/Training/wrongsecrets
+	url = https://github.com/commjoen/wrongsecrets.git
 [submodule "Docker/dockermutillidae"]
 	path = Docker/dockermutillidae
 	url = https://github.com/citizen-stig/dockermutillidae.git
