@@ -723,6 +723,7 @@ Post Exploitation
 - `3snake <https://github.com/blendin/3snake>`_ - Tool for extracting information from newly spawned processes.
 - `Apfell <https://github.com/its-a-feature/Apfell>`_ - A collaborative, multi-platform, red teaming framework.
 - `Backdoorme <https://github.com/Kkevsterrr/backdoorme>`_ - Powerful auto-backdooring utility.
+- `Boopkit <https://github.com/kris-nova/boopkit>`_ - Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin.
 - `CatTails <https://github.com/oneNutW0nder/CatTails>`_ - Raw socket library/framework for red team events.
 - `Cloudy-kraken <https://github.com/Netflix-Skunkworks/cloudy-kraken>`_ - AWS Red Team Orchestration Framework.
 - `Covenant <https://github.com/cobbr/Covenant>`_ - Covenant is a .NET command and control framework that aims to highlight the attack surface of .NET, make the use of offensive .NET tradecraft easier, and serve as a collaborative command and control platform for red teamers.

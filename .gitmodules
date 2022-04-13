@@ -2356,3 +2356,6 @@
 [submodule "Security/Cloud Security/PurplePanda"]
 	path = Security/Cloud Security/PurplePanda
 	url = https://github.com/carlospolop/PurplePanda.git
+[submodule "Penetration Testing/Post Exploitation/boopkit"]
+	path = Penetration Testing/Post Exploitation/boopkit
+	url = https://github.com/kris-nova/boopkit.git
