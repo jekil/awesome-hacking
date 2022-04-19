@@ -786,7 +786,10 @@ Reporting
 - `DefectDojo <https://github.com/DefectDojo/django-DefectDojo>`_ - An open-source application vulnerability correlation and security orchestration tool.
 - `Dradis <https://dradisframework.com/ce/>`_ - Colllaboration and reporting for IT Security teams.
 - `Faraday <http://www.faradaysec.com>`_ - Collaborative Penetration Test and Vulnerability Management Platform.
+- `PwnDoc <https://github.com/pwndoc/pwndoc>`_ - A pentest reporting application making it simple and easy to write your findings and generate a customizable Docx report.
+The main goal is to have more time to Pwn and less time to Doc by mutualizing data like vulnerabilities between users.
 - `VECTR <https://github.com/SecurityRiskAdvisors/VECTR>`_ - A tool that facilitates tracking of your red and blue team testing activities to measure detection and prevention capabilities across different attack scenarios.
+- `WriteHat <https://github.com/blacklanternsecurity/writehat>`_ - A reporting tool which removes Microsoft Word (and many hours of suffering) from the reporting process. Markdown --> HTML --> PDF. Created by penetration testers, for penetration testers - but can be used to generate any kind of report.
 
 Services
 --------

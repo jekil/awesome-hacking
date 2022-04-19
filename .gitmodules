@@ -2359,3 +2359,9 @@
 [submodule "Penetration Testing/Post Exploitation/boopkit"]
 	path = Penetration Testing/Post Exploitation/boopkit
 	url = https://github.com/kris-nova/boopkit.git
+[submodule "Penetration Testing/Reporting/pwndoc"]
+	path = Penetration Testing/Reporting/pwndoc
+	url = https://github.com/pwndoc/pwndoc.git
+[submodule "Penetration Testing/Reporting/writehat"]
+	path = Penetration Testing/Reporting/writehat
+	url = https://github.com/blacklanternsecurity/writehat.git
