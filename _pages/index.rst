@@ -382,6 +382,7 @@ Static Analysis
 - `Androwarn <https://github.com/maaaaz/androwarn/>`_ - Detect and warn the user about potential malicious behaviours developed by an Android application.
 - `ApkAnalyser <https://github.com/sonyxperiadev/ApkAnalyser>`_ - A static, virtual analysis tool for examining and validating the development work of your Android app.
 - `Argus-SAF <http://pag.arguslab.org/argus-saf>`_ - Argus static analysis framework.
+- `Arya <https://github.com/claroty/arya>`_ - The Reverse YARA is a unique tool that produces pseudo-malicious files meant to trigger YARA rules. You can think of it like a reverse YARA because it does exactly the opposite - it creates files that matches your rules.
 - `CAPA <https://github.com/fireeye/capa>`_ - The FLARE team's open-source tool to identify capabilities in executable files.
 - `CFGScanDroid <https://github.com/douggard/CFGScanDroid>`_ - Control Flow Graph Scanning for Android.
 - `ConDroid <https://github.com/JulianSchuette/ConDroid>`_ - Symbolic/concolic execution of Android apps.

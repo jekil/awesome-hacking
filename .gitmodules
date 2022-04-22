@@ -2365,3 +2365,6 @@
 [submodule "Penetration Testing/Reporting/writehat"]
 	path = Penetration Testing/Reporting/writehat
 	url = https://github.com/blacklanternsecurity/writehat.git
+[submodule "Malware/Static Analysis/arya"]
+	path = Malware/Static Analysis/arya
+	url = https://github.com/claroty/arya.git
