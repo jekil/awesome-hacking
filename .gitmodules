@@ -2368,3 +2368,9 @@
 [submodule "Malware/Static Analysis/arya"]
 	path = Malware/Static Analysis/arya
 	url = https://github.com/claroty/arya.git
+[submodule "Penetration Testing/Training/wrongsecrets"]
+	path = Penetration Testing/Training/wrongsecrets
+	url = https://github.com/commjoen/wrongsecrets.git
+[submodule "Penetration Testing/Info Gathering/Dorkify"]
+	path = Penetration Testing/Info Gathering/Dorkify
+	url = https://github.com/hhhrrrttt222111/Dorkify.git
