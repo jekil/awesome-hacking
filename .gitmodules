@@ -2374,3 +2374,6 @@
 [submodule "Penetration Testing/Info Gathering/Dorkify"]
 	path = Penetration Testing/Info Gathering/Dorkify
 	url = https://github.com/hhhrrrttt222111/Dorkify.git
+[submodule "Penetration Testing/Info Gathering/HostHunter"]
+	path = Penetration Testing/Info Gathering/HostHunter
+	url = https://github.com/SpiderLabs/HostHunter.git
