@@ -608,6 +608,7 @@ Fuzzing
 - `Sulley <https://github.com/OpenRCE/sulley>`_ - Fuzzer development and fuzz testing framework consisting of multiple extensible components.
 - `T-Fuzz <https://github.com/HexHive/T-Fuzz>`_ - A fuzzing tool based on program transformation.
 - `TAOF <https://sourceforge.net/projects/taof/>`_ - The Art of Fuzzing, including ProxyFuzz, a man-in-the-middle non-deterministic network fuzzer.
+- `Tlspuffin <https://github.com/tlspuffin/tlspuffin>`_ - A symbolic-model-guided fuzzer for TLS.
 - `Unicorefuzz <https://github.com/fgsect/unicorefuzz>`_ - Fuzzing the Kernel Using Unicornafl and AFL++.
 - `Unicornafl <https://github.com/AFLplusplus/unicornafl>`_ - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86) adapted to afl++.
 - `VUzzer <https://github.com/vusec/vuzzer>`_ - This Project depends heavily on a modeified version of DataTracker, which in turn depends on LibDFT pintool. It has some extra tags added in libdft.

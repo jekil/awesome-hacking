@@ -2377,3 +2377,6 @@
 [submodule "Penetration Testing/Info Gathering/HostHunter"]
 	path = Penetration Testing/Info Gathering/HostHunter
 	url = https://github.com/SpiderLabs/HostHunter.git
+[submodule "Penetration Testing/Fuzzing/tlspuffin"]
+	path = Penetration Testing/Fuzzing/tlspuffin
+	url = https://github.com/tlspuffin/tlspuffin.git
