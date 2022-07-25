@@ -2224,9 +2224,6 @@
 [submodule "Penetration Testing/Exploiting/msdat"]
 	path = Penetration Testing/Exploiting/msdat
 	url = https://github.com/quentinhardy/msdat.git
-[submodule "Penetration Testing/Exploits/PrintNightmare"]
-	path = Penetration Testing/Exploits/PrintNightmare
-	url = https://github.com/afwu/PrintNightmare.git
 [submodule "Penetration Testing/Web/x8-Burp"]
 	path = Penetration Testing/Web/x8-Burp
 	url = https://github.com/Impact-I/x8-Burp.git
@@ -2380,3 +2377,6 @@
 [submodule "Penetration Testing/Fuzzing/tlspuffin"]
 	path = Penetration Testing/Fuzzing/tlspuffin
 	url = https://github.com/tlspuffin/tlspuffin.git
+[submodule "Penetration Testing/Training/metasploitable3"]
+	path = Penetration Testing/Training/metasploitable3
+	url = https://github.com/rapid7/metasploitable3.git

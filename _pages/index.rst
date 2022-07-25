@@ -818,6 +818,7 @@ Training
 - `Insecure-deserialization-net-poc <https://github.com/omerlh/insecure-deserialisation-net-poc>`_ - A small webserver vulnerable to insecure deserialization.
 - `JuliaRT <https://github.com/iknowjason/juliart>`_ - Automated AD Pentest Lab Deployment in the Cloud: IaC Terraform and Ansible Playbook templates for deploying an Active Directory Domain in Azure.
 - `Kubernetes Goat <https://github.com/madhuakula/kubernetes-goat>`_ - Designed to be intentionally vulnerable cluster environment to learn and practice Kubernetes security.
+- `Metasploitable3 <https://github.com/rapid7/metasploitable3>`_ - A VM that is built from the ground up with a large amount of security vulnerabilities. It is intended to be used as a target for testing exploits with metasploit.
 - `OWASP Juice Shop <https://www.owasp.org/index.php/OWASP_Juice_Shop_Project>`_ - An intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
 - `OWASP NodeGoat <https://www.owasp.org/index.php/Projects/OWASP_Node_js_Goat_Project>`_ - An environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
 - `OWASP Railsgoat <http://railsgoat.cktricky.com/>`_ - A vulnerable version of Rails that follows the OWASP Top 10.
