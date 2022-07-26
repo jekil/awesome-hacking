@@ -1918,9 +1918,6 @@
 [submodule "Security/Cloud Security/varna"]
 	path = Security/Cloud Security/varna
 	url = https://github.com/endgameinc/varna.git
-[submodule "Penetration Testing/Web/Konan"]
-	path = Penetration Testing/Web/Konan
-	url = https://github.com/m4ll0k/Konan.git
 [submodule "Penetration Testing/Fuzzing/fuzzotron"]
 	path = Penetration Testing/Fuzzing/fuzzotron
 	url = https://github.com/denandz/fuzzotron.git
@@ -2380,3 +2377,6 @@
 [submodule "Penetration Testing/Training/metasploitable3"]
 	path = Penetration Testing/Training/metasploitable3
 	url = https://github.com/rapid7/metasploitable3.git
+[submodule "Security/Cloud Security/dorothy"]
+	path = Security/Cloud Security/dorothy
+	url = https://github.com/elastic/dorothy.git

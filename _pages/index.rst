@@ -564,7 +564,6 @@ Exploits
 - `Jira-Scan <https://github.com/random-robbie/Jira-Scan>`_ - Jira scanner for CVE-2017-9506.
 - `Kernel Exploits <https://github.com/bcoles/kernel-exploits>`_ - Various kernel exploits.
 - `MS17-010 <https://github.com/worawit/MS17-010>`_ - Exploits for MS17-010.
-- `PrintNightmare <https://github.com/afwu/PrintNightmare>`_ - PrintNightmare (CVE-2021-1675) Remote code execution in Windows Spooler Service
 - `Proxyshell-Exchange <https://github.com/mr-r3bot/Proxyshell-Exchange>`_ - Poc script for ProxyShell exploit chain in Exchange Server.
 - `Proxyshell-auto <https://github.com/Udyz/proxyshell-auto>`_ - Automatic ProxyShell Exploit.
 - `Proxyshell-poc <https://github.com/dmaasland/proxyshell-poc>`_ - Proxyshell POC
@@ -853,7 +852,6 @@ Web
 - `Jwt_tool <https://github.com/ticarpi/jwt_tool>`_ - A toolkit for testing, tweaking and cracking JSON Web Tokens.
 - `Kadabra <https://github.com/D35m0nd142/Kadabra>`_ - Automatic LFI Exploiter and Scanner, written in C++ and a couple extern module in Python.
 - `Kadimus <https://github.com/P0cL4bs/Kadimus>`_ - LFI scan and exploit tool.
-- `Konan <https://github.com/m4ll0k/Konan>`_ - An advanced open source tool designed to brute force directories and files names on web/application servers.
 - `Liffy <https://github.com/hvqzao/liffy>`_ - LFI exploitation tool.
 - `LinkFinder <https://github.com/GerbenJavado/LinkFinder>`_ - A python script that finds endpoints in JavaScript files.
 - `Netsparker <https://www.netsparker.com>`_ - Web Application Security Scanner.
@@ -1048,6 +1046,7 @@ Cloud Security
 - `Aws-nuke <https://github.com/rebuy-de/aws-nuke>`_ - Nuke a whole AWS account and delete all its resources.
 - `Azucar <https://github.com/nccgroup/azucar/>`_ - Security auditing tool for Azure environments.
 - `CloudMapper <https://github.com/duo-labs/cloudmapper>`_ - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
+- `Dorothy <https://github.com/elastic/dorothy>`_ - A tool to help security teams test their monitoring and detection capabilities for their Okta environment. Dorothy has several modules to simulate actions that an attacker might take while operating in an Okta environment and actions that security teams should be able to audit. The modules are mapped to the relevant MITRE ATT&CK® tactics, such as persistence, defense evasion, and discovery.
 - `Hammer <https://github.com/dowjones/hammer>`_ - Dow Jones Hammer : Protect the cloud with the power of the cloud(AWS).
 - `IAMFinder <https://github.com/prisma-cloud/IAMFinder>`_ - Enumerates and finds users and IAM roles in a target AWS account. With only the AWS account number of the targeted account, IAMFinder is able to identify users and roles in that environment. Upon successfully identifying an IAM role, IAMFinder can also check if this role can be assumed anonymously.
 - `Panther <https://runpanther.io>`_ - A Cloud-Native SIEM for the Modern Security Team
