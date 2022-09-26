@@ -548,6 +548,7 @@ Exploits
 - `CVE-2021-26855_PoC <https://github.com/alt3kx/CVE-2021-26855_PoC>`_ - SSRF payloads (CVE-2021-26855) over Exchange Server 2019.
 - `CVE-2021-31166 <https://github.com/0vercl0k/CVE-2021-31166>`_ - Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.
 - `CVE-2021-34473 <https://github.com/phamphuqui1998/CVE-2021-34473>`_ - CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability.
+- `CVE-2022-25636 <https://github.com/Bonfee/CVE-2022-25636>`_ - Exploit for CVE-2022-25636.
 - `Chakra-2016-11 <https://github.com/theori-io/chakra-2016-11>`_ - Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 & CVE-2016-7201).
 - `Chimay-Red <https://github.com/BigNerd95/Chimay-Red>`_ - Working POC of Mikrotik exploit from Vault 7 CIA Leaks.
 - `Desharialize <https://github.com/Voulnet/desharialize>`_ - Easy mode to Exploit CVE-2019-0604 (Sharepoint XML Deserialization Unauthenticated RCE).
@@ -749,6 +750,7 @@ Post Exploitation
 - `HoneypotBuster <https://github.com/JavelinNetworks/HoneypotBuster>`_ - Microsoft PowerShell module designed for red teams that can be used to find honeypots and honeytokens in the network or at the host.
 - `Iodine <http://code.kryo.se/iodine>`_ - Lets you tunnel IPv4 data through a DNS server.
 - `Koadic <https://github.com/zerosum0x0/koadic>`_ - Koadic C3 COM Command & Control - JScript RAT.
+- `Lsassy <https://github.com/Hackndo/lsassy>`_ - Extract credentials from lsass remotely.
 - `Mallory <https://github.com/justmao945/mallory>`_ - HTTP/HTTPS proxy over SSH.
 - `MicroBackdoor <https://github.com/Cr4sh/MicroBackdoor>`_ - C2 tool for Windows targets with easy customizable code base and small footprint. Micro Backdoor consists from server, client and dropper. It wasn't designed as replacement for your favorite post-exploitation tools but rather as really minimalistic thing with all of the basic features in less than 5000 lines of code.
 - `Mimikatz <http://blog.gentilkiwi.com/mimikatz>`_ - A little tool to play with Windows security.
@@ -772,6 +774,7 @@ Post Exploitation
 - `RottenPotatoNG <https://github.com/breenmachine/RottenPotatoNG>`_ - New version of RottenPotato as a C++ DLL and standalone C++ binary - no need for meterpreter or other tools.
 - `Rpc2socks <https://github.com/lexfo/rpc2socks>`_ - Post-exploit tool that enables a SOCKS tunnel via a Windows host using an extensible custom RPC proto over SMB through a named pipe.
 - `SafetyKatz <https://github.com/GhostPack/SafetyKatz>`_ - SafetyKatz is a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subTee's .NET PE Load.
+- `Sam-the-admin <https://github.com/WazeHell/sam-the-admin>`_ - Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user.
 - `Shad0w <https://github.com/bats3c/shad0w>`_ - A post exploitation framework designed to operate covertly on heavily monitored environments.
 - `SharpC2 <https://github.com/SharpC2/SharpC2>`_ - .NET Command & Control Framework
 - `SocksOverRDP <https://github.com/nccgroup/SocksOverRDP>`_ - Socks5/4/4a Proxy support for Remote Desktop Protocol / Terminal Services.

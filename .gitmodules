@@ -2380,3 +2380,12 @@
 [submodule "Security/Cloud Security/dorothy"]
 	path = Security/Cloud Security/dorothy
 	url = https://github.com/elastic/dorothy.git
+[submodule "Penetration Testing/Exploits/CVE-2022-25636"]
+	path = Penetration Testing/Exploits/CVE-2022-25636
+	url = https://github.com/Bonfee/CVE-2022-25636.git
+[submodule "Penetration Testing/Post Exploitation/lsassy"]
+	path = Penetration Testing/Post Exploitation/lsassy
+	url = https://github.com/Hackndo/lsassy.git
+[submodule "Penetration Testing/Post Exploitation/sam-the-admin"]
+	path = Penetration Testing/Post Exploitation/sam-the-admin
+	url = https://github.com/WazeHell/sam-the-admin.git
