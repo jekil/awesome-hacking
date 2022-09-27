@@ -1078,6 +1078,12 @@ Endpoint Security
 - `ProcMon-for-Linux <https://github.com/microsoft/ProcMon-for-Linux>`_ - A Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
 - `Xnumon <https://github.com/droe/xnumon>`_ - Monitor macOS for malicious activity.
 
+Identity
+--------
+
+- `Get-bADpasswords <https://github.com/improsec/Get-bADpasswords>`_ - Get insights into the actual strength and quality of passwords in Active Directory.
+- `Lithnet Password Protection for Active Directory <https://github.com/lithnet/ad-password-protection>`_ - LPP enhances the options available to an organization wanting to ensure that all their Active Directory accounts have strong passwords.
+
 Network Security
 ----------------
 

@@ -2389,3 +2389,9 @@
 [submodule "Penetration Testing/Post Exploitation/sam-the-admin"]
 	path = Penetration Testing/Post Exploitation/sam-the-admin
 	url = https://github.com/WazeHell/sam-the-admin.git
+[submodule "Security/Identity/ad-password-protection"]
+	path = Security/Identity/ad-password-protection
+	url = https://github.com/lithnet/ad-password-protection.git
+[submodule "Security/Identity/Get-bADpasswords"]
+	path = Security/Identity/Get-bADpasswords
+	url = https://github.com/improsec/Get-bADpasswords.git
