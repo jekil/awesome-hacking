@@ -110,6 +110,7 @@ Incident Response
 -----------------
 
 - `Hunter <https://github.com/ThreatHuntingProject/hunter>`_ - A threat hunting / data analysis environment based on Python, Pandas, PySpark and Jupyter Notebook.
+- `LogonTracer <https://github.com/JPCERTCC/LogonTracer>`_ - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
 - `Loki <https://github.com/Neo23x0/Loki>`_ - Simple IOC and Incident Response Scanner.
 - `Panorama <https://github.com/AlmCo/Panorama>`_ - It was made to generate a wide report about Windows systems, support and tested on Windows XP SP2 and up.
 - `Snoopdigg <https://github.com/botherder/snoopdigg>`_ - Simple utility to ease the process of collecting evidence to find infections.
@@ -131,6 +132,7 @@ Misc
 
 - `Diffy <https://github.com/Netflix-Skunkworks/diffy>`_ - A digital forensics and incident response (DFIR) tool developed by Netflix's Security Intelligence and Response Team (SIRT). Allows a forensic investigator to quickly scope a compromise across cloud instances during an incident, and triage those instances for followup actions.
 - `HxD <https://mh-nexus.de/en/hxd/>`_ - A hex editor which, additionally to raw disk editing and modifying of main memory (RAM), handles files of any size.
+- `Kube-forensics <https://github.com/keikoproj/kube-forensics>`_ - Allows a cluster administrator to dump the current state of a running pod and all its containers so that security professionals can perform off-line forensic analysis.
 - `Libfvde <https://github.com/libyal/libfvde>`_ - Library and tools to access FileVault Drive Encryption (FVDE) encrypted volumes.
 - `Mass_archive <https://github.com/motherboardgithub/mass_archive>`_ - A basic tool for pushing a web page to multiple archiving services at once.
 
@@ -371,6 +373,7 @@ Source Code
 - `Morris Worm <https://github.com/arialdomartini/morris-worm>`_ - The original Morris Worm source code.
 - `SvcHostDemo <https://github.com/apriorit/SvcHostDemo>`_ - Demo service that runs in svchost.exe.
 - `TinyNuke <https://github.com/rossja/TinyNuke>`_ - Zeus-style banking trojan.
+- `TripleCross <https://github.com/h3xduck/TripleCross>`_ - A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 - `Zerokit <https://github.com/Darkabode/zerokit>`_ - Zerokit/GAPZ rootkit (non buildable and only for researching).
 - `Zeus <https://github.com/Visgean/Zeus>`_ - Zeus version 2.0.8.9, leaked in 2011.
 
@@ -780,6 +783,7 @@ Post Exploitation
 - `SocksOverRDP <https://github.com/nccgroup/SocksOverRDP>`_ - Socks5/4/4a Proxy support for Remote Desktop Protocol / Terminal Services.
 - `SpYDyishai <https://github.com/Night46/spYDyishai>`_ - A Gmail credential harvester.
 - `SprayWMI <https://github.com/trustedsec/spraywmi>`_ - An easy way to get mass shells on systems that support WMI. Much more effective than PSEXEC as it does not leave remnants on a system.
+- `Static-binaries <https://github.com/andrew-d/static-binaries>`_ - Various *nix tools built as statically-linked binaries.
 - `Tgcd <http://tgcd.sourceforge.net>`_ - A simple Unix network utility to extend the accessibility of TCP/IP based network services beyond firewalls.
 - `TheFatRat <https://github.com/Exploit-install/TheFatRat>`_ - An easy tool to generate backdoor with msfvenom (a part from metasploit framework). This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection.
 - `WCE <http://www.ampliasecurity.com/research/windows-credentials-editor/>`_ - Windows Credentials Editor (WCE) is a security tool to list logon sessions and add, change, list and delete associated credentials.
@@ -857,6 +861,7 @@ Web
 - `Kadimus <https://github.com/P0cL4bs/Kadimus>`_ - LFI scan and exploit tool.
 - `Liffy <https://github.com/hvqzao/liffy>`_ - LFI exploitation tool.
 - `LinkFinder <https://github.com/GerbenJavado/LinkFinder>`_ - A python script that finds endpoints in JavaScript files.
+- `Mitmproxy2swagger <https://github.com/alufers/mitmproxy2swagger>`_ - Automagically reverse-engineer REST APIs via capturing traffic. A tool for automatically converting mitmproxy captures to OpenAPI 3.0 specifications. This means that you can automatically reverse-engineer REST APIs by just running the apps and capturing the traffic.
 - `Netsparker <https://www.netsparker.com>`_ - Web Application Security Scanner.
 - `Nikto2 <https://cirt.net/nikto2>`_ - Web application vulnerability scanner.
 - `NoSQLMap <http://www.nosqlmap.net>`_ - Automated Mongo database and NoSQL web application exploitation tool.

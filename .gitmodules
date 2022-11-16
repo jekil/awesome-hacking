@@ -2395,3 +2395,18 @@
 [submodule "Security/Identity/Get-bADpasswords"]
 	path = Security/Identity/Get-bADpasswords
 	url = https://github.com/improsec/Get-bADpasswords.git
+[submodule "Forensics/Misc/kube-forensics"]
+	path = Forensics/Misc/kube-forensics
+	url = https://github.com/keikoproj/kube-forensics.git
+[submodule "Malware/Source Code/TripleCross"]
+	path = Malware/Source Code/TripleCross
+	url = https://github.com/h3xduck/TripleCross.git
+[submodule "Forensics/Incident Response/LogonTracer"]
+	path = Forensics/Incident Response/LogonTracer
+	url = https://github.com/JPCERTCC/LogonTracer.git
+[submodule "Penetration Testing/Web/mitmproxy2swagger"]
+	path = Penetration Testing/Web/mitmproxy2swagger
+	url = https://github.com/alufers/mitmproxy2swagger.git
+[submodule "Penetration Testing/Post Exploitation/static-binaries"]
+	path = Penetration Testing/Post Exploitation/static-binaries
+	url = https://github.com/andrew-d/static-binaries.git
