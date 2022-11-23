@@ -2410,3 +2410,6 @@
 [submodule "Penetration Testing/Post Exploitation/static-binaries"]
 	path = Penetration Testing/Post Exploitation/static-binaries
 	url = https://github.com/andrew-d/static-binaries.git
+[submodule "Penetration Testing/Password Cracking/SharpDomainSpray"]
+	path = Penetration Testing/Password Cracking/SharpDomainSpray
+	url = https://github.com/HunnicCyber/SharpDomainSpray.git
