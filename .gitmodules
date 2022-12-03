@@ -2416,3 +2416,9 @@
 [submodule "Forensics/Incident Response/event2timeline"]
 	path = Forensics/Incident Response/event2timeline
 	url = https://github.com/certsocietegenerale/event2timeline.git
+[submodule "Penetration Testing/Mobile/apk-mitm"]
+	path = Penetration Testing/Mobile/apk-mitm
+	url = https://github.com/shroudedcode/apk-mitm.git
+[submodule "Penetration Testing/Mobile/Uncertify"]
+	path = Penetration Testing/Mobile/Uncertify
+	url = https://github.com/felHR85/Uncertify.git
