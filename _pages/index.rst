@@ -808,9 +808,13 @@ The main goal is to have more time to Pwn and less time to Doc by mutualizing da
 Services
 --------
 
+- `CipherScan <https://github.com/mozilla/cipherscan>`_ - A very simple way to find out which SSL ciphersuites are supported by a target.
+- `CryptoLyzer <https://gitlab.com/coroner/cryptolyzer>`_ - Fast and flexible server cryptographic (TLS/SSL/SSH/HTTP) settings analyzer library for Python with CLI.
 - `SSLyze <https://github.com/nabla-c0d3/sslyze>`_ - SSL configuration scanner.
 - `Sslstrip <https://moxie.org/software/sslstrip/>`_ - A demonstration of the HTTPS stripping attacks.
 - `Sslstrip2 <https://github.com/LeonardoNve/sslstrip2>`_ - SSLStrip version to defeat HSTS.
+- `testssl.sh <https://testssl.sh>`_ - Testing TLS/SSL encryption.
+- `tls-scan <https://github.com/prbinu/tls-scan>`_ - An Internet scale, blazing fast SSL/TLS scanner ( non-blocking, event-driven ).
 - `Tls_prober <https://github.com/WestpointLtd/tls_prober.git>`_ - Fingerprint a server's SSL/TLS implementation.
 
 Training
