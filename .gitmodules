@@ -2422,3 +2422,6 @@
 [submodule "Penetration Testing/Mobile/Uncertify"]
 	path = Penetration Testing/Mobile/Uncertify
 	url = https://github.com/felHR85/Uncertify.git
+[submodule "Reverse Engineering/LIEF"]
+	path = Reverse Engineering/LIEF
+	url = https://github.com/lief-project/LIEF.git

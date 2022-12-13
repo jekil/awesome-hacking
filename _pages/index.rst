@@ -993,6 +993,7 @@ Reverse Engineering
 - `Jadx <https://github.com/skylot/jadx>`_ - Decompile Android files.
 - `Keystone Engine <http://www.keystone-engine.org>`_ - A lightweight multi-platform, multi-architecture assembler framework.
 - `Krakatau <https://github.com/Storyyeller/Krakatau>`_ - Java decompiler, assembler, and disassembler.
+- `LIEF <https://github.com/lief-project/LIEF>`_ - The purpose of this project is to provide a cross platform library which can parse, modify and abstract ELF, PE and MachO formats.
 - `Levitate <https://github.com/levitateplatform/levitate>`_ - Reverse Engineering and Static Malware Analysis Platform.
 - `MARA Framework <https://github.com/xtiankisutsa/MARA_Framework>`_ - A Mobile Application Reverse engineering and Analysis Framework.
 - `Manticore <https://github.com/trailofbits/manticore>`_ - Prototyping tool for dynamic binary analysis, with support for symbolic execution, taint analysis, and binary instrumentation.
