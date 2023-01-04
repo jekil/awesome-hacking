@@ -2425,3 +2425,18 @@
 [submodule "Reverse Engineering/LIEF"]
 	path = Reverse Engineering/LIEF
 	url = https://github.com/lief-project/LIEF.git
+[submodule "Penetration Testing/Mobile/uber-apk-signer"]
+	path = Penetration Testing/Mobile/uber-apk-signer
+	url = https://github.com/patrickfav/uber-apk-signer.git
+[submodule "Penetration Testing/Mobile/root_avd"]
+	path = Penetration Testing/Mobile/root_avd
+	url = https://github.com/0xFireball/root_avd.git
+[submodule "Reverse Engineering/linux_injector"]
+	path = Reverse Engineering/linux_injector
+	url = https://github.com/namazso/linux_injector.git
+[submodule "Penetration Testing/Mobile/safetynet-fix"]
+	path = Penetration Testing/Mobile/safetynet-fix
+	url = https://github.com/kdrag0n/safetynet-fix.git
+[submodule "Reverse Engineering/xyntia"]
+	path = Reverse Engineering/xyntia
+	url = https://github.com/binsec/xyntia.git

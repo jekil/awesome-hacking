@@ -696,6 +696,9 @@ Mobile
 - `Mobile Security Framework <http://opensecurity.in>`_ - An intelligent, all-in-one open source mobile application (Android/iOS/Windows) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
 - `Objection <https://github.com/sensepost/objection>`_ - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
 - `QARK <https://github.com/linkedin/qark/>`_ - QARK by LinkedIn is for app developers to scan app for security issues.
+- `RootAVD <https://github.com/0xFireball/root_avd>`_ - Rooting the Android Studio AVDs.
+- `SafetyNet Fix <https://github.com/kdrag0n/safetynet-fix>`_ - Google SafetyNet attestation workarounds for Magisk.
+- `Uber Apk Signer <https://github.com/patrickfav/uber-apk-signer>`_ - A tool that helps signing, zip aligning and verifying multiple Android application packages (APKs) with either debug or provided release certificates (or multiple). It supports v1, v2 and v3 Android signing scheme. Easy and convenient debug signing with embedded debug keystore. Automatically verifies signature and zipalign after every signing.
 - `Uncertify <https://github.com/felHR85/Uncertify>`_ - A tool written in Python that allows to bypass, in an automated way, the most common mechanisms used in Android apps to implement certificate pinning. In addition to that Uncertify can also bypass other OkHttp configuration settings.
 
 Password Cracking
@@ -995,6 +998,7 @@ Reverse Engineering
 - `Krakatau <https://github.com/Storyyeller/Krakatau>`_ - Java decompiler, assembler, and disassembler.
 - `LIEF <https://github.com/lief-project/LIEF>`_ - The purpose of this project is to provide a cross platform library which can parse, modify and abstract ELF, PE and MachO formats.
 - `Levitate <https://github.com/levitateplatform/levitate>`_ - Reverse Engineering and Static Malware Analysis Platform.
+- `Linux_injector <https://github.com/namazso/linux_injector>`_ - A simple ptrace-less shared library injector for x64 Linux
 - `MARA Framework <https://github.com/xtiankisutsa/MARA_Framework>`_ - A Mobile Application Reverse engineering and Analysis Framework.
 - `Manticore <https://github.com/trailofbits/manticore>`_ - Prototyping tool for dynamic binary analysis, with support for symbolic execution, taint analysis, and binary instrumentation.
 - `Medusa <https://github.com/wisk/medusa>`_ - A disassembler designed to be both modular and interactive.
@@ -1043,6 +1047,7 @@ Reverse Engineering
 - `WinIPT <https://github.com/ionescu007/winipt>`_ - The Windows Library for Intel Process Trace (WinIPT) is a project that leverages the new Intel Processor Trace functionality exposed by Windows 10 Redstone 5 (1809), through a set of libraries and a command-line tool.
 - `X64_dbg <http://x64dbg.com>`_ - An open-source x64/x32 debugger for windows.
 - `Xxxswf <https://bitbucket.org/Alexander_Hanel/xxxswf>`_ - A Python script for analyzing Flash files.
+- `Xyntia <https://github.com/binsec/xyntia>`_ - A standalone tool which takes I/O example as input and synthesize a corresponding expression. Still, in practice, you do not want to give these I/O examples by hand. Thus we give scripts to automatically sample them from a given binary.
 - `YaCo <https://github.com/DGA-MI-SSI/YaCo>`_ - An Hex-Rays IDA plugin. When enabled, multiple users can work simultaneously on the same binary. Any modification done by any user is synchronized through git version control.
 - `r2-dirtycow <https://github.com/nowsecure/dirtycow>`_ - Radare2 IO plugin for Linux and Android. Modifies files owned by other users via dirtycow Copy-On-Write cache vulnerability.
 - `uEmu <https://github.com/alexhude/uEmu>`_ - Tiny cute emulator plugin for IDA based on unicorn.
