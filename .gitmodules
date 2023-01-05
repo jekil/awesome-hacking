@@ -2440,3 +2440,12 @@
 [submodule "Reverse Engineering/xyntia"]
 	path = Reverse Engineering/xyntia
 	url = https://github.com/binsec/xyntia.git
+[submodule "Forensics/File Forensics/mac_apt"]
+	path = Forensics/File Forensics/mac_apt
+	url = https://github.com/ydkhatri/mac_apt.git
+[submodule "Forensics/Incident Response/chainsaw"]
+	path = Forensics/Incident Response/chainsaw
+	url = https://github.com/WithSecureLabs/chainsaw.git
+[submodule "Cryptography/stego-toolkit"]
+	path = Cryptography/stego-toolkit
+	url = https://github.com/DominicBreuker/stego-toolkit.git

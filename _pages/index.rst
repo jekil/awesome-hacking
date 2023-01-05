@@ -57,6 +57,7 @@ Cryptography
 
 - `FeatherDuster <https://github.com/nccgroup/featherduster>`_ - An automated, modular cryptanalysis tool.
 - `RSATool <https://github.com/ius/rsatool>`_ - Generate private key with knowledge of p and q.
+- `Stego-toolkit <https://github.com/DominicBreuker/stego-toolkit>`_ - This project is a Docker image useful for solving Steganography challenges as those you can find at CTF platforms like hackthebox.eu. The image comes pre-installed with many popular tools (see list below) and several screening scripts you can use check simple things (for instance, run check_jpg.sh image.jpg to get a report for a JPG file).
 - `Xortool <https://github.com/hellman/xortool>`_ - A tool to analyze multi-byte xor cipher.
 
 Docker
@@ -90,6 +91,7 @@ File Forensics
 - `DFF <http://www.digital-forensic.org>`_ - A Forensics Framework coming with command line and graphical interfaces. DFF can be used to investigate hard drives and volatile memory and create reports about user and system activities.
 - `Docker Explorer <https://github.com/google/docker-explorer>`_ - A tool to help forensicate offline docker acquisitions.
 - `Hadoop_framework <https://github.com/sleuthkit/hadoop_framework>`_ - A prototype system that uses Hadoop to process hard drive images.
+- `Mac_apt <https://github.com/ydkhatri/mac_apt>`_ - A DFIR (Digital Forensics and Incident Response) tool to process Mac computer full disk images (or live machines) and extract data/metadata useful for forensic investigation. It is a python based framework, which has plugins to process individual artifacts (such as Safari internet history, Network interfaces, Recently accessed files & volumes, ..)
 - `OSXCollector <http://yelp.github.io/osxcollector/>`_ - A forensic evidence collection & analysis toolkit for OS X.
 - `RegRipper3.0 <https://github.com/keydet89/RegRipper3.0>`_ - Alternative to RegRipper
 - `RegRippy <https://github.com/airbus-cert/regrippy>`_ - A framework for reading and extracting useful forensics data from Windows registry hives. It is an alternative to RegRipper developed in modern Python 3.
@@ -109,6 +111,7 @@ Image Forensics
 Incident Response
 -----------------
 
+- `Chainsaw <https://github.com/WithSecureLabs/chainsaw>`_ - Provides a powerful ‘first-response’ capability to quickly identify threats within Windows forensic artefacts such as Event Logs and MFTs. Chainsaw offers a generic and fast method of searching through event logs for keywords, and by identifying threats using built-in support for Sigma detection rules, and via custom Chainsaw detection rules.
 - `Event2Timeline <https://github.com/certsocietegenerale/event2timeline>`_ - A free tool based on D3js to graph Microsoft Windows sessions events. It parses both EVTX event logs from post Vista systems (Vista, Windows 7, Windows 8), and CSV exports of the legacy EVT log files.
 - `Hunter <https://github.com/ThreatHuntingProject/hunter>`_ - A threat hunting / data analysis environment based on Python, Pandas, PySpark and Jupyter Notebook.
 - `LogonTracer <https://github.com/JPCERTCC/LogonTracer>`_ - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
