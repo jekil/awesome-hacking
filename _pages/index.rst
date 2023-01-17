@@ -643,6 +643,7 @@ Info Gathering
 - `EgressCheck Framework <https://github.com/stufus/egresscheck-framework>`_ - Used to check for TCP and UDP egress filtering on both windows and unix client systems.
 - `Egressbuster <https://github.com/trustedsec/egressbuster>`_ - A method to check egress filtering and identify if ports are allowed. If they are, you can automatically spawn a shell.
 - `EyeWitness <https://github.com/FortyNorthSecurity/EyeWitness>`_ - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
+- `Ffuf <https://github.com/ffuf/ffuf>`_ - Fuzz Faster U Fool - Fast web fuzzer written in Go.
 - `HostHunter <https://github.com/SpiderLabs/HostHunter>`_ - A tool to efficiently discover and extract hostnames providing a large set of target IP addresses. HostHunter utilises simple OSINT techniques to map IP addresses with virtual hostnames. It generates a CSV or TXT file containing the results of the reconnaissance.
 - `IVRE <https://ivre.rocks>`_ - An open-source framework for network recon. It relies on open-source well-known tools to gather data (network intelligence), stores it in a database, and provides tools to analyze it.
 - `Knock <https://github.com/guelfoweb/knock>`_ - A python tool designed to enumerate subdomains on a target domain through a wordlist.
@@ -972,6 +973,7 @@ Reverse Engineering
 - `Gdb-dashboard <https://github.com/cyrus-and/gdb-dashboard>`_ - Modular visual interface for GDB in Python.
 - `Gdbstub <https://github.com/mborgerson/gdbstub>`_ - A simple, dependency-free GDB stub that can be easily dropped in to your project.
 - `Ghidra <https://github.com/NationalSecurityAgency/ghidra>`_ - A software reverse engineering (SRE) framework.
+- `GhidraChatGPT <https://github.com/likvidera/GhidraChatGPT>`_ - A plugin that brings the power of ChatGPT to Ghidra!
 - `Ghidra_kernelcache <https://github.com/0x36/ghidra_kernelcache>`_ - A Ghidra framework for iOS kernelcache reverse engineering.
 - `Ghidra_scripts <https://github.com/ghidraninja/ghidra_scripts>`_ - Scripts for the Ghidra software reverse engineering suite.
 - `Golang_loader_assist <https://github.com/strazzere/golang_loader_assist>`_ - Making GO reversing easier in IDA Pro.

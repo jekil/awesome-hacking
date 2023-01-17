@@ -2449,3 +2449,9 @@
 [submodule "Cryptography/stego-toolkit"]
 	path = Cryptography/stego-toolkit
 	url = https://github.com/DominicBreuker/stego-toolkit.git
+[submodule "Reverse Engineering/GhidraChatGPT"]
+	path = Reverse Engineering/GhidraChatGPT
+	url = https://github.com/likvidera/GhidraChatGPT.git
+[submodule "Penetration Testing/Info Gathering/ffuf"]
+	path = Penetration Testing/Info Gathering/ffuf
+	url = https://github.com/ffuf/ffuf.git
