@@ -2455,3 +2455,9 @@
 [submodule "Penetration Testing/Info Gathering/ffuf"]
 	path = Penetration Testing/Info Gathering/ffuf
 	url = https://github.com/ffuf/ffuf.git
+[submodule "Malware/Source Code/SubSeven"]
+	path = Malware/Source Code/SubSeven
+	url = https://github.com/DarkCoderSc/SubSeven.git
+[submodule "Penetration Testing/Info Gathering/Amass"]
+	path = Penetration Testing/Info Gathering/Amass
+	url = https://github.com/OWASP/Amass.git

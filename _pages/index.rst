@@ -375,6 +375,7 @@ Source Code
 - `LOLBAS <https://github.com/LOLBAS-Project/LOLBAS>`_ - Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts).
 - `Mirai <https://github.com/jgamblin/Mirai-Source-Code>`_ - Leaked Mirai Source Code for Research/IoC Development Purposes.
 - `Morris Worm <https://github.com/arialdomartini/morris-worm>`_ - The original Morris Worm source code.
+- `SubSeven <https://github.com/DarkCoderSc/SubSeven>`_ - SubSeven Legacy Official Source Code Repository.
 - `SvcHostDemo <https://github.com/apriorit/SvcHostDemo>`_ - Demo service that runs in svchost.exe.
 - `TinyNuke <https://github.com/rossja/TinyNuke>`_ - Zeus-style banking trojan.
 - `TripleCross <https://github.com/h3xduck/TripleCross>`_ - A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
@@ -629,6 +630,7 @@ Info Gathering
 --------------
 
 - `ATSCAN <https://github.com/AlisamTechnology/ATSCAN>`_ - Advanced dork Search & Mass Exploit Scanner.
+- `Amass <https://github.com/OWASP/Amass>`_ - The OWASP Amass Project performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
 - `Bluto <https://github.com/darryllane/Bluto>`_ - DNS Recon | Brute Forcer | DNS Zone Transfer | DNS Wild Card Checks | DNS Wild Card Brute Forcer | Email Enumeration | Staff Enumeration | Compromised Account Checking
 - `Bundler-audit <https://github.com/rubysec/bundler-audit>`_ - Patch-level verification for Bundler.
 - `CloudFail <https://github.com/m0rtem/CloudFail>`_ - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network.
