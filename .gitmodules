@@ -2461,3 +2461,12 @@
 [submodule "Penetration Testing/Info Gathering/Amass"]
 	path = Penetration Testing/Info Gathering/Amass
 	url = https://github.com/OWASP/Amass.git
+[submodule "Penetration Testing/Reporting/APTRS"]
+	path = Penetration Testing/Reporting/APTRS
+	url = https://github.com/Anof-cyber/APTRS.git
+[submodule "Penetration Testing/Info Gathering/checksec.rs"]
+	path = Penetration Testing/Info Gathering/checksec.rs
+	url = https://github.com/etke/checksec.rs.git
+[submodule "Penetration Testing/Port Scanning/RustScan"]
+	path = Penetration Testing/Port Scanning/RustScan
+	url = https://github.com/RustScan/RustScan.git

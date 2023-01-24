@@ -633,6 +633,7 @@ Info Gathering
 - `Amass <https://github.com/OWASP/Amass>`_ - The OWASP Amass Project performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
 - `Bluto <https://github.com/darryllane/Bluto>`_ - DNS Recon | Brute Forcer | DNS Zone Transfer | DNS Wild Card Checks | DNS Wild Card Brute Forcer | Email Enumeration | Staff Enumeration | Compromised Account Checking
 - `Bundler-audit <https://github.com/rubysec/bundler-audit>`_ - Patch-level verification for Bundler.
+- `Checksec.rs <https://github.com/etke/checksec.rs>`_ - Fast multi-platform (ELF/PE/MachO) binary checksec written in Rust.
 - `CloudFail <https://github.com/m0rtem/CloudFail>`_ - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network.
 - `CloudFlair <https://github.com/christophetd/CloudFlair>`_ - Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.
 - `Cloudflare_enum <https://github.com/mandatoryprogrammer/cloudflare_enum>`_ - Cloudflare DNS Enumeration Tool for Pentesters.
@@ -733,6 +734,7 @@ Port Scanning
 - `Flan <https://github.com/cloudflare/flan>`_ - A pretty sweet vulnerability scanner.
 - `Masscan <https://github.com/robertdavidgraham/masscan>`_ - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - `Nmap <https://nmap.org>`_ - Free Security Scanner For Network Exploration & Security Audits.
+- `RustScan <https://github.com/RustScan/RustScan>`_ - The Modern Port Scanner. Find ports quickly (3 seconds at its fastest). Run scripts through our scripting engine (Python, Lua, Shell supported).
 - `Watchdog <https://github.com/flipkart-incubator/watchdog>`_ - A Comprehensive Security Scanning and a Vulnerability Management Tool.
 - `ZGrab <https://github.com/zmap/zgrab2>`_ - Go Application Layer Scanner.
 - `Zmap <https://zmap.io>`_ - An open-source network scanner that enables researchers to easily perform Internet-wide network studies. 
@@ -805,6 +807,7 @@ Post Exploitation
 Reporting
 ---------
 
+- `APTRS <https://github.com/Anof-cyber/APTRS>`_ - Automated Penetration Testing Reporting System is an automated reporting tool in Python and Django. The tool allows Penetration testers to create a report directly without using the Traditional Docx file. It also provides an approach to keeping track of the projects and vulnerabilities.
 - `Cartography <https://github.com/lyft/cartography>`_ - A Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 - `DefectDojo <https://github.com/DefectDojo/django-DefectDojo>`_ - An open-source application vulnerability correlation and security orchestration tool.
 - `Dradis <https://dradisframework.com/ce/>`_ - Colllaboration and reporting for IT Security teams.
