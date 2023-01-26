@@ -2470,3 +2470,9 @@
 [submodule "Penetration Testing/Port Scanning/RustScan"]
 	path = Penetration Testing/Port Scanning/RustScan
 	url = https://github.com/RustScan/RustScan.git
+[submodule "Reverse Engineering/synchrony"]
+	path = Reverse Engineering/synchrony
+	url = https://github.com/relative/synchrony.git
+[submodule "Reverse Engineering/illuminatejs"]
+	path = Reverse Engineering/illuminatejs
+	url = https://github.com/geeksonsecurity/illuminatejs.git

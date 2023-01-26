@@ -999,6 +999,7 @@ Reverse Engineering
 - `IDAwasm <https://github.com/fireeye/idawasm>`_ - IDA Pro loader and processor modules for WebAssembly.
 - `IRPMon <https://github.com/MartinDrab/IRPMon>`_ - The goal of the tool is to monitor requests received by selected device objects or kernel drivers. The tool is quite similar to IrpTracker but has several enhancements. It supports 64-bit versions of Windows (no inline hooks are used, only modifications to driver object structures are performed) and monitors IRP, FastIo, AddDevice, DriverUnload and StartIo requests.
 - `Idaemu <https://github.com/36hours/idaemu>`_ - Is an IDA Pro Plugin, use for emulating code in IDA Pro.
+- `IlluminateJs <https://github.com/geeksonsecurity/illuminatejs>`_ - A static javascript deobfuscator aimed to help analyst understand obfuscated and potentially malicious JavaScript Code. Consider it like JSDetox (the static part), but on steroids.
 - `Ilo4_toolbox <https://github.com/airbus-seclab/ilo4_toolbox>`_ - Toolbox for HPE iLO4 & iLO5 analysis.
 - `Immunity Debugger <http://debugger.immunityinc.com/>`_ - A powerful new way to write exploits and analyze malware.
 - `JAD <http://varaneckas.com/jad/>`_ - JAD Java Decompiler.
@@ -1042,6 +1043,7 @@ Reverse Engineering
 - `Sojobo <https://github.com/enkomio/Sojobo>`_ - An emulator for the B2R2 framework. It was created to easier the analysis of potentially malicious files. It is totally developed in .NET so you don't need to install or compile any other external libraries.
 - `Swiffas <https://github.com/ahixon/swiffas>`_ - SWF parser and AVM2 (Actionscript 3) bytecode parser.
 - `Swift-frida <https://github.com/maltek/swift-frida>`_ - Frida library for interacting with Swift programs.
+- `Synchrony <https://github.com/relative/synchrony>`_ - Javascript-obfuscator cleaner & deobfuscator.
 - `Toolbag <https://github.com/aaronportnoy/toolbag>`_ - The IDA Toolbag is a plugin providing supplemental functionality to Hex-Rays IDA Pro disassembler.
 - `Triton <https://github.com/JonathanSalwan/Triton>`_ - Triton is a Dynamic Binary Analysis (DBA) framework. It provides internal components like a Dynamic Symbolic Execution (DSE) engine, a dynamic taint engine, AST representations of the x86, x86-64, ARM32 and AArch64 Instructions Set Architecture (ISA), SMT simplification passes, an SMT solver interface and, the last but not least, Python bindings.
 - `UPX <https://upx.github.io>`_ - The Ultimate Packer for eXecutables.
