@@ -2476,3 +2476,9 @@
 [submodule "Reverse Engineering/illuminatejs"]
 	path = Reverse Engineering/illuminatejs
 	url = https://github.com/geeksonsecurity/illuminatejs.git
+[submodule "Malware/Source Code/pegasus_spyware"]
+	path = Malware/Source Code/pegasus_spyware
+	url = https://github.com/jonathandata1/pegasus_spyware.git
+[submodule "Penetration Testing/Post Exploitation/ABPTTS"]
+	path = Penetration Testing/Post Exploitation/ABPTTS
+	url = https://github.com/nccgroup/ABPTTS.git

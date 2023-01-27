@@ -375,6 +375,7 @@ Source Code
 - `LOLBAS <https://github.com/LOLBAS-Project/LOLBAS>`_ - Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts).
 - `Mirai <https://github.com/jgamblin/Mirai-Source-Code>`_ - Leaked Mirai Source Code for Research/IoC Development Purposes.
 - `Morris Worm <https://github.com/arialdomartini/morris-worm>`_ - The original Morris Worm source code.
+- `Pegasus_spyware <https://github.com/jonathandata1/pegasus_spyware>`_ - Decompiled pegasus spyware.
 - `SubSeven <https://github.com/DarkCoderSc/SubSeven>`_ - SubSeven Legacy Official Source Code Repository.
 - `SvcHostDemo <https://github.com/apriorit/SvcHostDemo>`_ - Demo service that runs in svchost.exe.
 - `TinyNuke <https://github.com/rossja/TinyNuke>`_ - Zeus-style banking trojan.
@@ -743,6 +744,7 @@ Post Exploitation
 -----------------
 
 - `3snake <https://github.com/blendin/3snake>`_ - Tool for extracting information from newly spawned processes.
+- `ABPTTS <https://github.com/nccgroup/ABPTTS>`_ - A Black Path Toward The Sun uses a Python client script and a web application server page/package to tunnel TCP traffic over an HTTP/HTTPS connection to a web application server. In other words, anywhere that one could deploy a web shell, one should now be able to establish a full TCP tunnel. This permits making RDP, interactive SSH, Meterpreter, and other connections through the web application server.
 - `Apfell <https://github.com/its-a-feature/Apfell>`_ - A collaborative, multi-platform, red teaming framework.
 - `Backdoorme <https://github.com/Kkevsterrr/backdoorme>`_ - Powerful auto-backdooring utility.
 - `Boopkit <https://github.com/kris-nova/boopkit>`_ - Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin.
