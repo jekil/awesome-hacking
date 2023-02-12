@@ -1057,9 +1057,6 @@
 [submodule "Pentration Testing/Post Exploitation/CrackMapExec"]
 	path = Penetration Testing/Post Exploitation/CrackMapExec
 	url = https://github.com/byt3bl33d3r/CrackMapExec.git
-[submodule "Pentration Testing/Post Exploitation/PowerOPS"]
-	path = Penetration Testing/Post Exploitation/PowerOPS
-	url = https://github.com/fdiskyou/PowerOPS.git
 [submodule "Pentration Testing/Post Exploitation/enumdb"]
 	path = Penetration Testing/Post Exploitation/enumdb
 	url = https://github.com/m8r0wn/enumdb.git
