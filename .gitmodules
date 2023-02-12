@@ -634,9 +634,6 @@
 [submodule "Malware/Honeypot/spamscope"]
 	path = Malware/Honeypot/spamscope
 	url = https://github.com/SpamScope/spamscope.git
-[submodule "Malware/Static Analysis/Smali-CFGs"]
-	path = Malware/Static Analysis/Smali-CFGs
-	url = https://github.com/EugenioDelfa/Smali-CFGs.git
 [submodule "Malware/Static Analysis/CFGScanDroid"]
 	path = Malware/Static Analysis/CFGScanDroid
 	url = https://github.com/douggard/CFGScanDroid.git
