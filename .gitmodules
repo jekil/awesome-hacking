@@ -934,9 +934,6 @@
 [submodule "Malware/Honeypot/conpot"]
 	path = Malware/Honeypot/conpot
 	url = https://github.com/mushorg/conpot.git
-[submodule "Malware/Honeypot/cowrie"]
-	path = Malware/Honeypot/cowrie
-	url = https://github.com/micheloosterhof/cowrie.git
 [submodule "Malware/Honeypot/dionaea"]
 	path = Malware/Honeypot/dionaea
 	url = https://github.com/DinoTools/dionaea.git
@@ -2482,3 +2479,6 @@
 [submodule "Penetration Testing/Post Exploitation/ABPTTS"]
 	path = Penetration Testing/Post Exploitation/ABPTTS
 	url = https://github.com/nccgroup/ABPTTS.git
+[submodule "Malware/Honeypot/cowrie"]
+	path = Malware/Honeypot/cowrie
+	url = https://github.com/cowrie/cowrie
