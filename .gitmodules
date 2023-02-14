@@ -1705,9 +1705,6 @@
 [submodule "Reverse Engineering/granary"]
 	path = Reverse Engineering/granary
 	url = https://github.com/Granary/granary.git
-[submodule "Social Engineering/Phishing/lockphish"]
-	path = Social Engineering/Phishing/lockphish
-	url = https://github.com/thelinuxchoice/lockphish.git
 [submodule "Social Engineering/Phishing/whatsapp-phishing"]
 	path = Social Engineering/Phishing/whatsapp-phishing
 	url = https://github.com/Ignitetch/whatsapp-phishing.git
