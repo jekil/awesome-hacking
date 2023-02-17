@@ -1936,9 +1936,6 @@
 [submodule "Penetration Testing/Web/php-jpeg-injector"]
 	path = Penetration Testing/Web/php-jpeg-injector
 	url = https://github.com/dlegs/php-jpeg-injector.git
-[submodule "Malware/Static Analysis/capa"]
-	path = Malware/Static Analysis/capa
-	url = https://github.com/fireeye/capa.git
 [submodule "Penetration Testing/Web/tsunami-security-scanner"]
 	path = Penetration Testing/Web/tsunami-security-scanner
 	url = https://github.com/google/tsunami-security-scanner.git
