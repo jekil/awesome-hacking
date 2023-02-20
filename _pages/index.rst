@@ -88,7 +88,6 @@ File Forensics
 --------------
 
 - `Autopsy <http://www.sleuthkit.org/autopsy/>`_ - A digital forensics platform and graphical interface to The Sleuth Kit and other digital forensics tools.
-- `DFF <http://www.digital-forensic.org>`_ - A Forensics Framework coming with command line and graphical interfaces. DFF can be used to investigate hard drives and volatile memory and create reports about user and system activities.
 - `Docker Explorer <https://github.com/google/docker-explorer>`_ - A tool to help forensicate offline docker acquisitions.
 - `Hadoop_framework <https://github.com/sleuthkit/hadoop_framework>`_ - A prototype system that uses Hadoop to process hard drive images.
 - `Mac_apt <https://github.com/ydkhatri/mac_apt>`_ - A DFIR (Digital Forensics and Incident Response) tool to process Mac computer full disk images (or live machines) and extract data/metadata useful for forensic investigation. It is a python based framework, which has plugins to process individual artifacts (such as Safari internet history, Network interfaces, Recently accessed files & volumes, ..)
@@ -118,6 +117,7 @@ Incident Response
 - `Loki <https://github.com/Neo23x0/Loki>`_ - Simple IOC and Incident Response Scanner.
 - `Panorama <https://github.com/AlmCo/Panorama>`_ - It was made to generate a wide report about Windows systems, support and tested on Windows XP SP2 and up.
 - `Snoopdigg <https://github.com/botherder/snoopdigg>`_ - Simple utility to ease the process of collecting evidence to find infections.
+- `TAPIR <https://github.com/tap-ir/tapir>`_ - Trustable Artifacts Parser for Incident Response is a multi-user, client/server, incident response framework based on the TAP project.
 
 Live Analysis
 -------------
@@ -406,7 +406,6 @@ Static Analysis
 - `Pdfminer <https://euske.github.io/pdfminer/>`_ - A tool for extracting information from PDF documents.
 - `Peepdf <http://eternal-todo.com/tools/peepdf-pdf-analysis-tool>`_ - A Python tool to explore PDF files in order to find out if the file can be harmful or not. The aim of this tool is to provide all the necessary components that a security researcher could need in a PDF analysis without using 3 or 4 tools to make all the tasks.
 - `Quark-engine <https://github.com/quark-engine/quark-engine>`_ - A trust-worthy, practical tool that's ready to boost up your malware reverse engineering.
-- `Smali-CFGs <https://github.com/EugenioDelfa/Smali-CFGs>`_ - Smali Control Flow Graph's.
 - `SmaliSCA <https://github.com/dorneanu/smalisca>`_ - Smali Static Code Analysis.
 - `Sysinternals Suite <https://technet.microsoft.com/en-us/sysinternals/bb842062>`_ - The Sysinternals Troubleshooting Utilities.
 - `Tlsh <https://github.com/trendmicro/tlsh>`_ - Trend Micro Locality Sensitive Hash is a fuzzy matching library. Given a byte stream with a minimum length of 50 bytes TLSH generates a hash value which can be used for similarity comparisons. Similar objects will have similar hash values which allows for the detection of similar objects by comparing their hash values. Note that the byte stream should have a sufficient amount of complexity. For example, a byte stream of identical bytes will not generate a hash value.
@@ -570,7 +569,6 @@ Exploits
 - `EfsPotato <https://github.com/zcgonvh/EfsPotato>`_ - Exploit for EfsPotato(MS-EFSR EfsRpcOpenFileRaw with SeImpersonatePrivilege local privalege escalation vulnerability).
 - `Exchange_SSRF <https://github.com/Jumbo-WJB/Exchange_SSRF>`_ - Some Attacks of Exchange SSRF ProxyLogon&ProxyShell.
 - `HolicPOC <https://github.com/leeqwind/HolicPOC>`_ - CVE-2015-2546, CVE-2016-0165, CVE-2016-0167, CVE-2017-0101, CVE-2017-0263, CVE-2018-8120.
-- `InstallerFileTakeOver <https://github.com/klinix5/InstallerFileTakeOver>`_ - This variant was discovered during the analysis of CVE-2021-41379 patch. the bug was not fixed correctly, however, instead of dropping the bypass.
 - `Jira-Scan <https://github.com/random-robbie/Jira-Scan>`_ - Jira scanner for CVE-2017-9506.
 - `Kernel Exploits <https://github.com/bcoles/kernel-exploits>`_ - Various kernel exploits.
 - `MS17-010 <https://github.com/worawit/MS17-010>`_ - Exploits for MS17-010.
@@ -769,7 +767,6 @@ Post Exploitation
 - `HoneyBadger <https://github.com/trustedsec/HoneyBadger>`_ - A collection of Metasploit modules with a plugin to help automate Post-Exploitation actions on target systems using the Metasploit Framework.
 - `HoneypotBuster <https://github.com/JavelinNetworks/HoneypotBuster>`_ - Microsoft PowerShell module designed for red teams that can be used to find honeypots and honeytokens in the network or at the host.
 - `Iodine <http://code.kryo.se/iodine>`_ - Lets you tunnel IPv4 data through a DNS server.
-- `Koadic <https://github.com/zerosum0x0/koadic>`_ - Koadic C3 COM Command & Control - JScript RAT.
 - `Lsassy <https://github.com/Hackndo/lsassy>`_ - Extract credentials from lsass remotely.
 - `Mallory <https://github.com/justmao945/mallory>`_ - HTTP/HTTPS proxy over SSH.
 - `MicroBackdoor <https://github.com/Cr4sh/MicroBackdoor>`_ - C2 tool for Windows targets with easy customizable code base and small footprint. Micro Backdoor consists from server, client and dropper. It wasn't designed as replacement for your favorite post-exploitation tools but rather as really minimalistic thing with all of the basic features in less than 5000 lines of code.
@@ -784,7 +781,6 @@ Post Exploitation
 - `Pivoter <https://github.com/trustedsec/pivoter>`_ - A proxy tool for pentesters to have easier lateral movement. 
 - `Poet <https://github.com/mossberg/poet>`_ - Post-exploitation tool.
 - `PoshC2 <https://github.com/nettitude/PoshC2>`_ - A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement.
-- `PowerOPS <https://github.com/fdiskyou/PowerOPS>`_ - PowerShell Runspace Portable Post Exploitation Tool aimed at making Penetration Testing with PowerShell "easier".
 - `ProcessHider <https://github.com/M00nRise/ProcessHider>`_ - Post-exploitation tool for hiding processes from monitoring applications.
 - `Pupy <https://github.com/n1nj4sec/pupy>`_ - An opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python.
 - `Pwnat <https://samy.pl/pwnat/>`_ - Punches holes in firewalls and NATs allowing any numbers of clients behind NATs to directly connect to a server behind a different NAT.
@@ -796,7 +792,6 @@ Post Exploitation
 - `SafetyKatz <https://github.com/GhostPack/SafetyKatz>`_ - SafetyKatz is a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subTee's .NET PE Load.
 - `Sam-the-admin <https://github.com/WazeHell/sam-the-admin>`_ - Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user.
 - `Shad0w <https://github.com/bats3c/shad0w>`_ - A post exploitation framework designed to operate covertly on heavily monitored environments.
-- `SharpC2 <https://github.com/SharpC2/SharpC2>`_ - .NET Command & Control Framework
 - `SocksOverRDP <https://github.com/nccgroup/SocksOverRDP>`_ - Socks5/4/4a Proxy support for Remote Desktop Protocol / Terminal Services.
 - `SpYDyishai <https://github.com/Night46/spYDyishai>`_ - A Gmail credential harvester.
 - `SprayWMI <https://github.com/trustedsec/spraywmi>`_ - An easy way to get mass shells on systems that support WMI. Much more effective than PSEXEC as it does not leave remnants on a system.
@@ -1081,7 +1076,6 @@ Cloud Security
 - `Dorothy <https://github.com/elastic/dorothy>`_ - A tool to help security teams test their monitoring and detection capabilities for their Okta environment. Dorothy has several modules to simulate actions that an attacker might take while operating in an Okta environment and actions that security teams should be able to audit. The modules are mapped to the relevant MITRE ATT&CK® tactics, such as persistence, defense evasion, and discovery.
 - `Hammer <https://github.com/dowjones/hammer>`_ - Dow Jones Hammer : Protect the cloud with the power of the cloud(AWS).
 - `IAMFinder <https://github.com/prisma-cloud/IAMFinder>`_ - Enumerates and finds users and IAM roles in a target AWS account. With only the AWS account number of the targeted account, IAMFinder is able to identify users and roles in that environment. Upon successfully identifying an IAM role, IAMFinder can also check if this role can be assumed anonymously.
-- `Panther <https://runpanther.io>`_ - A Cloud-Native SIEM for the Modern Security Team
 - `Parliament <https://github.com/duo-labs/parliament>`_ - An AWS IAM linting library. It reviews policies looking for problems.
 - `Patrolaroid <https://github.com/rpetrich/patrolaroid>`_ - An instant camera for capturing cloud workload risks. It’s a prod-friendly scanner that makes finding security issues in AWS instances and buckets less annoying and disruptive for software engineers and cloud admins.
 - `PurplePanda <https://github.com/carlospolop/PurplePanda>`_ - This tool fetches resources from different cloud/saas applications focusing on permissions in order to identify privilege escalation paths and dangerous permissions in the cloud/saas configurations. Note that PurplePanda searches both privileges escalation paths within a platform and across platforms.
@@ -1171,11 +1165,9 @@ Phishing
 --------
 
 - `BlackPhish <https://github.com/iinc0gnit0/BlackPhish>`_ - Super lightweight with many features and blazing fast speeds.
-- `Blackeye <https://github.com/thelinuxchoice/blackeye>`_ - The most complete Phishing Tool, with 32 templates +1 customizable.
 - `CredSniper <https://github.com/ustayready/CredSniper>`_ - A phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.
 - `FiercePhish <https://github.com/Raikia/FiercePhish>`_ - A full-fledged phishing framework to manage all phishing engagements. It allows you to track separate phishing campaigns, schedule sending of emails, and much more.
 - `GoPhish <https://github.com/gophish/gophish>`_ - Gophish is an open-source phishing toolkit designed for businesses and penetration testers. It provides the ability to quickly and easily setup and execute phishing engagements and security awareness training.
-- `Lockphish <https://github.com/thelinuxchoice/lockphish>`_ - Lockphish it's the first tool for phishing attacks on the lock screen, designed to grab Windows credentials, Android PIN and iPhone Passcode using a https link.
 - `Modlishka <https://github.com/drk1wi/Modlishka>`_ - Reverse Proxy. Phishing NG.
 - `Muraena <https://github.com/muraenateam/muraena>`_ - An almost-transparent reverse proxy aimed at automating phishing and post-phishing activities.
 - `Phishing-frenzy <https://github.com/pentestgeek/phishing-frenzy>`_ - Ruby on Rails Phishing Framework.

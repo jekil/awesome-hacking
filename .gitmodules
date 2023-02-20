@@ -181,9 +181,6 @@
 [submodule "Pentration Testing/Exploiting/beef"]
 	path = Penetration Testing/Exploiting/beef
 	url = https://github.com/beefproject/beef.git
-[submodule "Forensics/File Forensics/dff"]
-	path = Forensics/File Forensics/dff
-	url = https://github.com/arxsys/dff.git
 [submodule "Code Auditing/Static Analysis/brakeman"]
 	path = Code Auditing/Static Analysis/brakeman
 	url = https://github.com/presidentbeef/brakeman.git
@@ -2455,3 +2452,9 @@
 [submodule "Malware/Honeypot/cowrie"]
 	path = Malware/Honeypot/cowrie
 	url = https://github.com/cowrie/cowrie
+[submodule "Malware/Static Analysis/capa"]
+	path = Malware/Static Analysis/capa
+	url = https://github.com/mandiant/capa
+[submodule "Forensics/Incident Response/tapir"]
+	path = Forensics/Incident Response/tapir
+	url = https://github.com/tap-ir/tapir.git
