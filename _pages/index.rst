@@ -105,6 +105,7 @@ File Forensics
 Image Forensics
 ---------------
 
+- `Bad Peggy <https://github.com/llaith-oss/BadPeggy>`_ - Scans JPEG images for damage and other blemishes, and shows the results and image instantly. It allows you to find such broken files quickly, inspect and then either delete or move them to a different location.
 - `Depix <https://github.com/beurtschipper/Depix>`_ - Recovers passwords from pixelized screenshots.
 
 Incident Response
@@ -116,6 +117,7 @@ Incident Response
 - `LogonTracer <https://github.com/JPCERTCC/LogonTracer>`_ - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
 - `Loki <https://github.com/Neo23x0/Loki>`_ - Simple IOC and Incident Response Scanner.
 - `Panorama <https://github.com/AlmCo/Panorama>`_ - It was made to generate a wide report about Windows systems, support and tested on Windows XP SP2 and up.
+- `Plaso <https://github.com/log2timeline/plaso>`_ - Plaso (Plaso Langar Að Safna Öllu), or super timeline all the things, is a Python-based engine used by several tools for automatic creation of timelines. Plaso default behavior is to create super timelines but it also supports creating more targeted timelines.
 - `Snoopdigg <https://github.com/botherder/snoopdigg>`_ - Simple utility to ease the process of collecting evidence to find infections.
 - `TAPIR <https://github.com/tap-ir/tapir>`_ - Trustable Artifacts Parser for Incident Response is a multi-user, client/server, incident response framework based on the TAP project.
 

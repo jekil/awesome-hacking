@@ -2458,3 +2458,9 @@
 [submodule "Forensics/Incident Response/tapir"]
 	path = Forensics/Incident Response/tapir
 	url = https://github.com/tap-ir/tapir.git
+[submodule "Forensics/Incident Response/plaso"]
+	path = Forensics/Incident Response/plaso
+	url = https://github.com/log2timeline/plaso.git
+[submodule "Forensics/Image Forensics/BadPeggy"]
+	path = Forensics/Image Forensics/BadPeggy
+	url = https://github.com/llaith-oss/BadPeggy.git
