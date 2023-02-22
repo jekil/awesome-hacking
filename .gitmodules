@@ -2467,3 +2467,15 @@
 [submodule "Penetration Testing/Training/skf-flask"]
 	path = Penetration Testing/Training/skf-flask
 	url = https://github.com/blabla1337/skf-flask.git
+[submodule "Code Auditing/Static Analysis/StaCoAn"]
+	path = Code Auditing/Static Analysis/StaCoAn
+	url = https://github.com/vincentcox/StaCoAn.git
+[submodule "Penetration Testing/Mobile/apk.sh"]
+	path = Penetration Testing/Mobile/apk.sh
+	url = https://github.com/ax/apk.sh.git
+[submodule "Penetration Testing/Mobile/super"]
+	path = Penetration Testing/Mobile/super
+	url = https://github.com/SUPERAndroidAnalyzer/super.git
+[submodule "Intelligence/Masto"]
+	path = Intelligence/Masto
+	url = https://github.com/C3n7ral051nt4g3ncy/Masto.git

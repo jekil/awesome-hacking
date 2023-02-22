@@ -51,6 +51,7 @@ Static Analysis
 - `Gosec <https://github.com/securego/gosec>`_ - Inspects source code for security problems by scanning the Go AST.
 - `STACK <https://github.com/xiw/stack>`_ - A static checker for identifying unstable code.
 - `ShellCheck <https://github.com/koalaman/shellcheck>`_ - A static analysis tool for shell scripts.
+- `StaCoAn <https://github.com/vincentcox/StaCoAn>`_ - A crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications.
 
 Cryptography
 ============
@@ -180,6 +181,7 @@ Intelligence
 - `Dnstwist <https://github.com/elceef/dnstwist>`_ - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation.
 - `IntelOwl <https://github.com/certego/IntelOwl>`_ - Analyze files, domains, IPs in multiple ways from a single API at scale. 
 - `MISP-maltego <https://github.com/MISP/MISP-maltego>`_ - Set of Maltego transforms to inferface with a MISP Threat Sharing instance, and also to explore the whole MITRE ATT&CK dataset.
+- `Masto <https://github.com/C3n7ral051nt4g3ncy/Masto>`_ - An OSINT tool written in python to gather intelligence on Mastodon users and instances.
 - `Shodan-seeker <https://github.com/laincode/shodan-seeker>`_ - Command-line tool using Shodan API. Generates and downloads CSV results, diffing of historic scanning results, alerts and monitoring of specific ports/IPs, etc.
 - `VIA4CVE <https://github.com/cve-search/VIA4CVE>`_ - An aggregator of the known vendor vulnerabilities database to support the expansion of information with CVEs.
 - `Yeti <https://github.com/yeti-platform/yeti>`_ - Your Everyday Threat Intelligence.
@@ -695,6 +697,7 @@ Mobile
 - `Android-vts <https://github.com/AndroidVTS/android-vts>`_ - Android Vulnerability Test Suite - In the spirit of open data collection, and with the help of the community, let's take a pulse on the state of Android security.
 - `Androl4b <https://github.com/sh4hin/Androl4b>`_ - A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis.
 - `Apk-mitm <https://github.com/shroudedcode/apk-mitm>`_ - A CLI application that automatically prepares Android APK files for HTTPS inspection. Inspecting a mobile app's HTTPS traffic using a proxy is probably the easiest way to figure out how it works. However, with the Network Security Configuration introduced in Android 7 and app developers trying to prevent MITM attacks using certificate pinning, getting an app to work with an HTTPS proxy has become quite tedious.
+- `Apk.sh <https://github.com/ax/apk.sh>`_ - A Bash script that makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - `CobraDroid <https://thecobraden.com/projects/cobradroid/>`_ - A custom build of the Android operating system geared specifically for application security analysts and for individuals dealing with mobile malware.
 - `Drozer <http://mwr.to/drozer>`_ - The Leading Security Assessment Framework for Android.
 - `Idb <http://www.idbtool.com>`_ - A tool to simplify some common tasks for iOS pentesting and research.
@@ -705,6 +708,7 @@ Mobile
 - `Objection <https://github.com/sensepost/objection>`_ - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
 - `QARK <https://github.com/linkedin/qark/>`_ - QARK by LinkedIn is for app developers to scan app for security issues.
 - `RootAVD <https://github.com/0xFireball/root_avd>`_ - Rooting the Android Studio AVDs.
+- `SUPER Android Analyzer <https://github.com/SUPERAndroidAnalyzer/super>`_ - A command-line application that can be used in Windows, MacOS X and Linux, that analyzes .apk files in search for vulnerabilities. It does this by decompressing APKs and applying a series of rules to detect those vulnerabilities.
 - `SafetyNet Fix <https://github.com/kdrag0n/safetynet-fix>`_ - Google SafetyNet attestation workarounds for Magisk.
 - `Uber Apk Signer <https://github.com/patrickfav/uber-apk-signer>`_ - A tool that helps signing, zip aligning and verifying multiple Android application packages (APKs) with either debug or provided release certificates (or multiple). It supports v1, v2 and v3 Android signing scheme. Easy and convenient debug signing with embedded debug keystore. Automatically verifies signature and zipalign after every signing.
 - `Uncertify <https://github.com/felHR85/Uncertify>`_ - A tool written in Python that allows to bypass, in an automated way, the most common mechanisms used in Android apps to implement certificate pinning. In addition to that Uncertify can also bypass other OkHttp configuration settings.
