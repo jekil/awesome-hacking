@@ -2479,3 +2479,6 @@
 [submodule "Intelligence/Masto"]
 	path = Intelligence/Masto
 	url = https://github.com/C3n7ral051nt4g3ncy/Masto.git
+[submodule "Malware/Source Code/RDP_Backdoor"]
+	path = Malware/Source Code/RDP_Backdoor
+	url = https://github.com/mr-r3b00t/RDP_Backdoor.git

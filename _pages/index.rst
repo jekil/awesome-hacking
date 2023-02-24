@@ -380,6 +380,7 @@ Source Code
 - `Mirai <https://github.com/jgamblin/Mirai-Source-Code>`_ - Leaked Mirai Source Code for Research/IoC Development Purposes.
 - `Morris Worm <https://github.com/arialdomartini/morris-worm>`_ - The original Morris Worm source code.
 - `Pegasus_spyware <https://github.com/jonathandata1/pegasus_spyware>`_ - Decompiled pegasus spyware.
+- `RDP_Backdoor <https://github.com/mr-r3b00t/RDP_Backdoor>`_ - Configured RDP backdoors via UTILMAN and SETHC (sticykeys), disables NLA and enabled RDP and firewall fules.
 - `SubSeven <https://github.com/DarkCoderSc/SubSeven>`_ - SubSeven Legacy Official Source Code Repository.
 - `SvcHostDemo <https://github.com/apriorit/SvcHostDemo>`_ - Demo service that runs in svchost.exe.
 - `TinyNuke <https://github.com/rossja/TinyNuke>`_ - Zeus-style banking trojan.
