@@ -2482,3 +2482,9 @@
 [submodule "Malware/Source Code/RDP_Backdoor"]
 	path = Malware/Source Code/RDP_Backdoor
 	url = https://github.com/mr-r3b00t/RDP_Backdoor.git
+[submodule "Code Auditing/Static Analysis/mariana-trench"]
+	path = Code Auditing/Static Analysis/mariana-trench
+	url = https://github.com/facebook/mariana-trench.git
+[submodule "Penetration Testing/Exploits/CVE-2022-21894"]
+	path = Penetration Testing/Exploits/CVE-2022-21894
+	url = https://github.com/Wack0/CVE-2022-21894.git

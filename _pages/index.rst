@@ -49,6 +49,7 @@ Static Analysis
 - `Gitleaks <https://github.com/zricethezav/gitleaks>`_ - A SAST tool for detecting and preventing hardcoded secrets like passwords, api keys, and tokens in git repos. Gitleaks is an easy-to-use, all-in-one solution for detecting secrets, past or present, in your code.
 - `GoKart <https://github.com/praetorian-inc/gokart>`_ - A static analysis tool for Go that finds vulnerabilities using the SSA (single static assignment) form of Go source code.
 - `Gosec <https://github.com/securego/gosec>`_ - Inspects source code for security problems by scanning the Go AST.
+- `Mariana Trench <https://github.com/facebook/mariana-trench>`_ - Facebook's security focused static analysis tool for Android and Java applications.
 - `STACK <https://github.com/xiw/stack>`_ - A static checker for identifying unstable code.
 - `ShellCheck <https://github.com/koalaman/shellcheck>`_ - A static analysis tool for shell scripts.
 - `StaCoAn <https://github.com/vincentcox/StaCoAn>`_ - A crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications.
@@ -561,6 +562,7 @@ Exploits
 - `CVE-2021-26855_PoC <https://github.com/alt3kx/CVE-2021-26855_PoC>`_ - SSRF payloads (CVE-2021-26855) over Exchange Server 2019.
 - `CVE-2021-31166 <https://github.com/0vercl0k/CVE-2021-31166>`_ - Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.
 - `CVE-2021-34473 <https://github.com/phamphuqui1998/CVE-2021-34473>`_ - CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability.
+- `CVE-2022-21894 <https://github.com/Wack0/CVE-2022-21894>`_ - Baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability
 - `CVE-2022-25636 <https://github.com/Bonfee/CVE-2022-25636>`_ - Exploit for CVE-2022-25636.
 - `Chakra-2016-11 <https://github.com/theori-io/chakra-2016-11>`_ - Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 & CVE-2016-7201).
 - `Chimay-Red <https://github.com/BigNerd95/Chimay-Red>`_ - Working POC of Mikrotik exploit from Vault 7 CIA Leaks.
