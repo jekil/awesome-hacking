@@ -2488,3 +2488,6 @@
 [submodule "Penetration Testing/Exploits/CVE-2022-21894"]
 	path = Penetration Testing/Exploits/CVE-2022-21894
 	url = https://github.com/Wack0/CVE-2022-21894.git
+[submodule "Reverse Engineering/dnSpy"]
+	path = Reverse Engineering/dnSpy
+	url = https://github.com/dnSpy/dnSpy.git

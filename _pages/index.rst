@@ -1068,6 +1068,7 @@ Reverse Engineering
 - `Xxxswf <https://bitbucket.org/Alexander_Hanel/xxxswf>`_ - A Python script for analyzing Flash files.
 - `Xyntia <https://github.com/binsec/xyntia>`_ - A standalone tool which takes I/O example as input and synthesize a corresponding expression. Still, in practice, you do not want to give these I/O examples by hand. Thus we give scripts to automatically sample them from a given binary.
 - `YaCo <https://github.com/DGA-MI-SSI/YaCo>`_ - An Hex-Rays IDA plugin. When enabled, multiple users can work simultaneously on the same binary. Any modification done by any user is synchronized through git version control.
+- `dnSpy <https://github.com/dnSpy/dnSpy>`_ - .NET debugger and assembly editor
 - `r2-dirtycow <https://github.com/nowsecure/dirtycow>`_ - Radare2 IO plugin for Linux and Android. Modifies files owned by other users via dirtycow Copy-On-Write cache vulnerability.
 - `uEmu <https://github.com/alexhude/uEmu>`_ - Tiny cute emulator plugin for IDA based on unicorn.
 
