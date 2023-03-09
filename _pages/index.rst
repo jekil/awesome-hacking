@@ -1106,6 +1106,7 @@ Endpoint Security
 - `AIDE <https://aide.github.io>`_ - Advanced Intrusion Detection Environment is a file and directory integrity checker.
 - `Duckhunt <https://github.com/pmsosa/duckhunt>`_ - Prevent RubberDucky (or other keystroke injection) attacks.
 - `Hardentools <https://github.com/securitywithoutborders/hardentools>`_ - A utility that disables a number of risky Windows features.
+- `Limacharlie <https://github.com/nextgens/limacharlie>`_ - An endpoint security platform. It is itself a collection of small projects all working together to become the LC platform.
 - `Lynis <https://github.com/CISOfy/lynis>`_ - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - `OpenEDR <https://github.com/ComodoSecurity/openedr>`_ - A full blown EDR capability. It is one of the most sophisticated, effective EDR code base in the world and with the community’s help it will become even better.
 - `Osx-config-check <https://github.com/kristovatlas/osx-config-check>`_ - Verify the configuration of your OS X machine.

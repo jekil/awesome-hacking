@@ -2491,3 +2491,6 @@
 [submodule "Reverse Engineering/dnSpy"]
 	path = Reverse Engineering/dnSpy
 	url = https://github.com/dnSpy/dnSpy.git
+[submodule "Security/Endpoint Security/limacharlie"]
+	path = Security/Endpoint Security/limacharlie
+	url = https://github.com/nextgens/limacharlie.git
