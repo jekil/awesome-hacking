@@ -2494,3 +2494,6 @@
 [submodule "Security/Endpoint Security/limacharlie"]
 	path = Security/Endpoint Security/limacharlie
 	url = https://github.com/nextgens/limacharlie.git
+[submodule "Forensics/Mobile/androidqf"]
+	path = Forensics/Mobile/androidqf
+	url = https://github.com/botherder/androidqf.git

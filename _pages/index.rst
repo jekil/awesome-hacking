@@ -149,6 +149,7 @@ Mobile
 
 - `Android Forensic Toolkit <https://code.google.com/archive/p/aft/>`_ - Allows you to extract SMS records, call history, photos, browsing history, and password from an Android phone.
 - `Android backup extractor <https://github.com/nelenkov/android-backup-extractor>`_ - Utility to extract and repack Android backups created with adb backup (ICS+). Largely based on BackupManagerService.java from AOSP.
+- `Androidqf <https://github.com/botherder/androidqf>`_ - Android Quick Forensics is a portable tool to simplify the acquisition of relevant forensic data from Android devices. It is the successor of Snoopdroid, re-written in Go and leveraging official adb binaries.
 - `MVT <https://github.com/mvt-project/mvt>`_ - MVT is a forensic tool to look for signs of infection in smartphone devices.
 - `Mem <https://github.com/MobileForensicsResearch/mem>`_ - Tool used for dumping memory from Android devices.
 - `Snoopdroid <https://github.com/botherder/snoopdroid>`_ - Extract packages from an Android device.
