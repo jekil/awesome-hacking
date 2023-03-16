@@ -2497,3 +2497,6 @@
 [submodule "Forensics/Mobile/androidqf"]
 	path = Forensics/Mobile/androidqf
 	url = https://github.com/botherder/androidqf.git
+[submodule "Penetration Testing/Post Exploitation/ADFSDump"]
+	path = Penetration Testing/Post Exploitation/ADFSDump
+	url = https://github.com/mandiant/ADFSDump.git

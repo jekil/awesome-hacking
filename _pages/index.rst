@@ -753,6 +753,7 @@ Post Exploitation
 
 - `3snake <https://github.com/blendin/3snake>`_ - Tool for extracting information from newly spawned processes.
 - `ABPTTS <https://github.com/nccgroup/ABPTTS>`_ - A Black Path Toward The Sun uses a Python client script and a web application server page/package to tunnel TCP traffic over an HTTP/HTTPS connection to a web application server. In other words, anywhere that one could deploy a web shell, one should now be able to establish a full TCP tunnel. This permits making RDP, interactive SSH, Meterpreter, and other connections through the web application server.
+- `ADFSDump <https://github.com/mandiant/ADFSDump>`_ - A C# tool to dump all sorts of goodies from AD FS.
 - `Apfell <https://github.com/its-a-feature/Apfell>`_ - A collaborative, multi-platform, red teaming framework.
 - `Backdoorme <https://github.com/Kkevsterrr/backdoorme>`_ - Powerful auto-backdooring utility.
 - `Boopkit <https://github.com/kris-nova/boopkit>`_ - Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin.
