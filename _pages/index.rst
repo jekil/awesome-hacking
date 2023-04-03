@@ -122,6 +122,7 @@ Incident Response
 - `Plaso <https://github.com/log2timeline/plaso>`_ - Plaso (Plaso Langar Að Safna Öllu), or super timeline all the things, is a Python-based engine used by several tools for automatic creation of timelines. Plaso default behavior is to create super timelines but it also supports creating more targeted timelines.
 - `Snoopdigg <https://github.com/botherder/snoopdigg>`_ - Simple utility to ease the process of collecting evidence to find infections.
 - `TAPIR <https://github.com/tap-ir/tapir>`_ - Trustable Artifacts Parser for Incident Response is a multi-user, client/server, incident response framework based on the TAP project.
+- `UAC <https://github.com/tclahr/uac>`_ - A Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
 
 Live Analysis
 -------------
@@ -638,6 +639,7 @@ Info Gathering
 
 - `ATSCAN <https://github.com/AlisamTechnology/ATSCAN>`_ - Advanced dork Search & Mass Exploit Scanner.
 - `Amass <https://github.com/OWASP/Amass>`_ - The OWASP Amass Project performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
+- `BigBountyRecon <https://github.com/Viralmaniar/BigBountyRecon>`_ - Utilises 58 different techniques using various Google dorks and open source tools to expedite the process of initial reconnaissance on the target organisation.
 - `Bluto <https://github.com/darryllane/Bluto>`_ - DNS Recon | Brute Forcer | DNS Zone Transfer | DNS Wild Card Checks | DNS Wild Card Brute Forcer | Email Enumeration | Staff Enumeration | Compromised Account Checking
 - `Bundler-audit <https://github.com/rubysec/bundler-audit>`_ - Patch-level verification for Bundler.
 - `Checksec.rs <https://github.com/etke/checksec.rs>`_ - Fast multi-platform (ELF/PE/MachO) binary checksec written in Rust.
@@ -1182,6 +1184,7 @@ Phishing
 - `CredSniper <https://github.com/ustayready/CredSniper>`_ - A phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.
 - `FiercePhish <https://github.com/Raikia/FiercePhish>`_ - A full-fledged phishing framework to manage all phishing engagements. It allows you to track separate phishing campaigns, schedule sending of emails, and much more.
 - `GoPhish <https://github.com/gophish/gophish>`_ - Gophish is an open-source phishing toolkit designed for businesses and penetration testers. It provides the ability to quickly and easily setup and execute phishing engagements and security awareness training.
+- `Microsoft365_devicePhish <https://github.com/optiv/Microsoft365_devicePhish>`_ - A proof-of-concept script to conduct a phishing attack abusing Microsoft 365 OAuth Authorization Flow.
 - `Modlishka <https://github.com/drk1wi/Modlishka>`_ - Reverse Proxy. Phishing NG.
 - `Muraena <https://github.com/muraenateam/muraena>`_ - An almost-transparent reverse proxy aimed at automating phishing and post-phishing activities.
 - `Phishing-frenzy <https://github.com/pentestgeek/phishing-frenzy>`_ - Ruby on Rails Phishing Framework.

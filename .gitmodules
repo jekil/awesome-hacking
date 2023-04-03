@@ -2500,3 +2500,12 @@
 [submodule "Penetration Testing/Post Exploitation/ADFSDump"]
 	path = Penetration Testing/Post Exploitation/ADFSDump
 	url = https://github.com/mandiant/ADFSDump.git
+[submodule "Penetration Testing/Info Gathering/BigBountyRecon"]
+	path = Penetration Testing/Info Gathering/BigBountyRecon
+	url = https://github.com/Viralmaniar/BigBountyRecon.git
+[submodule "Forensics/Incident Response/uac"]
+	path = Forensics/Incident Response/uac
+	url = https://github.com/tclahr/uac.git
+[submodule "Social Engineering/Phishing/Microsoft365_devicePhish"]
+	path = Social Engineering/Phishing/Microsoft365_devicePhish
+	url = https://github.com/optiv/Microsoft365_devicePhish.git
