@@ -646,6 +646,7 @@ Info Gathering
 - `CloudFail <https://github.com/m0rtem/CloudFail>`_ - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network.
 - `CloudFlair <https://github.com/christophetd/CloudFlair>`_ - Find origin servers of websites behind CloudFlare by using Internet-wide scan data from Censys.
 - `Cloudflare_enum <https://github.com/mandatoryprogrammer/cloudflare_enum>`_ - Cloudflare DNS Enumeration Tool for Pentesters.
+- `Cloudmare <https://github.com/MrH0wl/Cloudmare>`_ - A simple tool to find the origin servers of websites protected by Cloudflare, Sucuri, or Incapsula with a misconfiguration DNS.
 - `Commando-vm <https://github.com/fireeye/commando-vm>`_ - Complete Mandiant Offensive VM (Commando VM), the first full Windows-based penetration testing virtual machine distribution. The security community recognizes Kali Linux as the go-to penetration testing platform for those that prefer Linux. Commando VM is for penetration testers that prefer Windows.
 - `Dnsenum <https://github.com/fwaeytens/dnsenum/>`_ - A perl script that enumerates DNS information.
 - `Dnsmap <https://github.com/makefu/dnsmap/>`_ - Passive DNS network mapper.

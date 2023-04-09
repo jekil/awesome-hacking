@@ -2509,3 +2509,6 @@
 [submodule "Social Engineering/Phishing/Microsoft365_devicePhish"]
 	path = Social Engineering/Phishing/Microsoft365_devicePhish
 	url = https://github.com/optiv/Microsoft365_devicePhish.git
+[submodule "Penetration Testing/Info Gathering/Cloudmare"]
+	path = Penetration Testing/Info Gathering/Cloudmare
+	url = https://github.com/MrH0wl/Cloudmare.git
