@@ -2512,3 +2512,9 @@
 [submodule "Penetration Testing/Info Gathering/Cloudmare"]
 	path = Penetration Testing/Info Gathering/Cloudmare
 	url = https://github.com/MrH0wl/Cloudmare.git
+[submodule "Penetration Testing/Post Exploitation/RemCom"]
+	path = Penetration Testing/Post Exploitation/RemCom
+	url = https://github.com/kavika13/RemCom.git
+[submodule "Forensics/Incident Response/DFIR4vSphere"]
+	path = Forensics/Incident Response/DFIR4vSphere
+	url = https://github.com/ANSSI-FR/DFIR4vSphere.git

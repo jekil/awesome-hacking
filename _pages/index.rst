@@ -114,6 +114,7 @@ Incident Response
 -----------------
 
 - `Chainsaw <https://github.com/WithSecureLabs/chainsaw>`_ - Provides a powerful ‘first-response’ capability to quickly identify threats within Windows forensic artefacts such as Event Logs and MFTs. Chainsaw offers a generic and fast method of searching through event logs for keywords, and by identifying threats using built-in support for Sigma detection rules, and via custom Chainsaw detection rules.
+- `DFIR4vSphere <https://github.com/ANSSI-FR/DFIR4vSphere>`_ - Powershell module for VMWare vSphere forensics.
 - `Event2Timeline <https://github.com/certsocietegenerale/event2timeline>`_ - A free tool based on D3js to graph Microsoft Windows sessions events. It parses both EVTX event logs from post Vista systems (Vista, Windows 7, Windows 8), and CSV exports of the legacy EVT log files.
 - `Hunter <https://github.com/ThreatHuntingProject/hunter>`_ - A threat hunting / data analysis environment based on Python, Pandas, PySpark and Jupyter Notebook.
 - `LogonTracer <https://github.com/JPCERTCC/LogonTracer>`_ - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
@@ -800,6 +801,7 @@ Post Exploitation
 - `Pwnat <https://samy.pl/pwnat/>`_ - Punches holes in firewalls and NATs allowing any numbers of clients behind NATs to directly connect to a server behind a different NAT.
 - `Pypykatz <https://github.com/skelsec/pypykatz>`_ - Mimikatz implementation in pure Python.
 - `RedGhost <https://github.com/d4rk007/RedGhost>`_ - Linux post exploitation framework written in bash designed to assist red teams in persistence, reconnaissance, privilege escalation and leaving no trace.
+- `RemCom <https://github.com/kavika13/RemCom>`_ - Remote Command Executor: A OSS replacement for PsExec and RunAs - or Telnet without having to install a server.
 - `RemoteRecon <https://github.com/xorrior/RemoteRecon>`_ - Remote Recon and Collection.
 - `RottenPotatoNG <https://github.com/breenmachine/RottenPotatoNG>`_ - New version of RottenPotato as a C++ DLL and standalone C++ binary - no need for meterpreter or other tools.
 - `Rpc2socks <https://github.com/lexfo/rpc2socks>`_ - Post-exploit tool that enables a SOCKS tunnel via a Windows host using an extensible custom RPC proto over SMB through a named pipe.
