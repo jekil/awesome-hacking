@@ -2518,3 +2518,9 @@
 [submodule "Forensics/Incident Response/DFIR4vSphere"]
 	path = Forensics/Incident Response/DFIR4vSphere
 	url = https://github.com/ANSSI-FR/DFIR4vSphere.git
+[submodule "Intelligence/TorScrapper"]
+	path = Intelligence/TorScrapper
+	url = https://github.com/scorelab/TorScrapper.git
+[submodule "Forensics/Incident Response/untitledgoosetool"]
+	path = Forensics/Incident Response/untitledgoosetool
+	url = https://github.com/cisagov/untitledgoosetool.git

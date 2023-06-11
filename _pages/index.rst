@@ -124,6 +124,7 @@ Incident Response
 - `Snoopdigg <https://github.com/botherder/snoopdigg>`_ - Simple utility to ease the process of collecting evidence to find infections.
 - `TAPIR <https://github.com/tap-ir/tapir>`_ - Trustable Artifacts Parser for Incident Response is a multi-user, client/server, incident response framework based on the TAP project.
 - `UAC <https://github.com/tclahr/uac>`_ - A Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
+- `Untitled Goose Tool <https://github.com/cisagov/untitledgoosetool>`_ - A robust and flexible hunt and incident response tool that adds novel authentication and data gathering methods in order to run a full investigation against a customer’s Azure Active Directory (AzureAD), Azure, and M365 environments. Untitled Goose Tool gathers additional telemetry from Microsoft Defender for Endpoint (MDE) and Defender for Internet of Things (IoT) (D4IoT).
 
 Live Analysis
 -------------
@@ -187,6 +188,7 @@ Intelligence
 - `MISP-maltego <https://github.com/MISP/MISP-maltego>`_ - Set of Maltego transforms to inferface with a MISP Threat Sharing instance, and also to explore the whole MITRE ATT&CK dataset.
 - `Masto <https://github.com/C3n7ral051nt4g3ncy/Masto>`_ - An OSINT tool written in python to gather intelligence on Mastodon users and instances.
 - `Shodan-seeker <https://github.com/laincode/shodan-seeker>`_ - Command-line tool using Shodan API. Generates and downloads CSV results, diffing of historic scanning results, alerts and monitoring of specific ports/IPs, etc.
+- `TorScrapper <https://github.com/scorelab/TorScrapper>`_ - Copy of Fresh Onions is an open source TOR spider / hidden service onion crawler.
 - `VIA4CVE <https://github.com/cve-search/VIA4CVE>`_ - An aggregator of the known vendor vulnerabilities database to support the expansion of information with CVEs.
 - `Yeti <https://github.com/yeti-platform/yeti>`_ - Your Everyday Threat Intelligence.
 - `n6 <https://github.com/CERT-Polska/n6>`_ - Automated handling of data feeds for security teams.
