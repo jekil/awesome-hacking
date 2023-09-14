@@ -511,9 +511,6 @@
 [submodule "Malware/Intelligence/misp-modules"]
 	path = Malware/Intelligence/misp-modules
 	url = https://github.com/MISP/misp-modules.git
-[submodule "Malware/Honeypot/mhn"]
-	path = Malware/Honeypot/mhn
-	url = https://github.com/threatstream/mhn.git
 [submodule "Pentration Testing/Training/NodeGoat"]
 	path = Penetration Testing/Training/NodeGoat
 	url = https://github.com/OWASP/NodeGoat.git
