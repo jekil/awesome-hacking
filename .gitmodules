@@ -2524,3 +2524,12 @@
 [submodule "Forensics/Incident Response/untitledgoosetool"]
 	path = Forensics/Incident Response/untitledgoosetool
 	url = https://github.com/cisagov/untitledgoosetool.git
+[submodule "Penetration Testing/Mobile/Vezir-Project"]
+	path = Penetration Testing/Mobile/Vezir-Project
+	url = https://github.com/oguzhantopgul/Vezir-Project.git
+[submodule "Security/Cloud Security/SWAT"]
+	path = Security/Cloud Security/SWAT
+	url = https://github.com/elastic/SWAT.git
+[submodule "Penetration Testing/Fuzzing/UTopia"]
+	path = Penetration Testing/Fuzzing/UTopia
+	url = https://github.com/Samsung/UTopia.git

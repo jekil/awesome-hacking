@@ -628,6 +628,7 @@ Fuzzing
 - `T-Fuzz <https://github.com/HexHive/T-Fuzz>`_ - A fuzzing tool based on program transformation.
 - `TAOF <https://sourceforge.net/projects/taof/>`_ - The Art of Fuzzing, including ProxyFuzz, a man-in-the-middle non-deterministic network fuzzer.
 - `Tlspuffin <https://github.com/tlspuffin/tlspuffin>`_ - A symbolic-model-guided fuzzer for TLS.
+- `UTopia <https://github.com/Samsung/UTopia>`_ - UT based automated fuzz driver generation.
 - `Unicorefuzz <https://github.com/fgsect/unicorefuzz>`_ - Fuzzing the Kernel Using Unicornafl and AFL++.
 - `Unicornafl <https://github.com/AFLplusplus/unicornafl>`_ - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86) adapted to afl++.
 - `VUzzer <https://github.com/vusec/vuzzer>`_ - This Project depends heavily on a modeified version of DataTracker, which in turn depends on LibDFT pintool. It has some extra tags added in libdft.
@@ -722,6 +723,7 @@ Mobile
 - `SafetyNet Fix <https://github.com/kdrag0n/safetynet-fix>`_ - Google SafetyNet attestation workarounds for Magisk.
 - `Uber Apk Signer <https://github.com/patrickfav/uber-apk-signer>`_ - A tool that helps signing, zip aligning and verifying multiple Android application packages (APKs) with either debug or provided release certificates (or multiple). It supports v1, v2 and v3 Android signing scheme. Easy and convenient debug signing with embedded debug keystore. Automatically verifies signature and zipalign after every signing.
 - `Uncertify <https://github.com/felHR85/Uncertify>`_ - A tool written in Python that allows to bypass, in an automated way, the most common mechanisms used in Android apps to implement certificate pinning. In addition to that Uncertify can also bypass other OkHttp configuration settings.
+- `Vezir-Project <https://github.com/oguzhantopgul/Vezir-Project>`_ - Yet Another Linux Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis
 
 Password Cracking
 -----------------
@@ -1099,6 +1101,7 @@ Cloud Security
 - `Parliament <https://github.com/duo-labs/parliament>`_ - An AWS IAM linting library. It reviews policies looking for problems.
 - `Patrolaroid <https://github.com/rpetrich/patrolaroid>`_ - An instant camera for capturing cloud workload risks. It’s a prod-friendly scanner that makes finding security issues in AWS instances and buckets less annoying and disruptive for software engineers and cloud admins.
 - `PurplePanda <https://github.com/carlospolop/PurplePanda>`_ - This tool fetches resources from different cloud/saas applications focusing on permissions in order to identify privilege escalation paths and dangerous permissions in the cloud/saas configurations. Note that PurplePanda searches both privileges escalation paths within a platform and across platforms.
+- `SWAT <https://github.com/elastic/SWAT>`_ - Simple Workspace Attack Tool (SWAT) is a tool for simulating malicious behavior against Google Workspace in reference to the MITRE ATT&CK framework.
 - `Security Monkey <https://github.com/Netflix/security_monkey>`_ - Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 - `Varna <https://github.com/endgameinc/varna>`_ - Quick & Cheap AWS CloudTrail Monitoring with Event Query Language (EQL)
 Resources
