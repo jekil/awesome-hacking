@@ -1093,9 +1093,6 @@
 [submodule "Forensics/Live Analysis/windows-event-forwarding"]
 	path = Forensics/Live Analysis/windows-event-forwarding
 	url = https://github.com/palantir/windows-event-forwarding.git
-[submodule "Pentration Testing/Exploits/Bluedroid"]
-	path = Penetration Testing/Exploits/Bluedroid
-	url = https://github.com/JiounDai/Bluedroid.git
 [submodule "Pentration Testing/Fuzzing/Fuzzlyn"]
 	path = Penetration Testing/Fuzzing/Fuzzlyn
 	url = https://github.com/jakobbotsch/Fuzzlyn.git
