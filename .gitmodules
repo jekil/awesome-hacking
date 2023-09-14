@@ -2389,9 +2389,6 @@
 [submodule "Penetration Testing/Mobile/uber-apk-signer"]
 	path = Penetration Testing/Mobile/uber-apk-signer
 	url = https://github.com/patrickfav/uber-apk-signer.git
-[submodule "Penetration Testing/Mobile/root_avd"]
-	path = Penetration Testing/Mobile/root_avd
-	url = https://github.com/0xFireball/root_avd.git
 [submodule "Reverse Engineering/linux_injector"]
 	path = Reverse Engineering/linux_injector
 	url = https://github.com/namazso/linux_injector.git
