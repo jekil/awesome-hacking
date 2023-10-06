@@ -2524,3 +2524,6 @@
 [submodule "Penetration Testing/Fuzzing/UTopia"]
 	path = Penetration Testing/Fuzzing/UTopia
 	url = https://github.com/Samsung/UTopia.git
+[submodule "Pentration Testing/MITM/petep"]
+	path = Penetration Testing/MITM/petep
+	url = https://github.com/Warxim/petep.git

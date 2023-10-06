@@ -697,6 +697,7 @@ MITM
 - `Mitmproxy <https://mitmproxy.org/>`_ - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface.
 - `Mitmsocks4j <https://github.com/Akdeniz/mitmsocks4j>`_ - Man in the Middle SOCKS Proxy for JAVA.
 - `Nogotofail <https://github.com/google/nogotofail>`_ - An on-path blackbox network traffic security testing tool.
+- `PETEP <https://github.com/Warxim/petep>`_ - Extensible TCP/UDP proxy with GUI for traffic analysis & modification with SSL/TLS support.
 - `Responder <https://github.com/SpiderLabs/Responder>`_ - A LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.
 - `Ssh-mitm <https://github.com/jtesta/ssh-mitm>`_ - An SSH/SFTP man-in-the-middle tool that logs interactive sessions and passwords.
 
