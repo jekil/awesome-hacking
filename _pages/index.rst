@@ -306,7 +306,6 @@ Honeypot
 - `Kippo <https://github.com/desaster/kippo>`_ - A medium interaction SSH honeypot designed to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.
 - `Kippo-graph <https://github.com/ikoniaris/kippo-graph>`_ - Visualize statistics from a Kippo SSH honeypot.
 - `Log4Pot <https://github.com/thomaspatzke/Log4Pot>`_ - A honeypot for the Log4Shell vulnerability (CVE-2021-44228).
-- `MHN <https://github.com/threatstream/mhn>`_ - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management.
 - `MTPot <https://github.com/Cymmetria/MTPot>`_ - Open Source Telnet Honeypot.
 - `Maildb <https://github.com/kevthehermit/Maildb>`_ - Python Web App to Parse and Track Email and http Pcap Files.
 - `Mailoney <https://github.com/awhitehatter/mailoney>`_ - A SMTP Honeypot I wrote just to have fun learning Python.
@@ -548,7 +547,6 @@ Exploits
 
 - `Apache-uaf <https://github.com/hannob/apache-uaf>`_ - Apache use after free bug infos / ASAN stack traces.
 - `BlueGate <https://github.com/ollypwn/BlueGate>`_ - PoC (DoS + scanner) for CVE-2020-0609 & CVE-2020-0610 - RD Gateway RCE.
-- `Bluedroid <https://github.com/JiounDai/Bluedroid>`_ - PoCs of Vulnerabilities on Bluedroid.
 - `Broadpwn <https://github.com/mailinneberg/Broadpwn>`_ - Broadpwn bug (CVE-2017-9417).
 - `CVE-2016-5195 <https://github.com/gbonacini/CVE-2016-5195>`_ - A CVE-2016-5195 exploit example.
 - `CVE-2018-8120 <https://github.com/bigric3/cve-2018-8120>`_ - CVE-2018-8120.
@@ -569,6 +567,7 @@ Exploits
 - `CVE-2021-34473 <https://github.com/phamphuqui1998/CVE-2021-34473>`_ - CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability.
 - `CVE-2022-21894 <https://github.com/Wack0/CVE-2022-21894>`_ - Baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability
 - `CVE-2022-25636 <https://github.com/Bonfee/CVE-2022-25636>`_ - Exploit for CVE-2022-25636.
+- `CVE-2023-4863 <https://github.com/mistymntncop/CVE-2023-4863>`_ - A POC for CVE-2023-4863.
 - `Chakra-2016-11 <https://github.com/theori-io/chakra-2016-11>`_ - Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 & CVE-2016-7201).
 - `Chimay-Red <https://github.com/BigNerd95/Chimay-Red>`_ - Working POC of Mikrotik exploit from Vault 7 CIA Leaks.
 - `Desharialize <https://github.com/Voulnet/desharialize>`_ - Easy mode to Exploit CVE-2019-0604 (Sharepoint XML Deserialization Unauthenticated RCE).

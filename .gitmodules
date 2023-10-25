@@ -2524,3 +2524,6 @@
 [submodule "Penetration Testing/Fuzzing/UTopia"]
 	path = Penetration Testing/Fuzzing/UTopia
 	url = https://github.com/Samsung/UTopia.git
+[submodule "Penetration Testing/Exploits/CVE-2023-4863"]
+	path = Penetration Testing/Exploits/CVE-2023-4863
+	url = https://github.com/mistymntncop/CVE-2023-4863.git
