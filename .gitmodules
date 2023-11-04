@@ -1246,9 +1246,6 @@
 [submodule "Security/Cloud Security/cloudmapper"]
 	path = Security/Cloud Security/cloudmapper
 	url = https://github.com/duo-labs/cloudmapper.git
-[submodule "Pentration Testing/Web/Wappalyzer"]
-	path = Penetration Testing/Web/Wappalyzer
-	url = https://github.com/AliasIO/Wappalyzer.git
 [submodule "Reverse Engineering/B2R2"]
 	path = Reverse Engineering/B2R2
 	url = https://github.com/B2R2-org/B2R2.git
