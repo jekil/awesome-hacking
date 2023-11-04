@@ -836,6 +836,7 @@ The main goal is to have more time to Pwn and less time to Doc by mutualizing da
 Services
 --------
 
+- `Cipherscan <https://github.com/mozilla/cipherscan>`_ - A very simple way to find out which SSL ciphersuites are supported by a target.
 - `SSLyze <https://github.com/nabla-c0d3/sslyze>`_ - SSL configuration scanner.
 - `Sslstrip <https://moxie.org/software/sslstrip/>`_ - A demonstration of the HTTPS stripping attacks.
 - `Sslstrip2 <https://github.com/LeonardoNve/sslstrip2>`_ - SSLStrip version to defeat HSTS.

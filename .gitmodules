@@ -2527,3 +2527,6 @@
 [submodule "Penetration Testing/Exploits/CVE-2023-4863"]
 	path = Penetration Testing/Exploits/CVE-2023-4863
 	url = https://github.com/mistymntncop/CVE-2023-4863.git
+[submodule "Penetration Testing/Services/cipherscan"]
+	path = Penetration Testing/Services/cipherscan
+	url = https://github.com/mozilla/cipherscan.git
