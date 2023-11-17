@@ -2524,3 +2524,6 @@
 [submodule "Penetration Testing/Services/cipherscan"]
 	path = Penetration Testing/Services/cipherscan
 	url = https://github.com/mozilla/cipherscan.git
+[submodule "Forensics/Network Forensics/joy"]
+	path = Forensics/Network Forensics/joy
+	url = https://github.com/cisco/joy.git

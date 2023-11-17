@@ -165,6 +165,7 @@ Network Forensics
 
 - `Dnslog <https://github.com/stamparm/dnslog>`_ - Minimalistic DNS logging tool.
 - `Dshell <https://github.com/USArmyResearchLab/Dshell>`_ - A network forensic analysis framework.
+- `Joy <https://github.com/cisco/joy>`_ - A package for capturing and analyzing network flow data and intraflow data, for network research, forensics, and security monitoring.
 - `Passivedns <https://github.com/gamelinux/passivedns>`_ - A network sniffer that logs all DNS server replies for use in a passive DNS setup.
 - `Website Evidence Collector <https://github.com/EU-EDPS/website-evidence-collector>`_ - The tool Website Evidence Collector (WEC) automates the website evidence collection of storage and transfer of personal data.
 
@@ -920,7 +921,6 @@ Web
 - `WS-Attacker <https://github.com/RUB-NDS/WS-Attacker>`_ - A modular framework for web services penetration testing.
 - `WStalker <https://github.com/nccgroup/wstalker>`_ - An easy proxy.
 - `Wapiti <http://wapiti.sourceforge.net>`_ - Web application vulnerability scanner.
-- `Wappalyzer <https://github.com/AliasIO/Wappalyzer>`_ - Cross-platform utility that uncovers the technologies used on websites.
 - `Weevely3 <https://github.com/epinna/weevely3>`_ - Weaponized web shell.
 - `Wfuzz <https://github.com/xmendez/wfuzz>`_ - Web application fuzzer.
 - `WhatWeb <https://www.morningstarsecurity.com/research/whatweb>`_ - Website Fingerprinter.
@@ -1197,7 +1197,6 @@ Phishing
 - `Muraena <https://github.com/muraenateam/muraena>`_ - An almost-transparent reverse proxy aimed at automating phishing and post-phishing activities.
 - `Phishing-frenzy <https://github.com/pentestgeek/phishing-frenzy>`_ - Ruby on Rails Phishing Framework.
 - `Pompa <https://github.com/m1nl/pompa>`_ - Fully-featured spear-phishing toolkit - web front-end.
-- `Whatsapp-phishing <https://github.com/Ignitetch/whatsapp-phishing>`_ - The best tool for whatsapp-phishing with otp provider.
 
 Wardialing
 ----------
