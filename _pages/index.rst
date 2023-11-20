@@ -904,6 +904,7 @@ Web
 - `Paros <https://sourceforge.net/projects/paros/>`_ - A Java based HTTP/HTTPS proxy for assessing web application vulnerability.
 - `PayloadsAllTheThings <https://github.com/swisskyrepo/PayloadsAllTheThings>`_ - A list of useful payloads and bypass for Web Application Security and Pentest/CTF.
 - `Php-jpeg-injector <https://github.com/dlegs/php-jpeg-injector>`_ - Injects php payloads into jpeg images.
+- `Proxyman <https://github.com/ProxymanApp/Proxyman>`_ - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android.
 - `Pyfiscan <https://github.com/fgeek/pyfiscan>`_ - Free web-application vulnerability and version scanner.
 - `Ratproxy <https://code.google.com/archive/p/ratproxy/>`_ - A semi-automated, largely passive web application security audit tool, optimized for an accurate and sensitive detection, and automatic annotation, of potential problems.
 - `RecurseBuster <https://github.com/C-Sto/recursebuster>`_ - Rapid content discovery tool for recursively querying webservers, handy in pentesting and web application assessments.

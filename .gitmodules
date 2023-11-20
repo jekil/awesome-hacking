@@ -2527,3 +2527,6 @@
 [submodule "Forensics/Network Forensics/joy"]
 	path = Forensics/Network Forensics/joy
 	url = https://github.com/cisco/joy.git
+[submodule "Penetration Testing/Web/Proxyman"]
+	path = Penetration Testing/Web/Proxyman
+	url = https://github.com/ProxymanApp/Proxyman.git
