@@ -2530,3 +2530,6 @@
 [submodule "Penetration Testing/Web/Proxyman"]
 	path = Penetration Testing/Web/Proxyman
 	url = https://github.com/ProxymanApp/Proxyman.git
+[submodule "Security/Cloud Security/ThreatMapper"]
+	path = Security/Cloud Security/ThreatMapper
+	url = https://github.com/deepfence/ThreatMapper.git
