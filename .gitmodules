@@ -2533,3 +2533,6 @@
 [submodule "Security/Cloud Security/ThreatMapper"]
 	path = Security/Cloud Security/ThreatMapper
 	url = https://github.com/deepfence/ThreatMapper.git
+[submodule "Penetration Testing/MITM/petep"]
+	path = Penetration Testing/MITM/petep
+	url = https://github.com/Warxim/petep.git
