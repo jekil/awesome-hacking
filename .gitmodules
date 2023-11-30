@@ -2542,3 +2542,6 @@
 [submodule "Penetration Testing/Info Gathering/tls-scan"]
 	path = Penetration Testing/Info Gathering/tls-scan
 	url = https://github.com/prbinu/tls-scan.git
+[submodule "Penetration Testing/Info Gathering/cryptolyzer"]
+	path = Penetration Testing/Info Gathering/cryptolyzer
+	url = https://gitlab.com/coroner/cryptolyzer.git

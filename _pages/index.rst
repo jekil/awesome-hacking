@@ -652,6 +652,7 @@ Info Gathering
 - `Cloudflare_enum <https://github.com/mandatoryprogrammer/cloudflare_enum>`_ - Cloudflare DNS Enumeration Tool for Pentesters.
 - `Cloudmare <https://github.com/MrH0wl/Cloudmare>`_ - A simple tool to find the origin servers of websites protected by Cloudflare, Sucuri, or Incapsula with a misconfiguration DNS.
 - `Commando-vm <https://github.com/fireeye/commando-vm>`_ - Complete Mandiant Offensive VM (Commando VM), the first full Windows-based penetration testing virtual machine distribution. The security community recognizes Kali Linux as the go-to penetration testing platform for those that prefer Linux. Commando VM is for penetration testers that prefer Windows.
+- `CryptoLyzer <https://gitlab.com/coroner/cryptolyzer>`_ - Fast, flexible and comprehensive server cryptographic protocol (TLS, SSL, SSH, DNSSEC) and related setting (HTTP headers, DNS records) analyzer and fingerprint (JA3, HASSH tag) generator with Python API and CLI.
 - `Dnsenum <https://github.com/fwaeytens/dnsenum/>`_ - A perl script that enumerates DNS information.
 - `Dnsmap <https://github.com/makefu/dnsmap/>`_ - Passive DNS network mapper.
 - `Dnsrecon <https://github.com/darkoperator/dnsrecon/>`_ - DNS Enumeration Script.
