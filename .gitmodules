@@ -2536,3 +2536,9 @@
 [submodule "Penetration Testing/MITM/petep"]
 	path = Penetration Testing/MITM/petep
 	url = https://github.com/Warxim/petep.git
+[submodule "Penetration Testing/Info Gathering/testssl.sh"]
+	path = Penetration Testing/Info Gathering/testssl.sh
+	url = https://github.com/drwetter/testssl.sh.git
+[submodule "Penetration Testing/Info Gathering/tls-scan"]
+	path = Penetration Testing/Info Gathering/tls-scan
+	url = https://github.com/prbinu/tls-scan.git

@@ -678,6 +678,8 @@ Info Gathering
 - `SubFinder <https://github.com/subfinder/subfinder>`_ - A subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 - `SubQuest <https://github.com/skepticfx/subquest>`_ - Fast, Elegant subdomain scanner using nodejs.
 - `Subbrute <https://github.com/TheRook/subbrute>`_ - A DNS meta-query spider that enumerates DNS records, and subdomains.
+- `Testssl.sh <https://github.com/drwetter/testssl.sh>`_ - Testing TLS/SSL encryption anywhere on any port.
+- `Tls-scan <https://github.com/prbinu/tls-scan>`_ - An Internet scale, blazing fast SSL/TLS scanner (non-blocking, event-driven .
 - `TravisLeaks <https://github.com/Shashank-In/TravisLeaks>`_ - A tool to find sensitive keys and passwords in Travis logs.
 - `TruffleHog <https://github.com/dxa4481/truffleHog>`_ - Searches through git repositories for high entropy strings, digging deep into commit history.
 - `URLextractor <https://github.com/eschultze/URLextractor>`_ - Information gathering & website reconnaissance.
