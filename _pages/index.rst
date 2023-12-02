@@ -965,6 +965,7 @@ Reverse Engineering
 - `AngryGhidra <https://github.com/Nalen98/AngryGhidra>`_ - Angr plugin for Ghidra.
 - `Apk2Gold <https://github.com/lxdvs/apk2gold>`_ - Yet another Android decompiler.
 - `ApkTool <https://ibotpeaches.github.io/Apktool/>`_ - A tool for reverse engineering Android apk files.
+- `Apkstudio <https://github.com/vaibhavpandeyvpz/apkstudio>`_ - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
 - `Avscript <https://github.com/taviso/avscript>`_ - Avast JavaScript Interactive Shell.
 - `B2R2 <https://github.com/B2R2-org/B2R2>`_ - A collection of useful algorithms, functions, and tools for binary analysis.
 - `Barf <https://github.com/programa-stic/barf-project>`_ - Binary Analysis and Reverse engineering Framework.

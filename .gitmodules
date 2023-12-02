@@ -2548,3 +2548,6 @@
 [submodule "Penetration Testing/Exploiting/Vbad"]
 	path = Penetration Testing/Exploiting/Vbad
 	url = https://github.com/Pepitoh/Vbad.git
+[submodule "Reverse Engineering/apkstudio"]
+	path = Reverse Engineering/apkstudio
+	url = https://github.com/vaibhavpandeyvpz/apkstudio.git
