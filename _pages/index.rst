@@ -536,6 +536,7 @@ Exploiting
 - `Spoodle <https://github.com/vjex/spoodle>`_ - A mass subdomain + poodle vulnerability scanner.
 - `SysWhispers <https://github.com/jthuraisamy/SysWhispers#syswhispers>`_ - AV/EDR evasion via direct system calls.
 - `Unicorn <https://github.com/trustedsec/unicorn>`_ - Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory. Based on Matthew Graeber's powershell attacks and the powershell bypass technique presented by David Kennedy (TrustedSec) and Josh Kelly at Defcon 18.
+- `VBad <https://github.com/Pepitoh/Vbad>`_ - VBA Obfuscation Tools combined with an MS office document generator.
 - `Veil Framework <https://www.veil-framework.com>`_ - A tool designed to generate metasploit payloads that bypass common anti-virus solutions.
 - `Vuls <https://github.com/future-architect/vuls>`_ - Vulnerability scanner for Linux/FreeBSD, agentless, written in Go.
 - `Windows Exploit Suggester <https://github.com/GDSSecurity/Windows-Exploit-Suggester>`_ - Detects potential missing patches on the target.

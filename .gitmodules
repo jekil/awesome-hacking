@@ -2545,3 +2545,6 @@
 [submodule "Penetration Testing/Info Gathering/cryptolyzer"]
 	path = Penetration Testing/Info Gathering/cryptolyzer
 	url = https://gitlab.com/coroner/cryptolyzer.git
+[submodule "Penetration Testing/Exploiting/Vbad"]
+	path = Penetration Testing/Exploiting/Vbad
+	url = https://github.com/Pepitoh/Vbad.git
