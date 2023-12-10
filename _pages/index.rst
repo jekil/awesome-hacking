@@ -264,6 +264,7 @@ Dynamic Analysis
 - `DECAF <https://github.com/sycurelab/DECAF>`_ - Short for Dynamic Executable Code Analysis Framework, is a binary analysis platform based on QEMU.
 - `DRAKVUF Sandbox <https://github.com/CERT-Polska/drakvuf-sandbox>`_ - DRAKVUF Sandbox is an automated black-box malware analysis system with DRAKVUF engine under the hood, which does not require an agent on guest OS.
 - `DroidBox <https://github.com/pjlantz/droidbox>`_ - Dynamic analysis of Android apps.
+- `DroidDetective <https://github.com/user1342/DroidDetective>`_ - A Python tool for analysing Android applications (APKs) for potential malware related behaviour and configurations. When provided with a path to an application (APK file) Droid Detective will make a prediction (using it's ML model) of if the application is malicious.
 - `Hooker <https://github.com/AndroidHooker/hooker>`_ - An opensource project for dynamic analyses of Android applications.
 - `Jsunpack-n <https://github.com/urule99/jsunpack-n>`_ - Emulates browser functionality when visiting a URL.
 - `LiSa <https://github.com/danieluhricek/LiSa>`_ - Sandbox for automated Linux malware analysis.
@@ -383,6 +384,7 @@ Source Code
 - `Coldfire <https://github.com/redcode-labs/Coldfire>`_ - Golang malware development library.
 - `Fancybear <https://github.com/rickey-g/fancybear>`_ - Fancy Bear Source Code.
 - `LOLBAS <https://github.com/LOLBAS-Project/LOLBAS>`_ - Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts).
+- `Maldev <https://github.com/D3Ext/maldev>`_ - Aims to help malware developers, red teamers and anyone who is interested in cybersecurity. It uses native Golang code and some other useful packages like Hooka which I created to perform complex low-level red teaming stuff.
 - `Mirai <https://github.com/jgamblin/Mirai-Source-Code>`_ - Leaked Mirai Source Code for Research/IoC Development Purposes.
 - `Morris Worm <https://github.com/arialdomartini/morris-worm>`_ - The original Morris Worm source code.
 - `Pegasus_spyware <https://github.com/jonathandata1/pegasus_spyware>`_ - Decompiled pegasus spyware.
@@ -702,6 +704,7 @@ MITM
 - `Mitmsocks4j <https://github.com/Akdeniz/mitmsocks4j>`_ - Man in the Middle SOCKS Proxy for JAVA.
 - `Nogotofail <https://github.com/google/nogotofail>`_ - An on-path blackbox network traffic security testing tool.
 - `PETEP <https://github.com/Warxim/petep>`_ - PEnetration TEsting Proxy is an open-source Java application for traffic analysis & modification using TCP/UDP proxies. PETEP is a useful tool for performing penetration tests of applications with various application protocols.
+- `Phishery <https://github.com/ryhanson/phishery>`_ - A simple SSL Enabled HTTP server with the primary purpose of phishing credentials via Basic Authentication.
 - `Responder <https://github.com/SpiderLabs/Responder>`_ - A LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication.
 - `Ssh-mitm <https://github.com/jtesta/ssh-mitm>`_ - An SSH/SFTP man-in-the-middle tool that logs interactive sessions and passwords.
 
@@ -714,6 +717,7 @@ Mobile
 - `Androl4b <https://github.com/sh4hin/Androl4b>`_ - A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis.
 - `Apk-mitm <https://github.com/shroudedcode/apk-mitm>`_ - A CLI application that automatically prepares Android APK files for HTTPS inspection. Inspecting a mobile app's HTTPS traffic using a proxy is probably the easiest way to figure out how it works. However, with the Network Security Configuration introduced in Android 7 and app developers trying to prevent MITM attacks using certificate pinning, getting an app to work with an HTTPS proxy has become quite tedious.
 - `Apk.sh <https://github.com/ax/apk.sh>`_ - A Bash script that makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
+- `AutoDroid <https://github.com/user1342/AutoDroid>`_ - A tool for automating interactions with Android devices - including ADB, AndroGuard, and Frida interactivity.
 - `CobraDroid <https://thecobraden.com/projects/cobradroid/>`_ - A custom build of the Android operating system geared specifically for application security analysts and for individuals dealing with mobile malware.
 - `Drozer <http://mwr.to/drozer>`_ - The Leading Security Assessment Framework for Android.
 - `Idb <http://www.idbtool.com>`_ - A tool to simplify some common tasks for iOS pentesting and research.

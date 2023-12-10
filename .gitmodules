@@ -2551,3 +2551,15 @@
 [submodule "Reverse Engineering/apkstudio"]
 	path = Reverse Engineering/apkstudio
 	url = https://github.com/vaibhavpandeyvpz/apkstudio.git
+[submodule "Penetration Testing/MITM/phishery"]
+	path = Penetration Testing/MITM/phishery
+	url = https://github.com/ryhanson/phishery.git
+[submodule "Malware/Dynamic Analysis/DroidDetective"]
+	path = Malware/Dynamic Analysis/DroidDetective
+	url = https://github.com/user1342/DroidDetective.git
+[submodule "Malware/Source Code/maldev"]
+	path = Malware/Source Code/maldev
+	url = https://github.com/D3Ext/maldev.git
+[submodule "Penetration Testing/Mobile/AutoDroid"]
+	path = Penetration Testing/Mobile/AutoDroid
+	url = https://github.com/user1342/AutoDroid.git
