@@ -2563,3 +2563,6 @@
 [submodule "Penetration Testing/Mobile/AutoDroid"]
 	path = Penetration Testing/Mobile/AutoDroid
 	url = https://github.com/user1342/AutoDroid.git
+[submodule "Penetration Testing/Post Exploitation/AADInternals"]
+	path = Penetration Testing/Post Exploitation/AADInternals
+	url = https://github.com/Gerenios/AADInternals.git

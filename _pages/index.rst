@@ -769,6 +769,7 @@ Post Exploitation
 -----------------
 
 - `3snake <https://github.com/blendin/3snake>`_ - Tool for extracting information from newly spawned processes.
+- `AADInternals <https://github.com/Gerenios/AADInternals>`_ - AADInternals PowerShell module for administering Azure AD and Office 365.
 - `ABPTTS <https://github.com/nccgroup/ABPTTS>`_ - A Black Path Toward The Sun uses a Python client script and a web application server page/package to tunnel TCP traffic over an HTTP/HTTPS connection to a web application server. In other words, anywhere that one could deploy a web shell, one should now be able to establish a full TCP tunnel. This permits making RDP, interactive SSH, Meterpreter, and other connections through the web application server.
 - `ADFSDump <https://github.com/mandiant/ADFSDump>`_ - A C# tool to dump all sorts of goodies from AD FS.
 - `Apfell <https://github.com/its-a-feature/Apfell>`_ - A collaborative, multi-platform, red teaming framework.
