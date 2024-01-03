@@ -751,6 +751,7 @@ Password Cracking
 - `RSMangler <https://github.com/digininja/RSMangler>`_ - It will take a wordlist and perform various manipulations on it similar to those done by John the Ripper with a few extras.
 - `SharpDomainSpray <https://github.com/HunnicCyber/SharpDomainSpray>`_ - Basic password spraying tool for internal tests and red teaming.
 - `THC-Hydra <https://www.thc.org/thc-hydra/>`_ - A very fast network logon cracker which support many different services.
+- `Thor <https://github.com/vrikodar/Thor>`_ - BruteForce SSH Login Credentials much Faster.
 
 Port Scanning
 -------------

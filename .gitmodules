@@ -2566,3 +2566,6 @@
 [submodule "Penetration Testing/Post Exploitation/AADInternals"]
 	path = Penetration Testing/Post Exploitation/AADInternals
 	url = https://github.com/Gerenios/AADInternals.git
+[submodule "Penetration Testing/Password Cracking/Thor"]
+	path = Penetration Testing/Password Cracking/Thor
+	url = https://github.com/vrikodar/Thor.git
