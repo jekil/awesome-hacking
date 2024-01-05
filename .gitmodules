@@ -2569,3 +2569,6 @@
 [submodule "Penetration Testing/Password Cracking/Thor"]
 	path = Penetration Testing/Password Cracking/Thor
 	url = https://github.com/vrikodar/Thor.git
+[submodule "Penetration Testing/Password Cracking/foremanBrute"]
+	path = Penetration Testing/Password Cracking/foremanBrute
+	url = https://github.com/invicnaper/foremanBrute.git
