@@ -2572,3 +2572,6 @@
 [submodule "Penetration Testing/Password Cracking/foremanBrute"]
 	path = Penetration Testing/Password Cracking/foremanBrute
 	url = https://github.com/invicnaper/foremanBrute.git
+[submodule "Penetration Testing/Web/bruteCookie"]
+	path = Penetration Testing/Web/bruteCookie
+	url = https://github.com/captain-woof/bruteCookie.git
