@@ -45,6 +45,7 @@ Static Analysis
 ---------------
 
 - `Brakeman <http://brakemanscanner.org>`_ - A static analysis security vulnerability scanner for Ruby on Rails applications.
+- `Detekt <https://github.com/detekt/detekt>`_ - A static code analysis tool for the Kotlin programming language.
 - `Dr. Taint <https://github.com/toshipiazza/drtaint>`_ - A very WIP DynamoRIO module built on the Dr. Memory Framework to implement taint analysis on ARM.
 - `Gitleaks <https://github.com/zricethezav/gitleaks>`_ - A SAST tool for detecting and preventing hardcoded secrets like passwords, api keys, and tokens in git repos. Gitleaks is an easy-to-use, all-in-one solution for detecting secrets, past or present, in your code.
 - `GoKart <https://github.com/praetorian-inc/gokart>`_ - A static analysis tool for Go that finds vulnerabilities using the SSA (single static assignment) form of Go source code.

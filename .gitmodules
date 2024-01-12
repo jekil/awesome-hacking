@@ -2575,3 +2575,6 @@
 [submodule "Penetration Testing/Web/bruteCookie"]
 	path = Penetration Testing/Web/bruteCookie
 	url = https://github.com/captain-woof/bruteCookie.git
+[submodule "Code Auditing/Static Analysis/detekt"]
+	path = Code Auditing/Static Analysis/detekt
+	url = https://github.com/detekt/detekt.git
