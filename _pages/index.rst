@@ -860,6 +860,7 @@ Training
 --------
 
 - `Android-InsecureBankv2 <https://github.com/dineshshetty/Android-InsecureBankv2>`_ - Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities.
+- `Attack_range <https://github.com/splunk/attack_range>`_ - A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk
 - `BadBlood <https://github.com/davidprowe/BadBlood>`_ - Fills a Microsoft Active Directory Domain with a structure and thousands of objects. The output of the tool is a domain similar to a domain in the real world. After BadBlood is ran on a domain, security analysts and engineers can practice using tools to gain an understanding and prescribe to securing Active Directory.
 - `DIVA Android <https://github.com/payatu/diva-android>`_ - Damn Insecure and vulnerable App for Android.
 - `DVCP-TE <https://github.com/satejnik/DVCP-TE>`_ - Damn Vulnerable Chemical Process - Tennessee Eastman.

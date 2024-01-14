@@ -2578,3 +2578,6 @@
 [submodule "Code Auditing/Static Analysis/detekt"]
 	path = Code Auditing/Static Analysis/detekt
 	url = https://github.com/detekt/detekt.git
+[submodule "Penetration Testing/Training/attack_range"]
+	path = Penetration Testing/Training/attack_range
+	url = https://github.com/splunk/attack_range.git
