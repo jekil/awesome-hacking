@@ -2581,3 +2581,6 @@
 [submodule "Penetration Testing/Training/attack_range"]
 	path = Penetration Testing/Training/attack_range
 	url = https://github.com/splunk/attack_range.git
+[submodule "Penetration Testing/Exploiting/PassTheChallenge"]
+	path = Penetration Testing/Exploiting/PassTheChallenge
+	url = https://github.com/ly4k/PassTheChallenge.git

@@ -522,6 +522,7 @@ Exploiting
 - `PEzor <https://github.com/phra/PEzor>`_ - Open-Source PE Packer.
 - `PRET <https://github.com/RUB-NDS/PRET>`_ - Printer Exploitation Toolkit. The tool that made dumpster diving obsolete.
 - `PSKernel-Primitives <https://github.com/FuzzySecurity/PSKernel-Primitives>`_ - Exploit primitives for PowerShell.
+- `PassTheChallenge <https://github.com/ly4k/PassTheChallenge>`_ - Recovering NTLM hashes from Credential Guard.
 - `Peirates <https://github.com/inguardians/peirates>`_ - A Kubernetes penetration tool, enables an attacker to escalate privilege and pivot through a Kubernetes cluster. It automates known techniques to steal and collect service accounts, obtain further code execution, and gain control of the cluster.
 - `PowerSploit <https://github.com/PowerShellMafia/PowerSploit/>`_ - A PowerShell Post-Exploitation Framework.
 - `ProxyLogon <https://github.com/RickGeex/ProxyLogon>`_ - ProxyLogon is the formally generic name for CVE-2021-26855, a vulnerability on Microsoft Exchange Server that allows an attacker bypassing the authentication and impersonating as the admin. We have also chained this bug with another post-auth arbitrary-file-write vulnerability, CVE-2021-27065, to get code execution.
