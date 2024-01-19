@@ -1121,6 +1121,7 @@ Cloud Security
 - `PurplePanda <https://github.com/carlospolop/PurplePanda>`_ - This tool fetches resources from different cloud/saas applications focusing on permissions in order to identify privilege escalation paths and dangerous permissions in the cloud/saas configurations. Note that PurplePanda searches both privileges escalation paths within a platform and across platforms.
 - `SWAT <https://github.com/elastic/SWAT>`_ - Simple Workspace Attack Tool (SWAT) is a tool for simulating malicious behavior against Google Workspace in reference to the MITRE ATT&CK framework.
 - `Security Monkey <https://github.com/Netflix/security_monkey>`_ - Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
+- `SyntheticSun <https://github.com/jonrau1/SyntheticSun>`_ - A defense-in-depth security automation and monitoring framework which utilizes threat intelligence, machine learning, managed AWS security services and, serverless technologies to continuously prevent, detect and respond to threats.
 - `ThreatMapper <https://github.com/deepfence/ThreatMapper>`_ - Hunts for threats in your production platforms, and ranks these threats based on their risk-of-exploit. It uncovers vulnerable software components, exposed secrets and deviations from good security practice.
 - `Varna <https://github.com/endgameinc/varna>`_ - Quick & Cheap AWS CloudTrail Monitoring with Event Query Language (EQL)
 Resources
@@ -1161,6 +1162,7 @@ Network Security
 Orchestration
 -------------
 
+- `EmailScanner <https://github.com/ag-michael/EmailScanner>`_ - An integration application in python that uses `exchangelib` to process mail items in Microsoft exchange.
 - `Stoq <https://stoq.punchcyber.com/>`_ - An open source framework for enterprise level automated analysis.
 
 Phishing

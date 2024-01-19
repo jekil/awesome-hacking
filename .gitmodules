@@ -2584,3 +2584,9 @@
 [submodule "Penetration Testing/Exploiting/PassTheChallenge"]
 	path = Penetration Testing/Exploiting/PassTheChallenge
 	url = https://github.com/ly4k/PassTheChallenge.git
+[submodule "Security/Cloud Security/SyntheticSun"]
+	path = Security/Cloud Security/SyntheticSun
+	url = https://github.com/jonrau1/SyntheticSun.git
+[submodule "Security/Orchestration/EmailScanner"]
+	path = Security/Orchestration/EmailScanner
+	url = https://github.com/ag-michael/EmailScanner.git
