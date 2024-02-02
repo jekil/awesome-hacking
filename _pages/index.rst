@@ -741,6 +741,7 @@ Password Cracking
 
 - `BozoCrack <https://github.com/juuso/BozoCrack>`_ - A silly & effective MD5 cracker in Ruby.
 - `Common-substr <https://github.com/SensePost/common-substr>`_ - Simple awk script to extract the most common substrings from an input text. Built for password cracking.
+- `Facebook-BruteForce <https://github.com/IAmBlackHacker/Facebook-BruteForce>`_ - Bruteforce attack on Facebook account using python script.
 - `ForemanBrute <https://github.com/invicnaper/foremanBrute>`_ - ForemanBrute allows you To bruteForce the login page of Foreman.
 - `Haklistgen <https://github.com/hakluke/haklistgen>`_ - Turns any junk text into a usable wordlist for brute-forcing.
 - `HashCat <https://hashcat.net/hashcat/>`_ - World's fastest and most advanced password recovery utility.
