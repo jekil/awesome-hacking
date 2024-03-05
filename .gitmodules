@@ -2593,3 +2593,6 @@
 [submodule "Penetration Testing/Password Cracking/Facebook-BruteForce"]
 	path = Penetration Testing/Password Cracking/Facebook-BruteForce
 	url = https://github.com/IAmBlackHacker/Facebook-BruteForce.git
+[submodule "Penetration Testing/Exploits/nccfsas"]
+	path = Penetration Testing/Exploits/nccfsas
+	url = https://github.com/nccgroup/nccfsas.git
