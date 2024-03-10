@@ -2596,3 +2596,6 @@
 [submodule "Penetration Testing/Exploits/nccfsas"]
 	path = Penetration Testing/Exploits/nccfsas
 	url = https://github.com/nccgroup/nccfsas.git
+[submodule "Penetration Testing/Exploiting/GadgetToJScript"]
+	path = Penetration Testing/Exploiting/GadgetToJScript
+	url = https://github.com/med0x2e/GadgetToJScript.git

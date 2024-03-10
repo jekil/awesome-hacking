@@ -502,6 +502,7 @@ Exploiting
 - `Evilgrade <https://github.com/infobyte/evilgrade>`_ - The update explotation framework.
 - `Exe2hex <https://github.com/g0tmi1k/exe2hex>`_ - Inline file transfer using in-built Windows tools (DEBUG.exe or PowerShell).
 - `Fathomless <https://github.com/xor-function/fathomless>`_ - A collection of different programs for network red teaming.
+- `GadgetToJScript <https://github.com/med0x2e/GadgetToJScript>`_ - A tool for generating .NET serialized gadgets that can trigger .NET assembly load/execution when deserialized using BinaryFormatter from JS/VBS/VBA based scripts.
 - `Gorsair <https://github.com/Ullaakut/Gorsair>`_ - Gorsair hacks its way into remote docker containers that expose their APIs.
 - `Infection Monkey <https://github.com/guardicore/monkey>`_ - An open source security tool for testing a data center's resiliency to perimeter breaches and internal server infection. The Monkey uses various methods to self propagate across a data center and reports success to a centralized Monkey Island server.
 - `Jir-thief <https://github.com/antman1p/Jir-Thief>`_ - A Red Team tool for exfiltrating sensitive data from Jira tickets.
@@ -589,6 +590,7 @@ Exploits
 - `Jira-Scan <https://github.com/random-robbie/Jira-Scan>`_ - Jira scanner for CVE-2017-9506.
 - `Kernel Exploits <https://github.com/bcoles/kernel-exploits>`_ - Various kernel exploits.
 - `MS17-010 <https://github.com/worawit/MS17-010>`_ - Exploits for MS17-010.
+- `Nccfsas <https://github.com/nccgroup/nccfsas>`_ - Holds information released publicly by NCC Group's Full Spectrum Attack Simulation (FSAS) team.
 - `Proxyshell-Exchange <https://github.com/mr-r3bot/Proxyshell-Exchange>`_ - Poc script for ProxyShell exploit chain in Exchange Server.
 - `Proxyshell-auto <https://github.com/Udyz/proxyshell-auto>`_ - Automatic ProxyShell Exploit.
 - `Proxyshell-poc <https://github.com/dmaasland/proxyshell-poc>`_ - Proxyshell POC
