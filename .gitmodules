@@ -2599,3 +2599,6 @@
 [submodule "Penetration Testing/Exploiting/GadgetToJScript"]
 	path = Penetration Testing/Exploiting/GadgetToJScript
 	url = https://github.com/med0x2e/GadgetToJScript.git
+[submodule "Penetration Testing/Exploiting/Inveigh"]
+	path = Penetration Testing/Exploiting/Inveigh
+	url = https://github.com/Kevin-Robertson/Inveigh.git
