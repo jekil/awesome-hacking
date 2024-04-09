@@ -845,7 +845,7 @@ Reporting
 - `APTRS <https://github.com/Anof-cyber/APTRS>`_ - Automated Penetration Testing Reporting System is an automated reporting tool in Python and Django. The tool allows Penetration testers to create a report directly without using the Traditional Docx file. It also provides an approach to keeping track of the projects and vulnerabilities.
 - `Cartography <https://github.com/lyft/cartography>`_ - A Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 - `DefectDojo <https://github.com/DefectDojo/django-DefectDojo>`_ - An open-source application vulnerability correlation and security orchestration tool.
-- `Dradis <https://dradisframework.com/ce/>`_ - Colllaboration and reporting for IT Security teams.
+- `Dradis <https://dradis.com/ce/>`_ - Colllaboration and reporting for IT Security teams.
 - `Faraday <http://www.faradaysec.com>`_ - Collaborative Penetration Test and Vulnerability Management Platform.
 - `PwnDoc <https://github.com/pwndoc/pwndoc>`_ - A pentest reporting application making it simple and easy to write your findings and generate a customizable Docx report.
 The main goal is to have more time to Pwn and less time to Doc by mutualizing data like vulnerabilities between users.
