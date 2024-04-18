@@ -2605,3 +2605,12 @@
 [submodule "Penetration Testing/Exploiting/Rubeus"]
 	path = Penetration Testing/Exploiting/Rubeus
 	url = https://github.com/GhostPack/Rubeus.git
+[submodule "Penetration Testing/Exploiting/AndrewSpecial"]
+	path = Penetration Testing/Exploiting/AndrewSpecial
+	url = https://github.com/hoangprod/AndrewSpecial.git
+[submodule "Forensics/Memory Forensics/KeeFarce"]
+	path = Forensics/Memory Forensics/KeeFarce
+	url = https://github.com/denandz/KeeFarce.git
+[submodule "Penetration Testing/Exploits/CVE-2024-3400"]
+	path = Penetration Testing/Exploits/CVE-2024-3400
+	url = https://github.com/h4x0r-dz/CVE-2024-3400.git

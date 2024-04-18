@@ -136,6 +136,7 @@ Live Analysis
 Memory Forensics
 ----------------
 
+- `KeeFarce <https://github.com/denandz/KeeFarce>`_ - Extracts passwords from a KeePass 2.x database, directly from memory.
 - `Rekall <http://www.rekall-forensic.com>`_ - Memory analysis framework developed by Google.
 - `Volatility <https://github.com/volatilityfoundation/volatility3>`_ - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples. The extraction techniques are performed completely independent of the system being investigated but offer visibility into the runtime state of the system. The framework is intended to introduce people to the techniques and complexities associated with extracting digital artifacts from volatile memory samples and provide a platform for further work into this exciting area of research.
 
@@ -486,6 +487,7 @@ DoS
 Exploiting
 ----------
 
+- `AndrewSpecial <https://github.com/hoangprod/AndrewSpecial>`_ - Dumping lsass' memory stealthily and bypassing "Cilence" since 2019.
 - `AttackSurfaceAnalyzer <https://github.com/microsoft/AttackSurfaceAnalyzer>`_ - Attack Surface Analyzer can help you analyze your operating system's security configuration for changes during software installation.
 - `Bashfuscator <https://github.com/Bashfuscator/Bashfuscator>`_ - A fully configurable and extendable Bash obfuscation framework. This tool is intended to help both red team and blue team.
 - `BeEF <http://beefproject.com>`_ - The Browser Exploitation Framework Project.
@@ -531,6 +533,7 @@ Exploiting
 - `ROP Gadget <http://shell-storm.org/project/ROPgadget/>`_ - Framework for ROP exploitation.
 - `Ropper <https://github.com/sashs/Ropper>`_ - Display information about files in different file formats and find gadgets to build rop chains for different architectures (x86/x86_64, ARM/ARM64, MIPS, PowerPC, SPARC64). For disassembly ropper uses the awesome Capstone Framework.
 - `Routersploit <https://github.com/reverse-shell/routersploit>`_ - Automated penetration testing software for router.
+- `Rubeus <https://github.com/GhostPack/Rubeus>`_ - A C# toolset for raw Kerberos interaction and abuses.
 - `Rupture <https://github.com/dionyziz/rupture/>`_ - A framework for BREACH and other compression-based crypto attacks.
 - `SPARTA <http://sparta.secforce.com>`_ - Network Infrastructure Penetration Testing Tool.
 - `Shark <https://github.com/9176324/Shark>`_ - Turn off PatchGuard in real time for win7 (7600) ~ win10 (18950).
@@ -576,6 +579,7 @@ Exploits
 - `CVE-2022-21894 <https://github.com/Wack0/CVE-2022-21894>`_ - Baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability
 - `CVE-2022-25636 <https://github.com/Bonfee/CVE-2022-25636>`_ - Exploit for CVE-2022-25636.
 - `CVE-2023-4863 <https://github.com/mistymntncop/CVE-2023-4863>`_ - A POC for CVE-2023-4863.
+- `CVE-2024-3400 <https://github.com/h4x0r-dz/CVE-2024-3400>`_ - CVE-2024-3400 Palo Alto OS Command Injection.
 - `Chakra-2016-11 <https://github.com/theori-io/chakra-2016-11>`_ - Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 & CVE-2016-7201).
 - `Chimay-Red <https://github.com/BigNerd95/Chimay-Red>`_ - Working POC of Mikrotik exploit from Vault 7 CIA Leaks.
 - `Desharialize <https://github.com/Voulnet/desharialize>`_ - Easy mode to Exploit CVE-2019-0604 (Sharepoint XML Deserialization Unauthenticated RCE).
