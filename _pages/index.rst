@@ -557,6 +557,7 @@ Exploits
 --------
 
 - `Apache-uaf <https://github.com/hannob/apache-uaf>`_ - Apache use after free bug infos / ASAN stack traces.
+- `AutoBlue-MS17-010 <https://github.com/3ndG4me/AutoBlue-MS17-010>`_ - An semi-automated fully working, no-bs, non-metasploit version of the public exploit code for MS17-010.
 - `BlueGate <https://github.com/ollypwn/BlueGate>`_ - PoC (DoS + scanner) for CVE-2020-0609 & CVE-2020-0610 - RD Gateway RCE.
 - `Broadpwn <https://github.com/mailinneberg/Broadpwn>`_ - Broadpwn bug (CVE-2017-9417).
 - `CVE-2016-5195 <https://github.com/gbonacini/CVE-2016-5195>`_ - A CVE-2016-5195 exploit example.
