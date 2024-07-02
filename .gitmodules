@@ -2617,3 +2617,9 @@
 [submodule "Penetration Testing/Exploits/AutoBlue-MS17-010"]
 	path = Penetration Testing/Exploits/AutoBlue-MS17-010
 	url = https://github.com/3ndG4me/AutoBlue-MS17-010.git
+[submodule "Penetration Testing/Exploits/windows-kernel-exploits"]
+	path = Penetration Testing/Exploits/windows-kernel-exploits
+	url = https://github.com/SecWiki/windows-kernel-exploits.git
+[submodule "Penetration Testing/Exploiting/gcpwn"]
+	path = Penetration Testing/Exploiting/gcpwn
+	url = https://github.com/NetSPI/gcpwn.git
