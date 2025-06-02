@@ -291,6 +291,8 @@ Honeypot
 - `CitrixHoneypot <https://github.com/MalwareTech/CitrixHoneypot>`_ - Detect and log CVE-2019-19781 scan and exploitation attempts.
 - `Conpot <https://github.com/mushorg/conpot>`_ - ICS/SCADA honeypot.
 - `Cowrie <https://www.cowrie.org>`_ - SSH honeypot, based on Kippo.
+- `DECEIVE <https://github.com/splunk/DECEIVE>`_ - DECeption with Evaluative Integrated Validation Engine (DECEIVE): Let an LLM do all the hard honeypot work!
+- `DICOMHawk <https://github.com/honeynet/DICOMHawk>`_ - A powerful and efficient honeypot for DICOM servers, designed to attract and log unauthorized access attempts and interactions. Built using Flask and pynetdicom, DICOMHawk offers a streamlined web interface for monitoring and managing DICOM interactions in real-time.
 - `Dionaea <https://github.com/DinoTools/dionaea>`_ - Honeypot designed to trap malware.
 - `Django-admin-honeypot <https://github.com/dmpayton/django-admin-honeypot>`_ - A fake Django admin login screen to log and notify admins of attempted unauthorized access.
 - `ESPot <https://github.com/mycert/ESPot>`_ - An Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
@@ -309,6 +311,7 @@ Honeypot
 - `HonnyPotter <https://github.com/MartinIngesen/HonnyPotter>`_ - A WordPress login honeypot for collection and analysis of failed login attempts.
 - `Kippo <https://github.com/desaster/kippo>`_ - A medium interaction SSH honeypot designed to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.
 - `Kippo-graph <https://github.com/ikoniaris/kippo-graph>`_ - Visualize statistics from a Kippo SSH honeypot.
+- `Koney <https://github.com/dynatrace-oss/koney>`_ - Koney is a Kubernetes operator that enables you to define so-called deception policies for your cluster. Koney automates the setup, rotation, and teardown of honeytokens and fake API endpoints, and uses eBPF to detect, log, and forward alerts when your traps have been accessed.
 - `Log4Pot <https://github.com/thomaspatzke/Log4Pot>`_ - A honeypot for the Log4Shell vulnerability (CVE-2021-44228).
 - `MTPot <https://github.com/Cymmetria/MTPot>`_ - Open Source Telnet Honeypot.
 - `Maildb <https://github.com/kevthehermit/Maildb>`_ - Python Web App to Parse and Track Email and http Pcap Files.
@@ -335,6 +338,7 @@ Honeypot
 - `Tanner <https://github.com/mushorg/tanner>`_ - A remote data analysis and classification service to evaluate HTTP requests and composing the response then served by SNARE. TANNER uses multiple application vulnerability type emulation techniques when providing responses for SNARE. In addition, TANNER provides Dorks for SNARE powering its luring capabilities.
 - `Thug <https://github.com/buffer/thug>`_ - Low interaction honeyclient, for investigating malicious websites.
 - `Twisted-honeypots <https://github.com/lanjelot/twisted-honeypots>`_ - SSH, FTP and Telnet honeypots based on Twisted.
+- `VelLMes <https://github.com/stratosphereips/VelLMes-AI-Deception-Framework>`_ - Creates interactive, dynamic, and realistic honeypots through the use of Large Language Models (LLMs). The VelLMes tool was created from a research project to show the effectiveness of dynamic fake file systems and command responses to keep attackers trapped longer, thus increasing the intelligence collected.
 - `Wetland <https://github.com/ohmyadd/wetland>`_ - A high interaction SSH honeypot.
 - `Wordpot <https://github.com/gbrindisi/wordpot>`_ - A WordPress Honeypot.
 - `Wp-smart-honeypot <https://github.com/freak3dot/wp-smart-honeypot>`_ - WordPress plugin to reduce comment spam with a smarter honeypot.

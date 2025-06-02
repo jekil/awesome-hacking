@@ -2623,3 +2623,15 @@
 [submodule "Penetration Testing/Exploiting/gcpwn"]
 	path = Penetration Testing/Exploiting/gcpwn
 	url = https://github.com/NetSPI/gcpwn.git
+[submodule "Malware/Honeypot/DECEIVE"]
+	path = Malware/Honeypot/DECEIVE
+	url = https://github.com/splunk/DECEIVE.git
+[submodule "Malware/Honeypot/koney"]
+	path = Malware/Honeypot/koney
+	url = https://github.com/dynatrace-oss/koney.git
+[submodule "Malware/Honeypot/VelLMes-AI-Deception-Framework"]
+	path = Malware/Honeypot/VelLMes-AI-Deception-Framework
+	url = https://github.com/stratosphereips/VelLMes-AI-Deception-Framework.git
+[submodule "Malware/Honeypot/DICOMHawk"]
+	path = Malware/Honeypot/DICOMHawk
+	url = https://github.com/honeynet/DICOMHawk.git
