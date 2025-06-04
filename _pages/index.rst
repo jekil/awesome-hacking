@@ -185,6 +185,7 @@ Intelligence
 ============
 
 - `Attackintel <https://github.com/gr4ym4ntx/attackintel>`_ - A python script to query the MITRE ATT&CK API for tactics, techniques, mitigations, & detection methods for specific threat groups.
+- `CTIDiagram <https://github.com/hugo-glez/ctidiagram>`_ - Making attack flow diagrams in an standar way.
 - `DeepdarkCTI <https://github.com/fastfire/deepdarkCTI>`_ - The aim of this project is to collect the sources, present in the Deep and Dark web, which can be useful in Cyber Threat Intelligence contexts.
 - `Dnstwist <https://github.com/elceef/dnstwist>`_ - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation.
 - `IntelOwl <https://github.com/certego/IntelOwl>`_ - Analyze files, domains, IPs in multiple ways from a single API at scale. 
@@ -999,6 +1000,7 @@ Reverse Engineering
 - `BinWalk <https://github.com/devttys0/binwalk>`_ - Analyze, reverse engineer, and extract firmware images.
 - `Binaryanalysis-ng <https://github.com/armijnhemel/binaryanalysis-ng>`_ - Binary Analysis Next Generation is a framework for unpacking files (like firmware) recursively and running checks on the unpacked files. Its intended use is to be able to find out the provenance of the unpacked files and classify/label files, making them available for further analysis.
 - `Binee <https://github.com/carbonblack/binee>`_ - A complete binary emulation environment that focuses on introspection of all IO operations.
+- `Bone Density <https://github.com/nesrak1/bonedensity>`_ - Python deobfuscation tool.
 - `Boomerang <https://github.com/BoomerangDecompiler/boomerang>`_ - Decompile x86/SPARC/PowerPC/ST-20 binaries to C.
 - `Bytecode-viewer <https://bytecodeviewer.com>`_ - A Java 8 Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More).
 - `Bytecode_graph <https://github.com/fireeye/flare-bytecode_graph>`_ - Module designed to modify Python bytecode. Allows instructions to be added or removed from a Python bytecode string.

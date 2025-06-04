@@ -2635,3 +2635,9 @@
 [submodule "Malware/Honeypot/DICOMHawk"]
 	path = Malware/Honeypot/DICOMHawk
 	url = https://github.com/honeynet/DICOMHawk.git
+[submodule "Intelligence/ctidiagram"]
+	path = Intelligence/ctidiagram
+	url = https://github.com/hugo-glez/ctidiagram.git
+[submodule "Reverse Engineering/bonedensity"]
+	path = Reverse Engineering/bonedensity
+	url = https://github.com/nesrak1/bonedensity.git
