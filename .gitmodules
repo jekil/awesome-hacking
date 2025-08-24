@@ -2641,3 +2641,6 @@
 [submodule "Reverse Engineering/bonedensity"]
 	path = Reverse Engineering/bonedensity
 	url = https://github.com/nesrak1/bonedensity.git
+[submodule "Penetration Testing/Training/LudusHound"]
+	path = Penetration Testing/Training/LudusHound
+	url = https://github.com/bagelByt3s/LudusHound.git
