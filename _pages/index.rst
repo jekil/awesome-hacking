@@ -891,6 +891,7 @@ Training
 - `Kubernetes Goat <https://github.com/madhuakula/kubernetes-goat>`_ - Designed to be intentionally vulnerable cluster environment to learn and practice Kubernetes security.
 - `LudusHound <https://github.com/bagelByt3s/LudusHound>`_ - A tool for red and blue teams that transforms BloodHound data into a fully functional, Active Directory replica environment via Ludus for controlled testing.
 - `Metasploitable3 <https://github.com/rapid7/metasploitable3>`_ - A VM that is built from the ground up with a large amount of security vulnerabilities. It is intended to be used as a target for testing exploits with metasploit.
+- `OopsSec Store <https://github.com/kOaDT/oss-oopssec-store>`_ - An intentionally vulnerable e-commerce application built with Next.js and React for learning web security, including OWASP Top 10, API security flaws, and CTF challenges.
 - `OWASP Juice Shop <https://www.owasp.org/index.php/OWASP_Juice_Shop_Project>`_ - An intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.
 - `OWASP NodeGoat <https://www.owasp.org/index.php/Projects/OWASP_Node_js_Goat_Project>`_ - An environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
 - `OWASP Railsgoat <http://railsgoat.cktricky.com/>`_ - A vulnerable version of Rails that follows the OWASP Top 10.
