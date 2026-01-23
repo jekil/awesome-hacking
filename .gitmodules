@@ -2245,9 +2245,6 @@
 [submodule "Reverse Engineering/ilo4_toolbox"]
 	path = Reverse Engineering/ilo4_toolbox
 	url = https://github.com/airbus-seclab/ilo4_toolbox.git
-[submodule "Penetration Testing/Exploits/CVE-2021-1965"]
-	path = Penetration Testing/Exploits/CVE-2021-1965
-	url = https://github.com/parsdefense/CVE-2021-1965.git
 [submodule "Reverse Engineering/edb"]
 	path = Reverse Engineering/edb
 	url = https://github.com/dylandreimerink/edb.git
