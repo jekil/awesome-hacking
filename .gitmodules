@@ -1468,9 +1468,6 @@
 [submodule "Penetration Testing/Exploiting/SysWhispers"]
 	path = Penetration Testing/Exploiting/SysWhispers
 	url = https://github.com/jthuraisamy/SysWhispers.git
-[submodule "Forensics/Network Forensics/website-evidence-collector"]
-	path = Forensics/Network Forensics/website-evidence-collector
-	url = https://github.com/EU-EDPS/website-evidence-collector.git
 [submodule "Penetration Testing/Fuzzing/retrowrite"]
 	path = Penetration Testing/Fuzzing/retrowrite
 	url = https://github.com/HexHive/retrowrite.git
@@ -2644,3 +2641,9 @@
 [submodule "Penetration Testing/Training/LudusHound"]
 	path = Penetration Testing/Training/LudusHound
 	url = https://github.com/bagelByt3s/LudusHound.git
+[submodule "Penetration Testing/Training/vulnerable-mcp-servers-lab"]
+	path = Penetration Testing/Training/vulnerable-mcp-servers-lab
+	url = https://github.com/appsecco/vulnerable-mcp-servers-lab.git
+[submodule "Penetration Testing/Training/oss-oopssec-store"]
+	path = Penetration Testing/Training/oss-oopssec-store
+	url = https://github.com/kOaDT/oss-oopssec-store.git

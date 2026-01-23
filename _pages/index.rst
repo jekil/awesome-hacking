@@ -898,9 +898,11 @@ Training
 - `OWASP WebGoat <https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project>`_ - A deliberately insecure Web Application.
 - `OWASP WrongSecrets <https://github.com/commjoen/wrongsecrets>`_ - With this app, we have packed various ways of how to not store your secrets. These can help you to realize whether your secret management is ok. The challenge is to find all the different secrets by means of various tools and techniques.
 - `OWASP-SKF <https://github.com/blabla1337/skf-flask>`_ - The OWASP Security Knowledge Framework is an open source web application that explains secure coding principles in multiple programming languages.
+- `OopsSec Store <https://github.com/kOaDT/oss-oopssec-store>`_ - Deliberately vulnerable Next.js e-commerce for web security training and CTF use.
 - `RopeyTasks <https://github.com/continuumsecurity/RopeyTasks>`_ - Deliberately vulnerable web application.
 - `Sadcloud <https://github.com/nccgroup/sadcloud>`_ - A tool for standing up (and tearing down!) purposefully insecure cloud infrastructure.
 - `Sqli-labs <https://github.com/Audi-1/sqli-labs>`_ - SQLI labs to test error based, Blind boolean based, Time based.
+- `Vulnerable-mcp-servers-lab <https://github.com/appsecco/vulnerable-mcp-servers-lab>`_ - A collection of servers which are deliberately vulnerable to learn Pentesting MCP Servers.
 - `WackoPicko <https://github.com/adamdoupe/WackoPicko>`_ - A vulnerable web application used to test web application vulnerability scanners.
 - `Xvwa <https://github.com/s4n7h0/xvwa>`_ - XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.
 
