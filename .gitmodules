@@ -1711,9 +1711,6 @@
 [submodule "Reverse Engineering/Ponce"]
 	path = Reverse Engineering/Ponce
 	url = https://github.com/illera88/Ponce.git
-[submodule "Penetration Testing/Fuzzing/vfuzz"]
-	path = Penetration Testing/Fuzzing/vfuzz
-	url = https://github.com/guidovranken/vfuzz.git
 [submodule "Penetration Testing/Exploiting/lava"]
 	path = Penetration Testing/Exploiting/lava
 	url = https://github.com/panda-re/lava.git
