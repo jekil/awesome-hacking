@@ -1042,9 +1042,6 @@
 [submodule "Pentration Testing/Post Exploitation/mimikittenz"]
 	path = Penetration Testing/Post Exploitation/mimikittenz
 	url = https://github.com/putterpanda/mimikittenz.git
-[submodule "Pentration Testing/Post Exploitation/spYDyishai"]
-	path = Penetration Testing/Post Exploitation/spYDyishai
-	url = https://github.com/Night46/spYDyishai.git
 [submodule "Pentration Testing/Post Exploitation/CrackMapExec"]
 	path = Penetration Testing/Post Exploitation/CrackMapExec
 	url = https://github.com/byt3bl33d3r/CrackMapExec.git
