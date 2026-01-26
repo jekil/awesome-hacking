@@ -516,7 +516,7 @@
 	url = https://github.com/OWASP/NodeGoat.git
 [submodule "Pentration Testing/Training/juice-shop"]
 	path = Penetration Testing/Training/juice-shop
-	url = https://github.com/bkimminich/juice-shop.git
+	url = https://github.com/juice-shop/juice-shop.git
 [submodule "Malware/Honeypot/glutton"]
 	path = Malware/Honeypot/glutton
 	url = https://github.com/mushorg/glutton.git
