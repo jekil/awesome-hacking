@@ -976,9 +976,6 @@
 [submodule "Pentration Testing/Exploits/Jira-Scan"]
 	path = Penetration Testing/Exploits/Jira-Scan
 	url = https://github.com/random-robbie/Jira-Scan.git
-[submodule "Pentration Testing/Web/xss-payload-list"]
-	path = Penetration Testing/Web/xss-payload-list
-	url = https://github.com/ismailtasdelen/xss-payload-list.git
 [submodule "Security/Cloud Security/azucar"]
 	path = Security/Cloud Security/azucar
 	url = https://github.com/nccgroup/azucar.git
