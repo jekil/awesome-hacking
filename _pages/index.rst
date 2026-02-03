@@ -169,7 +169,6 @@ Network Forensics
 - `Dshell <https://github.com/USArmyResearchLab/Dshell>`_ - A network forensic analysis framework.
 - `Joy <https://github.com/cisco/joy>`_ - A package for capturing and analyzing network flow data and intraflow data, for network research, forensics, and security monitoring.
 - `Passivedns <https://github.com/gamelinux/passivedns>`_ - A network sniffer that logs all DNS server replies for use in a passive DNS setup.
-- `Website Evidence Collector <https://github.com/EU-EDPS/website-evidence-collector>`_ - The tool Website Evidence Collector (WEC) automates the website evidence collection of storage and transfer of personal data.
 
 Hardware Hacking
 ================
@@ -579,7 +578,6 @@ Exploits
 - `CVE-2020-1350-DoS <https://github.com/maxpl0it/CVE-2020-1350-DoS>`_ - A denial-of-service proof-of-concept for CVE-2020-1350.
 - `CVE-2020-1472 <https://github.com/VoidSec/CVE-2020-1472>`_ - Exploit Code for CVE-2020-1472 aka Zerologon.
 - `CVE-2020-1472_2 <https://github.com/dirkjanm/CVE-2020-1472>`_ - PoC for Zerologon
-- `CVE-2021-1965 <https://github.com/parsdefense/CVE-2021-1965>`_ - CVE-2021-1965 WiFi Zero Click RCE Trigger PoC
 - `CVE-2021-26855_PoC <https://github.com/alt3kx/CVE-2021-26855_PoC>`_ - SSRF payloads (CVE-2021-26855) over Exchange Server 2019.
 - `CVE-2021-31166 <https://github.com/0vercl0k/CVE-2021-31166>`_ - Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.
 - `CVE-2021-34473 <https://github.com/phamphuqui1998/CVE-2021-34473>`_ - CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability.
@@ -652,7 +650,6 @@ Fuzzing
 - `Unicorefuzz <https://github.com/fgsect/unicorefuzz>`_ - Fuzzing the Kernel Using Unicornafl and AFL++.
 - `Unicornafl <https://github.com/AFLplusplus/unicornafl>`_ - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, X86) adapted to afl++.
 - `VUzzer <https://github.com/vusec/vuzzer>`_ - This Project depends heavily on a modeified version of DataTracker, which in turn depends on LibDFT pintool. It has some extra tags added in libdft.
-- `Vfuzz <https://github.com/guidovranken/vfuzz>`_ - I don't claim superiority over other engines in performance or efficiency out of the box, but this does implement some features that I felt where lacking elsewhere.
 - `Winafl <https://github.com/googleprojectzero/winafl>`_ - A fork of AFL for fuzzing Windows binaries.
 - `Winafl_inmemory <https://github.com/s0i37/winafl_inmemory>`_ - WINAFL for blackbox in-memory fuzzing (PIN).
 - `Windows IPC Fuzzing Tools <https://www.nccgroup.trust/us/about-us/resources/windows-ipc-fuzzing-tools/>`_ - A collection of tools used to attack applications that use Windows Interprocess Communication mechanisms.
@@ -843,7 +840,6 @@ Post Exploitation
 - `Sam-the-admin <https://github.com/WazeHell/sam-the-admin>`_ - Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user.
 - `Shad0w <https://github.com/bats3c/shad0w>`_ - A post exploitation framework designed to operate covertly on heavily monitored environments.
 - `SocksOverRDP <https://github.com/nccgroup/SocksOverRDP>`_ - Socks5/4/4a Proxy support for Remote Desktop Protocol / Terminal Services.
-- `SpYDyishai <https://github.com/Night46/spYDyishai>`_ - A Gmail credential harvester.
 - `SprayWMI <https://github.com/trustedsec/spraywmi>`_ - An easy way to get mass shells on systems that support WMI. Much more effective than PSEXEC as it does not leave remnants on a system.
 - `Static-binaries <https://github.com/andrew-d/static-binaries>`_ - Various *nix tools built as statically-linked binaries.
 - `Tgcd <http://tgcd.sourceforge.net>`_ - A simple Unix network utility to extend the accessibility of TCP/IP based network services beyond firewalls.
