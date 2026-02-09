@@ -739,6 +739,7 @@ Mobile
 - `JAADAS <https://github.com/flankerhqd/JAADAS>`_ - Joint Advanced Defect assEsment for android applications.
 - `Keychain-Dumper <https://github.com/ptoomey3/Keychain-Dumper/>`_ - A tool to check which keychain items are available to an attacker once an iOS device has been jailbroken.
 - `Mobile Security Framework <http://opensecurity.in>`_ - An intelligent, all-in-one open source mobile application (Android/iOS/Windows) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
+- `NullKia <https://github.com/bad-antics/nullkia>`_ - Mobile Security Framework - Tools in Nim, Crystal, V, D, Red, Odin, Haxe, Zig, Kotlin, Lua, PHP, Python
 - `Objection <https://github.com/sensepost/objection>`_ - A runtime mobile exploration toolkit, powered by Frida, built to help you assess the security posture of your mobile applications, without needing a jailbreak.
 - `QARK <https://github.com/linkedin/qark/>`_ - QARK by LinkedIn is for app developers to scan app for security issues.
 - `RootAVD <https://github.com/0xFireball/root_avd>`_ - Rooting the Android Studio AVDs.
@@ -959,7 +960,6 @@ Web
 - `Wordpress Exploit Framework <https://github.com/rastating/wordpress-exploit-framework>`_ - A Ruby framework for developing and using modules which aid in the penetration testing of WordPress powered websites and systems.
 - `Wuzz <https://github.com/asciimoo/wuzz>`_ - Interactive cli tool for HTTP inspection
 - `XSS-keylogger <https://github.com/hadynz/xss-keylogger>`_ - A keystroke logger to exploit XSS vulnerabilities in a site.
-- `XSS-payload-list <https://github.com/ismailtasdelen/xss-payload-list>`_ - XSS Payload list.
 - `XSpear <https://github.com/hahwul/XSpear>`_ - Powerfull XSS Scanning and Parameter analysis tool&gem.
 - `Yasuo <https://github.com/0xsauby/yasuo>`_ - A ruby script that scans for vulnerable & exploitable 3rd-party web applications on a network.
 - `Zed Attack Proxy (ZAP) <https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project>`_ - The OWASP ZAP core project.

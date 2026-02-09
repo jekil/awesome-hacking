@@ -2632,3 +2632,6 @@
 [submodule "Penetration Testing/Training/oss-oopssec-store"]
 	path = Penetration Testing/Training/oss-oopssec-store
 	url = https://github.com/kOaDT/oss-oopssec-store.git
+[submodule "Penetration Testing/Mobile/nullkia"]
+	path = Penetration Testing/Mobile/nullkia
+	url = https://github.com/bad-antics/nullkia.git
