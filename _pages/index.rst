@@ -178,6 +178,7 @@ Computer
 --------
 
 - `Kbd-audio <https://github.com/ggerganov/kbd-audio>`_ - Tools for capturing and analysing keyboard input paired with microphone capture.
+- `NullSec Flipper Suite <https://github.com/bad-antics/nullsec-flipper-suite>`_ - Custom Flipper Zero payload collection including BadUSB scripts, Sub-GHz captures, NFC tools, infrared databases, and custom animations for security research and penetration testing.
 - `LimeSDR-Mini <https://github.com/myriadrf/LimeSDR-Mini>`_ - The LimeSDR-Mini board provides a hardware platform for developing and prototyping high-performance and logic-intensive digital and RF designs using Altera’s MAX10 FPGA and Lime Microsystems transceiver.
 - `NSA-B-GONE <https://github.com/zakqwy/NSA-B-GONE>`_ - Thinkpad X220 board that disconnects the webcam and microphone data lines.
 
@@ -251,6 +252,7 @@ Live CD - Distributions
 - `NST <http://networksecuritytoolkit.org>`_ - Network Security Toolkit distribution.
 - `Ophcrack <http://ophcrack.sourceforge.net>`_ - A free Windows password cracker based on rainbow tables. It is a very efficient implementation of rainbow tables done by the inventors of the method. It comes with a Graphical User Interface and runs on multiple platforms.
 - `Parrot <https://www.parrotsec.org>`_ - Security GNU/Linux distribution designed with cloud pentesting and IoT security in mind.
+- `NullSec Linux <https://github.com/bad-antics/nullsec-linux>`_ - Security-focused Linux distribution based on Parrot OS with 135+ pre-installed pentesting and privacy tools, hardened kernel configuration, and custom XFCE security workflow.
 - `Pentoo <http://www.pentoo.ch>`_ - Security-focused livecd based on Gentoo.
 - `REMnux <https://remnux.org>`_ - Toolkit for assisting malware analysts with reverse-engineering malicious software. 
 
