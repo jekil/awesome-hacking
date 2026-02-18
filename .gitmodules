@@ -2635,3 +2635,6 @@
 [submodule "Penetration Testing/Mobile/nullkia"]
 	path = Penetration Testing/Mobile/nullkia
 	url = https://github.com/bad-antics/nullkia.git
+[submodule "Security/Network Security/Mignis"]
+	path = Security/Network Security/Mignis
+	url = https://github.com/secgroup/Mignis.git

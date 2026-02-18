@@ -1172,6 +1172,7 @@ Network Security
 
 - `AdGuardHome <https://github.com/AdguardTeam/AdGuardHome>`_ - Network-wide ads & trackers blocking DNS server.
 - `EveBox <https://github.com/jasonish/evebox>`_ - A web based Suricata "eve" event viewer for Elastic Search.
+- `Mignis <https://github.com/secgroup/Mignis>`_ - A semantic based tool for firewall configuration. It is designed to help writing iptables rules using an more human-readable syntax, without restricting iptables functionalities.
 - `Pi-hole <https://github.com/pi-hole/pi-hole>`_ - A DNS sinkhole that protects your devices from unwanted content, without installing any client-side software.
 - `Scirius <https://github.com/StamusNetworks/scirius/>`_ - A web application for Suricata ruleset management.
 
