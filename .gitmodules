@@ -2638,3 +2638,6 @@
 [submodule "Security/Network Security/Mignis"]
 	path = Security/Network Security/Mignis
 	url = https://github.com/secgroup/Mignis.git
+[submodule "Forensics/File Forensics/hayabusa"]
+	path = Forensics/File Forensics/hayabusa
+	url = https://github.com/Yamato-Security/hayabusa.git

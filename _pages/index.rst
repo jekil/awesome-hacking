@@ -93,6 +93,7 @@ File Forensics
 - `Autopsy <http://www.sleuthkit.org/autopsy/>`_ - A digital forensics platform and graphical interface to The Sleuth Kit and other digital forensics tools.
 - `Docker Explorer <https://github.com/google/docker-explorer>`_ - A tool to help forensicate offline docker acquisitions.
 - `Hadoop_framework <https://github.com/sleuthkit/hadoop_framework>`_ - A prototype system that uses Hadoop to process hard drive images.
+- `Hayabusa <https://github.com/Yamato-Security/hayabusa>`_ - A sigma-based threat hunting and fast forensics timeline generator for Windows event logs
 - `Mac_apt <https://github.com/ydkhatri/mac_apt>`_ - A DFIR (Digital Forensics and Incident Response) tool to process Mac computer full disk images (or live machines) and extract data/metadata useful for forensic investigation. It is a python based framework, which has plugins to process individual artifacts (such as Safari internet history, Network interfaces, Recently accessed files & volumes, ..)
 - `OSXCollector <http://yelp.github.io/osxcollector/>`_ - A forensic evidence collection & analysis toolkit for OS X.
 - `RegRipper3.0 <https://github.com/keydet89/RegRipper3.0>`_ - Alternative to RegRipper
