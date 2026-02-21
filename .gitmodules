@@ -2641,3 +2641,6 @@
 [submodule "Forensics/File Forensics/hayabusa"]
 	path = Forensics/File Forensics/hayabusa
 	url = https://github.com/Yamato-Security/hayabusa.git
+[submodule "Security/Privacy/rayhunter"]
+	path = Security/Privacy/rayhunter
+	url = https://github.com/EFForg/rayhunter.git
