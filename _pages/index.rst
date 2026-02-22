@@ -127,6 +127,7 @@ Incident Response
 - `TAPIR <https://github.com/tap-ir/tapir>`_ - Trustable Artifacts Parser for Incident Response is a multi-user, client/server, incident response framework based on the TAP project.
 - `UAC <https://github.com/tclahr/uac>`_ - A Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
 - `Untitled Goose Tool <https://github.com/cisagov/untitledgoosetool>`_ - A robust and flexible hunt and incident response tool that adds novel authentication and data gathering methods in order to run a full investigation against a customer’s Azure Active Directory (AzureAD), Azure, and M365 environments. Untitled Goose Tool gathers additional telemetry from Microsoft Defender for Endpoint (MDE) and Defender for Internet of Things (IoT) (D4IoT).
+- `Velociraptor <https://github.com/Velocidex/velociraptor>`_ - A tool for collecting host based state information using The Velociraptor Query Language (VQL) queries.
 
 Live Analysis
 -------------

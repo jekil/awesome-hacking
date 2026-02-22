@@ -2644,3 +2644,6 @@
 [submodule "Security/Privacy/rayhunter"]
 	path = Security/Privacy/rayhunter
 	url = https://github.com/EFForg/rayhunter.git
+[submodule "Forensics/Incident Response/velociraptor"]
+	path = Forensics/Incident Response/velociraptor
+	url = https://github.com/Velocidex/velociraptor.git
