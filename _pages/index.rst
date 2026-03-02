@@ -52,6 +52,7 @@ Static Analysis
 - `Gosec <https://github.com/securego/gosec>`_ - Inspects source code for security problems by scanning the Go AST.
 - `Mariana Trench <https://github.com/facebook/mariana-trench>`_ - Facebook's security focused static analysis tool for Android and Java applications.
 - `STACK <https://github.com/xiw/stack>`_ - A static checker for identifying unstable code.
+- `Sbom-tools <https://github.com/sbom-tool/sbom-tools>`_ - Semantic SBOM diff and TUI analysis tool. Compares CycloneDX/SPDX files to component changes, dependency shifts, license conflicts, and vulnerabilities.
 - `ShellCheck <https://github.com/koalaman/shellcheck>`_ - A static analysis tool for shell scripts.
 - `StaCoAn <https://github.com/vincentcox/StaCoAn>`_ - A crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications.
 

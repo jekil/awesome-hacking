@@ -2659,3 +2659,6 @@
 [submodule "Forensics/Incident Response/jupyter-notebook-for-incident-response"]
 	path = Forensics/Incident Response/jupyter-notebook-for-incident-response
 	url = https://github.com/aws-samples/jupyter-notebook-for-incident-response.git
+[submodule "Code Auditing/Static Analysis/sbom-tools"]
+	path = Code Auditing/Static Analysis/sbom-tools
+	url = https://github.com/sbom-tool/sbom-tools.git
