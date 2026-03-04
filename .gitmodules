@@ -2662,3 +2662,6 @@
 [submodule "Code Auditing/Static Analysis/sbom-tools"]
 	path = Code Auditing/Static Analysis/sbom-tools
 	url = https://github.com/sbom-tool/sbom-tools.git
+[submodule "Security/Privacy/AirGuard"]
+	path = Security/Privacy/AirGuard
+	url = https://github.com/seemoo-lab/AirGuard.git

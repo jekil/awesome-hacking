@@ -1199,6 +1199,7 @@ Phishing
 Privacy
 -------
 
+- `AirGuard <https://github.com/seemoo-lab/AirGuard>`_ - Protect yourself from being tracked by AirTags and Find My accessories
 - `Git-crypt <https://github.com/AGWA/git-crypt>`_ - Transparent file encryption in git.
 - `GoSecure <https://iadgov.github.io/goSecure/>`_ - An easy to use and portable Virtual Private Network (VPN) system built with Linux and a Raspberry Pi.
 - `I2P <https://geti2p.net>`_ - The Invisible Internet Project.
