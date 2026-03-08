@@ -738,6 +738,7 @@ Mobile
 - `Apk-mitm <https://github.com/shroudedcode/apk-mitm>`_ - A CLI application that automatically prepares Android APK files for HTTPS inspection. Inspecting a mobile app's HTTPS traffic using a proxy is probably the easiest way to figure out how it works. However, with the Network Security Configuration introduced in Android 7 and app developers trying to prevent MITM attacks using certificate pinning, getting an app to work with an HTTPS proxy has become quite tedious.
 - `Apk.sh <https://github.com/ax/apk.sh>`_ - A Bash script that makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - `AutoDroid <https://github.com/user1342/AutoDroid>`_ - A tool for automating interactions with Android devices - including ADB, AndroGuard, and Frida interactivity.
+- `Binder Trace <https://github.com/foundryzero/binder-trace>`_ - A tool for intercepting and parsing Android Binder messages. Think of it as "Wireshark for Binder".
 - `CobraDroid <https://thecobraden.com/projects/cobradroid/>`_ - A custom build of the Android operating system geared specifically for application security analysts and for individuals dealing with mobile malware.
 - `Drozer <http://mwr.to/drozer>`_ - The Leading Security Assessment Framework for Android.
 - `Idb <http://www.idbtool.com>`_ - A tool to simplify some common tasks for iOS pentesting and research.

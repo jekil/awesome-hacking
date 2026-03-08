@@ -2665,3 +2665,6 @@
 [submodule "Security/Privacy/AirGuard"]
 	path = Security/Privacy/AirGuard
 	url = https://github.com/seemoo-lab/AirGuard.git
+[submodule "Penetration Testing/Mobile/binder-trace"]
+	path = Penetration Testing/Mobile/binder-trace
+	url = https://github.com/foundryzero/binder-trace.git
