@@ -143,6 +143,7 @@ Memory Forensics
 ----------------
 
 - `KeeFarce <https://github.com/denandz/KeeFarce>`_ - Extracts passwords from a KeePass 2.x database, directly from memory.
+- `Mquire <https://github.com/trailofbits/mquire>`_ - Zero-dependency Linux memory forensics PoC — leverages kernel-embedded BTF and kallsyms for type-aware memory analysis without external debug info.
 - `Rekall <http://www.rekall-forensic.com>`_ - Memory analysis framework developed by Google.
 - `Volatility <https://github.com/volatilityfoundation/volatility3>`_ - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples. The extraction techniques are performed completely independent of the system being investigated but offer visibility into the runtime state of the system. The framework is intended to introduce people to the techniques and complexities associated with extracting digital artifacts from volatile memory samples and provide a platform for further work into this exciting area of research.
 
@@ -818,6 +819,7 @@ Post Exploitation
 - `GTFONow <https://github.com/Frissi0n/GTFONow>`_ - Automatic privilege escalation for misconfigured capabilities, sudo and suid binaries.
 - `GetVulnerableGPO <https://github.com/gpoguy/GetVulnerableGPO.git>`_ - PowerShell script to find 'vulnerable' security-related GPOs that should be hardended.
 - `Ghost In The Logs <https://github.com/bats3c/ghost-in-the-logs/>`_ - Evade sysmon and windows event logging.
+- `Havoc Framework <https://github.com/HavocFramework/Havoc>`_ - A modern and malleable post-exploitation command and control framework.
 - `HoneyBadger <https://github.com/trustedsec/HoneyBadger>`_ - A collection of Metasploit modules with a plugin to help automate Post-Exploitation actions on target systems using the Metasploit Framework.
 - `HoneypotBuster <https://github.com/JavelinNetworks/HoneypotBuster>`_ - Microsoft PowerShell module designed for red teams that can be used to find honeypots and honeytokens in the network or at the host.
 - `IAMhounddog <https://github.com/VirtueSecurity/IAMhounddog>`_ - A tool to help pentesters quickly identify privileged principals and second-order privilege escalation opportunities in unfamiliar AWS accounts.

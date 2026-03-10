@@ -2668,3 +2668,9 @@
 [submodule "Penetration Testing/Mobile/binder-trace"]
 	path = Penetration Testing/Mobile/binder-trace
 	url = https://github.com/foundryzero/binder-trace.git
+[submodule "Penetration Testing/Post Exploitation/Havoc"]
+	path = Penetration Testing/Post Exploitation/Havoc
+	url = https://github.com/HavocFramework/Havoc.git
+[submodule "Forensics/Memory Forensics/mquire"]
+	path = Forensics/Memory Forensics/mquire
+	url = https://github.com/trailofbits/mquire.git
