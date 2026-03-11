@@ -590,6 +590,7 @@ Exploits
 - `CVE-2021-34473 <https://github.com/phamphuqui1998/CVE-2021-34473>`_ - CVE-2021-34473 Microsoft Exchange Server Remote Code Execution Vulnerability.
 - `CVE-2022-21894 <https://github.com/Wack0/CVE-2022-21894>`_ - Baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability
 - `CVE-2022-25636 <https://github.com/Bonfee/CVE-2022-25636>`_ - Exploit for CVE-2022-25636.
+- `CVE-2022-2588 <https://github.com/Markakd/CVE-2022-2588>`_ - Exploit for CVE-2022-2588.
 - `CVE-2023-4863 <https://github.com/mistymntncop/CVE-2023-4863>`_ - A POC for CVE-2023-4863.
 - `CVE-2024-3400 <https://github.com/h4x0r-dz/CVE-2024-3400>`_ - CVE-2024-3400 Palo Alto OS Command Injection.
 - `Chakra-2016-11 <https://github.com/theori-io/chakra-2016-11>`_ - Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 & CVE-2016-7201).

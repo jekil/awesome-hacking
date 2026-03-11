@@ -2674,3 +2674,6 @@
 [submodule "Forensics/Memory Forensics/mquire"]
 	path = Forensics/Memory Forensics/mquire
 	url = https://github.com/trailofbits/mquire.git
+[submodule "Penetration Testing/Exploits/CVE-2022-2588"]
+	path = Penetration Testing/Exploits/CVE-2022-2588
+	url = https://github.com/Markakd/CVE-2022-2588.git
