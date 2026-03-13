@@ -502,6 +502,11 @@ Exploiting
 - `AttackSurfaceAnalyzer <https://github.com/microsoft/AttackSurfaceAnalyzer>`_ - Attack Surface Analyzer can help you analyze your operating system's security configuration for changes during software installation.
 - `Bashfuscator <https://github.com/Bashfuscator/Bashfuscator>`_ - A fully configurable and extendable Bash obfuscation framework. This tool is intended to help both red team and blue team.
 - `BeEF <http://beefproject.com>`_ - The Browser Exploitation Framework Project.
+- `Bowcaster Exploit Development Framework <https://github.com/zcutlip/bowcaster>`_ - This framework, implemented in Python, is intended to aid those developing
+exploits by providing useful set of tools and modules, such as payloads,
+encoders, connect-back servers, etc.  Currently the framework is focused on the
+MIPS CPU architecture, but the design is intended to be modular enough to
+support arbitrary architectures.
 - `BugId <https://github.com/SkyLined/BugId>`_ - Detect, analyze and uniquely identify crashes in Windows applications.
 - `CALDERA <https://github.com/mitre/caldera>`_ - A cyber security framework designed to easily automate adversary emulation, assist manual red-teams, and automate incident response.
 - `CCAT <https://github.com/RhinoSecurityLabs/ccat>`_ - Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments.

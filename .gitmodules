@@ -2677,3 +2677,6 @@
 [submodule "Penetration Testing/Exploits/CVE-2022-2588"]
 	path = Penetration Testing/Exploits/CVE-2022-2588
 	url = https://github.com/Markakd/CVE-2022-2588.git
+[submodule "Penetration Testing/Exploiting/bowcaster"]
+	path = Penetration Testing/Exploiting/bowcaster
+	url = https://github.com/zcutlip/bowcaster.git
