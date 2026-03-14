@@ -2680,3 +2680,6 @@
 [submodule "Penetration Testing/Exploiting/bowcaster"]
 	path = Penetration Testing/Exploiting/bowcaster
 	url = https://github.com/zcutlip/bowcaster.git
+[submodule "Penetration Testing/Post Exploitation/SharpHound"]
+	path = Penetration Testing/Post Exploitation/SharpHound
+	url = https://github.com/SpecterOps/SharpHound.git

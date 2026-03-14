@@ -856,6 +856,7 @@ Post Exploitation
 - `SafetyKatz <https://github.com/GhostPack/SafetyKatz>`_ - SafetyKatz is a combination of slightly modified version of @gentilkiwi's Mimikatz project and @subTee's .NET PE Load.
 - `Sam-the-admin <https://github.com/WazeHell/sam-the-admin>`_ - Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user.
 - `Shad0w <https://github.com/bats3c/shad0w>`_ - A post exploitation framework designed to operate covertly on heavily monitored environments.
+- `SharpHound <https://github.com/SpecterOps/SharpHound>`_ - C# Data Collector for BloodHound
 - `SocksOverRDP <https://github.com/nccgroup/SocksOverRDP>`_ - Socks5/4/4a Proxy support for Remote Desktop Protocol / Terminal Services.
 - `SprayWMI <https://github.com/trustedsec/spraywmi>`_ - An easy way to get mass shells on systems that support WMI. Much more effective than PSEXEC as it does not leave remnants on a system.
 - `Static-binaries <https://github.com/andrew-d/static-binaries>`_ - Various *nix tools built as statically-linked binaries.
