@@ -2683,3 +2683,6 @@
 [submodule "Penetration Testing/Post Exploitation/SharpHound"]
 	path = Penetration Testing/Post Exploitation/SharpHound
 	url = https://github.com/SpecterOps/SharpHound.git
+[submodule "Reverse Engineering/hackers-grep"]
+	path = Reverse Engineering/hackers-grep
+	url = https://github.com/codypierce/hackers-grep.git
