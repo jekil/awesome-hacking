@@ -525,6 +525,7 @@ support arbitrary architectures.
 - `Gorsair <https://github.com/Ullaakut/Gorsair>`_ - Gorsair hacks its way into remote docker containers that expose their APIs.
 - `Infection Monkey <https://github.com/guardicore/monkey>`_ - An open source security tool for testing a data center's resiliency to perimeter breaches and internal server infection. The Monkey uses various methods to self propagate across a data center and reports success to a centralized Monkey Island server.
 - `Inveigh <https://github.com/Kevin-Robertson/Inveigh>`_ - .NET IPv4/IPv6 machine-in-the-middle tool for penetration testers.
+- `operant-mcp <https://github.com/operantlabs/operant-mcp>`_ - Open-source MCP server providing 51 security testing tools across 19 modules including SQL injection, XSS, command injection, SSRF, path traversal, PCAP/network forensics, reconnaissance, memory forensics, and malware document analysis.
 - `Jir-thief <https://github.com/antman1p/Jir-Thief>`_ - A Red Team tool for exfiltrating sensitive data from Jira tickets.
 - `Kube-hunter <https://github.com/aquasecurity/kube-hunter>`_ - Hunt for security weaknesses in Kubernetes clusters.
 - `LAVA <https://github.com/panda-re/lava>`_ - Large-scale Automated Vulnerability Addition.
