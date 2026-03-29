@@ -2686,3 +2686,6 @@
 [submodule "Reverse Engineering/hackers-grep"]
 	path = Reverse Engineering/hackers-grep
 	url = https://github.com/codypierce/hackers-grep.git
+[submodule "Penetration Testing/Exploits/SignatureGate"]
+	path = Penetration Testing/Exploits/SignatureGate
+	url = https://github.com/florylsk/SignatureGate.git

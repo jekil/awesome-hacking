@@ -619,6 +619,7 @@ Exploits
 - `Proxyshell-poc <https://github.com/dmaasland/proxyshell-poc>`_ - Proxyshell POC
 - `Qemu-vm-escape <https://github.com/Kira-cxy/qemu-vm-escape>`_ - This is an exploit for CVE-2019-6778, a heap buffer overflow in slirp:tcp_emu().
 - `Ruby-advisory-db <https://github.com/rubysec/ruby-advisory-db>`_ - A database of vulnerable Ruby Gems.
+- `SignatureGate <https://github.com/florylsk/SignatureGate>`_ - Weaponized version of HellsGate, bypassing AV/EDR/EPPs by abusing opt-in-fix CVE-2013-3900.
 - `The Exploit Database <https://github.com/offensive-security/exploit-database>`_ - The official Exploit Database repository.
 - `Tpwn <https://github.com/kpwn/tpwn>`_ - Xnu local privilege escalation via cve-2015-???? & cve-2015-???? for 10.10.5, 0day at the time
 - `Windows-kernel-exploits <https://github.com/SecWiki/windows-kernel-exploits>`_ - List of windows kernel exploits.
