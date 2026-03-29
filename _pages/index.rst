@@ -395,6 +395,7 @@ Source Code
 - `BlackHole <https://github.com/hussein-aitlahcen/BlackHole>`_ - C# RAT (Remote Administration Tool).
 - `Carberp <https://github.com/hzeroo/Carberp>`_ - Carberp leaked source code.
 - `Coldfire <https://github.com/redcode-labs/Coldfire>`_ - Golang malware development library.
+- `Endurance-Wiper <https://github.com/IntelBroker/Endurance-Wiper>`_ - A small wiper malware written in C# using the .NET framework.
 - `Fancybear <https://github.com/rickey-g/fancybear>`_ - Fancy Bear Source Code.
 - `LOLBAS <https://github.com/LOLBAS-Project/LOLBAS>`_ - Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts).
 - `Maldev <https://github.com/D3Ext/maldev>`_ - Aims to help malware developers, red teamers and anyone who is interested in cybersecurity. It uses native Golang code and some other useful packages like Hooka which I created to perform complex low-level red teaming stuff.

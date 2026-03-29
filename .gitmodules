@@ -2689,3 +2689,6 @@
 [submodule "Penetration Testing/Exploits/SignatureGate"]
 	path = Penetration Testing/Exploits/SignatureGate
 	url = https://github.com/florylsk/SignatureGate.git
+[submodule "Malware/Source Code/Endurance-Wiper"]
+	path = Malware/Source Code/Endurance-Wiper
+	url = https://github.com/IntelBroker/Endurance-Wiper.git
