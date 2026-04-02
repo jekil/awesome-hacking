@@ -703,6 +703,7 @@ Info Gathering
 - `Recon-ng <https://github.com/lanmaster53/recon-ng>`_ - A full-featured Web Reconnaissance framework written in Python.
 - `SMBMap <https://github.com/ShawnDEvans/smbmap>`_ - A handy SMB enumeration tool.
 - `SPartan <https://github.com/sensepost/SPartan>`_ - Frontpage and Sharepoint fingerprinting and attack tool.
+- `SQLRecon <https://github.com/skahwah/SQLRecon>`_ - A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation.
 - `SSLMap <http://thesprawl.org/projects/sslmap/>`_ - TLS/SSL cipher suite scanner.
 - `Secretz <https://github.com/lc/secretz>`_ - A tool that minimizes the large attack surface of Travis CI. It automatically fetches repos, builds, and logs for any given organization.
 - `Shhgit <https://github.com/eth0izzle/shhgit>`_ - Helps secure forward-thinking development, operations, and security teams by finding secrets across their code before it leads to a security breach.

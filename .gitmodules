@@ -2692,3 +2692,6 @@
 [submodule "Malware/Source Code/Endurance-Wiper"]
 	path = Malware/Source Code/Endurance-Wiper
 	url = https://github.com/IntelBroker/Endurance-Wiper.git
+[submodule "Penetration Testing/Info Gathering/SQLRecon"]
+	path = Penetration Testing/Info Gathering/SQLRecon
+	url = https://github.com/skahwah/SQLRecon.git
