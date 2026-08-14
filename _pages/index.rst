@@ -1249,6 +1249,7 @@ Harvester
 - `SpiderFoot <http://www.spiderfoot.net>`_ - Automates OSINT collection so that you can focus on analysis.
 - `TTSL <https://github.com/dchrastil/TTSL>`_ - Tool to scrape LinkedIn.
 - `TheHarvester <http://www.edge-security.com/theharvester.php>`_ - E-mail, subdomain and people names harvester.
+- `Xquik <https://github.com/Xquik-dev/x-twitter-scraper>`_ - Independent X (Twitter) search, follower export, and monitoring API.
 
 Phishing
 --------
