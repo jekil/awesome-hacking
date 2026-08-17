@@ -1257,6 +1257,7 @@ Phishing
 - `CredSniper <https://github.com/ustayready/CredSniper>`_ - A phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.
 - `FiercePhish <https://github.com/Raikia/FiercePhish>`_ - A full-fledged phishing framework to manage all phishing engagements. It allows you to track separate phishing campaigns, schedule sending of emails, and much more.
 - `GoPhish <https://github.com/gophish/gophish>`_ - Gophish is an open-source phishing toolkit designed for businesses and penetration testers. It provides the ability to quickly and easily setup and execute phishing engagements and security awareness training.
+- `Gophish-NG <https://github.com/raginx/gophish-ng>`_ - Actively maintained, security-hardened fork of Gophish.
 - `Microsoft365_devicePhish <https://github.com/optiv/Microsoft365_devicePhish>`_ - A proof-of-concept script to conduct a phishing attack abusing Microsoft 365 OAuth Authorization Flow.
 - `Modlishka <https://github.com/drk1wi/Modlishka>`_ - Reverse Proxy. Phishing NG.
 - `Muraena <https://github.com/muraenateam/muraena>`_ - An almost-transparent reverse proxy aimed at automating phishing and post-phishing activities.
