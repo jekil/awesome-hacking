@@ -2707,3 +2707,6 @@
 [submodule "Forensics/Memory Forensics/MemProcFS"]
 	path = Forensics/Memory Forensics/MemProcFS
 	url = https://github.com/ufrisk/MemProcFS.git
+[submodule "Penetration Testing/Training/GOAD"]
+	path = Penetration Testing/Training/GOAD
+	url = https://github.com/Orange-Cyberdefense/GOAD.git
