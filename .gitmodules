@@ -16,9 +16,6 @@
 [submodule "Reverse Engineering/x64dbg"]
 	path = Reverse Engineering/x64dbg
 	url = https://github.com/x64dbg/x64dbg.git
-[submodule "Reverse Engineering/radare2"]
-	path = Reverse Engineering/radare2
-	url = https://github.com/radare/radare2.git
 [submodule "Network/Sniffer/moloch"]
 	path = Network/Sniffer/moloch
 	url = https://github.com/aol/moloch
@@ -349,9 +346,6 @@
 [submodule "Reverse Engineering/idapython"]
 	path = Reverse Engineering/idapython
 	url = https://github.com/idapython/src.git
-[submodule "Malware/Dynamic Analysis/pyemu"]
-	path = Malware/Dynamic Analysis/pyemu
-	url = https://github.com/jtwhite79/pyemu.git
 [submodule "Malware/Static Analysis/pefile"]
 	path = Malware/Static Analysis/pefile
 	url = https://github.com/erocarrera/pefile.git
@@ -377,7 +371,7 @@
 	path = Library/Java/libsignal-service-java
 	url = https://github.com/WhisperSystems/libsignal-service-java.git
 [submodule "Security/securedrop"]
-	path = Security/securedrop
+	path = Security/Privacy/securedrop
 	url = https://github.com/freedomofpress/securedrop.git
 [submodule "Forensics/Live Analysis/OSXAuditor"]
 	path = Forensics/Live Analysis/OSXAuditor
@@ -386,7 +380,7 @@
 	path = Intelligence/VIA4CVE
 	url = https://github.com/cve-search/VIA4CVE.git
 [submodule "Intelligence/xiphosresearch-exploits"]
-	path = Intelligence/xiphosresearch-exploits
+	path = Penetration Testing/Exploits/xiphosresearch-exploits
 	url = https://github.com/XiphosResearch/exploits.git
 [submodule "Pentration Testing/Exploiting/evilgrade"]
 	path = Penetration Testing/Exploiting/evilgrade
@@ -452,7 +446,7 @@
 	path = Library/Ruby/secureheaders
 	url = https://github.com/twitter/secureheaders.git
 [submodule "Intelligence/rt2jira"]
-	path = Intelligence/rt2jira
+	path = Malware/Intelligence/rt2jira
 	url = https://github.com/fireeye/rt2jira.git
 [submodule "Pentration Testing/Reporting/dradis-ce"]
 	path = Penetration Testing/Reporting/dradis-ce
@@ -490,9 +484,6 @@
 [submodule "Pentration Testing/Fuzzing/construct"]
 	path = Penetration Testing/Fuzzing/construct
 	url = https://github.com/construct/construct.git
-[submodule "Forensics/Memory Forensics/volatility"]
-	path = Forensics/Memory Forensics/volatility
-	url = https://github.com/volatilityfoundation/volatility.git
 [submodule "Forensics/Memory Forensics/rekall"]
 	path = Forensics/Memory Forensics/rekall
 	url = https://github.com/google/rekall.git
@@ -937,9 +928,6 @@
 [submodule "Malware/Source Code/Zeus"]
 	path = Malware/Source Code/Zeus
 	url = https://github.com/Visgean/Zeus.git
-[submodule "Malware/Source Code/TinyNuke"]
-	path = Malware/Source Code/TinyNuke
-	url = https://github.com/aainz/TinyNuke.git
 [submodule "Reverse Engineering/r2msdn"]
 	path = Reverse Engineering/r2msdn
 	url = https://github.com/newlog/r2msdn.git
@@ -965,7 +953,7 @@
 	path = Penetration Testing/Exploiting/Veil
 	url = https://github.com/Veil-Framework/Veil.git
 [submodule "Pentration Testing/Info Gathering/SecLists"]
-	path = Penetration Testing/Info Gathering/SecLists
+	path = Penetration Testing/Fuzzing/SecLists
 	url = https://github.com/danielmiessler/SecLists.git
 [submodule "Forensics/File Forensics/osxcollector"]
 	path = Forensics/File Forensics/osxcollector
@@ -1091,7 +1079,7 @@
 	path = Penetration Testing/Fuzzing/Fuzzlyn
 	url = https://github.com/jakobbotsch/Fuzzlyn.git
 [submodule "Forensics/Incident Respones/hunter"]
-	path = Forensics/Incident Respones/hunter
+	path = Forensics/Incident Response/hunter
 	url = https://github.com/ThreatHuntingProject/hunter.git
 [submodule "Intelligence/attackintel"]
 	path = Intelligence/attackintel
@@ -1364,7 +1352,7 @@
 	path = Penetration Testing/Training/xvwa
 	url = https://github.com/s4n7h0/xvwa.git
 [submodule "Penetration Testing/Reporting/cartography"]
-	path = Penetration Testing/Reporting/cartography
+	path = Security/Asset Management/cartography
 	url = https://github.com/lyft/cartography.git
 [submodule "Penetration Testing/Web/relative-url-extractor"]
 	path = Penetration Testing/Web/relative-url-extractor
@@ -1427,7 +1415,7 @@
 	path = Security/Privacy/git-crypt
 	url = https://github.com/AGWA/git-crypt.git
 [submodule "Social Engineering/Phishing/miteru"]
-	path = Social Engineering/Phishing/miteru
+	path = Security/Phishing/miteru
 	url = https://github.com/ninoseki/miteru.git
 [submodule "Security/Cloud Security/hammer"]
 	path = Security/Cloud Security/hammer
@@ -1960,9 +1948,6 @@
 [submodule "Forensics/Incident Response/Loki"]
 	path = Forensics/Incident Response/Loki
 	url = https://github.com/Neo23x0/Loki.git
-[submodule "Security/Asset Managment/cartography"]
-	path = Security/Asset Managment/cartography
-	url = https://github.com/lyft/cartography
 [submodule "Reverse Engineering/ghidra_kernelcache"]
 	path = Reverse Engineering/ghidra_kernelcache
 	url = https://github.com/0x36/ghidra_kernelcache.git
@@ -2710,3 +2695,30 @@
 [submodule "Penetration Testing/Training/GOAD"]
 	path = Penetration Testing/Training/GOAD
 	url = https://github.com/Orange-Cyberdefense/GOAD.git
+[submodule "Forensics/Memory Forensics/volatility3"]
+	path = Forensics/Memory Forensics/volatility3
+	url = https://github.com/volatilityfoundation/volatility3.git
+[submodule "Malware/Dynamic Analysis/pyemu"]
+	path = Malware/Dynamic Analysis/pyemu
+	url = https://github.com/pypest/pyemu.git
+[submodule "Malware/Source Code/TinyNuke"]
+	path = Malware/Source Code/TinyNuke
+	url = https://github.com/rossja/TinyNuke.git
+[submodule "Penetration Testing/Mobile/root_avd"]
+	path = Penetration Testing/Mobile/root_avd
+	url = https://github.com/0xFireball/root_avd.git
+[submodule "Penetration Testing/Post Exploitation/CredCrack"]
+	path = Penetration Testing/Post Exploitation/CredCrack
+	url = https://github.com/gojhonny/CredCrack.git
+[submodule "Penetration Testing/Post Exploitation/creddump"]
+	path = Penetration Testing/Post Exploitation/creddump
+	url = https://github.com/moyix/creddump.git
+[submodule "Reverse Engineering/procyon"]
+	path = Reverse Engineering/procyon
+	url = https://bitbucket.org/mstrobel/procyon.git
+[submodule "Reverse Engineering/radare2"]
+	path = Reverse Engineering/radare2
+	url = https://github.com/radareorg/radare2.git
+[submodule "Reverse Engineering/angr"]
+	path = Reverse Engineering/angr
+	url = https://github.com/angr/angr.git

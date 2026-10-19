@@ -136,7 +136,7 @@ Incident Response
 Live Analysis
 -------------
 
-- `OS X Auditor <OS X Auditor is a free Mac OS X computer forensics tool>`_ - OS X Auditor is a free Mac OS X computer forensics tool.
+- `OS X Auditor <https://github.com/jipegit/osxauditor>`_ - OS X Auditor is a free Mac OS X computer forensics tool.
 - `Windows-event-forwarding <https://github.com/palantir/windows-event-forwarding>`_ - A repository for using windows event forwarding for incident detection and response.
 
 Memory Forensics
@@ -195,7 +195,7 @@ Intelligence
 - `CTIDiagram <https://github.com/hugo-glez/ctidiagram>`_ - Making attack flow diagrams in an standar way.
 - `DeepdarkCTI <https://github.com/fastfire/deepdarkCTI>`_ - The aim of this project is to collect the sources, present in the Deep and Dark web, which can be useful in Cyber Threat Intelligence contexts.
 - `Dnstwist <https://github.com/elceef/dnstwist>`_ - Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation.
-- `IntelOwl <https://github.com/certego/IntelOwl>`_ - Analyze files, domains, IPs in multiple ways from a single API at scale. 
+- `IntelOwl <https://github.com/certego/IntelOwl>`_ - Analyze files, domains, IPs in multiple ways from a single API at scale.
 - `MISP-maltego <https://github.com/MISP/MISP-maltego>`_ - Set of Maltego transforms to inferface with a MISP Threat Sharing instance, and also to explore the whole MITRE ATT&CK dataset.
 - `Masto <https://github.com/C3n7ral051nt4g3ncy/Masto>`_ - An OSINT tool written in python to gather intelligence on Mastodon users and instances.
 - `Shodan-seeker <https://github.com/laincode/shodan-seeker>`_ - Command-line tool using Shodan API. Generates and downloads CSV results, diffing of historic scanning results, alerts and monitoring of specific ports/IPs, etc.
@@ -259,7 +259,7 @@ Live CD - Distributions
 - `Ophcrack <http://ophcrack.sourceforge.net>`_ - A free Windows password cracker based on rainbow tables. It is a very efficient implementation of rainbow tables done by the inventors of the method. It comes with a Graphical User Interface and runs on multiple platforms.
 - `Parrot <https://www.parrotsec.org>`_ - Security GNU/Linux distribution designed with cloud pentesting and IoT security in mind.
 - `Pentoo <http://www.pentoo.ch>`_ - Security-focused livecd based on Gentoo.
-- `REMnux <https://remnux.org>`_ - Toolkit for assisting malware analysts with reverse-engineering malicious software. 
+- `REMnux <https://remnux.org>`_ - Toolkit for assisting malware analysts with reverse-engineering malicious software.
 
 Malware
 =======
@@ -308,6 +308,7 @@ Honeypot
 - `Endlessh <https://github.com/skeeto/endlessh>`_ - An SSH tarpit that very slowly sends an endless, random SSH banner. It keeps SSH clients locked up for hours or even days at a time. The purpose is to put your real SSH server on another port and then let the script kiddies get stuck in this tarpit instead of bothering a real server.
 - `Glastopf <https://github.com/mushorg/glastopf>`_ - Web Application Honeypot.
 - `Glutton <https://github.com/mushorg/glutton>`_ - All eating honeypot.
+- `HASSH <https://github.com/salesforce/hassh>`_ - SSH client and server fingerprinting method by Salesforce.
 - `HFish <https://hfish.io/>`_ - A cross platform honeypot platform developed based on golang, which has been meticulously built for enterprise security.
 - `Heralding <https://github.com/johnnykv/heralding>`_ - Sometimes you just want a simple honeypot that collects credentials, nothing more. Heralding is that honeypot! Currently the following protocols are supported: ftp, telnet, ssh, rdp, http, https, pop3, pop3s, imap, imaps, smtp, vnc, postgresql and socks5.
 - `HonTel <https://github.com/stamparm/hontel>`_ - A Honeypot for Telnet service. Basically, it is a Python v2.x application emulating the service inside the chroot environment. Originally it has been designed to be run inside the Ubuntu/Debian environment, though it could be easily adapted to run inside any Linux environment.
@@ -377,7 +378,7 @@ Ops
 - `Grimd <https://github.com/looterz/grimd>`_ - Fast dns proxy that can run anywhere, built to black-hole internet advertisements and malware servers.
 - `Hidden <https://github.com/JKornev/hidden>`_ - Windows driver with usermode interface which can hide objects of file-system and registry, protect processes and etc.
 - `ImaginaryC2 <https://github.com/felixweyne/imaginaryC2>`_ - A python tool which aims to help in the behavioral (network) analysis of malware. Imaginary C2 hosts a HTTP server which captures HTTP requests towards selectively chosen domains/IPs. Additionally, the tool aims to make it easy to replay captured Command-and-Control responses/served payloads.
-- `Irma <https://github.com/quarkslab/irma>`_ - IRMA is an asynchronous & customizable analysis system for suspicious files. 
+- `Irma <https://github.com/quarkslab/irma>`_ - IRMA is an asynchronous & customizable analysis system for suspicious files.
 - `KLara <https://github.com/KasperskyLab/klara>`_ - A project is aimed at helping Threat Intelligence researchers hunt for new malware using Yara.
 - `Kraken <https://github.com/botherder/kraken>`_ - Cross-platform Yara scanner written in Go.
 - `Malboxes <https://github.com/GoSecure/malboxes>`_ - Builds malware analysis Windows VMs so that you don't have to.
@@ -403,7 +404,6 @@ Source Code
 - `Maldev <https://github.com/D3Ext/maldev>`_ - Aims to help malware developers, red teamers and anyone who is interested in cybersecurity. It uses native Golang code and some other useful packages like Hooka which I created to perform complex low-level red teaming stuff.
 - `Mirai <https://github.com/jgamblin/Mirai-Source-Code>`_ - Leaked Mirai Source Code for Research/IoC Development Purposes.
 - `Morris Worm <https://github.com/arialdomartini/morris-worm>`_ - The original Morris Worm source code.
-- `Pegasus_spyware <https://github.com/jonathandata1/pegasus_spyware>`_ - Decompiled pegasus spyware.
 - `RDP_Backdoor <https://github.com/mr-r3b00t/RDP_Backdoor>`_ - Configured RDP backdoors via UTILMAN and SETHC (sticykeys), disables NLA and enabled RDP and firewall fules.
 - `SubSeven <https://github.com/DarkCoderSc/SubSeven>`_ - SubSeven Legacy Official Source Code Repository.
 - `SvcHostDemo <https://github.com/apriorit/SvcHostDemo>`_ - Demo service that runs in svchost.exe.
@@ -505,11 +505,7 @@ Exploiting
 - `AttackSurfaceAnalyzer <https://github.com/microsoft/AttackSurfaceAnalyzer>`_ - Attack Surface Analyzer can help you analyze your operating system's security configuration for changes during software installation.
 - `Bashfuscator <https://github.com/Bashfuscator/Bashfuscator>`_ - A fully configurable and extendable Bash obfuscation framework. This tool is intended to help both red team and blue team.
 - `BeEF <http://beefproject.com>`_ - The Browser Exploitation Framework Project.
-- `Bowcaster Exploit Development Framework <https://github.com/zcutlip/bowcaster>`_ - This framework, implemented in Python, is intended to aid those developing
-exploits by providing useful set of tools and modules, such as payloads,
-encoders, connect-back servers, etc.  Currently the framework is focused on the
-MIPS CPU architecture, but the design is intended to be modular enough to
-support arbitrary architectures.
+- `Bowcaster Exploit Development Framework <https://github.com/zcutlip/bowcaster>`_ - This framework, implemented in Python, is intended to aid those developing exploits by providing useful set of tools and modules, such as payloads, encoders, connect-back servers, etc. Currently the framework is focused on the MIPS CPU architecture, but the design is intended to be modular enough to support arbitrary architectures.
 - `BugId <https://github.com/SkyLined/BugId>`_ - Detect, analyze and uniquely identify crashes in Windows applications.
 - `CALDERA <https://github.com/mitre/caldera>`_ - A cyber security framework designed to easily automate adversary emulation, assist manual red-teams, and automate incident response.
 - `CCAT <https://github.com/RhinoSecurityLabs/ccat>`_ - Cloud Container Attack Tool (CCAT) is a tool for testing security of container environments.
@@ -679,7 +675,7 @@ Info Gathering
 - `ATSCAN <https://github.com/AlisamTechnology/ATSCAN>`_ - Advanced dork Search & Mass Exploit Scanner.
 - `Amass <https://github.com/OWASP/Amass>`_ - The OWASP Amass Project performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
 - `BigBountyRecon <https://github.com/Viralmaniar/BigBountyRecon>`_ - Utilises 58 different techniques using various Google dorks and open source tools to expedite the process of initial reconnaissance on the target organisation.
-- `Bluto <https://github.com/darryllane/Bluto>`_ - DNS Recon | Brute Forcer | DNS Zone Transfer | DNS Wild Card Checks | DNS Wild Card Brute Forcer | Email Enumeration | Staff Enumeration | Compromised Account Checking
+- `Bluto <https://github.com/darryllane/Bluto>`_ - DNS Recon \| Brute Forcer \| DNS Zone Transfer \| DNS Wild Card Checks \| DNS Wild Card Brute Forcer \| Email Enumeration \| Staff Enumeration \| Compromised Account Checking
 - `Bundler-audit <https://github.com/rubysec/bundler-audit>`_ - Patch-level verification for Bundler.
 - `Checksec.rs <https://github.com/etke/checksec.rs>`_ - Fast multi-platform (ELF/PE/MachO) binary checksec written in Rust.
 - `CloudFail <https://github.com/m0rtem/CloudFail>`_ - Utilize misconfigured DNS and old database records to find hidden IP's behind the CloudFlare network.
@@ -732,7 +728,6 @@ MITM
 - `Dnsspoof <https://github.com/DanMcInerney/dnsspoof>`_ - DNS spoofer. Drops DNS responses from the router and replaces it with the spoofed DNS response.
 - `Ettercap <http://www.ettercap-project.org>`_ - A comprehensive suite for man in the middle attacks. It features sniffing of live connections, content filtering on the fly and many other interesting tricks. It supports active and passive dissection of many protocols and includes many features for network and host analysis.
 - `MITMf <https://github.com/byt3bl33d3r/MITMf>`_ - Framework for Man-In-The-Middle attacks.
-- `Mallory <https://bitbucket.org/IntrepidusGroup/mallory>`_ - An extensible TCP/UDP man in the middle proxy that is designed to be run as a gateway. Unlike other tools of its kind, Mallory supports modifying non-standard protocols on the fly.
 - `Mitmproxy <https://mitmproxy.org/>`_ - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface.
 - `Mitmsocks4j <https://github.com/Akdeniz/mitmsocks4j>`_ - Man in the Middle SOCKS Proxy for JAVA.
 - `Nogotofail <https://github.com/google/nogotofail>`_ - An on-path blackbox network traffic security testing tool.
@@ -801,7 +796,7 @@ Port Scanning
 - `RustScan <https://github.com/RustScan/RustScan>`_ - The Modern Port Scanner. Find ports quickly (3 seconds at its fastest). Run scripts through our scripting engine (Python, Lua, Shell supported).
 - `Watchdog <https://github.com/flipkart-incubator/watchdog>`_ - A Comprehensive Security Scanning and a Vulnerability Management Tool.
 - `ZGrab <https://github.com/zmap/zgrab2>`_ - Go Application Layer Scanner.
-- `Zmap <https://zmap.io>`_ - An open-source network scanner that enables researchers to easily perform Internet-wide network studies. 
+- `Zmap <https://zmap.io>`_ - An open-source network scanner that enables researchers to easily perform Internet-wide network studies.
 
 Post Exploitation
 -----------------
@@ -847,7 +842,7 @@ Post Exploitation
 - `PEASS-ng <https://github.com/carlospolop/PEASS-ng>`_ - Privilege Escalation Awesome Scripts SUITE (with colors).
 - `PacketWhisper <https://github.com/TryCatchHCF/PacketWhisper>`_ - Stealthily Transfer Data & Defeat Attribution Using DNS Queries & Text-Based Steganography, without the need for attacker-controlled Name Servers or domains; Evade DLP/MLS Devices; Defeat Data- & DNS Name Server Whitelisting Controls. Convert any file type (e.g. executables, Office, Zip, images) into a list of Fully Qualified Domain Names (FQDNs), use DNS queries to transfer data. Simple yet extremely effective.
 - `Paragon <https://github.com/KCarretto/paragon>`_ - Red Team engagement platform with the goal of unifying offensive tools behind a simple UI.
-- `Pivoter <https://github.com/trustedsec/pivoter>`_ - A proxy tool for pentesters to have easier lateral movement. 
+- `Pivoter <https://github.com/trustedsec/pivoter>`_ - A proxy tool for pentesters to have easier lateral movement.
 - `Poet <https://github.com/mossberg/poet>`_ - Post-exploitation tool.
 - `PoshC2 <https://github.com/nettitude/PoshC2>`_ - A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement.
 - `ProcessHider <https://github.com/M00nRise/ProcessHider>`_ - Post-exploitation tool for hiding processes from monitoring applications.
@@ -865,7 +860,7 @@ Post Exploitation
 - `SharpHound <https://github.com/SpecterOps/SharpHound>`_ - C# Data Collector for BloodHound
 - `SocksOverRDP <https://github.com/nccgroup/SocksOverRDP>`_ - Socks5/4/4a Proxy support for Remote Desktop Protocol / Terminal Services.
 - `SprayWMI <https://github.com/trustedsec/spraywmi>`_ - An easy way to get mass shells on systems that support WMI. Much more effective than PSEXEC as it does not leave remnants on a system.
-- `Static-binaries <https://github.com/andrew-d/static-binaries>`_ - Various *nix tools built as statically-linked binaries.
+- `Static-binaries <https://github.com/andrew-d/static-binaries>`_ - Various \*nix tools built as statically-linked binaries.
 - `Tgcd <http://tgcd.sourceforge.net>`_ - A simple Unix network utility to extend the accessibility of TCP/IP based network services beyond firewalls.
 - `TheFatRat <https://github.com/Exploit-install/TheFatRat>`_ - An easy tool to generate backdoor with msfvenom (a part from metasploit framework). This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection.
 - `WCE <http://www.ampliasecurity.com/research/windows-credentials-editor/>`_ - Windows Credentials Editor (WCE) is a security tool to list logon sessions and add, change, list and delete associated credentials.
@@ -875,12 +870,10 @@ Reporting
 ---------
 
 - `APTRS <https://github.com/Anof-cyber/APTRS>`_ - Automated Penetration Testing Reporting System is an automated reporting tool in Python and Django. The tool allows Penetration testers to create a report directly without using the Traditional Docx file. It also provides an approach to keeping track of the projects and vulnerabilities.
-- `Cartography <https://github.com/lyft/cartography>`_ - A Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
 - `DefectDojo <https://github.com/DefectDojo/django-DefectDojo>`_ - An open-source application vulnerability correlation and security orchestration tool.
 - `Dradis <https://dradisframework.com/ce/>`_ - Colllaboration and reporting for IT Security teams.
 - `Faraday <http://www.faradaysec.com>`_ - Collaborative Penetration Test and Vulnerability Management Platform.
-- `PwnDoc <https://github.com/pwndoc/pwndoc>`_ - A pentest reporting application making it simple and easy to write your findings and generate a customizable Docx report.
-The main goal is to have more time to Pwn and less time to Doc by mutualizing data like vulnerabilities between users.
+- `PwnDoc <https://github.com/pwndoc/pwndoc>`_ - A pentest reporting application making it simple and easy to write your findings and generate a customizable Docx report. The main goal is to have more time to Pwn and less time to Doc by mutualizing data like vulnerabilities between users.
 - `VECTR <https://github.com/SecurityRiskAdvisors/VECTR>`_ - A tool that facilitates tracking of your red and blue team testing activities to measure detection and prevention capabilities across different attack scenarios.
 - `WriteHat <https://github.com/blacklanternsecurity/writehat>`_ - A reporting tool which removes Microsoft Word (and many hours of suffering) from the reporting process. Markdown --> HTML --> PDF. Created by penetration testers, for penetration testers - but can be used to generate any kind of report.
 
@@ -1059,7 +1052,7 @@ Reverse Engineering
 - `Ghidra_kernelcache <https://github.com/0x36/ghidra_kernelcache>`_ - A Ghidra framework for iOS kernelcache reverse engineering.
 - `Ghidra_scripts <https://github.com/ghidraninja/ghidra_scripts>`_ - Scripts for the Ghidra software reverse engineering suite.
 - `Golang_loader_assist <https://github.com/strazzere/golang_loader_assist>`_ - Making GO reversing easier in IDA Pro.
-- `Granary <https://github.com/Granary/granary>`_ - A  kernel space dynamic binary translation framework. The main goal of Granary is to enable flexible and efficient instrumentation of Linux kernel modules, while imposing no overhead to non-module kernel code.
+- `Granary <https://github.com/Granary/granary>`_ - A kernel space dynamic binary translation framework. The main goal of Granary is to enable flexible and efficient instrumentation of Linux kernel modules, while imposing no overhead to non-module kernel code.
 - `Grap <https://github.com/QuoSecGmbH/grap>`_ - Define and match graph patterns within binaries.
 - `HVMI <https://github.com/hvmi/hvmi>`_ - Hypervisor Memory Introspection Core Library.
 - `Hackers-grep <https://github.com/codypierce/hackers-grep>`_ - A utility to search for strings in PE executables including imports, exports, and debug symbols.
@@ -1073,7 +1066,7 @@ Reverse Engineering
 - `IDA Pomidor <http://thesprawl.org/projects/ida-pomidor/>`_ - IDA Pomidor is a plugin for Hex-Ray's IDA Pro disassembler that will help you retain concentration and productivity during long reversing sessions.
 - `IDA Pro <https://www.hex-rays.com/products/ida/index.shtml>`_ - A Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger.
 - `IDA Sploiter <http://thesprawl.org/projects/ida-sploiter/>`_ - IDA Sploiter is a plugin for Hex-Ray's IDA Pro disassembler designed to enhance IDA's capabilities as an exploit development and vulnerability research tool.
-- `IDAPython <https://github.com/idapython/>`_ - An IDA plugin which makes it possible to write scripts for IDA in the Python programming language. 
+- `IDAPython <https://github.com/idapython/>`_ - An IDA plugin which makes it possible to write scripts for IDA in the Python programming language.
 - `IDAwasm <https://github.com/fireeye/idawasm>`_ - IDA Pro loader and processor modules for WebAssembly.
 - `IRPMon <https://github.com/MartinDrab/IRPMon>`_ - The goal of the tool is to monitor requests received by selected device objects or kernel drivers. The tool is quite similar to IrpTracker but has several enhancements. It supports 64-bit versions of Windows (no inline hooks are used, only modifications to driver object structures are performed) and monitors IRP, FastIo, AddDevice, DriverUnload and StartIo requests.
 - `Idaemu <https://github.com/36hours/idaemu>`_ - Is an IDA Pro Plugin, use for emulating code in IDA Pro.
@@ -1149,6 +1142,8 @@ Security
 Asset Management
 ----------------
 
+- `Cartography <https://github.com/lyft/cartography>`_ - A Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.
+
 Cloud Security
 --------------
 
@@ -1165,8 +1160,7 @@ Cloud Security
 - `Security Monkey <https://github.com/Netflix/security_monkey>`_ - Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 - `SyntheticSun <https://github.com/jonrau1/SyntheticSun>`_ - A defense-in-depth security automation and monitoring framework which utilizes threat intelligence, machine learning, managed AWS security services and, serverless technologies to continuously prevent, detect and respond to threats.
 - `ThreatMapper <https://github.com/deepfence/ThreatMapper>`_ - Hunts for threats in your production platforms, and ranks these threats based on their risk-of-exploit. It uncovers vulnerable software components, exposed secrets and deviations from good security practice.
-- `Varna <https://github.com/endgameinc/varna>`_ - Quick & Cheap AWS CloudTrail Monitoring with Event Query Language (EQL)
-Resources
+- `Varna <https://github.com/endgameinc/varna>`_ - Quick & Cheap AWS CloudTrail Monitoring with Event Query Language (EQL) Resources
 - `s3cr3t <https://github.com/axl89/s3cr3t>`_ - Serve files securely from an S3 bucket with expiring links and other restrictions.
 
 DevOps
@@ -1205,7 +1199,7 @@ Network Security
 Orchestration
 -------------
 
-- `EmailScanner <https://github.com/ag-michael/EmailScanner>`_ - An integration application in python that uses `exchangelib` to process mail items in Microsoft exchange.
+- `EmailScanner <https://github.com/ag-michael/EmailScanner>`_ - An integration application in python that uses \`exchangelib\` to process mail items in Microsoft exchange.
 - `Stoq <https://stoq.punchcyber.com/>`_ - An open source framework for enterprise level automated analysis.
 
 Phishing
@@ -1225,7 +1219,7 @@ Privacy
 - `Nipe <https://github.com/GouveaHeitor/nipe>`_ - A script to make Tor Network your default gateway.
 - `Rayhunter <https://github.com/EFForg/rayhunter>`_ - Rust tool to detect cell site simulators on an orbic mobile hotspot
 - `SecureDrop <https://freedom.press/securedrop>`_ - Open-source whistleblower submission system that media organizations can use to securely accept documents from and communicate with anonymous sources.
-- `Sshuttle <https://github.com/sshuttle/sshuttle>`_ - Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling. 
+- `Sshuttle <https://github.com/sshuttle/sshuttle>`_ - Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
 - `Tomb <https://github.com/dyne/Tomb>`_ - A minimalistic commandline tool to manage encrypted volumes aka The Crypto Undertaker.
 - `Tor <https://www.torproject.org>`_ - The free software for enabling onion routing online anonymity.
 - `Toriptables2 <https://github.com/ruped24/toriptables2>`_ - A python script alternative to Nipe. Makes Tor Network your default gateway.
