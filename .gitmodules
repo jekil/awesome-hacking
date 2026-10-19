@@ -2644,6 +2644,9 @@
 [submodule "Security/Privacy/rayhunter"]
 	path = Security/Privacy/rayhunter
 	url = https://github.com/EFForg/rayhunter.git
+[submodule "Intelligence/DomScan"]
+	path = Intelligence/DomScan
+	url = https://github.com/estevecastells/domscan-mcp.git
 [submodule "Forensics/Incident Response/velociraptor"]
 	path = Forensics/Incident Response/velociraptor
 	url = https://github.com/Velocidex/velociraptor.git
