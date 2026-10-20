@@ -598,9 +598,6 @@
 [submodule "Malware/Static Analysis/apkinspector"]
 	path = Malware/Static Analysis/apkinspector
 	url = https://github.com/honeynet/apkinspector.git
-[submodule "Malware/Static Analysis/droidlegacy"]
-	path = Malware/Static Analysis/droidlegacy
-	url = https://bitbucket.org/srl/droidlegacy.git
 [submodule "Malware/Static Analysis/Argus-SAF"]
 	path = Malware/Static Analysis/Argus-SAF
 	url = https://github.com/arguslab/Argus-SAF.git
@@ -1153,9 +1150,6 @@
 [submodule "Security/Cloud Security/security_monkey"]
 	path = Security/Cloud Security/security_monkey
 	url = https://github.com/Netflix/security_monkey.git
-[submodule "Malware/Ops/klara"]
-	path = Malware/Ops/klara
-	url = https://github.com/KasperskyLab/klara.git
 [submodule "Malware/Ops/kraken"]
 	path = Malware/Ops/kraken
 	url = https://github.com/botherder/kraken.git
@@ -1666,9 +1660,6 @@
 [submodule "Reverse Engineering/SimplifyGraph"]
 	path = Reverse Engineering/SimplifyGraph
 	url = https://github.com/fireeye/SimplifyGraph.git
-[submodule "Social Engineering/Harvester/email-enum"]
-	path = Social Engineering/Harvester/email-enum
-	url = https://github.com/fuckup1337/email-enum
 [submodule "Reverse Engineering/granary"]
 	path = Reverse Engineering/granary
 	url = https://github.com/Granary/granary.git
@@ -2134,9 +2125,6 @@
 [submodule "Forensics/File Forensics/TVS_extractor"]
 	path = Forensics/File Forensics/TVS_extractor
 	url = https://github.com/ITLivLab/TVS_extractor.git
-[submodule "Penetration Testing/Web/Autowasp"]
-	path = Penetration Testing/Web/Autowasp
-	url = https://github.com/GovTech-CSG/Autowasp.git
 [submodule "Penetration Testing/Post Exploitation/MicroBackdoor"]
 	path = Penetration Testing/Post Exploitation/MicroBackdoor
 	url = https://github.com/Cr4sh/MicroBackdoor.git

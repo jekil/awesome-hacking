@@ -379,7 +379,6 @@ Ops
 - `Hidden <https://github.com/JKornev/hidden>`_ - Windows driver with usermode interface which can hide objects of file-system and registry, protect processes and etc.
 - `ImaginaryC2 <https://github.com/felixweyne/imaginaryC2>`_ - A python tool which aims to help in the behavioral (network) analysis of malware. Imaginary C2 hosts a HTTP server which captures HTTP requests towards selectively chosen domains/IPs. Additionally, the tool aims to make it easy to replay captured Command-and-Control responses/served payloads.
 - `Irma <https://github.com/quarkslab/irma>`_ - IRMA is an asynchronous & customizable analysis system for suspicious files.
-- `KLara <https://github.com/KasperskyLab/klara>`_ - A project is aimed at helping Threat Intelligence researchers hunt for new malware using Yara.
 - `Kraken <https://github.com/botherder/kraken>`_ - Cross-platform Yara scanner written in Go.
 - `Malboxes <https://github.com/GoSecure/malboxes>`_ - Builds malware analysis Windows VMs so that you don't have to.
 - `Mquery <https://github.com/CERT-Polska/mquery>`_ - YARA malware query accelerator (web frontend).
@@ -424,7 +423,6 @@ Static Analysis
 - `CAPA <https://github.com/fireeye/capa>`_ - The FLARE team's open-source tool to identify capabilities in executable files.
 - `CFGScanDroid <https://github.com/douggard/CFGScanDroid>`_ - Control Flow Graph Scanning for Android.
 - `ConDroid <https://github.com/JulianSchuette/ConDroid>`_ - Symbolic/concolic execution of Android apps.
-- `DroidLegacy <https://bitbucket.org/srl/droidlegacy>`_ - Static analysis scripts.
 - `FSquaDRA <https://github.com/zyrikby/FSquaDRA>`_ - Fast detection of repackaged Android applications based on the comparison of resource files included into the package.
 - `Floss <https://github.com/fireeye/flare-floss>`_ - FireEye Labs Obfuscated String Solver. Automatically extract obfuscated strings from malware.
 - `Inspeckage <https://github.com/ac-pm/Inspeckage>`_ - Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more.
@@ -926,7 +924,6 @@ Web
 
 - `Arachni <http://www.arachni-scanner.com>`_ - Web Application Security Scanner Framework.
 - `Argumentinjectionhammer <https://github.com/nccgroup/argumentinjectionhammer>`_ - A Burp Extension designed to identify argument injection vulnerabilities.
-- `Autowasp <https://github.com/GovTech-CSG/Autowasp>`_ - A Burp Suite extension that integrates Burp issues logging, with OWASP Web Security Testing Guide (WSTG), to provide a streamlined web security testing flow for the modern-day penetration tester! This tool will guide new penetration testers to understand the best practices of web application security and automate OWASP WSTG checks.
 - `BlackBox Protobuf Burp Extension <https://github.com/nccgroup/blackboxprotobuf>`_ - A Burp Suite extension for decoding and modifying arbitrary protobuf messages without the protobuf type definition.
 - `BlindElephant <http://blindelephant.sourceforge.net>`_ - Web Application Fingerprinter.
 - `Brosec <https://github.com/gabemarshall/Brosec>`_ - An interactive reference tool to help security professionals utilize useful payloads and commands.
@@ -1237,7 +1234,6 @@ Harvester
 
 - `Creepy <http://www.geocreepy.com>`_ - A geolocation OSINT tool.
 - `Datasploit <https://github.com/dvopsway/datasploit>`_ - A tool to perform various OSINT techniques, aggregate all the raw data, visualise it on a dashboard, and facilitate alerting and monitoring on the data.
-- `Email-enum <https://github.com/fuckup1337/email-enum>`_ - Searches mainstream websites and tells you if an email is registered.
 - `Github-dorks <https://github.com/techgaun/github-dorks>`_ - CLI tool to scan github repos/organizations for potential sensitive information leak.
 - `Maltego <https://www.paterva.com>`_ - Proprietary software for open source intelligence and forensics, from Paterva.
 - `Metagoofil <https://github.com/laramies/metagoofil>`_ - Metadata harvester.
