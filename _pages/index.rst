@@ -275,6 +275,7 @@ Dynamic Analysis
 - `DRAKVUF Sandbox <https://github.com/CERT-Polska/drakvuf-sandbox>`_ - DRAKVUF Sandbox is an automated black-box malware analysis system with DRAKVUF engine under the hood, which does not require an agent on guest OS.
 - `DroidBox <https://github.com/pjlantz/droidbox>`_ - Dynamic analysis of Android apps.
 - `DroidDetective <https://github.com/user1342/DroidDetective>`_ - A Python tool for analysing Android applications (APKs) for potential malware related behaviour and configurations. When provided with a path to an application (APK file) Droid Detective will make a prediction (using it's ML model) of if the application is malicious.
+- `fnprint <https://github.com/1rhino2/fnprint>`_ - Behavioral function fingerprinting; names functions in stripped ELF binaries and patch-diffs vuln vs patched builds by microexecution, run in a seccomp-jailed worker.
 - `Hooker <https://github.com/AndroidHooker/hooker>`_ - An opensource project for dynamic analyses of Android applications.
 - `Jsunpack-n <https://github.com/urule99/jsunpack-n>`_ - Emulates browser functionality when visiting a URL.
 - `LiSa <https://github.com/danieluhricek/LiSa>`_ - Sandbox for automated Linux malware analysis.
