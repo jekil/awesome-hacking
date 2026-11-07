@@ -631,9 +631,6 @@
 [submodule "Pentration Testing/Mobile/AndroBugs_Framework"]
 	path = Penetration Testing/Mobile/AndroBugs_Framework
 	url = https://github.com/AndroBugs/AndroBugs_Framework.git
-[submodule "Pentration Testing/Mobile/Mobile-Security-Framework-MobSF"]
-	path = Penetration Testing/Mobile/Mobile-Security-Framework-MobSF
-	url = https://github.com/ajinabraham/Mobile-Security-Framework-MobSF.git
 [submodule "Malware/Dynamic Analysis/droidbox"]
 	path = Malware/Dynamic Analysis/droidbox
 	url = https://github.com/pjlantz/droidbox.git
@@ -1237,9 +1234,6 @@
 [submodule "Pentration Testing/Web/gobuster"]
 	path = Penetration Testing/Web/gobuster
 	url = https://github.com/OJ/gobuster.git
-[submodule "Pentration Testing/Exploiting/SharpShooter"]
-	path = Penetration Testing/Exploiting/SharpShooter
-	url = https://github.com/mdsecactivebreach/SharpShooter.git
 [submodule "Pentration Testing/Post Exploitation/nopowershell"]
 	path = Penetration Testing/Post Exploitation/nopowershell
 	url = https://github.com/bitsadmin/nopowershell.git
@@ -2710,3 +2704,6 @@
 [submodule "Reverse Engineering/angr"]
 	path = Reverse Engineering/angr
 	url = https://github.com/angr/angr.git
+[submodule "Penetration Testing/Mobile/Mobile-Security-Framework-MobSF"]
+	path = Penetration Testing/Mobile/Mobile-Security-Framework-MobSF
+	url = https://github.com/MobSF/Mobile-Security-Framework-MobSF.git
