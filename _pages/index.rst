@@ -895,6 +895,7 @@ Tunneling and Exfiltration
 Vulnerability Scanning
 ----------------------
 
+- `cvENGINE <https://github.com/hevnsnt/CVEngine>`_ - Finds your internet-facing hosts, fingerprints what they run, and shows which new CVEs actually hit them, with read-only proof.
 - `Flan <https://github.com/cloudflare/flan>`_ - A pretty sweet vulnerability scanner.
 - `Jira-Scan <https://github.com/random-robbie/Jira-Scan>`_ - Jira scanner for CVE-2017-9506.
 - `Log4jscanlinux <https://github.com/Qualys/log4jscanlinux>`_ - This shell script intends to collect necessary details and help detect CVE-2021-44228 and CVE-2021-45046 vulnerabilities reported in Log4j.
