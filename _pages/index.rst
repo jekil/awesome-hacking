@@ -308,6 +308,7 @@ Web Applications
 - `Django-admin-honeypot <https://github.com/dmpayton/django-admin-honeypot>`_ - A fake Django admin login screen to log and notify admins of attempted unauthorized access.
 - `Glastopf <https://github.com/mushorg/glastopf>`_ - Web Application Honeypot.
 - `HonnyPotter <https://github.com/MartinIngesen/HonnyPotter>`_ - A WordPress login honeypot for collection and analysis of failed login attempts.
+- `Krawl <https://github.com/BlessedRebuS/Krawl>`_ - Web honeypot that serves fake login pages, credentials and canary tokens to attackers and crawlers.
 - `Log4Pot <https://github.com/thomaspatzke/Log4Pot>`_ - A honeypot for the Log4Shell vulnerability (CVE-2021-44228).
 - `Nodepot <https://github.com/schmalle/Nodepot>`_ - A nodejs web application honeypot.
 - `Phpmyadmin_honeypot <https://github.com/gfoss/phpmyadmin_honeypot>`_ - A simple and effective phpMyAdmin honeypot.
